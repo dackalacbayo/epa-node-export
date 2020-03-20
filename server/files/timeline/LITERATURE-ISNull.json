@@ -1,0 +1,4762 @@
+[
+	{
+		"timeline_id": 3195,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1905.1 Pensionado works",
+		"text_description": "<p>Apr: The first literary works in English of the pensionado are published in the <em>Filipino Students&rsquo; Magazine</em>.</p>",
+		"category": 6,
+		"start_month": 4,
+		"start_day": 0,
+		"start_year": 1905,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1905",
+		"photo_id": null,
+		"url": "3195",
+		"article_id": 3195,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 4, "day": 0, "year": 1905 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3239,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1951.1 Stegner",
+		"text_description": "<p>Wallace Stegner visits the Philippines.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1951,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1951",
+		"photo_id": null,
+		"url": "3239",
+		"article_id": 3239,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1951 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3273,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1980 Sea Serpent",
+		"text_description": "<p><em>Sea Serpent</em>, the first book of poems by Alfred Yuson, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1980,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3273",
+		"article_id": 3273,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1980 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2676,
+		"media_caption": "<p>Francisco Arcellana</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1990.2 Arcellana, National Artist ",
+		"text_description": "<p>Francisco Arcellana is declared National Artist.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1990,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1990",
+		"photo_id": null,
+		"url": "2676",
+		"article_id": 2676,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1990 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1688,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 500 Oral Indigenous Literature",
+		"text_description": "<p>Oral and indigenous literature of the peoples of the Philippines are created and passed on. This includes riddles, proverbs, tales, epics, and songs of different types.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 500,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "ca. 500",
+		"photo_id": null,
+		"url": "1688",
+		"article_id": 1688,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 500 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1683,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 900 Indegenous writing",
+		"text_description": "<p>Indigenous ways of writing flourish.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 900,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1683",
+		"article_id": 1683,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 900 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3205,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1920 Philippines Herald",
+		"text_description": "<p>The newspaper <em>The Philippines Herald</em> is founded.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1920,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3205",
+		"article_id": 3205,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1920 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1686,
+		"media_caption": "<p>Book cover of Longitude by Carlos Cortes</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from UP Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1521 1st contact, Longitud",
+		"text_description": "<p>The first contact between Spain and what would be the Philippines will inspire literary works such as <em>Longitud</em> by Carlos Cortes and the young adult novel Enrique El Negro by Carla Pacis. (Photo from UP Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1521,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1686",
+		"article_id": 1686,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1521 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1690,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1600 Biag ti Lam-ang",
+		"text_description": "<p>Pedro Bucaneg transcribes <em>Biag ti Lam-ang</em>, the Ilocano epic.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1600,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "ca. 1600",
+		"photo_id": null,
+		"url": "1690",
+		"article_id": 1690,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1600 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3185,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1605 May Bagyo Ma't May Rilim",
+		"text_description": "<p>&ldquo;May Bagyo Ma&rsquo;t Rilim,&rdquo; the earliest published poem written by a native, is included in <em>Memoria de la Vida Cristiana en Lengua Tagala</em>, evincing the Christianization of the native mind.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1605,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3185",
+		"article_id": 3185,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1605 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3188,
+		"media_caption": "<p>Our Lady of La Naval de Manila, Santo Domingo Church, Quezon City, with aureola, corona, rostrillo, and frontal of precious metals</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo courtesy of Santo Domingo Church Library</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1646 La Naval ",
+		"text_description": "<p>Nick Joaquin will commemorate the historic event in his essay &ldquo;La Naval de Manila&rdquo; and in the poem &quot;The Ballad of the Five Battles.&quot;</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1646,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3188",
+		"article_id": 3188,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1646 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3189,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1852 El Libro de la Vida",
+		"text_description": "<p>Aniceto de la Merced writes the third Filipino pasyon, <em>El Libro de la Vida</em>.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1852,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3189",
+		"article_id": 3189,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1852 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3218,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1929 Mga Bungsod nga Guipangguba",
+		"text_description": "<p>Cebuano writer Sulpicio Osorio publishes an anticlerical novel, <em>Mga Bungsod nga Guipangguba</em>.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1929,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3218",
+		"article_id": 3218,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1929 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1352,
+		"media_caption": "<p>Consejo de los Dioses was a play written in Spanish by José Rizal, first published in 1880 in Manila. 1918. Jose Rizal, Adaptation by Lope Blas Hucapte</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Rafael Minuesa</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1879 Liceo Artistico-Literario",
+		"text_description": "<p>Liceo Artistico-Literario, a short-lived literary society, sponsors a literary contest. Rizal&rsquo;s &ldquo;A la Juventud Filipina&rdquo; and &ldquo;El Consejo de los Dioses&rdquo; receive prizes in 1879 and 1880, respectively.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1879,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1352",
+		"article_id": 1352,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1879 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1357,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1889.2 Hibik nang Filipinas",
+		"text_description": "<p>&ldquo;Hibik nang Filipinas sa Inang Espa&ntilde;a&rdquo; by Hermenegildo Flores and &ldquo;Sagot nang Espa&ntilde;a sa Hibik nang Filipinas&rdquo; by Marcelo H. del Pilar will appear together. The poems show the growing discontent among Filipinos with Spanish rule.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1889,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1889",
+		"photo_id": null,
+		"url": "1357",
+		"article_id": 1357,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1889 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1359,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1890 Sobre la Indolencia",
+		"text_description": "<p>Jul 15: Rizal&rsquo;s essay &ldquo;Sobre la Indolencia de los Filipinos&rdquo; is published in <em>La Solidaridad</em>.</p>",
+		"category": 6,
+		"start_month": 7,
+		"start_day": 15,
+		"start_year": 1890,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1359",
+		"article_id": 1359,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 15, "year": 1890 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1360,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1891.1 Filipinas dentro de Cien Años",
+		"text_description": "<p>Sep 30: Jose Rizal&rsquo;s essay &ldquo;Filipinas dentro de Cien A&ntilde;os&rdquo; appears in La Solidaridad.</p>",
+		"category": 6,
+		"start_month": 9,
+		"start_day": 30,
+		"start_year": 1891,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1891",
+		"photo_id": null,
+		"url": "1360",
+		"article_id": 1360,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 30, "year": 1891 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1146,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1896 Pag-ibig sa Tinubuang Lupa",
+		"text_description": "<p>Katipunan supremo Andres Bonifacio publishes &quot;Pag-ibig sa Tinubuang Lupa&quot; and &quot;Ang Dapat Mabatid ng mga Tagalog&quot; in <em>Kalayaan</em>.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1896,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1146",
+		"article_id": 1146,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1896 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1147,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1896.1 Liwanag at Dilim",
+		"text_description": "<p><em>Liwanag at Dilim</em>, a collection of aphoristic, lyrical essays by Emilio Jacinto on notions of liberty and equality, is published in <em>Kalayaan</em>.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1896,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1896",
+		"photo_id": null,
+		"url": "1147",
+		"article_id": 1147,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1896 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1148,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1896.2 Mi Ultimo Adios",
+		"text_description": "<p>Dec 29: Jose Rizal writes his last poem &quot;Mi Ultimo Adios.&quot;</p>",
+		"category": 6,
+		"start_month": 12,
+		"start_day": 29,
+		"start_year": 1896,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1896",
+		"photo_id": null,
+		"url": "1148",
+		"article_id": 1148,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 12, "day": 29, "year": 1896 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1362,
+		"media_caption": "<p>September 18, 1899 issue of the La Independencia</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1898.1 Filipinas, Jose Palma",
+		"text_description": "<p>&ldquo;Filipinas&rdquo; by Jose Palma, which provided the lyrics for the national anthem &ldquo;Himno Nacional Filipinas,&rdquo; and &ldquo;Al Heroe Nacional&rdquo; by Cecilio Apostol are published in <em>La Independencia</em>, to commemorate the death of Jose Rizal. Other nationalistic pieces by Antonio Luna, Manuel Guerrero, and others appear in the newspaper.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1898,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1898",
+		"photo_id": null,
+		"url": "1362",
+		"article_id": 1362,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1898 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1363,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1899 Ang Cababalaghan",
+		"text_description": "<p><em>Ang Cababalaghan ni P. Bravo</em> by Gabriel Beato Francisco is serialized, the first Tagalog novel.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1899,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1363",
+		"article_id": 1363,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1899 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3196,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1907.3 Maragtas",
+		"text_description": "<p>Iloilo historian Pedro Monteclaro&rsquo;s <em>Maragtas</em>, which purports to be a record of events in 13th-century Panay, is published. It inspires many, short stories, poems, and essays.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1907,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1907",
+		"photo_id": null,
+		"url": "3196",
+		"article_id": 3196,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1907 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3198,
+		"media_caption": "<p>Norberto Romualdez</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1909 Sanghiran san Binisaya",
+		"text_description": "<p><em>Sanghiran san Binisaya</em>, whose members include Jaime de Veyra, Iluminado Lucente, and Eduardo Makabenta, is founded by Norberto Romualdez (in photo), heralding the rise in vernacular publications in Leyte and Samar.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1909,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3198",
+		"article_id": 3198,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1909 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3200,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1910 Elias",
+		"text_description": "<p>&ldquo;Elias&rdquo; by Rosauro Almario, generally believed to be the first Tagalog short story, is published in Mithi.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1910,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3200",
+		"article_id": 3200,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1910 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3202,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1911.1 Efemerides Filipinas",
+		"text_description": "<p>Mar 16: The first in a series of articles on historical events with social or patriotic interest, &quot;Efemerides Filipinas,&quot; is serialized in <em>El Ideal</em>, ostensibly to help in the formation of a Filipino consciousness.</p>",
+		"category": 6,
+		"start_month": 3,
+		"start_day": 16,
+		"start_year": 1911,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1911",
+		"photo_id": null,
+		"url": "3202",
+		"article_id": 3202,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 3, "day": 16, "year": 1911 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3203,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1913 Makinaugalingon",
+		"text_description": "<p>The Sunday literary supplement (begun in 1929) of <em>Makinaugalingon</em> will carry the writings of Miguela Montelibano and the &ldquo;trinidad poetica Ilonga&rdquo;: Flavio Zaragoza Cano, Delfin Gumban, and Serapion Torre.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1913,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3203",
+		"article_id": 3203,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1913 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3204,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1914 Kung Magmahal ang Makata",
+		"text_description": "<p>Deogracias Rosario publishes &ldquo;Kung Magmahal ang Makata,&rdquo; considered by some as the first &ldquo;munting kasaysayan&rdquo; or short story in <em>Buntot Pague</em>.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1914,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3204",
+		"article_id": 3204,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1914 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3207,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1922.1 Premio Zobel",
+		"text_description": "<p>Fundacion Zobel hands out the first Premio Zobel to Guillermo Gomez Windham for <em>La Carrera de Candida</em>, through whose protagonist&rsquo;s life he depicts the &ldquo;moral harm&rdquo; caused by Americanization.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1922,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1922",
+		"photo_id": null,
+		"url": "3207",
+		"article_id": 3207,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1922 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3210,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1923 Ing Capalaran",
+		"text_description": "<p>Zoilo Galang&rsquo;s Kapampangan novel <em>Ing Capalaran</em>, which is distinguished for its use of Spanish and English words and sayings, Tagalog idioms, and humor, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1923,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3210",
+		"article_id": 3210,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1923 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3211,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1924 Filipino Poetry",
+		"text_description": "<p><em>Filipino Poetry</em>, the first anthology of Filipino poems in English, edited by Luis Dato, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1924,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3211",
+		"article_id": 3211,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1924 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3214,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1925 The Tribune",
+		"text_description": "<p>The weekly magazine supplement of <em>The Tribune</em> publishes short stories by Filipino writers and will later sponsor a short story contest in 1927.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1925,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3214",
+		"article_id": 3214,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1925 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3215,
+		"media_caption": "<p>Photo of Paz Marquez-Benitez from the book cover of Paz Marquez Benitez: One woman's life, letters, and writings by Virginia Benitez Licuanan</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ateneo de Manila University Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1925.3 Dead Stars ",
+		"text_description": "<p>&ldquo;Dead Stars&rdquo; by Paz Marquez-Benitez, considered the first modern Philippine short story in English, appears in <em>The Philippines Herald</em>.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1925,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1925",
+		"photo_id": null,
+		"url": "3215",
+		"article_id": 3215,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1925 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3216,
+		"media_caption": "<p>Book cover of Paz Latorena's Desire and Other Stories</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from University of Santo Tomas Publishing House</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1927.1 The Small Key",
+		"text_description": "<p>&ldquo;The Small Key&rdquo; by Paz Latorena appears in <em>The Philippines Herald</em>. This and other stories of hers that explore the female psyche, like &ldquo;Desire&rdquo; and &ldquo;Sunset&rdquo; will be collected in <em>Desire and Other Stories</em> in 2000. (Photo from University of Santo Tomas Publishing House)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1927,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1927",
+		"photo_id": null,
+		"url": "3216",
+		"article_id": 3216,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1927 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3217,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1927.2 Philippine Prose and Poetry first edition",
+		"text_description": "<p>The first edition of <em>Philippine Prose and Poetry</em>, the first high school textbook to use only Filipino writings, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1927,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1927",
+		"photo_id": null,
+		"url": "3217",
+		"article_id": 3217,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1927 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3220,
+		"media_caption": "<p>Book Cover of Harvest and Other Stories</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from De La Salle University Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1930.1 Paras-Sulit's Harvest",
+		"text_description": "<p><em>The Philippines Herald</em> publishes Loreto Paras-Sulit's short story &ldquo;Harvest,&rdquo; known for its classic opening line: \"He first saw her in his brother's eyes.\" Paras-Sulit's stories will be collected in <em>Harvest and Other Stories</em> in 2001. (Photo from De La Salle University Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1930,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1930",
+		"photo_id": null,
+		"url": "3220",
+		"article_id": 3220,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1930 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3221,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1932 Ako'y Mayroong Isang Ibon",
+		"text_description": "<p>Deogracias Rosario&rsquo;s &ldquo;Ako&rsquo;y Mayroong Isang Ibon,&rdquo; regarded as the first &ldquo;plotless&rdquo; Tagalog short story, is published. His stories will be collected in <em>Deogracias A. Rosario 1894-1936</em> in 1995.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1932,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3221",
+		"article_id": 3221,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1932 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3222,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1933 An Parabareta",
+		"text_description": "<p><em>An Parabareta</em>, a weekly Bikol newspaper carrying essays, poems, and stories, begins publication.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1933,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3222",
+		"article_id": 3222,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1933 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3223,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1934.1 Silew",
+		"text_description": "<p>The magazine <em>Silew</em> is founded. Until 1943, <em>Silew</em> becomes the main publication venue of Pangasinan literature. Among its contributors will be Maria Magsano. It is followed by<em> Sandi&rsquo;y Silew</em> in 1943.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1934,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1934",
+		"photo_id": null,
+		"url": "3223",
+		"article_id": 3223,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1934 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3225,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1935 Kapisanang Panitikan",
+		"text_description": "<p>Rebellious group of young Tagalog writers led by Clodualdo del Mundo Sr and Alejandro G. Abadilla founds Kapisanang Panitikan, or Panitikan, seeking to introduce modernism in Tagalog poetry. They start publication of a literary magazine called<em> Panitikan</em>.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1935,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3225",
+		"article_id": 3225,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1935 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3280,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1984.2 Vaya con Virgo",
+		"text_description": "<p>&ldquo;Vaya con Virgo&rdquo; by Wilfrido D. Nolledo wins the Palanca Grand Prize for the Novel in English.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1984,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1984",
+		"photo_id": null,
+		"url": "3280",
+		"article_id": 3280,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1984 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1150,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1940 Ako ang Daigdig",
+		"text_description": "<p>With its celebration of the individual and use of free verse, the poem &quot;Ako ang Daigdig&quot; by Alejandro Abadilla breaks new ground in Tagalog poetry.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1940,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1150",
+		"article_id": 1150,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1940 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2299,
+		"media_caption": "<p>Jesus Balmori</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1940.4 Commonwealth Literary Awards",
+		"text_description": "<p>The Commonwealth Literary Awards, the first state-sponsored literary contest, are given. Apart from Manuel Arguilla&rsquo;s story collection and Salvador P. Lopez&rsquo;s essay collection, other winners include &ldquo;Like the Molave&rdquo; by R. Zulueta da Costa, and &ldquo;Mi Casa de Nipa&rdquo; by Jesus Balmori (in photo). Both will be published in 1941.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1940,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1940",
+		"photo_id": null,
+		"url": "2299",
+		"article_id": 2299,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1940 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3227,
+		"media_caption": "<p>Hemingway posing for a dust jacket photo by Lloyd Arnold for the first edition of &quot;For Whom the Bell Tolls&quot:, at the Sun Valley Lodge, Idaho, late 1939</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Lloyd Arnold</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1941 Hemingway",
+		"text_description": "<p>Ernest Hemingway visits the Philippines.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1941,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3227",
+		"article_id": 3227,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1941 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2304,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1943.1 Pillars and Philippine Review",
+		"text_description": "<p>The magazines <em>Pillars</em> and <em>Philippine Review</em> are founded, affording writers in English an outlet for their creations.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1943,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1943",
+		"photo_id": null,
+		"url": "2304",
+		"article_id": 2304,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1943 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1157,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1972.1 Shapes of Silence",
+		"text_description": "<p>Emmanuel Torres&rsquo;s <em>Shapes of Silence</em>, which includes &ldquo;Another Invitation to the Pope to Visit Tondo,&rdquo; is published. It reflects the shift to more socially conscious and even politically critical writing among many Filipino writers during the martial law period.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1972,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1972",
+		"photo_id": null,
+		"url": "1157",
+		"article_id": 1157,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1972 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3231,
+		"media_caption": "<p>Photo of Ramon Muzones</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1948 Sumakwelan",
+		"text_description": "<p>Staffers of Ilonggo weekly magazine <em>Kasanag</em> form Sumakwelan, seeking to unify all Ilonggo writers and to enrich the Ilonggo language, with Ramon Munzones (in photo) as its first president.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1948,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3231",
+		"article_id": 3231,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1948 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3233,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1949.1 Ang Maikling Kuwentong Tagalog",
+		"text_description": "<p><em>Ang Maikling Kuwentong Tagalog 1886-1948</em>, edited by Teodoro A. Agoncillo, is published, containing some of the best writing done in Tagalog during the first half of the 20th century.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1949,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1949",
+		"photo_id": null,
+		"url": "3233",
+		"article_id": 3233,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1949 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2322,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1950 First Palanca ",
+		"text_description": "<p>The first Carlos Palanca Memorial Awards for Literature is held. It is limited to the short story in English and in Tagalog. The winners are &ldquo;Clay&rdquo; by Juan Gatbonton , &ldquo;The Flowers of May&rdquo; by Francisco Arcellana, and &ldquo;The Black Monkey&rdquo; by Edith Tiempo.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1950,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2322",
+		"article_id": 2322,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1950 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3235,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1950.1 Samban Agnabenegan",
+		"text_description": "<p>The Pangasinan novel <em>Samban Agnabenegan</em> by Maria Magsano, which follows a marriage wrecked by infidelity, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1950,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1950",
+		"photo_id": null,
+		"url": "3235",
+		"article_id": 3235,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1950 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3237,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1950.2 Mga Piling Sanaysay",
+		"text_description": "<p>The first compilation of Tagalog essays, <em>Mga Piling Sanaysay</em>, edited by Alejandro G. Abadilla, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1950,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1950",
+		"photo_id": null,
+		"url": "3237",
+		"article_id": 3237,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1950 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2199,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1950.3 Darna ",
+		"text_description": "<p><em>Darna</em> appears in <em>Pilipino Komiks</em>. It is one of many comic book creations of Mars Ravelo, which include <em>Dyesebel</em>, <em>Captain Barbell</em>, and <em>Lastikman</em>. All will be adapted into successful movies and television shows.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1950,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1950",
+		"photo_id": null,
+		"url": "2199",
+		"article_id": 2199,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1950 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2328,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1954 Six Filipino Poets",
+		"text_description": "<p><em>Six Filipino Poets</em>, edited by Leonard Casper, is published, evincing the ascendancy of formalism in Philippine poetry in English. Represented are Amador T. Daguio, Dominador I. Ilio, Oscar de Zuniga, Carlos A. Angeles, Edith L. Tiempo, and Ricaredo Demetillo.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1954,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2328",
+		"article_id": 2328,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1954 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3162,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1955.1 Sumcad's Sakada",
+		"text_description": "<p>Gregorio Sumcad&rsquo;s social realist novel <em>Sakada</em>, noted for its accurate depiction of a migrant sugar worker&rsquo;s life, begins serialization in <em>Hiligaynon</em>.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1955,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1955",
+		"photo_id": null,
+		"url": "3162",
+		"article_id": 3162,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1955 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3243,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1955.3 Akademyang Bikol ",
+		"text_description": "<p>May 21: Akademyang Bikol, an organization intended to develop, standardize, and promote the Bikol language, is founded in Naga City.</p>",
+		"category": 6,
+		"start_month": 5,
+		"start_day": 21,
+		"start_year": 1955,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1955",
+		"photo_id": null,
+		"url": "3243",
+		"article_id": 3243,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 21, "year": 1955 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2333,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1956 Dagiti Mariing iti Parbangon",
+		"text_description": "<p><em>Bannawag</em> begins the serialization of Constante Casabar&rsquo;s Ilocano novel <em>Dagiti Mariing Iti Parbangon</em>, a love story set in crime-ridden 1950s Ilocos and a social commentary on Ilocano politics.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1956,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2333",
+		"article_id": 2333,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1956 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3245,
+		"media_caption": "<p>Author William Faulkner in 1954. 11 December 1954</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Library of Congress, Prints and Photographs Division, Van Vechten Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1956.1 Faulkner",
+		"text_description": "<p>William Faulkner visits the Philippines.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1956,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1956",
+		"photo_id": null,
+		"url": "3245",
+		"article_id": 3245,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1956 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3246,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1956.2 LUDABI",
+		"text_description": "<p>Aug 25: Lubas sa Dagang Bisaya (LUDABI), the largest organization of writers in Cebuano, is established in Cebu City.</p>",
+		"category": 6,
+		"start_month": 8,
+		"start_day": 25,
+		"start_year": 1956,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1956",
+		"photo_id": null,
+		"url": "3246",
+		"article_id": 3246,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 8, "day": 25, "year": 1956 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2359,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1959.1 Bagong Dugo by Arceo",
+		"text_description": "<p><em>Liwayway</em> starts the column &ldquo;Bagong Dugo,&rdquo; edited by Liwayway Arceo (in photo), featuring short stories by new writers, advancing the development of modern Tagalog fiction. The column will last until Jan 1963.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1959,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1959",
+		"photo_id": null,
+		"url": "2359",
+		"article_id": 2359,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1959 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2363,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1959.2 Of Cocks and Kites",
+		"text_description": "<p><em>Of Cocks and Kites</em>, a collection of humorous stories by Alejandro Roces, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1959,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1959",
+		"photo_id": null,
+		"url": "2363",
+		"article_id": 2363,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1959 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3247,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1961.1 Bamboo and the Greenwood Tree",
+		"text_description": "<p><em>Bamboo and the Greenwood Tree: Essays on Filipino Literature in English</em> by Miguel A. Bernad, one of the first collections of criticism on Philippine literature in English, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1961,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1961",
+		"photo_id": null,
+		"url": "3247",
+		"article_id": 3247,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1961 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2376,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1962.3 Arcellana's Selected Stories",
+		"text_description": "<p>A number of Francisco Arcellana&rsquo;s stories, including &ldquo;The Mats&rdquo; and &ldquo;Flowers of May,&rdquo; are collected in <em>Selected Stories</em>.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1962,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1962",
+		"photo_id": null,
+		"url": "2376",
+		"article_id": 2376,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1962 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3249,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1962.4 The Pretenders",
+		"text_description": "<p><em>The Pretenders</em>, the first in five-novel Rosales Saga by F. Sionil Jose, chronicling the life of the Samson clan through upheavals in Philippine history, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1962,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1962",
+		"photo_id": null,
+		"url": "3249",
+		"article_id": 3249,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1962 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3250,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1963.1 A Stun of Jewels",
+		"text_description": "<p><em>A Stun of Jewels</em> by Carlos Angeles, the first collection to receive the Palanca award in poetry, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1963,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1963",
+		"photo_id": null,
+		"url": "3250",
+		"article_id": 3250,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1963 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3252,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1965.1 first Bagay poems",
+		"text_description": "<p>Oct: The first Bagay poems, characterized by colloquial language and concrete imagery&mdash;qualities which represent a break from the Balagtas tradition&mdash;appear in the Ateneo de Manila campus journal <em>Heights</em>.</p>",
+		"category": 6,
+		"start_month": 10,
+		"start_day": 0,
+		"start_year": 1965,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1965",
+		"photo_id": null,
+		"url": "3252",
+		"article_id": 3252,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 0, "year": 1965 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3254,
+		"media_caption": "<p>Cover of The Filipinos in the Philippines and Other Essays by Renato Constantino</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1966 Filipinos in the Philippines",
+		"text_description": "<p><em>The Filipinos in the Philippines and Other Essays</em> by nationalist historian Renato Constantino is published. It includes &ldquo;The Miseducation of the Filipino,&rdquo; which blames the teaching of English for the mental colonization by the United States of the Filipino.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1966,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3254",
+		"article_id": 3254,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1966 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3255,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1968.1 Dilim sa Umaga",
+		"text_description": "<p><em>Dilim sa Umaga</em>, a novel by Efren Abueg, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1968,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1968",
+		"photo_id": null,
+		"url": "3255",
+		"article_id": 3255,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1968 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3262,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1969 Adlawan",
+		"text_description": "<p>Twenty Cebuano writers, including Ernesto Lariosa, Temistokles Adlawan, Junne Canizares, Ricardo Patalinjug, and Rene Amper, found Bathalad, a major association of writers in Cebuano.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1969,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3262",
+		"article_id": 3262,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1969 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3264,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1969.3 Kapatid ko ang Aking Ina",
+		"text_description": "<p><em>Kapatid Ko ang Aking Ina</em> by Elena Patron is serialized. With this her first novel, she becomes one of the first women to break into the male-dominated world of the <em>komiks</em>. Gilda Olvidado and Nerissa Cabral will follow in her footsteps.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1969,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1969",
+		"photo_id": null,
+		"url": "3264",
+		"article_id": 3264,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1969 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3266,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1970 Bahandi",
+		"text_description": "<p>The Ilonggo short story anthology <em>Bahandi I: 46 ka Pili nga mga Sugilanon sa Ilonggo</em> is published, the stories therein mostly taken from <em>Hiligaynon</em> between 1960 and 1970.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1970,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3266",
+		"article_id": 3266,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1970 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3267,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1970.2 Maria, ang Iyong Anak",
+		"text_description": "<p>&ldquo;Maria, ang Iyong Anak&rdquo; by Wilfredo Virtusio, about a mother and her activist son during the height of student activism in the late 1960s and early 1970s, is published. Virtusio&rsquo;s collected stories <em>Bilanggo at Iba pang Akda </em>will be published in 1992.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1970,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1970",
+		"photo_id": null,
+		"url": "3267",
+		"article_id": 3267,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1970 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3268,
+		"media_caption": "<p>Book cover of Wilfrido Nolledo's But for the Lovers. 1994 paperback edition published by Dalkey Archive Press</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Dalkey Archive Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1970.3 But for the Lovers",
+		"text_description": "<p>Wilfrido Nolledo publishes <em>But for the Lovers</em>, a tour de force of a novel set during World War II.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1970,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1970",
+		"photo_id": null,
+		"url": "3268",
+		"article_id": 3268,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1970 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3269,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1971 PAKSA",
+		"text_description": "<p>Mar 23: Panulat para sa Kaunlaran ng Sambayanan (PAKSA), which champions national democratic literature for the masses, is officially organized at the Philippine College of Commerce (now Polytechnic University of the Philippines).</p>",
+		"category": 6,
+		"start_month": 3,
+		"start_day": 23,
+		"start_year": 1971,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3269",
+		"article_id": 3269,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 3, "day": 23, "year": 1971 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3270,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1971.2 Radical Tradition in Philippine Literature",
+		"text_description": "<p><em>The Radical Tradition in Philippine Literature</em> by Epifanio San Juan Jr, which engages such figures as Amado V. Hernandez, Carlos Bulosan, Lope K. Santos, and Jose Ma. Sison from a Marxist perspective, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1971,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1971",
+		"photo_id": null,
+		"url": "3270",
+		"article_id": 3270,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1971 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2528,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1974 UMPIL",
+		"text_description": "<p>The Unyon ng mga Manunulat sa Pilipinas (UMPIL) holds its first meeting at the Social Security System Building in Quezon City, with Adrian Cristobal as the organization’s first chairperson.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1974,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2528",
+		"article_id": 2528,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1974 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3271,
+		"media_caption": "<p>Book cover of Philippine Short Stories 1925-1940 edited by Leopoldo Yabes </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from UP Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1975 Yabes' Philippine Short Stories ",
+		"text_description": "<p>The first of Leopoldo Yabes&rsquo;s landmark three-volume anthology <em>Philippine Short Stories</em>, covering the 1920s to the early 1950s, is published. The next two volumes will be published in 1981. Between 2009 and 2014, Gemino Abad will extend the scope of Yabes&rsquo;s anthologies to the 21st century. Photo: Book cover of 2008 edition (UP Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1975,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3271",
+		"article_id": 3271,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1975 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3272,
+		"media_caption": "<p>Book cover of Ulahingan: An Epic of the Southern Philippines by Elena C. Maquiso, Series 1</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Siliman University Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1977 Ulahingan",
+		"text_description": "<p><em>Ulahingan: An Epic of the Southern Philippines</em> by Elena C. Maquiso is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1977,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3272",
+		"article_id": 3272,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1977 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1158,
+		"media_caption": "<p>Book cover of Pasyon and Revolution by Reynaldo Ileto</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ateneo de Manila University Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1979 Pasyon and Revolution",
+		"text_description": "<p><em>Pasyon and Revolution</em> by Reynaldo Ileto, an influential study on the link between the pasyon and the formation of a popular revolutionary consciousness and parallel movements like the Katipunan, is published. (Photo from Ateneo de Manila University Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1979,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1158",
+		"article_id": 1158,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1979 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3274,
+		"media_caption": "<p>Logo of The Manila Critics' Circle</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1981 Manila Critics' Circle",
+		"text_description": "<p>The Manila Critics&rsquo; Circle, responsible for the annual National Book Awards, is founded, giving out the first awards in 1982.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1981,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3274",
+		"article_id": 3274,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1981 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3275,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1981.1 PLAC",
+		"text_description": "<p>The Philippine Literary Arts Council (PLAC) is established.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1981,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1981",
+		"photo_id": null,
+		"url": "3275",
+		"article_id": 3275,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1981 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2550,
+		"media_caption": "<p>Book cover of Walong Dekada ng Makabagong Tulang Pilipino, edited by Virgilio Almario</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Philippine Educators Co., Inc</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1981.2 Walong Dekada ng Makabagong Tulang Pilipino",
+		"text_description": "<p><em>Walong Dekada ng Makabagong Tulang Pilipino</em>, edited by Virgilio Almario, is published, an anthology of poems between 1900 and 1980 by 45 poets. (Photo from Philippine Educators Co., Inc)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1981,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1981",
+		"photo_id": null,
+		"url": "2550",
+		"article_id": 2550,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1981 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3276,
+		"media_caption": "<p>Book cover of Utos ng Hari at Iba pang Kuwento by Jun Cruz Reyes. </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from New Day Publishers</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1981.3 Utos ng Hari",
+		"text_description": "<p>Jun Cruz Reyes publishes his first short story collection, <em>Utos ng Hari at Iba pang Kuwento</em>. The title story, with its colloquialisms and irreverence, has come to epitomize youthful &quot;anti-establishment.&quot; (Photo from New Day Publishers)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1981,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1981",
+		"photo_id": null,
+		"url": "3276",
+		"article_id": 3276,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1981 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3277,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1982 Philippine Folk Literature",
+		"text_description": "<p><em>Philippine Folk Literature</em>, the first in a pioneering series of anthologies of folk literature edited by Damiana Eugenio, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1982,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3277",
+		"article_id": 3277,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1982 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2552,
+		"media_caption": "<p>Photo of Carlos P. Romulo</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Presidential Museum and Library PH</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1982.1 Romulo, National Artist",
+		"text_description": "<p>Carlos P. Romulo is declared National Artist.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1982,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1982",
+		"photo_id": null,
+		"url": "2552",
+		"article_id": 2552,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1982 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3278,
+		"media_caption": "<p>Book cover of Resil Mojares’s Origins and Rise of the Filipino Novel</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from UP Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1983.1 Origins and Rise of the Filipino Novel",
+		"text_description": "<p>Resil Mojares&rsquo;s <em>Origins and Rise of the Filipino Novel</em> is published. (Photo from University of the Philippines Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1983,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1983",
+		"photo_id": null,
+		"url": "3278",
+		"article_id": 3278,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1983 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3279,
+		"media_caption": "<p>Book cover of <em>The Writer and His Milieu</em></p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>from Anvil Publishing Inc.</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1984.1 The Writer and His Milieu",
+		"text_description": "<p><em>The Writer and His Milieu</em>, an oral history of Filipino writers in English by Edilberto N. Alegre and Doreen G. Fernandez, is published. The second volume, <em>Writers and Their Milieu</em>, will be published in 1987. Photo: Book cover of 2013 reprint (Anvil Publishing, Inc)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1984,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1984",
+		"photo_id": null,
+		"url": "3279",
+		"article_id": 3279,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1984 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2200,
+		"media_caption": "<p>Book cover of <em>Bata, Bata, Paano Ka Ginawa</em> by Lualhati Bautista</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Cacho Publishing House</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1984.3 Bata, Bata, Paano ka Ginawa",
+		"text_description": "<p>&ldquo;Bata, Bata, Paano Ka Ginawa&rdquo; by Lualhati Bautista and &ldquo;Bata, Sinaksak, Isinilid sa Baul&rdquo; by Tony Perez share the Palanca Grand Prize for the Novel in Filipino. Written in Taglish, Bautista&rsquo;s novel about a liberated woman&rsquo;s predicaments in conventional society, will be published in 1988.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1984,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1984",
+		"photo_id": null,
+		"url": "2200",
+		"article_id": 2200,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1984 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3281,
+		"media_caption": "<p>PANULAT founding (CCP Coordinating Center for Literature)</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1986 PANULAT",
+		"text_description": "<p>Pambansang Unyon ng mga Manunulat, or Panulat, which advocates the welfare of writers and undertakes grassroots-writing workshops, is founded.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1986,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3281",
+		"article_id": 3281,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3282,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1988 Himalay Balagtas",
+		"text_description": "<p>On the occasion of the bicentenary of Francisco Balagtas, the CCP publishes <em>Himalay Balagtas</em>, a collection of historical and critical studies on the poet. It will publish <em>Himalay Rizal</em> in 1991.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1988,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3282",
+		"article_id": 3282,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1988 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2715,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Visual Print Enterprises Inc</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2002.1 Zsazsa Zaturnnah",
+		"text_description": "<p>Carlo Vergara&rsquo;s graphic novel<em> Ang Kagilagilalas na Pakikipagsapalaran ni Zsazsa Zaturnnah</em>, helps revive the local komiks industry. (Photo from Visual Print Enterprises Inc)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2002,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2002",
+		"photo_id": null,
+		"url": "2715",
+		"article_id": 2715,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2002 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3283,
+		"media_caption": "<p>Book cover of Vicente Rafael's <em>Contracting Colonialism</em></p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ateneo de Manila University Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1988.4 Contracting Colonialism ",
+		"text_description": "<p>Vicente Rafael publishes <em>Contracting Colonialism</em>, notable for its pioneering reading of early Tagalog society&rsquo;s experience of Christian conversion. (Photo from Ateneo de Manila University Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1988,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1988",
+		"photo_id": null,
+		"url": "3283",
+		"article_id": 3283,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1988 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3284,
+		"media_caption": "<p>Book cover of <em>Man of Earth</em></p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ateneo de Manila University Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1989.2 Man of Earth",
+		"text_description": "<p><em>Man of Earth</em>, the first volume, coedited by Edna Zapanta Manlapaz, in Gemino Abad&rsquo;s comprehensive anthology of Philippine poetry in English is published where he expounds on &ldquo;writing from English.&rdquo; The other two volumes are <em>A Native Clearing</em>, 1993, and <em>A Habit of Shores</em>, 1999. (Photo from Ateneo de Manila University Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1989,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1989",
+		"photo_id": null,
+		"url": "3284",
+		"article_id": 3284,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1989 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3286,
+		"media_caption": "<p>Book cover of Teo Antonio's <em>Taga sa Bato</em>.</p> ",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ateneo de Manila University Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1991 Taga sa Bato",
+		"text_description": "<p>Teo Antonio publishes <em>Taga sa Bato</em>, a showcase of his wide repertoire of styles and material. (Photo from Ateneo de Manila University Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1991,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3286",
+		"article_id": 3286,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1991 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3288,
+		"media_caption": "<p>Book cover of Ruth Elynia S. Mabanglo's Kung Di Man.</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Anvil Publishing, Inc>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1992.1 Kung Di Man",
+		"text_description": "<p>Ruth Elynia S. Mabanglo publishes <em>Kung Di Man</em>, a collection of love poems that foreground female desire.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1992,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1992",
+		"photo_id": null,
+		"url": "3288",
+		"article_id": 3288,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1992 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3289,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1993.2 Bulaklak ng Maynila",
+		"text_description": "<p>&ldquo;Bulaklak ng Maynila&rdquo; by Domingo G. Landicho and &ldquo;Moog&rdquo; by Buenaventura S. Medina Jr share the Palanca Grand Prize for the novel in Filipino.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1993,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1993",
+		"photo_id": null,
+		"url": "3289",
+		"article_id": 3289,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1993 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3290,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1994 Bathalad-Mindanao",
+		"text_description": "<p>Bathalad-Mindanao, an offshoot of Bathalad that seeks to distinguish their &ldquo;Bisaya&rdquo; language from Cebu-based Cebuano, is formed in Cagayan de Oro.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1994,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3290",
+		"article_id": 3290,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1994 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3291,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1994.2 Ali*Bang+Bang Atbp",
+		"text_description": "<p><em>Ali*Bang+Bang Atbp. Kwento</em> by Rolando Tolentino and <em>Pitada</em> by Eli Guieb are published as one volume, marking the emergence of a new generation of technically innovative Tagalog fictionists.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1994,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1994",
+		"photo_id": null,
+		"url": "3291",
+		"article_id": 3291,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1994 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3295,
+		"media_caption": "<p>Book cover of the first of the Twisted books by Jessica Zafra</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Anvil Publishing, Inc</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1995.1 First Twisted ",
+		"text_description": "<p>The first of the<em> Twisted</em> books by Jessica Zafra, compilations of her columns, is printed, representing the sensibility of a generation. (Photo from Anvil Publishing, Inc)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1995,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1995",
+		"photo_id": null,
+		"url": "3295",
+		"article_id": 3295,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1995 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3296,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1995.2 Tinigpigan",
+		"text_description": "<p>The anthology <em>Tinigpigan</em>, edited by Victor Sugbo, is published and brings the works of Waray poets past and present Trinchera, Lucente, Makabenta, and de Veyra in book form.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1995,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1995",
+		"photo_id": null,
+		"url": "3296",
+		"article_id": 3296,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1995 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3297,
+		"media_caption": "<p>Book cover of Prosang Itim by Mike Bigornia</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Anvil Publishing, Inc</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1996 Prosang Itim",
+		"text_description": "<p><em>Prosang Itim</em> by Mike Bigornia, continuing the long local tradition of prose poetry, is published and becomes a bestseller. (Photo from Anvil Publishing, Inc)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1996,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3297",
+		"article_id": 3297,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1996 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3298,
+		"media_caption": "<p>Book cover of Recuerdo by Cristina Pantoja-Hidalgo</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from UP Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1996.1 Recuerdo",
+		"text_description": "<p>&ldquo;Recuerdo,&rdquo; an epistolary novel by Cristina Pantoja-Hidalgo, wins the Palanca Grand Prize for the Novel in English. It is published in the same year. (Photo from University of the Philippines Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1996,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1996",
+		"photo_id": null,
+		"url": "3298",
+		"article_id": 3298,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1996 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3299,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1996.2 Malaybay",
+		"text_description": "<p>&ldquo;Malaybay&rdquo; by Edmund Coronel wins the Palanca Grand Prize for the Novel in Filipino.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1996,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1996",
+		"photo_id": null,
+		"url": "3299",
+		"article_id": 3299,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1996 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3300,
+		"media_caption": "<p>Book cover of Pagbasa ng Panitikan at Kulturang Popular by Soledad Reyes</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ateneo de Manila University Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1997 Pagbasa ng Panitikan at Kulturang Popular",
+		"text_description": "<p><em>Pagbasa ng Panitikan at Kulturang Popular</em> by Soledad Reyes, which collects her pioneering studies in Philippine popular culture, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1997,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3300",
+		"article_id": 3300,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1997 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3301,
+		"media_caption": "<p>Photo of Cristina Pantoja Hidalgo</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from philstar.com</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1997.1 Coming Home",
+		"text_description": "<p><em>Coming Home</em>, which epitomizes Cristina Pantoja Hidalgo&rsquo;s creative nonfiction, is published. (Photo from philstar.com)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1997,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1997",
+		"photo_id": null,
+		"url": "3301",
+		"article_id": 3301,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1997 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2206,
+		"media_caption": "<p>National Artist Rolando S. Tinio</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection, Philippine Daily Inquirer</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1997.3 Tinio, National Artist",
+		"text_description": "<p>Rolando S. Tinio is declared National Artist in Literature and Theater.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1997,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1997",
+		"photo_id": null,
+		"url": "2206",
+		"article_id": 2206,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1997 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1692,
+		"media_caption": "<p>Toto O. By Charmaine Lasar</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from PageJump Media</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2015.1 Toto O.",
+		"text_description": "<p>&ldquo;Toto O.&rdquo; by Charmaine Lasar wins the Palanca Grand Prize for the Novel in Filipino and will be published in 2016. (Photo from PageJump Media)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2015,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2015",
+		"photo_id": null,
+		"url": "1692",
+		"article_id": 1692,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2015 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2692,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1999 Ang Tulisan at Iba pang Talinghaga",
+		"text_description": "<p><em>Ang Tulisan at Iba pang Talinghaga</em> by Florentino Collantes, a comprehensive collection of the author&rsquo;s work, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1999,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2692",
+		"article_id": 2692,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1999 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3303,
+		"media_caption": "<p>Book cover of Ang Kaulayaw ng Agila by Lilia Quindoza Santiago</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from University of the Philippines Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1999.3 ANg Kaulayaw ng Agila",
+		"text_description": "<p>&ldquo;Ang Kaulayaw ng Agila&rdquo; by Lilia Quindoza Santiago wins the Palanca Grand Prize for the Novel in Filipino. It will be published in 2002. (Photo from University of the Philippines Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1999,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1999",
+		"photo_id": null,
+		"url": "3303",
+		"article_id": 3303,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1999 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3304,
+		"media_caption": "<p>Cover of A B N K K B S N P L A ko?! by Bob Ong</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Visprint</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2001.1 ABNKKBSNPLAko?!",
+		"text_description": "<p><em>A B N K K B S N P L A ko?!</em>, a humorous take on school mores and social institutions by enigmatic author Bob Ong, breaks local publishing records. (Photo from Visprint)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2001,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2001",
+		"photo_id": null,
+		"url": "3304",
+		"article_id": 3304,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2001 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3305,
+		"media_caption": "<p>Book cover of Knife's Edge by Edel Garcellano</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from University of the Philippines Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2001.2 Knife's Edge",
+		"text_description": "<p><em>Knife&rsquo;s Edge</em>, which collects Edel Garcellano&rsquo;s Marxist critiques on local literary production and practices, is published. (Photo from University of the Philippines Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2001,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2001",
+		"photo_id": null,
+		"url": "3305",
+		"article_id": 3305,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2001 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3307,
+		"media_caption": "<p>Tanghalang Pilipino’s Zsazsa Zaturnnah: Ze Muzikal, 2011, a stage adaptation of Carlo Vergara’s graphic novel Ang Kagila-gilalas na Pakikipagsapalaran ni Zsazsa Zaturnnah</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Tanghalang Pilipino Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2002 High Chair",
+		"text_description": "<p>High Chair, a group of poets and a small press known for what some describe as &ldquo;high modernist&rdquo; poetics, is formed.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2002,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3307",
+		"article_id": 3307,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2002 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3308,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2002.3 Kung Paano ko Inayos ang Buhok ko",
+		"text_description": "<p>&ldquo;Kung Paano Ko Inayos ang Buhok Ko Matapos ang Mahaba-haba Ring Paglalakbay&rdquo; by Norman Wilwayco wins the Palanca Grand Prize for the Novel in Filipino.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2002,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2002",
+		"photo_id": null,
+		"url": "3308",
+		"article_id": 3308,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2002 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3312,
+		"media_caption": "<p>Book cover of Jolography by Paolo Manalo</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from University of the Philippines Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2003 Jolography",
+		"text_description": "<p>Paolo Manalo&rsquo;s poetry collection <em>Jolography</em>, with its novel use of Taglish, is published. (Photo from University of the Philippines Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2003,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3312",
+		"article_id": 3312,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2003 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3313,
+		"media_caption": "<p>Book cover of Feast and Famine by Rosario Cruz Lucero</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from University of the Philippines Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2003.1 Feast and Famine",
+		"text_description": "<p>Rosario Cruz Lucero&rsquo;s <em>Feast and Famine</em>, a collection of stories that deftly engage Negrense history and folklore, is published. (Photo from University of the Philippines Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2003,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2003",
+		"photo_id": null,
+		"url": "3313",
+		"article_id": 3313,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2003 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3314,
+		"media_caption": "<p>Book cover of Romulo Baquiran's Onyx</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from University of the Philippines Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2003.2 Onyx",
+		"text_description": "<p>Romulo Baquiran&rsquo;s <em>Onyx</em>, a showcase of both modernist free verse and traditional forms, is published. (Photo from University of the Philippines Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2003,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2003",
+		"photo_id": null,
+		"url": "3314",
+		"article_id": 3314,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2003 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3315,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2003.3 Qontrapuntal",
+		"text_description": "<p>Don Pagusara&rsquo;s <em>Qontrapuntal</em>, notable for poems that critique local literary practices and for erotic poems, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2003,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2003",
+		"photo_id": null,
+		"url": "3315",
+		"article_id": 3315,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2003 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3316,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2003.4 Ang Misteryo ng Inuslang Kasingkasing",
+		"text_description": "<p>Gumer Rafanan&rsquo;s novel <em>Ang Misteryo sa Inuslang Kasingkasing</em> begins to be serialized in <em>Bisaya</em>.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2003,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2003",
+		"photo_id": null,
+		"url": "3316",
+		"article_id": 3316,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2003 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3317,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2003.5 Textanaga, Dalitext",
+		"text_description": "<p><em>Textanaga</em> and <em>Dalitext</em> are published, attesting to the influence of new media in the production and circulation of literature.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2003,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2003",
+		"photo_id": null,
+		"url": "3317",
+		"article_id": 3317,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2003 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3318,
+		"media_caption": "<p>Book cover of Dark Hours by Conchitina R. Cruz</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from University of the Philippines Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2005 Dark Hours",
+		"text_description": "<p><em>Dark Hours</em> by Conchitina Cruz, with poems that make use of devices like marginalia and footnotes, is published.(Photo from University of the Philippines Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2005,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3318",
+		"article_id": 3318,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2005 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3319,
+		"media_caption": "<p>Book cover of Davao, Reconstructing History from Text and Memory by Macario D. Tiu</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ateneo de Davao University Research and Publication Office</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2005.1 Davao, Reconstructing History from Text and Memory",
+		"text_description": "<p><em>Davao, Reconstructing History from Text and Memory</em>, Macario D. Tiu&rsquo;s account of Davao history, indigenous groups, myths, and legends, is published. (Photo from Ateneo de Davao University Research and Publication Office)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2005,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2005",
+		"photo_id": null,
+		"url": "3319",
+		"article_id": 3319,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2005 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3320,
+		"media_caption": "<p>Book cover of “Unang Ulan ng Mayo” by Ellen Sicat</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Anvil Publishing, Inc</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2005.3 Unang Ulan ng Mayo",
+		"text_description": "<p>&ldquo;Unang Ulan ng Mayo&rdquo; by Ellen Sicat wins the Palanca Grand Prize for the Novel in Filipino. It will be published in 2016. (Photo from Anvil Publishing, Inc)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2005,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2005",
+		"photo_id": null,
+		"url": "3320",
+		"article_id": 3320,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2005 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3321,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2005.4 UBOD New Authors",
+		"text_description": "<p>The UBOD New Authors series of the NCCA is launched, allowing new voices using the vernaculars to be heard.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2005,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2005",
+		"photo_id": null,
+		"url": "3321",
+		"article_id": 3321,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2005 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3322,
+		"media_caption": "<p>Book cover of Mostly in Monsoon Weather by Marne Kilates</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from University of the Philippines Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2007 Mostly in Monsoon Weather",
+		"text_description": "<p>Marne Kilates&rsquo;s <em>Mostly in Monsoon Weather and Other Poems</em> is published. (Photo from University of the Philippines Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2007,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3322",
+		"article_id": 3322,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2007 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3323,
+		"media_caption": "<p>Book cover of Trese: Murder on Balete Drive</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Visprint Inc.</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2008 Trese",
+		"text_description": "<p>The first in Budgette Tan&rsquo;s <em>Trese</em> series of graphic novels, which situates local mythological creatures in the contemporary city, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2008,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3323",
+		"article_id": 3323,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2008 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3324,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2008.1 Ang Gakit ni Noebong ug Ubang mga Sugilanon",
+		"text_description": "<p>Saturnino Apoyon&rsquo;s <em>Ang Gakit ni Noebong ug Ubang mga Sugilanon</em>, a sympathetic chronicle of the lives of indigenous Bagobo and Tiruray tribes, the Badjao sea gypsies, and barrio folk and city folk, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2008,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2008",
+		"photo_id": null,
+		"url": "3324",
+		"article_id": 3324,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2008 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3325,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2008.2 Ang Kabaho, Unya ang Kahumot sa Pulbos",
+		"text_description": "<p>Temistokles Adlawan&rsquo;s <em>Ang Kabaho, Unya ang Kahumot sa Pulbos</em>, notable for capturing the polyphonic registers of Cebuano, serialized in <em>Bisaya</em>.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2008,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2008",
+		"photo_id": null,
+		"url": "3325",
+		"article_id": 3325,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2008 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3326,
+		"media_caption": "<p>Book cover of Inintokan by Victor Sugbo</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from University of the Philippines Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2008.3 Inintokan",
+		"text_description": "<p>Victor Sugbo&rsquo;s<em> Inintokan</em>, with poems in Waray that chronicle the author&rsquo;s journey through his native homeland, is published. (Photo from University of the Philippines Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2008,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2008",
+		"photo_id": null,
+		"url": "3326",
+		"article_id": 3326,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2008 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3327,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2008.4 An Maupay ha mga Waray ug iba pa nga mga Siday",
+		"text_description": "<p>Voltaire Oyzon&rsquo;s <em>An Maupay ha mga Waray ug Iba pa nga mga Siday</em>, which marks a new contemporary direction for the Waray poetic form siday, is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2008,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2008",
+		"photo_id": null,
+		"url": "3327",
+		"article_id": 3327,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2008 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3328,
+		"media_caption": "<p>Book cover of “Gerilya” by Norman Wilwayco</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Bookay Ukay Libruhan</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2008.7 Gerilya",
+		"text_description": "<p>&ldquo;Gerilya&rdquo; by Norman Wilwayco is published after winning the Palanca Grand Prize for the Novel in Filipino. (Photo from Bookay Ukay Libruhan)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2008,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2008",
+		"photo_id": null,
+		"url": "3328",
+		"article_id": 3328,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2008 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3329,
+		"media_caption": "<p>Book cover of Batbat hi Udan by Telesforo S. Sungkit Jr</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Central Book Supply Inc</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2009 Batbat hi Udan",
+		"text_description": "<p><em>Batbat hi Udan </em>by Telesforo S. Sungkit Jr, a novel that uses the devices of the epic, is published. (Photo from Central Book Supply Inc)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2009,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3329",
+		"article_id": 3329,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2009 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3331,
+		"media_caption": "<p>Book cover of Adonis Durado’s Minugbo Alang sa Mugbo og Kalipay</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Aistemus and Bathalad, Inc</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2009.1 Minugbo Alang sa Mugbo og Kalipay",
+		"text_description": "<p>Adonis Durado&rsquo;s <em>Minugbo Alang sa Mugbo og Kalipay</em>, with poems written in indigenous Cebuano forms like <em>garay </em>and <em>tigmo</em> but using modern material, is published. (Photo from Aistemus and Bathalad, Inc)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2009,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2009",
+		"photo_id": null,
+		"url": "3331",
+		"article_id": 3331,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2009 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1705,
+		"media_caption": "<p>Book cover of Albay Viejo by Raffi Banzuela</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from planet.naga.ph</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2010 Albay Viejo",
+		"text_description": "<p><em>Albay Viejo </em>by Raffi Banzuela (b. 1951), a collection of essays, historical narratives, and short stories on Albay, is published. (Photo from planet.naga.ph)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2010,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1705",
+		"article_id": 1705,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2010 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3333,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2011 Balsa: Poemas Chabacanos",
+		"text_description": "<p>Francisco Macansantos&rsquo;s <em>Balsa: Poemas Chabacanos</em> is published.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2011,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3333",
+		"article_id": 3333,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2011 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3335,
+		"media_caption": "</p>Book cover of The Mango Bride by Marivi Soliven</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from NAL Accent/Penguin Group</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2011.1 In the Service of Secrets",
+		"text_description": "<p>&ldquo;In the Service of Secrets&rdquo; by Marivi Soliven wins the Palanca Grand Prize for the Novel in English. It will be retitled <em>The Mango Bride</em> and published in 2013. (Photo from NAL Accent/Penguin Group)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2011,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2011",
+		"photo_id": null,
+		"url": "3335",
+		"article_id": 3335,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2011 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1704,
+		"media_caption": "<p>Book cover of “Ang Banal na Aklat ng Mga Kumag” by Allan Derain</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Cacho Publishing House</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2011.2 Ang Banal na Aklat ng mga Kumag",
+		"text_description": "<p>&ldquo;Ang Banal na Aklat ng Mga Kumag&rdquo; by Allan Derain wins the Palanca Grand Prize for the Novel in Filipino. It will be published in 2013. (Photo from Cacho Publishing House)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2011,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2011",
+		"photo_id": null,
+		"url": "1704",
+		"article_id": 1704,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2011 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3340,
+		"media_caption": "<p>Book cover of Merlie Alunan’s Pagdakop sa Bulalakaw ug Uban pang Mga Balak</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ateneo de Manila University Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2012 Pagdakop sa Bulalakaw ug Uban pang Mga Balak",
+		"text_description": "<p>Merlie Alunan&rsquo;s <em>Pagdakop sa Bulalakaw ug Uban pang Mga Balak</em>, the author&rsquo;s first book of Cebuano poetry and which includes equally masterful English translations, is published. (Photo from Ateneo de Manila University Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2012,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3340",
+		"article_id": 3340,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2012 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1697,
+		"media_caption": "<p>Book cover of Diary ng Panget</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from PSICOM Publishing Inc.</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2013.2 Diary ng Panget",
+		"text_description": "<p><em>Diary ng Panget</em> is published as a book after being serialized on the online platform Wattpad in 2011, epitomizing both a new form called pop fiction and a trend in literary reproduction, from digital to print media rather than vice versa. It will be adapted into a movie in 2014. (Photo from PSICOM Publishing Inc.)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2013,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2013",
+		"photo_id": null,
+		"url": "1697",
+		"article_id": 1697,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2013 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3342,
+		"media_caption": "<p>Book cover of “Tatlong Gabi, Tatlong Araw” by Eros Atalia</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Visprint, Inc</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2013 Tatlong Gabi, Tatlong Araw",
+		"text_description": "<p>&ldquo;Tatlong Gabi, Tatlong Araw&rdquo; by Eros Atalia wins the Palanca Grand Prize for the Novel in Filipino and is published. (Photo from Visprint, Inc)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2013,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3342",
+		"article_id": 3342,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2013 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3344,
+		"media_caption": "<p>Book cover of Book 1 of Sugidanon(Epics) of Panay by Alice Magos</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from University of the Philippines Press</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2013.1 Sugidanon",
+		"text_description": "<p>The first volume of <em>Sugidanon (Epics) of Panay</em>, by Alice Magos, is published. (Photo from University of the Philippines Press)</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2013,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "2013",
+		"photo_id": null,
+		"url": "3344",
+		"article_id": 3344,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2013 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1691,
+		"media_caption": "<p>Book cover of “All My Lonely Islands” by Victorette Joy Z. Campilan.</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Anvil Publishing</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 2015 All My Lonely Islands",
+		"text_description": "<p>&ldquo;All My Lonely Islands&rdquo; by Victorette Joy Z. Campilan wins the Palanca Grand Prize for the Novel in English and will be published in 2017.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2015,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1691",
+		"article_id": 1691,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2015 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

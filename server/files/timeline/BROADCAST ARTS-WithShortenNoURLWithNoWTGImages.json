@@ -1,0 +1,36 @@
+[
+	{
+		"id": 40,
+		"timeline_id": 1120,
+		"media_caption": "<p>Pearl Harbor during the Japanese air attack</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from US Navy</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1941 Broadcast Pearl Harbor bombing",
+		"text_description": "<p>Philippine radio stations air news about the bombing of Pearl Harbor and, hours later, the Philippines. Photo: Pearl Harbor during the Japanese air attack (US Navy)</p>",
+		"category": 4,
+		"start_month": 12,
+		"start_day": 8,
+		"start_year": 1941,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": null,
+		"shorten_media": "https://xiaochua.files.wordpress.com/2013/04/10-at-si-heneral-douglas-macarthur-lamang-at",
+		"display_name": null,
+		"photo_id": null,
+		"url": "1120",
+		"article_id": 1120,
+		"photo_name": "https://xiaochua.files.wordpress.com/2013/04/10-at-si-heneral-douglas-macarthur-lamang-at",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 12, "day": 8, "year": 1941 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

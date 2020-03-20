@@ -1,0 +1,76 @@
+[
+	{
+		"article_id": "25846",
+		"url": "10/97/25846",
+		"article_title": "Style and Use",
+		"publish_year": "",
+		"description": "",
+		"volume_name": "ABOUT",
+		"subsection_name": "Style and Use",
+		"photos": [{ "photo": null, "desc": null }],
+		"vids": [],
+		"text": "<p>The encyclopedia was designed specifically for the student. Ideas are outlined clearly in each essay and subheadings used. The language is simple and the style is straightforward.</p>\r\n\r\n<p>While the style follows the prescriptions of <b><i>The Chicago Manual of Style</i></b> (16th Edition), the editors have created the following special rules for this encyclopedia:</p>\r\n\r\n<p>Technical terms and native terms are immediately explained with their meanings in English, with or without parentheses.</p>\r\n\r\n<p>In-text citations, the last&nbsp;name of the author, year of publication, and page numbers are placed in parentheses right after the sentence that uses sources which need to be identified. The complete data of these citations may be found at the end of the essay.</p>\r\n\r\n<p>Terms related to an art form are set in boldface the first time they appear in the essay.</p>\r\n\r\n<p>Other native and non-English terms not related or specific to an art form are set in italics the first time they are mentioned.</p>\r\n\r\n<p>Translations of native terms are usually enclosed in parentheses.</p>\r\n\r\n<p>Filipino words that have entered the English language and whose meaning in English match their Filipino originals&rsquo; are no longer set in italics.</p>\r\n\r\n<p>The following are set in boldface italics each time they are mentioned: titles of paintings, publications, films, radio and television programs, large-scale choreographic works like ballets and contemporary dance productions, plays, <b>sarsuwela</b>, major concerts, albums, and larger works of music, like symphonies, overtures, concertos, operas, suites, symphonic or tone poems, and chamber music.</p>\r\n\r\n<p>The following are set in normal type and enclosed in quotation marks each time they are mentioned: titles of short stories and poems, newspaper columns, magazine articles, theses, popular songs, protest songs, marches, hymns, art songs, solo instrumental pieces, short choral pieces, and ballads, as well as a minor part or a movement of a larger work.</p>\r\n\r\n<p>The following words are abbreviated, with the periods removed: social, civil, and military titles;&nbsp;academic degrees;&nbsp;professional and religious designations;&nbsp;months of the year;&nbsp;metric units;&nbsp;name suffixes;&nbsp;Saint; Street; and &quot;also known as&quot; (aka).</p>\r\n\r\n<p>Titles that are not in English are usually followed by an English translation enclosed in parentheses, followed by the year of publication or production.</p>\r\n\r\n<p>Proper names, including names of groups and publications, are not translated or italicized.</p>\r\n\r\n<p>For consistency, diacritical marks on native terms have been omitted, since they were not available for all native languages.</p>\r\n",
+		"category": 11,
+		"article": [
+			{
+				"type": "paragraph",
+				"value": "The encyclopedia was designed specifically for the student. Ideas are outlined clearly in each essay and subheadings used. The language is simple and the style is straightforward."
+			},
+			{
+				"type": "paragraph",
+				"value": "While the style follows the prescriptions of <b><i>The Chicago Manual of Style</i></b> (16th Edition), the editors have created the following special rules for this encyclopedia:"
+			},
+			{
+				"type": "paragraph",
+				"value": "Technical terms and native terms are immediately explained with their meanings in English, with or without parentheses."
+			},
+			{
+				"type": "paragraph",
+				"value": "In-text citations, the last&#xA0;name of the author, year of publication, and page numbers are placed in parentheses right after the sentence that uses sources which need to be identified. The complete data of these citations may be found at the end of the essay."
+			},
+			{
+				"type": "paragraph",
+				"value": "Terms related to an art form are set in boldface the first time they appear in the essay."
+			},
+			{
+				"type": "paragraph",
+				"value": "Other native and non-English terms not related or specific to an art form are set in italics the first time they are mentioned."
+			},
+			{
+				"type": "paragraph",
+				"value": "Translations of native terms are usually enclosed in parentheses."
+			},
+			{
+				"type": "paragraph",
+				"value": "Filipino words that have entered the English language and whose meaning in English match their Filipino originals&#x2019; are no longer set in italics."
+			},
+			{
+				"type": "paragraph",
+				"value": "The following are set in boldface italics each time they are mentioned: titles of paintings, publications, films, radio and television programs, large-scale choreographic works like ballets and contemporary dance productions, plays, <b>sarsuwela</b>, major concerts, albums, and larger works of music, like symphonies, overtures, concertos, operas, suites, symphonic or tone poems, and chamber music."
+			},
+			{
+				"type": "paragraph",
+				"value": "The following are set in normal type and enclosed in quotation marks each time they are mentioned: titles of short stories and poems, newspaper columns, magazine articles, theses, popular songs, protest songs, marches, hymns, art songs, solo instrumental pieces, short choral pieces, and ballads, as well as a minor part or a movement of a larger work."
+			},
+			{
+				"type": "paragraph",
+				"value": "The following words are abbreviated, with the periods removed: social, civil, and military titles;&#xA0;academic degrees;&#xA0;professional and religious designations;&#xA0;months of the year;&#xA0;metric units;&#xA0;name suffixes;&#xA0;Saint; Street; and &quot;also known as&quot; (aka)."
+			},
+			{
+				"type": "paragraph",
+				"value": "Titles that are not in English are usually followed by an English translation enclosed in parentheses, followed by the year of publication or production."
+			},
+			{
+				"type": "paragraph",
+				"value": "Proper names, including names of groups and publications, are not translated or italicized."
+			},
+			{
+				"type": "paragraph",
+				"value": "For consistency, diacritical marks on native terms have been omitted, since they were not available for all native languages."
+			},
+			{ "type": "author", "value": null },
+			{ "type": "see_also", "value": [] },
+			{ "type": "sources", "value": [] }
+		]
+	}
+]

@@ -1,0 +1,36 @@
+[
+	{
+		"id": 40,
+		"timeline_id": 1101,
+		"media_caption": "<p>Pascual Poblete from the book <em>Mga Dakilang Pilipino</em> by Jose N. Sevilla, 1922</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Project Gutenberg</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Theater 1899 Poblete",
+		"text_description": "<p><em>Pag-ibig sa Tinubuang Bayan</em> by Pascual H. Poblete (in photo) is staged, leading to his arrest. The play’s director, Pedro Reyes, is also arrested. (Photo from Project Gutenberg)</p>",
+		"category": 7,
+		"start_month": 9,
+		"start_day": 9,
+		"start_year": 1899,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": null,
+		"shorten_media": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pascual_poblete_PG",
+		"display_name": null,
+		"photo_id": null,
+		"url": "1101",
+		"article_id": 1101,
+		"photo_name": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pascual_poblete_PG",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 9, "year": 1899 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

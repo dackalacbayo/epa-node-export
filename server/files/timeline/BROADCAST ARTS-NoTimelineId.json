@@ -1,0 +1,206 @@
+[
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1937 Broadcast radio board",
+		"text_description": "<p>Pres Manuel Quezon creates the Radio Board to nationalize radio stations in the colony.</p>",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 3,
+		"start_year": 1937,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 3, "year": 1937 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1939 Broadcast RCD",
+		"text_description": "<p>Pres Quezon transfers the Radio Control Division to the Department of National Defense in anticipation of war.</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 1,
+		"start_year": 1939,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 1, "year": 1939 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>Eddie Ilarde, Leila Benitez, and Pepe Pimentel, hosts of <em>Student Canteen</em>, 1963</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from James de la Rosa/Baul ni Juan</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1958 Broadcast Student Canteen",
+		"text_description": "<p>DZXL’s CBN <em>Canteen</em> is renamed <em>Student Canteen</em> because of its popularity with students. It is reformatted as an amateur singing contest. Photo: Eddie Ilarde, Leila Benitez, and Pepe Pimentel, hosts of <em>Student Canteen</em>, 1963 (James de la Rosa/Baul ni Juan)</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 0,
+		"start_year": 1958,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 0, "year": 1958 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1986 Broadcast Kultura ng Bayan",
+		"text_description": "<p>The Cultural Center of the Philippines produces and airs the weekly radio magazine <em>Kultura ng Bayan</em> on DZRV until 1992, then on DZRM until 1996. It highlights music and theater, discussions on issues in arts and culture, and balagtasan on current socio-political issues.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1986,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 1986,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": 1986 }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2006 Broadcast lukayo",
+		"text_description": "<p>Howie Severino features in GMA’s documentary program <em>i-Witness</em> the <em>lukayo</em>, a 200-year-old fertility ritual in Laguna where old women dance and wave wooden phaluses as they escort the newly-weds to the wedding reception. The Movie and Television Review and Classification Board slaps the program with a two-week suspension.",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 22,
+		"start_year": 2006,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 22, "year": 2006 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2009 Broacast The Red Carpet",
+		"text_description": "<p>The CCP produces <em>The Red Carpet</em>, a monthly television program featuring the shows at CCP and the cultural and artistic scene in the country, and <em>On Set</em>, highlighting the country’s top caliber musical artists, both on Net 25.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2009,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 2009,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2009 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": 2009 }
+			}
+		]
+	}
+]

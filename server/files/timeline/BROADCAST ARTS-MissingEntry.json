@@ -1,0 +1,134 @@
+[
+	{
+		"timeline_id": 1136,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1983 Broadcast Aquino arrival",
+		"text_description": "DZRV airs the only blow-by-blow account of Aquino’s arrival, with its correspondent annotating the events through a pay phone.",
+		"category": 4,
+		"start_month": 8,
+		"start_day": 21,
+		"start_year": 1983,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "http://newsinfo.inquirer.net/files/2016/08/21_Ninoy@tarmac.jpg",
+		"shorten_media": "http://newsinfo.inquirer.net/files/2016/08/21_Ninoy@tarmac",
+		"display_name": null,
+		"photo_id": null,
+		"url": "1136",
+		"article_id": 1136,
+		"photo_name": "http://newsinfo.inquirer.net/files/2016/08/21_Ninoy@tarmac",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 8, "day": 21, "year": 1983 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1121,
+		"media_caption": "<p>Soldiers listening to Voice of Freedom</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Xiao Chua</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1941 Broadcast Voice of Freedom",
+		"text_description": "<p>Filipino-American forces broadcast from Voice of Freedom in Corregidor. KZRC relays its signals. Photo: Carlos P. Romulo, one of the announcers on KZRC-Voice of Freedom (Xiao Chua)</p>",
+		"category": 4,
+		"start_month": 1,
+		"start_day": 5,
+		"start_year": 1942,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://xiaochua.files.wordpress.com/2013/04/35-a-beacon-to-all-the-liberty-loving-peoples-of-the-world-cannot-fail.gif",
+		"shorten_media": "https://xiaochua.files.wordpress.com/2013/04/35-a-beacon-to-all-the-liberty-loving-peoples-of-the-world-cannot-fail.gif",
+		"display_name": null,
+		"photo_id": null,
+		"url": "1121",
+		"article_id": 1121,
+		"photo_name": "https://xiaochua.files.wordpress.com/2013/04/35-a-beacon-to-all-the-liberty-loving-peoples-of-the-world-cannot-fail.gif",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 1, "day": 5, "year": 1942 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1133,
+		"media_caption": "<p>Vinyl record cover of New Society songs\r\nperformed by the Philippine Constabulary Band</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from PNP Museum</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1973 Broadcast Bagong Pagsilang",
+		"text_description": "<p>Songs and slogans promoting Marcos and martial rule begin to air. Among these are the march \"Bagong Pagsilang,\" also known as the \"March of the New Society,\" with music by Felipe Padilla de Leon and lyrics by Levi Celerio (1910-2002); and the slogan “Sa ikauunlad ng bayan, disiplina ang kailangan.\" (Photo from PNP Museum)</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1973,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coat_of_arms_of_the_Philippines_%281985-1986%29.svg/800px-Coat_of_arms_of_the_Philippines_%281985-1986%29.svg.png",
+		"shorten_media": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coat_of_arms_of_the_Philippines_%281985-1986%29.svg/800px-Coat_of_arms_of_the_Philippines_%281985-1986%29.svg.png",
+		"display_name": null,
+		"photo_id": null,
+		"url": "1133",
+		"article_id": 1133,
+		"photo_name": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coat_of_arms_of_the_Philippines_%281985-1986%29.svg/800px-Coat_of_arms_of_the_Philippines_%281985-1986%29.svg.png",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1973 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1130,
+		"media_caption": "<p>Ninoy Aquino delivering his privilege speech that revealed Oplan Sagittarius, 13 September 1972</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p><em>Photo from Ninoy: The Willing Martyr</em>, Presidential Library and Museum</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1972 Broadcast Oplan Sagittarius",
+		"text_description": "<p>Sen Benigno Aquino Jr aka Ninoy guests on Maximo Soliven’s program <em>Impact</em> on ABS-CBN Channel 2 to expose the plan of Pres Ferdinand Marcos to declare martial law, called Operation Sagittarius. (Photo from <em>Ninoy: The Willing Martyr</em>, Presidential Library and Museum)</p>",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 13,
+		"start_year": 1972,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://pbs.twimg.com/media/COwJfKnUkAApw94.png",
+		"shorten_media": "https://pbs.twimg.com/media/COwJfKnUkAApw94.png",
+		"display_name": null,
+		"photo_id": null,
+		"url": "1130",
+		"article_id": 1130,
+		"photo_name": "https://pbs.twimg.com/media/COwJfKnUkAApw94.png",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 13, "year": 1972 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

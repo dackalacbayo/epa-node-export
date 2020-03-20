@@ -1,0 +1,546 @@
+[
+	{
+		"timeline_id": null,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 0.9 million years ago, Paleolithic Hominids",
+		"text_description": "Paleolithic hominids live on the high ground in the vicinity of the Espinosa ranch.",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": -9000000,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "Prehistory\n 0.9-0.17 million years ago",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": -9000000 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>Callao Cave in Cagayan, 2014</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Studio 5 Designs, Inc., Land Bank of the Philippines Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 67,000 Callao Cave",
+		"text_description": "<p>Callao Cave in Cagayan Valley is used as habitation. The human remains found in the cave are associated with bones of deer and wild boar, showing cut marks made by stone tools. Photo: Callao Cave, 2014 (Studio 5 Designs, Land Bank of the Philippines)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": -67000,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "67,000 BP",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": -67000 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>Spanish-period San Juan de Dios Hospital in Intramuros</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from El Oriente, 1877, Lopez Museum Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1656 Hospital de San Juan de Dios",
+		"text_description": "<p>The administration of a hospital founded in 1578 in Manila by Juan Clemente OFM is given to the brothers of San Juan de la Dios. It is renamed Hospital de San Juan de Dios. Photo: Spanish-period San Juan de Dios Hospital in Intramuros (<em>El Oriente</em>, 1877, Lopez Museum)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1656,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1656 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1659 Churriguerra ",
+		"text_description": "<p>The Churriguerra family promotes an intricate, exagerrated form of surface decoration, using the solomonic column and the estipite. The Churiguerresque style becomes popular in Mexico, but has limited expression in the Philippines.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1659,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1659 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1905 School of Fine Arts",
+		"text_description": "<p>The School of Fine Arts is established as the successor of the the 19th century Escuela de Bellas Artes. The school on R. Hidalgo St, Quiapo will be incorporated into the University of the Philippines (UP), when the university is established in 1908.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1905,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1905 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1905 Escuela Normal",
+		"text_description": "<p>The Escuela Normal de San Francisco is closed.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1905,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1905 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1906 Panay Railway",
+		"text_description": "<p>The Philippine Commission authorizes the construction of the Panay Railway. Panay and Cebu will be the only islands outside Luzon to have a railway</p>",
+		"category": 8,
+		"start_month": 5,
+		"start_day": 28,
+		"start_year": 1906,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 28, "year": 1906 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1907 Session Road Belgian Fathers",
+		"text_description": "<p>The CICM missionaries or Belgian Fathers open a house on Session Rd. The following year they remodel the house for a convent and chapel. St. Louis University, founded by Fr Serafin Devesse, CICM, opens on this site.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1907,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1907 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1922 Pacific Commercial",
+		"text_description": "<p>Pacific Commercial Co. Bldg in Escolta is completed. Photo: Pacific Commercial Co. Bldg, 1968 (American Geographical Society Library, John Tewell Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1922,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1922 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1926 San Vicente",
+		"text_description": "<p>San Vicente de Paul Church in San Marcelino St, designed in the Neoclassical style by Andres Luna de San Pedro, is completed. Photo: San Vicente de Paul Church (Photo from Mello Villareal)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1926,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1926 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1935 Colegio de San Carlos",
+		"text_description": "<p>The Colegio de San Carlos, Cebu, both seminary and college, are turned over to the Society of the Divine Word (SVD), who build a new campus on Rosario St. (Photo from Cebuano Studies Center, University of San Carlos)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1935,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1935 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1973 Juan F. Nakpil",
+		"text_description": "<p>Juan F. Nakpil becomes the first Filipino architect to be recognized as National Artist for Architecture. Among his major works are UP Administration and University Library, Rizal Theater, Capitol Theater, Manila Jockey Club, and the reconstructed house of Jose Rizal in Calamba, Laguna.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1973,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1973 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1976 Pablo S. Antonio",
+		"text_description": "<p>The National Artist Award for Architecture is given to Pablo S. Antonio. His major works include Manila Polo Club, Ideal Theater, Lyric Theater, FEU Administration and Science Buildings, Ramon Roces Publications (now Guzman Institute of Electronics), and Boulevard-Alhambra (now Bel-Air Apartments).</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1976,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1976 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1990 Leandro V. Locsin",
+		"text_description": "<p>The National Artist Award for Architecture is conferred on Leandro V. Locsin. His most well-known works include the CCP, PICC, UP Chapel of Holy Sacrifice, and Church of the Monastery of Transfiguration.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1990,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1990 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 2006 Ildefonso P. Santos",
+		"text_description": "<p>The Order of National Artist for Architecture is awarded to Ildefonso P. Santos Jr. Among his major works are the Orchard Golf and Country Club in Imus, Tagaytay Highland Resort, and Mt. Malarayat Golf and Country Club in Lipa.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2006,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2006 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 2014 Jose Maria V. Zaragoza",
+		"text_description": "<p>Jose Maria V. Zaragoza becomes the fifth Filipino architect to be given the National Artist Award for Architecture. His major works include the Santo Domingo Church, Convent of the Pink Sisters, Union Church, and Villa San Miguel.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2014,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2014 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

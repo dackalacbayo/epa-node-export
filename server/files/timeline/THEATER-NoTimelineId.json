@@ -1,0 +1,716 @@
+[
+	{
+		"timeline_id": null,
+		"media_caption": "<p>The <em>talik lango</em> or fly dance as performed by a Pinatubo Aeta woman, 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Theater 35,000 rc years Pinatubo",
+		"text_description": "<p>5000 years after the Mount Pinatubo eruption, mimetic performances and rituals are performed by the Pinatubo Aeta. Photo: The <em>talik lango</em> or fly dance as performed by a Pinatubo Aeta woman, 1990. (CCP Collection)</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": -1000,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "35,000 radiocarbon years before present",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": -1000 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>A Mandaya babaylan in Compostela Valley Province, 2012 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Germelina Lacorte</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Theater Before 1521 babaylan",
+		"text_description": "<p>Before Western imperial conquest, the <em>babaylan</em> or native shaman reigns supreme in officiating rituals for individuals and community. They are regarded by scholars as the first performance artists in Philippine theater history. Photo: A Mandaya babaylan in Compostela Valley Province, 2012 (Germelina Lacorte)</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1521,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 1521,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "Before 1521",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1521 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": 1521 }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p><em>Moriones</em> with <em>sinakulo</em> in Marinduque, 2016</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Renz Tuazon</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Theater Late 16th century moriones",
+		"text_description": "<p>Hispanic culture, particularly Mexican, is introduced to the colony. The <em>moryon/moriones</em> reaches the Philippines, as well as the <em>panunuluyan, pastores, moros y cristianos</em>, and other theater forms. Photo: <em>Moriones</em> with <em>sinakulo</em> in Marinduque, 2016 (Renz Tuazon)</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 0,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 1815,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "Late 16th century - 1815",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": 1815 }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 1749 baptism",
+		"text_description": "<p>Comedias are performed in Binondo, Manila on the occasion of the baptism to Christianity of Muhammad Alimudin, Sultan of Sulu.</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1749,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1749 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p><em>Jugar con Fuego: Zarzuela en tres actos</em> by Ventura de la Vega, 1853</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Biblioteca Digital de Madrid</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Theater 1851 Jugar con fuego",
+		"text_description": "<p><em>Jugar con Fuego</em>, a Spanish zarzuela by librettist Ventura de la Vega and composer Francisco Asenjo Barbieri, premieres in Madrid. Considered the first zarzuela, it represents the affirmation of Spanish identity via-a-vis the French opéra comique. (Photo from Biblioteca Digital de Madrid)</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1851,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1851 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 19th c. agriculture",
+		"text_description": "<p>Many members of the landed families, wealthy because of commerce and trade in agriculture, begin producing, writing, starring, and/or directing local komedya. The Carcar, Valladolid, Cebu case is documented by Resil Mojares (1985) may be typical.</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1800,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 1900,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "19th c.",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1800 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": 1900 }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 19th c. theater prod",
+		"text_description": "<p>Theater productions flourish in Manila with the support of salaried employees.</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1800,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 1900,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "19th c.",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1800 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": 1900 }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>Chito Madrigal and Severino Montano, center, in <em>The Love of Leonor Rivera</em>, 1952</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Naty Crame-Rogers</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Theater 1952 The Love of Leonor Rivera",
+		"text_description": "<p><em>The Love of Leonor Rivera</em>, the most famous play by Severino Montano, is first staged by the Arena Theater of the Philippines at the Ladies’ Dormitory of the Philippines Normal College in Manila. (Photo from Naty Crame-Rogers)</p>",
+		"category": 7,
+		"start_month": 11,
+		"start_day": 26,
+		"start_year": 1952,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 1952,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 26, "year": 1952 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": 1952 }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>Arena Theater’s <em>Sabina</em>, Philippine Normal College, Manila, 1953</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Naty Crame-Rogers</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Theater 1953 Montano plays",
+		"text_description": "Arena Theater of the Philippines stages Severino Montano’s <em>Sabina</em> (in photo), <em>Parting at Calamba</em>, <em>The Love of Leonor Rivera</em>, and <em>The Ladies and the Senator</em>. (Photo from Naty Crame-Rogers)",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1953,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1953 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 1969 Kalbaryo ni Juan de la Cruz Tondo",
+		"text_description": "<p><em>Kalbaryo ni Juan de la Cruz</em> is performed by Tanghalang Bayan in the streets of Tondo.</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1969,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1969 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 1975 PAVT inauguration",
+		"text_description": "<p>Palihang Aurelio V. Tolentino (PAVT), a playwriting workshop and contest designed and coordinated by a group led by Nicanor G. Tiongson, is inaugurated.</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1974,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1974 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 1975 Palanca full-length category",
+		"text_description": "<p>The Don Carlos Palanca Memorial Awards for Literature institutes an award for the full-length play category, in Filipino and English.</p>",
+		"category": 7,
+		"start_month": null,
+		"start_day": null,
+		"start_year": null,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": null }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 1979 Hilgaynon A Portrait of the Artist as Filipino",
+		"text_description": "The Hiligaynon translation by Edward Defensor of Nick Joaquin’s <em>A Portrait of the Artist as Filipino</em> is Teatro Amakan’s initial production, in UP College Iloilo, Iloilo City.",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1979,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1979 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 1980 UST Artistang Artlets",
+		"text_description": "<p>Al Santos’s <em>Mayo A-Beinte Uno</em> inaugurates UST’s Artistang Artlets.</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1980,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1980 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 1988 Bugkos",
+		"text_description": "<p>Bugkos, a national alliance of cause-oriented theater and cultural groups, is formalized.</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1988,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 1988,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1988 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": 1988 }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p><em>Hinilawod</em> performed by the Dagyaw Theater and Dance Company, 1992</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from NCCA</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Theater 1992 Unang Tagpo performance",
+		"text_description": "<p>The Unang Tagpo: The CCP National Theater Festival features eight plays from Metro Manila and eight from different regions outside Manila. Photo: <em>Hinilawod</em> performed by the Dagyaw Theater and Dance Company, 1992 (NCCA)</p>",
+		"category": 7,
+		"start_month": null,
+		"start_day": null,
+		"start_year": null,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": null }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 1992 PATDAT",
+		"text_description": "<p>Philippine Association of Theatre Designers and Technicians–Organization Internationale des Scenographes, Techniciens et Architects de Theatre (PATDAT–OISTAT) is organized by Salvador F. Bernal.</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1992,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1992 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 1994 CCP EPA",
+		"text_description": "<p>The <em>CCP Encyclopedia of Philippine Art</em>, with one volume dedicated to Philippine theater, is published.</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1994,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1994 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 1994 Gawad CCP Naty Crame-Rogers",
+		"text_description": "<p>Natividad \"Naty\" Crame-Rogers is the Theater awardee of the Gawad CCP para sa Sining.</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1994,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1994 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 1999 Palasyo ni Valentin",
+		"text_description": "<p><em>Palasyo ni Valentin</em> by Mario O’Hara is first staged, under the direction of Tony Mabesa, by the UP Playwrights Theater at UP Diliman. </p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1999,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1999 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 2007 CAST",
+		"text_description": "<p>The Collective Arts of Students and Thespians (CAST) presents Aurelio Tolentino's <em>Kahapon, Ngayon at Bukas</em> for the inauguration of University of Makati Main Theater.</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2007,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2007 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

@@ -1,0 +1,35 @@
+[
+	{
+		"timeline_id": 3181,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1543 Filipinas name",
+		"text_description": "<p>The name Filipinas is extended to the rest of the Philippine archipelago, creating a territory now known as the Philippines where the traditions of European architecture will take root.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1543,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net//multimedia/photo/1/2/2327_map.jpg",
+		"shorten_media": "https://dev-epa.info-aid.net//multimedia/photo/1/2/2327_map",
+		"display_name": null,
+		"photo_id": null,
+		"url": "3181",
+		"article_id": 3181,
+		"photo_name": "https://dev-epa.info-aid.net//multimedia/photo/1/2/2327_map",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1543 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

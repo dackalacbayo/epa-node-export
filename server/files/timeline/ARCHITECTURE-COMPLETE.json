@@ -1,0 +1,5714 @@
+[
+	{
+		"id": 4594,
+		"timeline_id": 484,
+		"media_caption": "<p>Balay Negrense Museum in Silay City, 2017</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Jennifer Flores Calica-Leonardo</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1897 Victor Fernandez Gaston",
+		"text_description": "<p>The Victor Fernandez Gaston heritage house in Silay, Negros Occidental, aka Balay Negrense, is built. It is now a house museum, marked by NHI in 1994. Photo: Balay Negrense Museum in Silay City, 2017 (Jennifer Flores Calica-Leonardo)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1897,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/1/2/2349_ArchitectureandCommunityPlanning_2.jpg",
+		"shorten_media": "2349_ArchitectureandCommunityPlanning_2",
+		"display_name": null,
+		"photo_id": 4594,
+		"url": "484",
+		"article_id": 484,
+		"photo_name": "2349_ArchitectureandCommunityPlanning_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1897 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 477,
+		"timeline_id": 488,
+		"media_caption": "<p>Don Mariano Mercado House, ca 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1899 Nyor Mercado House",
+		"text_description": "<p>The Nyor Mercado House in Carcar, Cebu is constructed. Photo: Don Mariano Mercado House, ca 1990 (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1899,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_CarcarPoblacion_6.jpg",
+		"shorten_media": "A_HA_CarcarPoblacion_6",
+		"display_name": null,
+		"photo_id": 477,
+		"url": "488",
+		"article_id": 488,
+		"photo_name": "A_HA_CarcarPoblacion_6",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1899 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 14,
+		"timeline_id": 489,
+		"media_caption": "<p>Insular Ice Plant in Manila, ca 1920</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Edward Delos Santos/Pinoy Kollekto</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1902 Insular Ice Plant",
+		"text_description": "<p>The Insular Ice Plant and Cold Storage is built. Designed by Edgar Bourne in the Neoclassical style, it is made of brick and is located at the foot of Quiapo Bridge on the Pasig’s southern bank. It is demolished in 1984 to make way for LRT 1. Photo: Insular Ice Plant in Manila, ca 1920 (Edward Delos Santos/Pinoy Kollektor)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1902,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_(1900_ONWARD)_2.jpg",
+		"shorten_media": "A_HE_(1900_ONWARD)_2",
+		"display_name": null,
+		"photo_id": 14,
+		"url": "489",
+		"article_id": 489,
+		"photo_name": "A_HE_(1900_ONWARD)_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1902 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1466,
+		"timeline_id": 490,
+		"media_caption": "<p>The Manila Grand Opera House on Avenida Rizal, Manila ca 1920s</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1902 Manila Grand Opera House",
+		"text_description": "<p>The Manila Grand Opera House in Manila is completed. Photo: Manila Grand Opera House, ca 1920 (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1902,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Phil1897_1.jpg",
+		"shorten_media": "F_HE_Phil1897_1",
+		"display_name": null,
+		"photo_id": 1466,
+		"url": "490",
+		"article_id": 490,
+		"photo_name": "F_HE_Phil1897_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1902 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 456,
+		"timeline_id": 492,
+		"media_caption": "<p>Prewar cottages in Camp John Hay</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1907 Camp John Hay",
+		"text_description": "<p>A summer residence for the American commanding general is built in Camp John Hay. Photo: Prewar cottages in Camp John Hay, ca 1920 (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1907,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_BaguioHeritageArea_2.jpg",
+		"shorten_media": "A_HA_BaguioHeritageArea_2",
+		"display_name": null,
+		"photo_id": 456,
+		"url": "492",
+		"article_id": 492,
+		"photo_name": "A_HA_BaguioHeritageArea_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1907 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 561,
+		"timeline_id": 498,
+		"media_caption": "<p>Manila City Hall, ca 1950</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1941 Manila City Hall",
+		"text_description": "<p>The Manila City Hall, designed by Antonio Toledo in the Neoclassical style, is completed. Photo: Manila City Hall, ca 1950 (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1941,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_TaftAvenueHeritageArea_7.jpg",
+		"shorten_media": "A_HA_TaftAvenueHeritageArea_7",
+		"display_name": null,
+		"photo_id": 561,
+		"url": "498",
+		"article_id": 498,
+		"photo_name": "A_HA_TaftAvenueHeritageArea_7",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1941 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 411,
+		"timeline_id": 509,
+		"media_caption": "<p>San Miguel Corporation Building in Mandaluyong City, 2008</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>San Miguel Corporation</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1984 SMC",
+		"text_description": "<p>San Miguel Corporation (SMC) Head Office, designed by Francisco Mañosa, is completed. It is characterized as an environment friendly building, which minimizes the use of electricity. Photo: SMC Bldg in Mandaluyong City, 2008 (San Miguel Corporation)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1984,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_SanMiguelCorporationHeadOfficeComplex_1.jpg",
+		"shorten_media": "A_STRUCT_SanMiguelCorporationHeadOfficeComplex_1",
+		"display_name": null,
+		"photo_id": 411,
+		"url": "509",
+		"article_id": 509,
+		"photo_name": "A_STRUCT_SanMiguelCorporationHeadOfficeComplex_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1984 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 96,
+		"timeline_id": 1224,
+		"media_caption": "<p>Balay na Tisa or Sarmiento-Osmeña bahay na bato in Carcar, Cebu, 2013, exemplifying arquitectura mestiza</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo fby Constantine Agustin</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1859 balay na tisa",
+		"text_description": "<p>The <em>balay na tisa</em> in Carcar, Cebu is built. It is declared heritage house by NHI on 4 Sep 2009. Photo: Balay na Tisa or Sarmiento-Osme&ntilde;a <em>bahay na bato</em>, 2013 (Constantine Agustin)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1859,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://info-aid.net/dev-epa/multimedia/photo/2/5/A_FAT_BahaynaBato_2.jpg",
+		"shorten_media": "A_FAT_BahaynaBato_2",
+		"display_name": null,
+		"photo_id": 96,
+		"url": "1224",
+		"article_id": 1224,
+		"photo_name": "A_FAT_BahaynaBato_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1859 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 360,
+		"timeline_id": 1233,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1865 Manila Observatory",
+		"text_description": "<p>Federico Faura SJ establishes the Manila Observatory on the roof of the Jesuits&rsquo; Casa Mision in Intramuros.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1865,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://info-aid.net/dev-epa/multimedia/photo/2/8/A_STRUCT_ManilaObservatory_1.jpg",
+		"shorten_media": "A_STRUCT_ManilaObservatory_1",
+		"display_name": null,
+		"photo_id": 360,
+		"url": "1233",
+		"article_id": 1233,
+		"photo_name": "A_STRUCT_ManilaObservatory_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1865 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 62,
+		"timeline_id": 1249,
+		"media_caption": "<p>Manila Cathedral, ca 1910</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Ortigas Foundation Library</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1879 seventh Manila Cathedral ",
+		"text_description": "<p>The seventh Manila Cathedral is finished under the supervision of Arch Luciano Oliver. This cathedral in Neoromanesque style is bombed in 1945. Photo: Manila Cathedral, ca 1910 (Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1879,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_philippinearchi_3.jpg",
+		"shorten_media": "A_HE_philippinearchi_3",
+		"display_name": null,
+		"photo_id": 62,
+		"url": "1249",
+		"article_id": 1249,
+		"photo_name": "A_HE_philippinearchi_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1879 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 410,
+		"timeline_id": 1253,
+		"media_caption": "<p>Church of San Luis in Pampanga, 2005</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Franz Allan Rodriguez</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1883 San Luis Church",
+		"text_description": "<p>Before this year, San Luis Church in Pampanga is completed. Photo: San Luis Church, 2005 (Franz Allan Rodriguez)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1883,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_SanLuisChurch_1.jpg",
+		"shorten_media": "A_STRUCT_SanLuisChurch_1",
+		"display_name": null,
+		"photo_id": 410,
+		"url": "1253",
+		"article_id": 1253,
+		"photo_name": "A_STRUCT_SanLuisChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1883 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 469,
+		"timeline_id": 1255,
+		"media_caption": "<p>La Insular Cigar Factory, ca 1920</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Edward Delos Santos/Pinoy Kollektor</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1884 La Insular",
+		"text_description": "<p>La Insular Cigarette Factory, designed by Juan Jose Hervas in the Neomudejar style, is established beside the Binondo church. Photo: La Insular Cigar Factory, ca 1920 (Edward Delos Santos/Pinoy Kollektor)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1884,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_BinondoHeritageArea_5.jpg",
+		"shorten_media": "A_HA_BinondoHeritageArea_5",
+		"display_name": null,
+		"photo_id": 469,
+		"url": "1255",
+		"article_id": 1255,
+		"photo_name": "A_HA_BinondoHeritageArea_5",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1884 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 584,
+		"timeline_id": 1256,
+		"media_caption": "<p>Taluksangay Mosque, built by the Nuño family</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1885 Talungsangay",
+		"text_description": "<p>Taluksangay Mosque (in photo), built by Hadji Abdullah Maas Nuño, becomes a center of Islamic studies and jurisprudence.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1885,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_ZamboangaCityPoblacion_5.jpg",
+		"shorten_media": "A_HA_ZamboangaCityPoblacion_5",
+		"display_name": null,
+		"photo_id": 584,
+		"url": "1256",
+		"article_id": 1256,
+		"photo_name": "A_HA_ZamboangaCityPoblacion_5",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1885 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 360,
+		"timeline_id": 1260,
+		"media_caption": "<p>Manila Observatory on Padre Faura Street in Manila</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Philippine Picture Post Cards: 1900-1920 by Jonathan Best. The Bookmark, Inc, 1994.</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1886 Manila Observatory",
+		"text_description": "<p>Ruperto Iba&ntilde;ez designs the Neoclassical buildings for the Manila Observatory at Ermita. (Photo from Philippine Picture Post Cards: 1900-1920 by Jonathan Best. The Bookmark, Inc, 1994.)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1886,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_ManilaObservatory_1.jpg",
+		"shorten_media": "A_STRUCT_ManilaObservatory_1",
+		"display_name": null,
+		"photo_id": 360,
+		"url": "1260",
+		"article_id": 1260,
+		"photo_name": "A_STRUCT_ManilaObservatory_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1886 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 11,
+		"timeline_id": 1261,
+		"media_caption": "<p>Train station in Tutuban, Manila</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Philippine Picture Post Cards: 1900-1920 by Jonathan Best, The Bookmark, Inc, 1994</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1887 Tutuban Railroad Station",
+		"text_description": "<p>Tutuban Railroad Station in Manila, is completed. It uses refabricated steel parts manufactured in England. Photo: Tutuban train station (Photo from Philippine Picture Post Cards: 1900-1920 by Jonathan Best, The Bookmark, Inc, 1994)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1887,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_(1565_ONWARD)_11.jpg",
+		"shorten_media": "A_HE_(1565_ONWARD)_11",
+		"display_name": null,
+		"photo_id": 11,
+		"url": "1261",
+		"article_id": 1261,
+		"photo_name": "A_HE_(1565_ONWARD)_11",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1887 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 470,
+		"timeline_id": 1262,
+		"media_caption": "<p>Hotel de Oriente</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo colorized by Eduardo S. Sison, John Tewell Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1888 Hotel el Oriente",
+		"text_description": "<p>Hotel el Oriente (in photo), facing Plaza Calderon in Binondo and designed by Juan Hervas, opens. It is the first modern hotel in Manila, with running hot and cold shower and in suite bathrooms, electricity, telephone service, and a restaurant that serves international cuisine. (Photo colorized by Eduardo S. Sison, John Tewell Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1888,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_BinondoHeritageArea_6.jpg",
+		"shorten_media": "A_HA_BinondoHeritageArea_6",
+		"display_name": null,
+		"photo_id": 470,
+		"url": "1262",
+		"article_id": 1262,
+		"photo_name": "A_HA_BinondoHeritageArea_6",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1888 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 309,
+		"timeline_id": 1264,
+		"media_caption": "<p>Goldenberg Mansion facade in Manila, 2011</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>National Historical Commission of the Philippines</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1890 Goldenberg Mansion",
+		"text_description": "<p>The Goldenberg Mansion in San Miguel, Manila is constructed. During martial law (1972-1981), it is refurbished and used as a Malacañan guest house in the San Miguel district. Photo: Goldenberg Mansion facade, 2011 (National Historical Commission of the Philippines)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1890,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_GoldenbergMansion_1.jpg",
+		"shorten_media": "A_STRUCT_GoldenbergMansion_1",
+		"display_name": null,
+		"photo_id": 309,
+		"url": "1264",
+		"article_id": 1264,
+		"photo_name": "A_STRUCT_GoldenbergMansion_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1890 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 335,
+		"timeline_id": 1266,
+		"media_caption": "<p>Lazi Convento, ca 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1891 Lazi Convento",
+		"text_description": "<p>The Lazi Convento of the Recollects in Lazi, Siqujor, is completed. The convento has the reputation of being the largest in the Philippines. Photo: Lazi Convento, ca 1990 (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1891,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_LaziChurch_1.jpg",
+		"shorten_media": "A_STRUCT_LaziChurch_1",
+		"display_name": null,
+		"photo_id": 335,
+		"url": "1266",
+		"article_id": 1266,
+		"photo_name": "A_STRUCT_LaziChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1891 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 360,
+		"timeline_id": 1267,
+		"media_caption": "<p>Manila Observatory on Padre Faura Street in Manila</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Philippine Picture Post Cards: 1900-1920 by Jonathan Best, The Bookmark, Inc, 1994</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1891 Manila observatory astronomical",
+		"text_description": "<p>An astronomical observatory is completed at Ermita (Padre Faura St.) for the Manila Observatory (in photo). (Philippine Picture Post Cards: 1900-1920 by Jonathan Best, The Bookmark, Inc, 1994)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1891,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_ManilaObservatory_1.jpg",
+		"shorten_media": "A_STRUCT_ManilaObservatory_1",
+		"display_name": null,
+		"photo_id": 360,
+		"url": "1267",
+		"article_id": 1267,
+		"photo_name": "A_STRUCT_ManilaObservatory_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1891 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 273,
+		"timeline_id": 1269,
+		"media_caption": "<p>Cape Bojeador Lighthouse in Ilocos Norte, 2013</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Emir Sicangco</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1892 Cape Bojeador",
+		"text_description": "<p>The Cape Bojeador Lighthouse in Burgos, Ilocos Norte is completed. Photo: Cape Bojeador Lighthouse, 2013 (Emir Sicangco)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1892,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_CapeBojeadorLighthouse_1.jpg",
+		"shorten_media": "A_STRUCT_CapeBojeadorLighthouse_1",
+		"display_name": null,
+		"photo_id": 273,
+		"url": "1269",
+		"article_id": 1269,
+		"photo_name": "A_STRUCT_CapeBojeadorLighthouse_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1892 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 494,
+		"timeline_id": 1271,
+		"media_caption": "<p>Casa Redonda, rebuilt according to the plans of the original octagonal hut by Jose Rizal</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Carmelo Bayarcal</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1893 Jose Rizal Talisay",
+		"text_description": "<p>Jose Rizal builds houses in Talisay, Dapitan, Zamboanga del Norte. He builds a residence, a school, and the casa redonda, an octagonal house for a clinic. Then he begins the waterworks for Talisay with the assistance of Bro. Juan Costa SJ in preparation for his model farm which will use modern methods of agriculture.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1893,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_DapitanHeritageZone_4.jpg",
+		"shorten_media": "A_HA_DapitanHeritageZone_4",
+		"display_name": null,
+		"photo_id": 494,
+		"url": "1271",
+		"article_id": 1271,
+		"photo_name": "A_HA_DapitanHeritageZone_4",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1893 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1826,
+		"timeline_id": 1273,
+		"media_caption": "<p>Stage, orchestra, and balconies of the Teatro Zorrilla, Calle Azcaragga (now Claro M. Recto Avenue), Manila, 1911, where operas, sarsuwela, concerts, and other musical events were held in the first decades of the American period </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Filipinas Heritage Library</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1893 Teatro Circo Zorrilla",
+		"text_description": "<p>Teatro Circo Zorrilla on Calzada de Iris (now C. M. Recto) is inaugurated. Photo: Teatro Zorrilla, 1911 (Filipinas Heritage Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1893,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/5/34/M_HE_AmericanTrad_18.jpg",
+		"shorten_media": "M_HE_AmericanTrad_18",
+		"display_name": null,
+		"photo_id": 1826,
+		"url": "1273",
+		"article_id": 1273,
+		"photo_name": "M_HE_AmericanTrad_18",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1893 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 389,
+		"timeline_id": 1274,
+		"media_caption": "<p>Church of Santo Tomas Villanueva in Pardo, Cebu, ca 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1893 Pardo Church",
+		"text_description": "<p>Pardo Church in Cebu, commenced in 1880, is completed. Photo: Pardo Church, 1990 (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1893,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_PardoChurch_1.jpg",
+		"shorten_media": "A_STRUCT_PardoChurch_1",
+		"display_name": null,
+		"photo_id": 389,
+		"url": "1274",
+		"article_id": 1274,
+		"photo_name": "A_STRUCT_PardoChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1893 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 521,
+		"timeline_id": 1275,
+		"media_caption": "<p>Lourdes Church after World War II</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1894 Capuchin Church",
+		"text_description": "<p>The Capuchin Church of Nuestra Señora de Lourdes in the Romanesque Revival style in Intramuros is completed.The church is damaged during World War II and not rebuilt. The Capuchins rebuild in Quezon City after World War II. (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1894,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_IntramurosHeritageArea_7.jpg",
+		"shorten_media": "A_HA_IntramurosHeritageArea_7",
+		"display_name": null,
+		"photo_id": 521,
+		"url": "1275",
+		"article_id": 1275,
+		"photo_name": "A_HA_IntramurosHeritageArea_7",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1894 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 429,
+		"timeline_id": 1283,
+		"media_caption": "<p>American-period Silliman Hall of Silliman University in Dumaguete City</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Nicanor G. Tiongson Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1903 Silliman Hall",
+		"text_description": "<p>Silliman Hall in Silliman University in Dumaguete City is built. Photo: American-period Silliman Hall of Silliman University in Dumaguete City (Nicanor G. Tiongson Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1903,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_SillimanUniversity_1.jpg",
+		"shorten_media": "A_STRUCT_SillimanUniversity_1",
+		"display_name": null,
+		"photo_id": 429,
+		"url": "1283",
+		"article_id": 1283,
+		"photo_name": "A_STRUCT_SillimanUniversity_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1903 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 493,
+		"timeline_id": 1285,
+		"media_caption": "<p>Church of Santiago</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Carmelo Bayarcal</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1904 Dapitan Church",
+		"text_description": "<p>Dapitan Church of Santiago in Zamboanga del Norte is completed. Photo: Church of Santiago (Carmelo Bayarcal)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1904,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_DapitanHeritageZone_3.jpg",
+		"shorten_media": "A_HA_DapitanHeritageZone_3",
+		"display_name": null,
+		"photo_id": 493,
+		"url": "1285",
+		"article_id": 1285,
+		"photo_name": "A_HA_DapitanHeritageZone_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1904 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 455,
+		"timeline_id": 1288,
+		"media_caption": "<p>Kennon Road to Baguio, popularly known as the Zigzag, ca 1915</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>John Tewell Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1905 Kennon Road",
+		"text_description": "<p>Kennon Road is completed, as are the lagoon in Burnham Park and the Baguio Country Club, the latter in Stick-style using wood and thatch. Photo: Kennon Road, ca 1915 (John Tewell Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1905,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_BaguioHeritageArea_1.jpg",
+		"shorten_media": "A_HA_BaguioHeritageArea_1",
+		"display_name": null,
+		"photo_id": 455,
+		"url": "1288",
+		"article_id": 1288,
+		"photo_name": "A_HA_BaguioHeritageArea_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1905 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 485,
+		"timeline_id": 1290,
+		"media_caption": "<p>Yap-Sandiego Ancestral House, 2004</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Wikimedia Commons</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1905 Yap house",
+		"text_description": "<p>Yap house in Carcar, Cebu is constructed, later renovated in 1936. Photo: Yap-Sandiego Ancestral House, 2004 (Wikimedia Commons)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1905,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_CebuHeritageArea_7.jpg",
+		"shorten_media": "A_HA_CebuHeritageArea_7",
+		"display_name": null,
+		"photo_id": 485,
+		"url": "1290",
+		"article_id": 1290,
+		"photo_name": "A_HA_CebuHeritageArea_7",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1905 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 563,
+		"timeline_id": 1293,
+		"media_caption": "<p>American-period Central United Methodist Church</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1906 Central United Methodist Church",
+		"text_description": "<p>Central United Methodist Church on T. M. Kalaw is built, designed by Juan Arellano. Photo: American-period Central United Methodist Church (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1906,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_TaftAvenueHeritageArea_9.jpg",
+		"shorten_media": "A_HA_TaftAvenueHeritageArea_9",
+		"display_name": null,
+		"photo_id": 563,
+		"url": "1293",
+		"article_id": 1293,
+		"photo_name": "A_HA_TaftAvenueHeritageArea_9",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1906 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 457,
+		"timeline_id": 1295,
+		"media_caption": "<p>Prewar Mansion House</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Edward Delos Santos/Pinoy Kollektor</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1908 Mansion House",
+		"text_description": "<p>The Mansion House in Baguio (in photo), designed by William E. Parsons in the Neoclassical style and constructed as official summer residence of American governor general, is completed. And so are Baguio General Hospital; 80 residential cottages at government center in Baguio; and Baguio Market. (Photo from Edward Delos Santos/Pinoy Kollektor)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1908,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_BaguioHeritageArea_3.jpg",
+		"shorten_media": "A_HA_BaguioHeritageArea_3",
+		"display_name": null,
+		"photo_id": 457,
+		"url": "1295",
+		"article_id": 1295,
+		"photo_name": "A_HA_BaguioHeritageArea_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1908 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 464,
+		"timeline_id": 1296,
+		"media_caption": "<p>American-period Mirador Hill</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1908 Mirador Hill",
+		"text_description": "<p>The Jesuits build a house on top of Mirador Hill; one wing is used by the Manila Observatory. Photo: American-period Mirador Hill (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1908,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_BaguioHeritageArea_10.jpg",
+		"shorten_media": "A_HA_BaguioHeritageArea_10",
+		"display_name": null,
+		"photo_id": 464,
+		"url": "1296",
+		"article_id": 1296,
+		"photo_name": "A_HA_BaguioHeritageArea_10",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1908 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 259,
+		"timeline_id": 1297,
+		"media_caption": "<p>American-period Army and Navy Club in Manila</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1908 Army Navy Club",
+		"text_description": "<p>The Army-Navy Club at the Luneta, designed by William E. Parsons, is completed. Photo: American-period Army and Navy Club (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1908,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_ArmyandNavyClub_1.jpg",
+		"shorten_media": "A_STRUCT_ArmyandNavyClub_1",
+		"display_name": null,
+		"photo_id": 259,
+		"url": "1297",
+		"article_id": 1297,
+		"photo_name": "A_STRUCT_ArmyandNavyClub_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1908 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 460,
+		"timeline_id": 1298,
+		"media_caption": "<p>Baguio City Hall, ca 1925</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Ben Cabrera Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1910 Baguio City Hall",
+		"text_description": "<p>The Baguio Government Complex is built using wood. The Baguio City Hall is completed in the Stick-style. Photo: Baguio City Hall, ca 1925 (Ben Cabrera Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1910,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_BaguioHeritageArea_6.jpg",
+		"shorten_media": "A_HA_BaguioHeritageArea_6",
+		"display_name": null,
+		"photo_id": 460,
+		"url": "1298",
+		"article_id": 1298,
+		"photo_name": "A_HA_BaguioHeritageArea_6",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1910 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 20,
+		"timeline_id": 1300,
+		"media_caption": "<p>Prewar YMCA Building in Manila</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1910 YMCA Manila",
+		"text_description": "<p>YMCA Manila, designed by William Parsons, is built. Photo: Prewar YMCA Building in Manila (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1910,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_(1900_ONWARD)_8.jpg",
+		"shorten_media": "A_HE_(1900_ONWARD)_8",
+		"display_name": null,
+		"photo_id": 20,
+		"url": "1300",
+		"article_id": 1300,
+		"photo_name": "A_HE_(1900_ONWARD)_8",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1910 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 19,
+		"timeline_id": 1301,
+		"media_caption": "<p>Prewar Philippine General Hospital in Manila</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1910 Philippine General Hospital",
+		"text_description": "<p>The Philippine General Hospital, designed by William Parsons in the Mission Revival style, is completed. Photo: Prewar Philippine General Hospital in Manila (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1910,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_(1900_ONWARD)_7.jpg",
+		"shorten_media": "A_HE_(1900_ONWARD)_7",
+		"display_name": null,
+		"photo_id": 19,
+		"url": "1301",
+		"article_id": 1301,
+		"photo_name": "A_HE_(1900_ONWARD)_7",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1910 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 557,
+		"timeline_id": 1305,
+		"media_caption": "<p>Elks Club at the foreground and Army and Navy Club at the background before World War II</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1911 Elks Club",
+		"text_description": "<p>Elks Club in Luneta, Manila, designed by William Parsons, is completed. Photo: Prewar Elks Club (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1911,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_TaftAvenueHeritageArea_3.jpg",
+		"shorten_media": "A_HA_TaftAvenueHeritageArea_3",
+		"display_name": null,
+		"photo_id": 557,
+		"url": "1305",
+		"article_id": 1305,
+		"photo_name": "A_HA_TaftAvenueHeritageArea_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1911 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 359,
+		"timeline_id": 1306,
+		"media_caption": "<p>Prewar Manila Hotel</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1912 Manila Hotel",
+		"text_description": "<p>Manila Hotel, designed by William Parsons and begun in 1909, is inaugurated. Photo: Prewar Manila Hotel (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1912,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_ManilaHotel_1.jpg",
+		"shorten_media": "A_STRUCT_ManilaHotel_1",
+		"display_name": null,
+		"photo_id": 359,
+		"url": "1306",
+		"article_id": 1306,
+		"photo_name": "A_STRUCT_ManilaHotel_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1912 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 583,
+		"timeline_id": 1310,
+		"media_caption": "<p>Don Francisco Barrios residence, built in the 1860s, now Bank of the Philippine Islands Zamboanga main office, 2017</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Eduardo Flores Jr</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1912 BPI",
+		"text_description": "<p>BPI opens branch at Zamboanga at the ground floor of a house built by Don Francisco Barrios in the 1870s and renovated as the official residence of Gov Maj John “Black Jack” Pershing. Photo: Former Pershing residence repurposed as the main office of BPI Zamboanga, 2017 (Eduardo Flores Jr)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1912,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_ZamboangaCityPoblacion_4.jpg",
+		"shorten_media": "A_HA_ZamboangaCityPoblacion_4",
+		"display_name": null,
+		"photo_id": 583,
+		"url": "1310",
+		"article_id": 1310,
+		"photo_name": "A_HA_ZamboangaCityPoblacion_4",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1912 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 269,
+		"timeline_id": 1311,
+		"media_caption": "<p>Bradford Memorial Church, ca 1913-24, Cebu City</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Cebuano Studies Center, University of San Carlos</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1912 Bradford Memorial Church",
+		"text_description": "<p>Bradford Memorial Church is completed in Neogothic style. It is the oldest Protestant church in Cebu. It is restored in 2013. Photo: American-period Bradford Memorial Church in Cebu City (Cebuano Studies Center, University of San Carlos)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1912,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_BradfordMemorialChurch_1.jpg",
+		"shorten_media": "A_STRUCT_BradfordMemorialChurch_1",
+		"display_name": null,
+		"photo_id": 269,
+		"url": "1311",
+		"article_id": 1311,
+		"photo_name": "A_STRUCT_BradfordMemorialChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1912 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 4536,
+		"timeline_id": 1578,
+		"media_caption": "<p>Banaue Rice Terraces, ca 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 610 Bunghalian rice terraces",
+		"text_description": "<p>The rice terraces in Bunghalian, Ifugao are constructed.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 610,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://info-aid.net/dev-epa/multimedia/photo/1/2/2347_History_1.jpg",
+		"shorten_media": "2347_History_1",
+		"display_name": null,
+		"photo_id": 4536,
+		"url": "1578",
+		"article_id": 1578,
+		"photo_name": "2347_History_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 610 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 29,
+		"timeline_id": 1584,
+		"media_caption": "<p>Convention Center in Iloilo City, built in 2015</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Iloilo Business Park</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 2015 Iloilo Convention Center",
+		"text_description": "<p>The Iloilo Convention Center (in photo) in Manduriao, designed by William Coscolluela, is completed for the APEC convention in November. (Photo from Iloilo Business Park)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2015,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_FIFTH_REPUBLIC_(1986_ONWARD)_1.jpg",
+		"shorten_media": "A_HE_FIFTH_REPUBLIC_(1986_ONWARD)_1",
+		"display_name": null,
+		"photo_id": 29,
+		"url": "1584",
+		"article_id": 1584,
+		"photo_name": "A_HE_FIFTH_REPUBLIC_(1986_ONWARD)_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2015 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 80,
+		"timeline_id": 1588,
+		"media_caption": "<p>Zuellig Building, the first LEED-certified “green” high-rise building in the Philippines, 2016</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Kiko del Rosario</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 2012 Zuellig Bldg",
+		"text_description": "<p>The Zuellig Bldg in Makati, begun in 2008 and designed by William Coscolluela, is completed. It is the first building in the Philippines to receive LEED’s platinum certification as a “green building.” Photo: Zuellig Building, 2016 (Kiko del Rosario)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2012,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_SOURCES_13.jpg",
+		"shorten_media": "A_HE_SOURCES_13",
+		"display_name": null,
+		"photo_id": 80,
+		"url": "1588",
+		"article_id": 1588,
+		"photo_name": "A_HE_SOURCES_13",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2012 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 392,
+		"timeline_id": 2018,
+		"media_caption": "<p>Art noveau Mariano Uy-Chaco Building, built 1914, now Philtrust Bank Building in Escolta</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1914 Uy Chaco",
+		"text_description": "<p>The Uy Chaco (now Philtrust) Bldg in the art noveau style, in Binondo, is completed. (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1914,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_PhiltrustBankBuildingUyChacoBuilding_1.jpg",
+		"shorten_media": "A_STRUCT_PhiltrustBankBuildingUyChacoBuilding_1",
+		"display_name": null,
+		"photo_id": 392,
+		"url": "2018",
+		"article_id": 2018,
+		"photo_name": "A_STRUCT_PhiltrustBankBuildingUyChacoBuilding_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1914 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 296,
+		"timeline_id": 2019,
+		"media_caption": "<p>El Hogar building, ca 1920</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1914 El Hogar",
+		"text_description": "<p>El Hogar is inaugurated. Photo: El Hogar, ca 1920 (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 9,
+		"start_day": 15,
+		"start_year": 1914,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_ElHogarBuilding_1.jpg",
+		"shorten_media": "A_STRUCT_ElHogarBuilding_1",
+		"display_name": null,
+		"photo_id": 296,
+		"url": "2019",
+		"article_id": 2019,
+		"photo_name": "A_STRUCT_ElHogarBuilding_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 15, "year": 1914 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 486,
+		"timeline_id": 2020,
+		"media_caption": "<p>Prewar Gotiaoco Building</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Sugbu Chinese Heritage Museum, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1914 Gotiaoco Bldg",
+		"text_description": "<p>Gotiaoco Bldg is completed. It is the first building in Cebu to have an elevator. Photo: Prewar Gotiaoco Building (Sugbu Chinese Heritage Museum, Ortigas Foundation Library Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1914,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_CebuHeritageArea_8.jpg",
+		"shorten_media": "A_HA_CebuHeritageArea_8",
+		"display_name": null,
+		"photo_id": 486,
+		"url": "2020",
+		"article_id": 2020,
+		"photo_name": "A_HA_CebuHeritageArea_8",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1914 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 18,
+		"timeline_id": 2021,
+		"media_caption": "<p>American-period Philippine Normal School in Manila</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1915 PNU",
+		"text_description": "<p>The Philippine Normal School (now PNU), designed by William Parsons, is built in the Mission revival and Neoclassical styles. Photo: American-period Philippine Normal School (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1915,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_(1900_ONWARD)_6.jpg",
+		"shorten_media": "A_HE_(1900_ONWARD)_6",
+		"display_name": null,
+		"photo_id": 18,
+		"url": "2021",
+		"article_id": 2021,
+		"photo_name": "A_HE_(1900_ONWARD)_6",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1915 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 463,
+		"timeline_id": 2022,
+		"media_caption": "<p>Dominican Hill</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Edward Delos Santos/Pinoy Kollektor</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1915 Dominican Hill",
+		"text_description": "<p>The Dominican residence, begun in 1913 and designed by Roque Ruaño OP is completed on Dominican Hill, Baguio. In 1973 the Dominicans sell the property and it becomes Diplomat Hotel. In 2005, the ruined building and property is acquired by Baguio City and is renamed Heritage and Nature Park. The house is marked by NHCP in 2014. (Photo from Edward Delos Santos/Pinoy Kollektor)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1915,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_BaguioHeritageArea_9.jpg",
+		"shorten_media": "A_HA_BaguioHeritageArea_9",
+		"display_name": null,
+		"photo_id": 463,
+		"url": "2022",
+		"article_id": 2022,
+		"photo_name": "A_HA_BaguioHeritageArea_9",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1915 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 64,
+		"timeline_id": 2023,
+		"media_caption": "<p>Prewar Legislative Building in Manila</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Edward Delos Santos/Pinoy Kollektor</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1918 National Library",
+		"text_description": "<p>The National Library, designed by Ralph Doane and Antonio Toledo, is completed. Appropriated for use by the Philippine Legislature in 1926, Juan Arellano renovates the building. Badly damaged during World War II, it is restored but with less opulence. Photo: Prewar Legislative Building (Edward Delos Santos/Pinoy Kollektor)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1918,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_philippinearchi_5.jpg",
+		"shorten_media": "A_HE_philippinearchi_5",
+		"display_name": null,
+		"photo_id": 64,
+		"url": "2023",
+		"article_id": 2023,
+		"photo_name": "A_HE_philippinearchi_5",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1918 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 338,
+		"timeline_id": 2024,
+		"media_caption": "<p>Pangasinan Capitol Building in Lingayen City, 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1918 Lingayen Provincial Capitol",
+		"text_description": "<p>The Lingayen Provincial Capitol in Pangasinan, begun in 1917 and designed by Ralph Doane, is completed. In Neoclassical style, it is noted for its Grecian temple facade with Ionic columns. (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1918,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_LingayenCapitol_1.jpg",
+		"shorten_media": "A_STRUCT_LingayenCapitol_1",
+		"display_name": null,
+		"photo_id": 338,
+		"url": "2024",
+		"article_id": 2024,
+		"photo_name": "A_STRUCT_LingayenCapitol_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1918 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 558,
+		"timeline_id": 2025,
+		"media_caption": "<p>Luneta Hotel to the left and Bayview Hotel to the right before World War II</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1919 Luneta Hotel",
+		"text_description": "<p>Luneta Hotel, designed by Salvador Ferre in the French Renaissance style, is completed. It is characterized by a Mansard roof. It survives World War II and functions as a hotel until it is closed in 1987. It is marked by the NHCP in 2014. Photo: Luneta Hotel to the left and Bayview Hotel to the right before World War II.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1919,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_TaftAvenueHeritageArea_4.jpg",
+		"shorten_media": "A_HA_TaftAvenueHeritageArea_4",
+		"display_name": null,
+		"photo_id": 558,
+		"url": "2025",
+		"article_id": 2025,
+		"photo_name": "A_HA_TaftAvenueHeritageArea_4",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1919 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 121,
+		"timeline_id": 2026,
+		"media_caption": "<p>Leyte Capitol in Tacloban City, ca 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Nicanor G. Tiongson Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1920 UP College of Medicine",
+		"text_description": "<p>Antonio Toledo designs UP College of Medicine Annex and University Library, and the Leyte Capitol. Photo: Leyte Capitol, ca 1990 (Nicanor G. Tiongson Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1920,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/5/A_FAT_Kapitolyo_1.jpg",
+		"shorten_media": "A_FAT_Kapitolyo_1",
+		"display_name": "1920s",
+		"photo_id": 121,
+		"url": "2026",
+		"article_id": 2026,
+		"photo_name": "A_FAT_Kapitolyo_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1920 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 400,
+		"timeline_id": 2027,
+		"media_caption": "<p>Saint Catherine’s Academy in Carcar, Cebu, ca 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1921 St. Catherine's Academy",
+		"text_description": "<p>St Catherine&rsquo;s Academy (P. del Corro Bldg) in Carcar, Cebu is completed.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1921,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_SaintCatherinesAcademySchoolBuilding_1.jpg",
+		"shorten_media": "A_STRUCT_SaintCatherinesAcademySchoolBuilding_1",
+		"display_name": null,
+		"photo_id": 400,
+		"url": "2027",
+		"article_id": 2027,
+		"photo_name": "A_STRUCT_SaintCatherinesAcademySchoolBuilding_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1921 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 548,
+		"timeline_id": 2030,
+		"media_caption": "<p>Church of San Diego, ca 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1926 Church of San Diego",
+		"text_description": "<p>The Church of San Diego in Silay, Negros Occidental, is designed in Neoromanesque and Renaissance styles by the Italian architect Lucio Verasconi. Photo: Church of San Diego, ca 1990 (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1926,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_SilayPoblacion_1.jpg",
+		"shorten_media": "A_HA_SilayPoblacion_1",
+		"display_name": null,
+		"photo_id": 548,
+		"url": "2030",
+		"article_id": 2030,
+		"photo_name": "A_HA_SilayPoblacion_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1926 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 207,
+		"timeline_id": 2031,
+		"media_caption": "<p>Lopez Mansion or Nelly Garden in Iloilo City, 2012</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Kimberly Chafe</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1928 Nelly Garden",
+		"text_description": "<p>Nelly Garden, aka the Lopez-Hofile&ntilde;a mansion, in Jaro, Iloilo is completed. Photo: Nelly Garden, 2012 (Kimberly Chafe)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1928,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/6/A_AOA_HeritageConservation_6.jpg",
+		"shorten_media": "A_AOA_HeritageConservation_6",
+		"display_name": null,
+		"photo_id": 207,
+		"url": "2031",
+		"article_id": 2031,
+		"photo_name": "A_AOA_HeritageConservation_6",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1928 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 474,
+		"timeline_id": 2032,
+		"media_caption": "<p>The dispensary in Carcar, now a museum, 2016</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Karl Alfred Jamandre</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1929 Carcar",
+		"text_description": "<p>Carcar Dispensary, now the Carcar Museum, is completed. Photo: Carcar Museum, 2016 (Karl Alfred Jamandre)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1929,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_CarcarPoblacion_3.jpg",
+		"shorten_media": "A_HA_CarcarPoblacion_3",
+		"display_name": null,
+		"photo_id": 474,
+		"url": "2032",
+		"article_id": 2032,
+		"photo_name": "A_HA_CarcarPoblacion_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1929 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 390,
+		"timeline_id": 2033,
+		"media_caption": "<p>Perez-Samanillo Building, behind bahay na bato on the right, in prewar Escolta</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1930 Perez Samanillo",
+		"text_description": "<p>The Perez-Samanillo Bldg, begun in 1928 and designed by Andres Luna de San Pedro, is completed. Photo: Perez-Samanillo Building, behind bahay na bato on the right, in prewar Escolta (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1930,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_PerezSamanilloBuilding_1.jpg",
+		"shorten_media": "A_STRUCT_PerezSamanilloBuilding_1",
+		"display_name": null,
+		"photo_id": 390,
+		"url": "2033",
+		"article_id": 2033,
+		"photo_name": "A_STRUCT_PerezSamanilloBuilding_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1930 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 320,
+		"timeline_id": 2034,
+		"media_caption": "<p>1930 Insular Life Building in Binondo</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Archives of The Insular Life Assurance Company, Ltd; National Library of the Philippines Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1930 Insular Life",
+		"text_description": "<p>Insular Life Bldg is completed in Binondo, designed by William James Odom and Fernando de la Cantera. Photo: 1930 Insular Life Building (Archives of The Insular Life Assurance Company, Ltd; National Library of the Philippines Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1930,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_InsularLifeBuiding_2.jpg",
+		"shorten_media": "A_STRUCT_InsularLifeBuiding_2",
+		"display_name": null,
+		"photo_id": 320,
+		"url": "2034",
+		"article_id": 2034,
+		"photo_name": "A_STRUCT_InsularLifeBuiding_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1930 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 361,
+		"timeline_id": 2035,
+		"media_caption": "<p>American-period Central Post Office in Manila</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>University of the Philippines Main Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1930 Central Post Office",
+		"text_description": "<p>The Central Post Office on Liwasang Bonifacio, Manila, designed by Juan Arellano and Tomas Mapua, is completed. (University of the Philippines Main Library Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1930,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_ManilaPostOfficeBuilding_1.jpg",
+		"shorten_media": "A_STRUCT_ManilaPostOfficeBuilding_1",
+		"display_name": null,
+		"photo_id": 361,
+		"url": "2035",
+		"article_id": 2035,
+		"photo_name": "A_STRUCT_ManilaPostOfficeBuilding_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1930 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 560,
+		"timeline_id": 2036,
+		"media_caption": "<p>Metropolitan Theater, ca 1930</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Colorized by Bilog Bilugan, John Tewell Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1931 Metropolitan Theater",
+		"text_description": "<p>Metropolitan Theater in Manila is inaugurated. Its architects, Juan and Otilio Arellano, design it in Art Deco. Its sculptures are by Francesco Monti and paintings by Fernando Amorsolo. Photo: Metropolitan Theater, ca 1930 (Colorized by Bilog Bilugan, John Tewell Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1931,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_TaftAvenueHeritageArea_6.jpg",
+		"shorten_media": "A_HA_TaftAvenueHeritageArea_6",
+		"display_name": null,
+		"photo_id": 560,
+		"url": "2036",
+		"article_id": 2036,
+		"photo_name": "A_HA_TaftAvenueHeritageArea_6",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1931 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 158,
+		"timeline_id": 2039,
+		"media_caption": "<p>Ideal and State Theaters along Avenida Rizal, Manila</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1933 Ideal Theater",
+		"text_description": "<p>The Ideal Theater on Rizal Ave, Manila, designed by Pablo Antonio, is completed. Photo: Ideal and State Theaters along Avenida Rizal, Manila (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1933,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/5/A_FAT_Sinehan_2.jpg",
+		"shorten_media": "A_FAT_Sinehan_2",
+		"display_name": null,
+		"photo_id": 158,
+		"url": "2039",
+		"article_id": 2039,
+		"photo_name": "A_FAT_Sinehan_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1933 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 205,
+		"timeline_id": 2040,
+		"media_caption": "<p>Maria Ledesma Golez House in Silay City after restoration</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Rob Sampang</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1933 Angel Araneta ",
+		"text_description": "<p>The Angel Araneta Ledesma house and the Maria Golez house, both in Silay, Negros Occidental, are completed. Photo: Maria Ledesma Golez House after restoration (Rob Sampang)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1933,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/6/A_AOA_HeritageConservation_4.jpg",
+		"shorten_media": "A_AOA_HeritageConservation_4",
+		"display_name": null,
+		"photo_id": 205,
+		"url": "2040",
+		"article_id": 2040,
+		"photo_name": "A_AOA_HeritageConservation_4",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1933 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 16,
+		"timeline_id": 2041,
+		"media_caption": "<p>Central Seminary Building of the University of Santo Tomas, ca 1940</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Colorized by Kiko del Rosario</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1933 UST Central Seminary",
+		"text_description": "<p>UST Central Seminary, designed by Fernando H. Ocampo in Art Deco, is completed. Photo: UST Central Seminary, ca 1940 (Colorized by Kiko del Rosario)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1933,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_(1900_ONWARD)_4.jpg",
+		"shorten_media": "A_HE_(1900_ONWARD)_4",
+		"display_name": null,
+		"photo_id": 16,
+		"url": "2041",
+		"article_id": 2041,
+		"photo_name": "A_HE_(1900_ONWARD)_4",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1933 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 129,
+		"timeline_id": 2043,
+		"media_caption": "<p>Municipal Hall of Jaro, Iloilo, restored in 2017 by the National Museum</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Kelvin Tagnipez</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1934 Art Deco Jaro",
+		"text_description": "<p>The Art Deco Jaro Municipal building, designed by Juan Arellano, is completed. It is restored in 2017 as the National Museum of the Philippines regional office. (Photo by Kelvin Tagnipez)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1934,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/5/A_FAT_Munisipyo_2.jpg",
+		"shorten_media": "A_FAT_Munisipyo_2",
+		"display_name": null,
+		"photo_id": 129,
+		"url": "2043",
+		"article_id": 2043,
+		"photo_name": "A_FAT_Munisipyo_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1934 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 78,
+		"timeline_id": 2044,
+		"media_caption": "<p>Prewar art deco-style Rizal Memorial Stadium in Manila</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1934 Rizal Memorial Stadium",
+		"text_description": "<p>The Rizal Memorial Stadium in Art Deco on Vito Cruz (Pablo Ocampo) St, designed by the Bureau of Public Works, is completed. Begun in 1932, it is built for the Far Eastern Championship Games, forerunner of the ASEAN Games. (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1934,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_SOURCES_11.jpg",
+		"shorten_media": "A_HE_SOURCES_11",
+		"display_name": null,
+		"photo_id": 78,
+		"url": "2044",
+		"article_id": 2044,
+		"photo_name": "A_HE_SOURCES_11",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1934 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 462,
+		"timeline_id": 2046,
+		"media_caption": "<p>Cathedral of Our Lady of the Atonement</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Nicanor G. Tiongson</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1936 Baguio Church",
+		"text_description": "<p>The Baguio Church of Our Lady of the Atonement on Kampo Hill, officially named cathedral in 1935, is completed this year. It is predominantly Neogothic although Roman arches are used in the facade and bell tower. Florimund Carlu CICM is responsible for the project. (Photo from Nicanor G. Tiongson)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1936,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_BaguioHeritageArea_8.jpg",
+		"shorten_media": "A_HA_BaguioHeritageArea_8",
+		"display_name": null,
+		"photo_id": 462,
+		"url": "2046",
+		"article_id": 2046,
+		"photo_name": "A_HA_BaguioHeritageArea_8",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1936 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 54,
+		"timeline_id": 2047,
+		"media_caption": "<p>Caida and sala of the Lizares House in Talisay, Negros Occidental, ca 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1936 Lizares-Alunan residence",
+		"text_description": "<p>The Lizares-Alunan residence in Talisay, Negros Occidental is completed. Photo: Caida and sala of the Lizares House, ca 1990. (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1936,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_INTERIOR_DESIGN_2.jpg",
+		"shorten_media": "A_HE_INTERIOR_DESIGN_2",
+		"display_name": null,
+		"photo_id": 54,
+		"url": "2047",
+		"article_id": 2047,
+		"photo_name": "A_HE_INTERIOR_DESIGN_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1936 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 565,
+		"timeline_id": 2048,
+		"media_caption": "<p>De La Salle College before World War II</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1936 De La Salle University",
+		"text_description": "<p>De La Salle University, designed by Tomas Mapua in the Neoclassical style, is completed. (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1936,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_TaftAvenueHeritageArea_11.jpg",
+		"shorten_media": "A_HA_TaftAvenueHeritageArea_11",
+		"display_name": null,
+		"photo_id": 565,
+		"url": "2048",
+		"article_id": 2048,
+		"photo_name": "A_HA_TaftAvenueHeritageArea_11",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1936 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 285,
+		"timeline_id": 2050,
+		"media_caption": "<p>Cebu Provincial Capitol, 2016</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Cebu Provincial Government</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1937 Cebu Provincial Capitol",
+		"text_description": "<p>The Cebu Provincial Capitol is completed. Designed by Toledo in the Stripped Classicism variation of Art Deco, it is the terminus of a wide avenue. Photo: Cebu Provincial Capitol, 2016 (Cebu Provincial Government)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1937,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_CebuCapitol_1.jpg",
+		"shorten_media": "A_STRUCT_CebuCapitol_1",
+		"display_name": null,
+		"photo_id": 285,
+		"url": "2050",
+		"article_id": 2050,
+		"photo_name": "A_STRUCT_CebuCapitol_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1937 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 490,
+		"timeline_id": 2051,
+		"media_caption": "<p>View of Osmeña Ave with the Rizal Library, left, and the Cebu Provincial Capitol at far end, ca 1950</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1938 Jose Rizal Memorial Library",
+		"text_description": "<p>The Jose Rizal Memorial Library is constructed in Cebu, along Osmeña Ave. It is Neorenaissance with an elevated logia. Photo: View of Osmeña Ave with the Rizal Library, left, and the Cebu Provincial Capitol at far end, ca 1950 (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1938,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_CebuHeritageArea_12.jpg",
+		"shorten_media": "A_HA_CebuHeritageArea_12",
+		"display_name": null,
+		"photo_id": 490,
+		"url": "2051",
+		"article_id": 2051,
+		"photo_name": "A_HA_CebuHeritageArea_12",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1938 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 17,
+		"timeline_id": 2052,
+		"media_caption": "<p>Jai-Alai Building in Manila, 1952</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>www.skyscrapercity.com</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1940 Jai-Alai",
+		"text_description": "<p>Jai-Alai, in Streamline Moderne style, is completed, designed by the American architects, Walter C. Wurdeman  and Welton David Becket. Photo: Jai-Alai Building in Manila, 1952 (www.skyscrapercity.com)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1940,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_(1900_ONWARD)_5.jpg",
+		"shorten_media": "A_HE_(1900_ONWARD)_5",
+		"display_name": null,
+		"photo_id": 17,
+		"url": "2052",
+		"article_id": 2052,
+		"photo_name": "A_HE_(1900_ONWARD)_5",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1940 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 566,
+		"timeline_id": 2055,
+		"media_caption": "<p>Adamson University, ca 1950</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Colorized by Kiko del Rosario</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1946 Adamson University",
+		"text_description": "<p>Adamson University, founded in 1932, transfers to new buildings at San Marcelino campus. Photo: Adamson University, ca 1950 (Colorized by Kiko del Rosario)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1946,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_TaftAvenueHeritageArea_12.jpg",
+		"shorten_media": "A_HA_TaftAvenueHeritageArea_12",
+		"display_name": null,
+		"photo_id": 566,
+		"url": "2055",
+		"article_id": 2055,
+		"photo_name": "A_HA_TaftAvenueHeritageArea_12",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1946 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 511,
+		"timeline_id": 2056,
+		"media_caption": "<p>Former city hall of Iloilo, now the University of the Philippines Visayas</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>The University of the Philippines: A University for Filipinos, edited by Gloria D. Feliciano. Diamond Jubilee Presidential Commission, 1984</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1947 UP Iloilo",
+		"text_description": "<p>The former Iloilo City Hall, built 1933 to 1935, is turned over to UP Iloilo (now UP Visayas) by Fernando Lopez. Photo: UP Visayas, 1980s (The University of the Philippines: A University for Filipinos, edited by Gloria D. Feliciano. Diamond Jubilee Presidential Commission, 1984)</p>",
+		"category": 8,
+		"start_month": 4,
+		"start_day": 8,
+		"start_year": 1947,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_IloiloHeritageArea_8.jpg",
+		"shorten_media": "A_HA_IloiloHeritageArea_8",
+		"display_name": null,
+		"photo_id": 511,
+		"url": "2056",
+		"article_id": 2056,
+		"photo_name": "A_HA_IloiloHeritageArea_8",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 4, "day": 8, "year": 1947 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 444,
+		"timeline_id": 2057,
+		"media_caption": "<p>Chapel of the Holy Sacrifice in the University of the Philippines Diliman, showing its thin-shell concrete dome, 1989</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1955 UP Chapel",
+		"text_description": "<p>The UP Chapel of the Holy Sacrifice, planned in 1947, is completed. It is a modernist church, designed by Leandro V. Locsin with artworks by Arturo Luz, Vicente Manansala, and Napoleon “Billy” Abueva. Photo: UP Chapel with its thin-shell concrete dome, 1989 (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1955,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_UPChapel_2.jpg",
+		"shorten_media": "A_STRUCT_UPChapel_2",
+		"display_name": null,
+		"photo_id": 444,
+		"url": "2057",
+		"article_id": 2057,
+		"photo_name": "A_STRUCT_UPChapel_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1955 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 256,
+		"timeline_id": 2059,
+		"media_caption": "<p>Araneta Coliseum in Cubao, Quezon City, ca 1960</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Way Kurat</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1959 Araneta Coliseum",
+		"text_description": "<p>The Araneta Coliseum, begun in 1957, is completed. Called the &ldquo;Big Dome,&rdquo; its architect is Dominador Lacson Lugtu and engineer is Leonardo Onjunco Lugtu. Photo: Araneta Coliseum, ca 1960 (Way Kurat)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1959,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_AranetaColiseum_1.jpg",
+		"shorten_media": "A_STRUCT_AranetaColiseum_1",
+		"display_name": null,
+		"photo_id": 256,
+		"url": "2059",
+		"article_id": 2059,
+		"photo_name": "A_STRUCT_AranetaColiseum_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1959 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 391,
+		"timeline_id": 2060,
+		"media_caption": "<p>Philippine-American Life Insurance Company Building in Manila, built in 1961</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1961 Philam Life",
+		"text_description": "<p>The Philam Life Insurance Bldg on Isaac Peral Ave (later United Nations Ave), designed by Carlos Arguelles, is completed. (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1961,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_PhilippineAmericanLifeInsuranceCompany_1.jpg",
+		"shorten_media": "A_STRUCT_PhilippineAmericanLifeInsuranceCompany_1",
+		"display_name": null,
+		"photo_id": 391,
+		"url": "2060",
+		"article_id": 2060,
+		"photo_name": "A_STRUCT_PhilippineAmericanLifeInsuranceCompany_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1961 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 200,
+		"timeline_id": 2063,
+		"media_caption": "<p>Western side facade of the Coconut Palace</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Mañosa & Company, Inc</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1978 Coconut Palace",
+		"text_description": "<p>The Coconut Palace, aka Tahanang Pilipino, designed by Francisco Mañosa, is completed. It is renovated in 2010 and becomes the official residence and office of the vice-president. Photo: Coconut Palace, western side facade (Mañosa & Company, Inc.)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1978,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/6/A_AOA_DesigninArchi_6.jpg",
+		"shorten_media": "A_AOA_DesigninArchi_6",
+		"display_name": null,
+		"photo_id": 200,
+		"url": "2063",
+		"article_id": 2063,
+		"photo_name": "A_AOA_DesigninArchi_6",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1978 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 52,
+		"timeline_id": 2064,
+		"media_caption": "<p>Chapel of the Monastery of the Transfiguration in Malaybalay, Bukidnon, 2017</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Nerissa Casalta Cabaña</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1986 Benedictine",
+		"text_description": "<p>The Benedictine Monastery and Chapel of the Transfiguration, designed by Leandro Locsin in Malaybalay, Bukidnon, is completed. This is Locsin’s last major work. Photo: Chapel of the Transfiguration, 2017 (Nerissa Casalta Cabaña)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1986,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_INDIGENOUS_TRADITIONS_8.jpg",
+		"shorten_media": "A_HE_INDIGENOUS_TRADITIONS_8",
+		"display_name": null,
+		"photo_id": 52,
+		"url": "2064",
+		"article_id": 2064,
+		"photo_name": "A_HE_INDIGENOUS_TRADITIONS_8",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 32,
+		"timeline_id": 2065,
+		"media_caption": "<p>Pacific Star Building in Makati City, 1991</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1990 Pacific Star",
+		"text_description": "<p>Various high rise office and multiuse buildings are completed, namely: Pacific Star (in photo) in Makati City, designed by Gabriel Formoso, as a pioneer in post-modern architecture, Tower One of the Makati Stock Exchange, designed by Leandro Locsin and SOM, and King’s Court II also in Makati, designed by Rogelio Villarosa. (Photo from CCP)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1990,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_FIFTH_REPUBLIC_(1986_ONWARD)_4.jpg",
+		"shorten_media": "A_HE_FIFTH_REPUBLIC_(1986_ONWARD)_4",
+		"display_name": null,
+		"photo_id": 32,
+		"url": "2065",
+		"article_id": 2065,
+		"photo_name": "A_HE_FIFTH_REPUBLIC_(1986_ONWARD)_4",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1990 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 484,
+		"timeline_id": 2067,
+		"media_caption": "<p>Cathedral Museum of Cebu, 2013</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Constantine Agustin</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 2000 Cebu rectory",
+		"text_description": "<p>The restoration of the Cebu rectory under Arch Melva Hava begins. The 19th century bahay na bato is reused as the Cathedral Museum of Cebu. Photo: Cathedral Museum of Cebu, 2013 (Constantine Agustin)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2000,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_CebuHeritageArea_6.jpg",
+		"shorten_media": "A_HA_CebuHeritageArea_6",
+		"display_name": null,
+		"photo_id": 484,
+		"url": "2067",
+		"article_id": 2067,
+		"photo_name": "A_HA_CebuHeritageArea_6",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2000 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 35,
+		"timeline_id": 2068,
+		"media_caption": "<p>Church of the Gesù inside the Ateneo de Manila University campus, 2017</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Kiko del Rosario</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 2002 Gesu",
+		"text_description": "<p>Ateneo de Manila University’s Church of the Gesù, designed by Jose Recio and Carmelo Casas, is completed. Photo: Church of the Gesù, 2017 (Kiko del Rosario)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2002,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_FIFTH_REPUBLIC_(1986_ONWARD)_7.jpg",
+		"shorten_media": "A_HE_FIFTH_REPUBLIC_(1986_ONWARD)_7",
+		"display_name": null,
+		"photo_id": 35,
+		"url": "2068",
+		"article_id": 2068,
+		"photo_name": "A_HE_FIFTH_REPUBLIC_(1986_ONWARD)_7",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2002 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 125,
+		"timeline_id": 2801,
+		"media_caption": "<p>Sheik Karimul Makdum Mosque, in Simunul, Tawi-Tawi, known as the oldest mosque in the country, 2010</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Fung Yu, www.pamana.ph</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1300 Makhdum",
+		"text_description": "<p>Attributed to Makhdum, the first mosque in the Philippines is built on Simunul Island, Tawi-tawi. (Fung Yu, www.pamana.ph)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1300,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/5/A_FAT_Masjid_1.jpg",
+		"shorten_media": "A_FAT_Masjid_1",
+		"display_name": null,
+		"photo_id": 125,
+		"url": "2801",
+		"article_id": 2801,
+		"photo_name": "A_FAT_Masjid_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1300 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 323,
+		"timeline_id": 2802,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": "NONE",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1571 Manila laid out",
+		"text_description": "<p>Following the Renaissance grid plan, the city of Manila is laid out by Miguel Lopez de Legazpi. At this point the walls that will characterize Manila are not yet built; instead the palisaded enclosure of Fort Santiago is built at the site of Rajah Sulayman&rsquo;s <em>kuta</em>, while the rest of the city has no defenses.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1571,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_IntramurosWalls_2.jpg",
+		"shorten_media": "A_STRUCT_IntramurosWalls_2",
+		"display_name": null,
+		"photo_id": 323,
+		"url": "2802",
+		"article_id": 2802,
+		"photo_name": "A_STRUCT_IntramurosWalls_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1571 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 113,
+		"timeline_id": 2803,
+		"media_caption": "<p>Calle Real in Intramuros flanked on the left by San Agustin Monastery and on the right by the Augustinian Provincial House</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1571 Monasterio de San Pablo",
+		"text_description": "<p>The Augustinians establish the Monasterio de San Pablo, popularly known as San Agust&iacute;n, at the site alotted them by Legazpi, along Calle Real (in photo). (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1571,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/5/A_FAT_HeritageAreas_2.jpg",
+		"shorten_media": "A_FAT_HeritageAreas_2",
+		"display_name": null,
+		"photo_id": 113,
+		"url": "2803",
+		"article_id": 2803,
+		"photo_name": "A_FAT_HeritageAreas_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1571 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 517,
+		"timeline_id": 2812,
+		"media_caption": "<p>Fort Santiago, ca 1920</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Nicanor G. Tiongson Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1574 Fort Santiago",
+		"text_description": "<p>The first provisional fortifications of Manila and Fort Santiago are built. Photo: Fort Santiago, ca 1920 (Nicanor G. Tiongson Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1574,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_IntramurosHeritageArea_3.jpg",
+		"shorten_media": "A_HA_IntramurosHeritageArea_3",
+		"display_name": null,
+		"photo_id": 517,
+		"url": "2812",
+		"article_id": 2812,
+		"photo_name": "A_HA_IntramurosHeritageArea_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1574 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 196,
+		"timeline_id": 2813,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1583 bahay na bato",
+		"text_description": "<p>During the reconstruction of Manila shortly after the fire, the first example of the <em>bahay na bato</em> is built, a work by Antonio Sede&ntilde;o and Bp Domingo de Salazar, who rebuild the bishop&rsquo;s house in stone and wood.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1583,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/6/A_AOA_DesigninArchi_2.jpg",
+		"shorten_media": "A_AOA_DesigninArchi_2",
+		"display_name": null,
+		"photo_id": 196,
+		"url": "2813",
+		"article_id": 2813,
+		"photo_name": "A_AOA_DesigninArchi_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1583 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 325,
+		"timeline_id": 2815,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1585 Nuestra Señora de Guia",
+		"text_description": "<p>Intramuros&rsquo; first stone defense, Nuestra Se&ntilde;ora de Guia tower, is constructed by Antonio Sede&ntilde;o at the southwestern corner of the city of Manila.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1585,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_IntramurosWalls_4.jpg",
+		"shorten_media": "A_STRUCT_IntramurosWalls_4",
+		"display_name": null,
+		"photo_id": 325,
+		"url": "2815",
+		"article_id": 2815,
+		"photo_name": "A_STRUCT_IntramurosWalls_4",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1585 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 559,
+		"timeline_id": 2816,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1590 Malate stone covento",
+		"text_description": "<p>A stone convento is built in Malate by the Augustinians.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1590,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_TaftAvenueHeritageArea_5.jpg",
+		"shorten_media": "A_HA_TaftAvenueHeritageArea_5",
+		"display_name": null,
+		"photo_id": 559,
+		"url": "2816",
+		"article_id": 2816,
+		"photo_name": "A_HA_TaftAvenueHeritageArea_5",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1590 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 515,
+		"timeline_id": 2866,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1591 Intramuros wall rebuilt",
+		"text_description": "<p>Gov-Gen Perez Dasmari&ntilde;as rebuilds Fort Santiago, raising a stone wall along the shore connecting Santiago and the tower Nuestra Se&ntilde;ora de Guia. The walls of Intramuros are rebuilt, reinforced, renovated over the centuries and until 1862.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1591,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_IntramurosHeritageArea_1.jpg",
+		"shorten_media": "A_HA_IntramurosHeritageArea_1",
+		"display_name": null,
+		"photo_id": 515,
+		"url": "2866",
+		"article_id": 2866,
+		"photo_name": "A_HA_IntramurosHeritageArea_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1591 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 418,
+		"timeline_id": 2867,
+		"media_caption": "<p>Church of Santo Domingo in Intramuros, Manila, ca 1910</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1592 Santo Domingo church",
+		"text_description": "<pApr 9: In Intramuros, a church of stone dedicated to Santo Domingo de Guzman is completed. This is the second Dominican church. Photo: Church of Santo Domingo in Intramuros, ca 1910 (Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 4,
+		"start_day": 9,
+		"start_year": 1592,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_SantoDomingoChurch_1.jpg",
+		"shorten_media": "A_STRUCT_SantoDomingoChurch_1",
+		"display_name": null,
+		"photo_id": 418,
+		"url": "2867",
+		"article_id": 2867,
+		"photo_name": "A_STRUCT_SantoDomingoChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 4, "day": 9, "year": 1592 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 414,
+		"timeline_id": 2868,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": "NONE",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1595 Santa Ana church",
+		"text_description": "<p>The Church of Santa Ana in Intramuros is completed. It is the first Renaissance-Baroque church built in the Philippines.The church’s stone vault collapses during the 1600 earthquake. It is subsequently demolished in 1626 to make room for the first San Ignacio church..</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1595,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_SantaAnaChurch_1.jpg",
+		"shorten_media": "A_STRUCT_SantaAnaChurch_1",
+		"display_name": null,
+		"photo_id": 414,
+		"url": "2868",
+		"article_id": 2868,
+		"photo_name": "A_STRUCT_SantaAnaChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1595 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 255,
+		"timeline_id": 2870,
+		"media_caption": "<p>Prewar Antipolo Church and Convent</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Our New Possessions by Trumbull White, John E. Hoham & Co, 1898</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1600 Antipolo church",
+		"text_description": "<p>Antipolo is turned over to the Jesuits by the Franciscans. Antipolo has a church, convento, schools for boys and girls, hospital, and lots marked out on a grid plan for native dwellings. Photo: Prewar Antipolo Church and Convent (<em>Our New Possessions</em> by Trumbull White, John E. Hoham &amp; Co, 1898)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1600,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_AntipoloChurch_2.jpg",
+		"shorten_media": "A_STRUCT_AntipoloChurch_2",
+		"display_name": null,
+		"photo_id": 255,
+		"url": "2870",
+		"article_id": 2870,
+		"photo_name": "A_STRUCT_AntipoloChurch_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1600 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 402,
+		"timeline_id": 2871,
+		"media_caption": "<p>San Agustin Church in Intramuros, Manila, 1993</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1607 San Agustin Church, Intramuros",
+		"text_description": "<p>San Agustin Church and monastery in Intramuros, begun in 1586, are completed. Designed by architect Juan Macias, the church is closer in style to the Renaissance. Photo: San Agustin Church, 1993 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1607,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_SanAgustinChurchandMonastery_1.jpg",
+		"shorten_media": "A_STRUCT_SanAgustinChurchandMonastery_1",
+		"display_name": null,
+		"photo_id": 402,
+		"url": "2871",
+		"article_id": 2871,
+		"photo_name": "A_STRUCT_SanAgustinChurchandMonastery_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1607 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 304,
+		"timeline_id": 2872,
+		"media_caption": "<p>Spanish-period Fort San Felipe in Cavite</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1609 Fort San Felipe",
+		"text_description": "<p>Fort San Felipe, Cavite, is built. In the early 20th century, Americans demolish it to build a naval base, but retain the fort&rsquo;s gate and the flanking curtain walls.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1609,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_FortSanFelipe_1.jpg",
+		"shorten_media": "A_STRUCT_FortSanFelipe_1",
+		"display_name": null,
+		"photo_id": 304,
+		"url": "2872",
+		"article_id": 2872,
+		"photo_name": "A_STRUCT_FortSanFelipe_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1609 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 552,
+		"timeline_id": 2873,
+		"media_caption": "<p>Shrine of Our Lady of Caysasay, 2017</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Kiko del Rosario</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1611 Augustinian shrine",
+		"text_description": "<p>The Augustinian shrine church to Our Lady of Caysasay, Taal, Batangas, is built. Photo: Shrine of Our Lady of Caysasay, 2017 (Kiko del Rosario)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1611,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_TaalPoblacion_2.jpg",
+		"shorten_media": "A_HA_TaalPoblacion_2",
+		"display_name": null,
+		"photo_id": 552,
+		"url": "2873",
+		"article_id": 2873,
+		"photo_name": "A_HA_TaalPoblacion_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1611 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 70,
+		"timeline_id": 2876,
+		"media_caption": "<p>Facade of Morong Church in Rizal with classical columns, 1991</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1615 Morong church in Laguna",
+		"text_description": "<p>Morong church in Laguna is completed. Its facade is renovated in the 19th century, following the design of Bartolome Palatino, a master builder from Paete, Laguna. Photo: Facade of Morong Church, 1991</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1615,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_SOURCES_3.jpg",
+		"shorten_media": "A_HE_SOURCES_3",
+		"display_name": null,
+		"photo_id": 70,
+		"url": "2876",
+		"article_id": 2876,
+		"photo_name": "A_HE_SOURCES_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1615 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 507,
+		"timeline_id": 2878,
+		"media_caption": "<p>Fort San Pedro, demolished in the 1900s</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1616 Fort San Pedro ",
+		"text_description": "<p>Fort San Pedro in Iloilo is built as defense against the Dutch. (Photo from Leo Cloma)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1616,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_IloiloHeritageArea_4.jpg",
+		"shorten_media": "A_HA_IloiloHeritageArea_4",
+		"display_name": null,
+		"photo_id": 507,
+		"url": "2878",
+		"article_id": 2878,
+		"photo_name": "A_HA_IloiloHeritageArea_4",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1616 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 346,
+		"timeline_id": 2880,
+		"media_caption": "<p>Facade of Church of San Gregorio Magno in Majayjay, Laguna, 1993</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1621 Majayjay church",
+		"text_description": "<p>Majayjay church, begun ca 1616, is completed. It is reconstructed around 1707. It is the largest Franciscan church and convento in Laguna. Photo: Majayjay Church, 1993 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1621,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_MajayjayChurch_1.jpg",
+		"shorten_media": "A_STRUCT_MajayjayChurch_1",
+		"display_name": null,
+		"photo_id": 346,
+		"url": "2880",
+		"article_id": 2880,
+		"photo_name": "A_STRUCT_MajayjayChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1621 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 397,
+		"timeline_id": 2881,
+		"media_caption": "<p>Puente de Espa&ntilde;a, ca 1920, later replaced by Jones Bridge</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from John Tewell Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1626 Puente Grande de España",
+		"text_description": "<p><p>Puente Grande de Espa&ntilde;a is completed. Spanning the Pasig and connecting Intramuros with Binondo, its last reconstruction and repair is in the 19th century. Photo: Puente de Espa&ntilde;a, ca 1920 (John Tewell Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1626,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_PuenteDeEspana_1.jpg",
+		"shorten_media": "A_STRUCT_PuenteDeEspana_1",
+		"display_name": null,
+		"photo_id": 397,
+		"url": "2881",
+		"article_id": 2881,
+		"photo_name": "A_STRUCT_PuenteDeEspana_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1626 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 406,
+		"timeline_id": 2883,
+		"media_caption": "<p>Ruins of the first San Ignacio Church, ca 1880</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Francisco Van Camp, John Tewell Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1632 1st San Ignacio church",
+		"text_description": "<p>The first San Ignacio church at Calle Real del Palacio, begun in 1626, is completed. It is designed in the Baroque style by the Italian Gianantonio Campioni SJ. Photo: Ruins of the first San Ignacio Church, ca 1880 (Photo by Francisco Van Camp, John Tewell Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1632,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_SanIgnacioChurch_2.jpg",
+		"shorten_media": "A_STRUCT_SanIgnacioChurch_2",
+		"display_name": null,
+		"photo_id": 406,
+		"url": "2883",
+		"article_id": 2883,
+		"photo_name": "A_STRUCT_SanIgnacioChurch_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1632 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 255,
+		"timeline_id": 2888,
+		"media_caption": "<p>Prewar Antipolo Church and Convent (Our New Possessions by Trumbull White. John E. Hoham & Co, 1898.)</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Our New Possessions by Trumbull White, John E. Hoham & Co, 1898</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1633 Antipolo church in Rizal",
+		"text_description": "<p>Antipolo church in Rizal, begun in 1630 and designed by Juan de Salazar SJ, is completed. It houses the black image of the Nuestra Se&ntilde;ora de la Paz y Buenviaje, given to the church in 1632. Photo: Prewar Antipolo Church and Convent (<em>Our New Possessions</em> by Trumbull White. John E. Hoham &amp; Co, 1898)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1633,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_AntipoloChurch_2.jpg",
+		"shorten_media": "A_STRUCT_AntipoloChurch_2",
+		"display_name": null,
+		"photo_id": 255,
+		"url": "2888",
+		"article_id": 2888,
+		"photo_name": "A_STRUCT_AntipoloChurch_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1633 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 581,
+		"timeline_id": 2889,
+		"media_caption": "<p>Outer walls of Fort Pilar</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Wikimedia Commons</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1635 Fort San Jose",
+		"text_description": "<p>Fort San Jose (later renamed Pilar) in Zamboanga is built by Melchor de Vera SJ. It is demolished in 1663, when the Spanish garrison is called to Manila to meet the threat of an attack by Koxinga. Photo: Outer walls of Fort Pilar (Wikimedia Commons)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1635,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_ZamboangaCityPoblacion_2.jpg",
+		"shorten_media": "A_HA_ZamboangaCityPoblacion_2",
+		"display_name": null,
+		"photo_id": 581,
+		"url": "2889",
+		"article_id": 2889,
+		"photo_name": "A_HA_ZamboangaCityPoblacion_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1635 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 428,
+		"timeline_id": 2898,
+		"media_caption": "<p>Church of the Nuestra Se&ntilde;ora de Candelaria in Silang, Cavite, 1994</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1639 Nuestra Señora de Candelaria",
+		"text_description": "<p>Silang&rsquo;s Church of Nuestra Se&ntilde;ora de Candelaria is completed under the supervision of Juan Salazar SJ. Its Baroque retablos are designated as a National Treasure by the National Museum in 2016. Photo: Silang Church, 1994 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1639,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_SilangChurch_1.jpg",
+		"shorten_media": "A_STRUCT_SilangChurch_1",
+		"display_name": null,
+		"photo_id": 428,
+		"url": "2898",
+		"article_id": 2898,
+		"photo_name": "A_STRUCT_SilangChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1639 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 523,
+		"timeline_id": 2899,
+		"media_caption": "<p>Colegio de San Juan de Letran, 1887</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from John Tewell Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1640 Dominican school in Letran",
+		"text_description": "<p>The Dominicans complete a school building for 200 students for Letran. Made of stone, it is located near the Church of Santo Domingo. Acquiring a lot at the corner of the Baluarte de San Gabriel in 1688, Letran moves to this site, where it has remained since. Photo: Colegio de San Juan de Letran, 1887 (John Tewell Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1640,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_IntramurosHeritageArea_9.jpg",
+		"shorten_media": "A_HA_IntramurosHeritageArea_9",
+		"display_name": null,
+		"photo_id": 523,
+		"url": "2899",
+		"article_id": 2899,
+		"photo_name": "A_HA_IntramurosHeritageArea_9",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1640 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 340,
+		"timeline_id": 2901,
+		"media_caption": "<p>Church of San Pedro y San Pablo in Loboc, Bohol, 2003</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1670 Loboc church",
+		"text_description": "<p>The first stone church of Loboc, Bohol. is completed around this year. Photo: Church of San Pedro y San Pablo in Loboc, Bohol, 2003 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1670,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_LobocChurch_1.jpg",
+		"shorten_media": "A_STRUCT_LobocChurch_1",
+		"display_name": null,
+		"photo_id": 340,
+		"url": "2901",
+		"article_id": 2901,
+		"photo_name": "A_STRUCT_LobocChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1670 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 290,
+		"timeline_id": 2902,
+		"media_caption": "<p>Church and Fort of San Agustin in Cuyo, Palawan, 2005</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photos by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1683 Cuyo church",
+		"text_description": "<p>Cuyo church and fort in Palawan are completed by Juan de San Severo, OAR.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1683,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_CuyoChurchandFort_1.jpg",
+		"shorten_media": "A_STRUCT_CuyoChurchandFort_1",
+		"display_name": null,
+		"photo_id": 290,
+		"url": "2902",
+		"article_id": 2902,
+		"photo_name": "A_STRUCT_CuyoChurchandFort_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1683 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 387,
+		"timeline_id": 2903,
+		"media_caption": "<p>Church of San Agustin in Paoay, Ilocos Norte, 2012</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1694 Pao-ay church",
+		"text_description": "<p>Pao-ay church, Ilocos Norte is started. It takes a long time to complete. It is reinaugurated in 1896, when work on the ceiling paintings is completed. Photo: Paoay Church, 2012 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1694,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_PaoayChurch_1.jpg",
+		"shorten_media": "A_STRUCT_PaoayChurch_1",
+		"display_name": null,
+		"photo_id": 387,
+		"url": "2903",
+		"article_id": 2903,
+		"photo_name": "A_STRUCT_PaoayChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1694 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 362,
+		"timeline_id": 2904,
+		"media_caption": "<p>Church of Nuestra Señora de la Asuncion in Maragondon, Cavite, 1994</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1714 Maragondon church",
+		"text_description": "<p>Maragondon&rsquo;s Church of La Asuncion de la Virgen in Cavite and the Santa Cruz church in Marinduque are completed. Photo: Maragondon Church, 1994 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1714,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_MarangondonChurch_1.jpg",
+		"shorten_media": "A_STRUCT_MarangondonChurch_1",
+		"display_name": null,
+		"photo_id": 362,
+		"url": "2904",
+		"article_id": 2904,
+		"photo_name": "A_STRUCT_MarangondonChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1714 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 329,
+		"timeline_id": 2905,
+		"media_caption": "<p>Church of Santa Maria Magdalena in Kawit, Cavite, 1994</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1715 Kawit Church",
+		"text_description": "<p>Completed this year are the Kawit Church of Santa Maria Magdalena in Cavite, the Santa Cruz church in Manila, and the Cainta Church of Nuestra Se&ntilde;ora de la Luz in Rizal. Photo: Kawit Church, 1994 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1715,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_KawitChurch_1.jpg",
+		"shorten_media": "A_STRUCT_KawitChurch_1",
+		"display_name": null,
+		"photo_id": 329,
+		"url": "2905",
+		"article_id": 2905,
+		"photo_name": "A_STRUCT_KawitChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1715 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 381,
+		"timeline_id": 2906,
+		"media_caption": "<p>Facade of the Church of Santiago in Paete, Laguna, 1993</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1717 Paete Church ",
+		"text_description": "<p>Paete Church of Santiago in Laguna is completed. Photo: Paete Church, 1993 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1717,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_PaeteChurch_1.jpg",
+		"shorten_media": "A_STRUCT_PaeteChurch_1",
+		"display_name": null,
+		"photo_id": 381,
+		"url": "2906",
+		"article_id": 2906,
+		"photo_name": "A_STRUCT_PaeteChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1717 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 192,
+		"timeline_id": 2907,
+		"media_caption": "<p>Church of the Inmaculada Concepcion in Guiuan, Eastern Samar, 2016</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Kinna G. Kwan</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1718 Guiuan Church ",
+		"text_description": "<p>The Guiuan Church of La Inmaculada Concepcion in Samar, probably the second and more permanent church, is completed around this year. Photo: Guiuan Church, 2016 (Kinna G. Kwan)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1718,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/6/A_AOA_ConstructionMethodandMaterials_9.jpg",
+		"shorten_media": "A_AOA_ConstructionMethodandMaterials_9",
+		"display_name": null,
+		"photo_id": 192,
+		"url": "2907",
+		"article_id": 2907,
+		"photo_name": "A_AOA_ConstructionMethodandMaterials_9",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1718 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 299,
+		"timeline_id": 2908,
+		"media_caption": "<p>Inner plaza of Fort Pilar, Zamboanga City, 2009 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Eldon Tenorio</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1719 Fort Pilar, Zamboanga",
+		"text_description": "<p>Fort Pilar in Zamboanga is built by military architect Juan de Ciscara at the site of Fort San Jose; which demolished in 1663. Photo: Inner plaza of Fort Pilar, Zamboanga City, 2009 (Eldon Tenorio)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1719,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_FortPilar_2.jpg",
+		"shorten_media": "A_STRUCT_FortPilar_2",
+		"display_name": null,
+		"photo_id": 299,
+		"url": "2908",
+		"article_id": 2908,
+		"photo_name": "A_STRUCT_FortPilar_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1719 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 264,
+		"timeline_id": 2909,
+		"media_caption": "<p>Church of the Inmaculada Concepcion in Baclayon, Bohol, 2012</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Wikimedia Commons</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1727 Baclayon Church",
+		"text_description": "<p>Baclayon Church of La Inmaculada Concepcion in Bohol is completed around this time. It is damaged by the 2013 earthquake but is subsequently restored. Photo: Baclayon Church, 2012 (Wikimedia Commons)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1727,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo_old/2/8/A_STRUCT_BaclayonChurch_1.jpg",
+		"shorten_media": "A_STRUCT_BaclayonChurch_1",
+		"display_name": null,
+		"photo_id": 264,
+		"url": "2909",
+		"article_id": 2909,
+		"photo_name": "A_STRUCT_BaclayonChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1727 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 436,
+		"timeline_id": 2910,
+		"media_caption": "<p>Jesuit House of 1730 in Cebu City, 2015</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ramon Aboitiz Foundation Inc Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1730 Jesuit House, Zulueta St",
+		"text_description": "<p>The Jesuit house at Zulueta St, Parian district, Cebu is completed. It is the oldest dated bahay na bato in Cebu. Photo: Jesuit House, 2015 (Ramon Aboitiz Foundation Inc)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1730,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_TheJesuitHouseof1730_1.jpg",
+		"shorten_media": "A_STRUCT_TheJesuitHouseof1730_1",
+		"display_name": null,
+		"photo_id": 436,
+		"url": "2910",
+		"article_id": 2910,
+		"photo_name": "A_STRUCT_TheJesuitHouseof1730_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1730 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 340,
+		"timeline_id": 2912,
+		"media_caption": "<p>Loboc Church, Bohol, May 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Renato S. Rastrollo</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1734 2nd Loboc Church",
+		"text_description": "<p>The second Loboc Church of San Pedro y San Pablo in Bohol is completed.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1734,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_LobocChurch_1.jpg",
+		"shorten_media": "A_STRUCT_LobocChurch_1",
+		"display_name": null,
+		"photo_id": 340,
+		"url": "2912",
+		"article_id": 2912,
+		"photo_name": "A_STRUCT_LobocChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1734 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 306,
+		"timeline_id": 2913,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": "NONE",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1735 Fort San Pedro, Cebu renovated",
+		"text_description": "<p>Fort San Pedro in Cebu is renovated. The site is said to be the place where Legazpi had built a triangular palisade in 1565.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1735,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_FortSanPedro_2.jpg",
+		"shorten_media": "A_STRUCT_FortSanPedro_2",
+		"display_name": null,
+		"photo_id": 306,
+		"url": "2913",
+		"article_id": 2913,
+		"photo_name": "A_STRUCT_FortSanPedro_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1735 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 342,
+		"timeline_id": 2914,
+		"media_caption": "<p>Church of San Luis Obispo de Tolosa in Lucban, Quezon, 2013</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Mariano Sayno</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1738 Lucban Church",
+		"text_description": "<p>Lucban Church is completed. Photo: Lucban Church, 2013 (Mariano Sayno)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1738,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_LucbanChurch_1.jpg",
+		"shorten_media": "A_STRUCT_LucbanChurch_1",
+		"display_name": null,
+		"photo_id": 342,
+		"url": "2914",
+		"article_id": 2914,
+		"photo_name": "A_STRUCT_LucbanChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1738 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 260,
+		"timeline_id": 2915,
+		"media_caption": "<p>Prewar Ayuntamiento or City Hall in Intramuros</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Philippine Picture Post Cards: 1900-1920 by Jonathan Best, The Bookmark, Inc, 1994</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1738 2nd Ayuntamiento",
+		"text_description": "<p>The second Ayuntamiento or city hall of Manila is completed. Photo: Prewar Ayuntamiento or City Hall in Intramuros (<em>Philippine Picture Post Cards: 1900-1920</em> by Jonathan Best, The Bookmark, Inc, 1994)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1738,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_Ayuntamiento_1.jpg",
+		"shorten_media": "A_STRUCT_Ayuntamiento_1",
+		"display_name": null,
+		"photo_id": 260,
+		"url": "2915",
+		"article_id": 2915,
+		"photo_name": "A_STRUCT_Ayuntamiento_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1738 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 481,
+		"timeline_id": 2916,
+		"media_caption": "<p>Basilica Minore of the Santo Niño</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Cebuano Studies Center, University of San Carlos</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1739 Santo Niño church, Cebu",
+		"text_description": "<p>The Church of the Santo Ni&ntilde;o (presently Basilica Minore del Santo Ni&ntilde;o) in Cebu is completed under Juan de Albarran OSA. Photo: Basilica Minore of the Santo Ni&ntilde;o (Cebuano Studies Center, University of San Carlos)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1739,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_CebuHeritageArea_3.jpg",
+		"shorten_media": "A_HA_CebuHeritageArea_3",
+		"display_name": null,
+		"photo_id": 481,
+		"url": "2916",
+		"article_id": 2916,
+		"photo_name": "A_HA_CebuHeritageArea_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1739 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 520,
+		"timeline_id": 2917,
+		"media_caption": "<p>San Francisco Church, destroyed during World War II</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1739 San Francisco Church",
+		"text_description": "<p>Church of Nuestra Se&ntilde;ora de los Angeles (in photo), more popularly known as San Francisco in Intramuros, is constructed. The church is destroyed during World War II. (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1739,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_IntramurosHeritageArea_6.jpg",
+		"shorten_media": "A_HA_IntramurosHeritageArea_6",
+		"display_name": null,
+		"photo_id": 520,
+		"url": "2917",
+		"article_id": 2917,
+		"photo_name": "A_HA_IntramurosHeritageArea_6",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1739 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 433,
+		"timeline_id": 2918,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1743 Tayabas church ruined",
+		"text_description": "<p>A stone church built by the Franciscans in 1600 in Tayabas, Quezon is ruined by earthquake, most likely a consequence of Mt. Banahaw&rsquo;s eruption.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1743,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_TayabasChurch_1.jpg",
+		"shorten_media": "A_STRUCT_TayabasChurch_1",
+		"display_name": null,
+		"photo_id": 433,
+		"url": "2918",
+		"article_id": 2918,
+		"photo_name": "A_STRUCT_TayabasChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1743 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 153,
+		"timeline_id": 2919,
+		"media_caption": "<p>Augustinian-built Church of San Juan de Sahagun in Tigbauan, Iloilo, 2007</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Aroleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1750 San Juan de Sahagun",
+		"text_description": "<p>The Augustinian Church of San Juan de Sahagun in Tigbauan, Iloilo with its unique plateresque fa&ccedil;ade is completed around this time. Photo: San Juan de Sahagun Church, 2007 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1750,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/5/A_FAT_Simbahan_5.jpg",
+		"shorten_media": "A_FAT_Simbahan_5",
+		"display_name": null,
+		"photo_id": 153,
+		"url": "2919",
+		"article_id": 2919,
+		"photo_name": "A_FAT_Simbahan_5",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1750 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 372,
+		"timeline_id": 2920,
+		"media_caption": "<p>Church of San Bartolome Apostol in Nagcarlan, Laguna, 1993</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1752 Nagcarlan Church",
+		"text_description": "<p>Nagcarlan Church in Laguna church is completed. Photo: Church of San Bartolome Apostol in Nagcarlan, Laguna, 1993 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1752,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_NagcarlanChurchandCemetery_1.jpg",
+		"shorten_media": "A_STRUCT_NagcarlanChurchandCemetery_1",
+		"display_name": null,
+		"photo_id": 372,
+		"url": "2920",
+		"article_id": 2920,
+		"photo_name": "A_STRUCT_NagcarlanChurchandCemetery_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1752 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 271,
+		"timeline_id": 2921,
+		"media_caption": "<p>Church of San Pedro y San Pablo in Calasiao, Pangasinan, 2014</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Tony Rivera</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1758 Calasiao Church ",
+		"text_description": "<p>Calasiao church in Pangasinan, begun in 1753, is most likely completed this year. Photo: Church of San Pedro y San Pablo in Calasiao, Pangasinan, 2014 (Tony Rivera)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1758,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_CalasiaoChurch_1.jpg",
+		"shorten_media": "A_STRUCT_CalasiaoChurch_1",
+		"display_name": null,
+		"photo_id": 271,
+		"url": "2921",
+		"article_id": 2921,
+		"photo_name": "A_STRUCT_CalasiaoChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1758 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 303,
+		"timeline_id": 2924,
+		"media_caption": "<p>Gate and walls of Fort San Antonio Abad in Manila, 1990, top</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1764 Fort San Antonio Abad",
+		"text_description": "<p>Fort San Antonio Abad is constructed after the British leave. It replaces an earlier fort used as the polverin or gunpowder depot, which is previously located inside Intramuros. Photo: Gate and walls of Fort San Antonio Abad in Manila, 1990</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1764,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_FortSanAntonioAbad_2.jpg",
+		"shorten_media": "A_STRUCT_FortSanAntonioAbad_2",
+		"display_name": null,
+		"photo_id": 303,
+		"url": "2924",
+		"article_id": 2924,
+		"photo_name": "A_STRUCT_FortSanAntonioAbad_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1764 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 384,
+		"timeline_id": 2925,
+		"media_caption": "<p>Church of San Pedro de Alcantara and Diocesan Shrine of Nuestra Señora de los Dolores de Turumba in Pakil, Laguna, 2016</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Vonna Vista</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1765 Pakil church",
+		"text_description": "<p>Pakil&rsquo;s Church of San Diego Alcantara in Laguna is completed. It is the site of the seven fiestas of Nuestra Se&ntilde;ora de Dolores, known for the Turumba. Photo: Pakil Church, 2016 (Vonna Vista)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1765,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_PakilChurch_1.jpg",
+		"shorten_media": "A_STRUCT_PakilChurch_1",
+		"display_name": null,
+		"photo_id": 384,
+		"url": "2925",
+		"article_id": 2925,
+		"photo_name": "A_STRUCT_PakilChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1765 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 439,
+		"timeline_id": 2926,
+		"media_caption": "<p>Cathedral of San Pedro in Tuguegarao in Cagayan, 2003</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1765 Tuguegarao church",
+		"text_description": "<p>Tuguegarao Church of Santo Domingo in Cagayan, begun in 1762, is completed.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1765,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_TuguegaraoCathedral_1.jpg",
+		"shorten_media": "A_STRUCT_TuguegaraoCathedral_1",
+		"display_name": null,
+		"photo_id": 439,
+		"url": "2926",
+		"article_id": 2926,
+		"photo_name": "A_STRUCT_TuguegaraoCathedral_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1765 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 266,
+		"timeline_id": 2928,
+		"media_caption": "<p>Interior of the Church of Santiago Apostol in Betis, Pampanga, 2016</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Cereneo Mistal</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1770 Betis Church",
+		"text_description": "<p>The Church of Santiago in Betis, Pampanga is completed. Photo: Interior of the Church of Santiago Apostol in Betis, Pampanga, 2016 (Cereneo Mistal)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1770,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo_old/2/8/A_STRUCT_BetisChurch_1.jpg",
+		"shorten_media": "A_STRUCT_BetisChurch_1",
+		"display_name": null,
+		"photo_id": 266,
+		"url": "2928",
+		"article_id": 2928,
+		"photo_name": "A_STRUCT_BetisChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1770 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 294,
+		"timeline_id": 2930,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1772 Daraga Church",
+		"text_description": "<p>Daraga Church of Nuestra Se&ntilde;ora de Porteria in Albay begins construction.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1772,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_DaragaChurch_1.jpg",
+		"shorten_media": "A_STRUCT_DaragaChurch_1",
+		"display_name": null,
+		"photo_id": 294,
+		"url": "2930",
+		"article_id": 2930,
+		"photo_name": "A_STRUCT_DaragaChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1772 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 385,
+		"timeline_id": 2932,
+		"media_caption": "<p>Church of Santa Monica in Pan-ay, Capiz, 2013</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1774 2nd Pan-ay church",
+		"text_description": "<p>The second Pan-ay Church of Santa Monica in Capiz is completed; it replaces an earlier church, constructed ca 1692. The second church is reconstructed in 1884. Photo: Church of Santa Monica in Pan-ay, Capiz, 2013 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1774,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_PanayChurch_1.jpg",
+		"shorten_media": "A_STRUCT_PanayChurch_1",
+		"display_name": null,
+		"photo_id": 385,
+		"url": "2932",
+		"article_id": 2932,
+		"photo_name": "A_STRUCT_PanayChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1774 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 268,
+		"timeline_id": 2934,
+		"media_caption": "<p>Church of Nuestra Señora del Patrocinio de Maria in Boljoon, Cebu, 2009</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>National Historical Commission of the Philippines Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1783 Boljoon Church",
+		"text_description": "<p>Church of the Patrocinio in Boljoon, Cebu is constructed. Rococo motifs are evident on the retablo, considered an exemplary of this style. Photo: Boljoon Church, 2009 (National Historical Commission of the Philippines)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1783,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_BoljoonChurchandConvento_1.jpg",
+		"shorten_media": "A_STRUCT_BoljoonChurchandConvento_1",
+		"display_name": null,
+		"photo_id": 268,
+		"url": "2934",
+		"article_id": 2934,
+		"photo_name": "A_STRUCT_BoljoonChurchandConvento_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1783 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 318,
+		"timeline_id": 2936,
+		"media_caption": "<p>Holy Rosary Minor Seminary in Naga City, 2003</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1783 Casa de Clerigos",
+		"text_description": "<p>The Casa de Clerigos and Seminario Conciliar, later known as Holy Rosary Seminary, in Naga is constructed around this time.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1783,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_HolyRosaryMinorSeminary_1.jpg",
+		"shorten_media": "A_STRUCT_HolyRosaryMinorSeminary_1",
+		"display_name": null,
+		"photo_id": 318,
+		"url": "2936",
+		"article_id": 2936,
+		"photo_name": "A_STRUCT_HolyRosaryMinorSeminary_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1783 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 440,
+		"timeline_id": 2937,
+		"media_caption": "<p>Facade of the Church of San Matias in Tumauini, Isabela, 2007</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1783 San Matias brick church",
+		"text_description": "<p>The brick church of San Matias in Tumauini, Isabela starts construction, supposedly under friar-architect, Antonio Lobato OP. Photo: Tumauini Church, 2007 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1783,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_TumauiniChurch_1.jpg",
+		"shorten_media": "A_STRUCT_TumauiniChurch_1",
+		"display_name": null,
+		"photo_id": 440,
+		"url": "2937",
+		"article_id": 2937,
+		"photo_name": "A_STRUCT_TumauiniChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1783 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 432,
+		"timeline_id": 2941,
+		"media_caption": "<p>Church of San Ildefonso in Tanay, Rizal, 2012</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from www.juan-ted.com</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1783 Tanay church",
+		"text_description": "<p>The Tanay Church of San Idelfonso in Rizal is completed. Its altars are Rococo. Photo: Tanay Church, 2012 (www.juan-ted.com)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1783,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_TanayChurch_1.jpg",
+		"shorten_media": "A_STRUCT_TanayChurch_1",
+		"display_name": null,
+		"photo_id": 432,
+		"url": "2941",
+		"article_id": 2941,
+		"photo_name": "A_STRUCT_TanayChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1783 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 279,
+		"timeline_id": 2942,
+		"media_caption": "<p>Restored Casa de Comunidad de Tayabas in Quezon, 2011</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Romnick Coros</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1786 Casa de Communidad",
+		"text_description": "<p>The Casa de Communidad in Tayabas, Quezon is built of stone under Gob Salvador Flores de San Francisco. It is repaired in 1810 by Gov Lorenzo de los Reyes, then remodelled and expanded in 1831-1835 by Gov Diego Enriquez. Photo: Restored Casa de Comunidad de Tayabas, 2011 (Romnick Coros)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1786,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_CasaDeCommunidadDeTayabas_1.jpg",
+		"shorten_media": "A_STRUCT_CasaDeCommunidadDeTayabas_1",
+		"display_name": null,
+		"photo_id": 279,
+		"url": "2942",
+		"article_id": 2942,
+		"photo_name": "A_STRUCT_CasaDeCommunidadDeTayabas_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1786 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 136,
+		"timeline_id": 2943,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1788 Real Audiencia",
+		"text_description": "<p>The Real Audiencia, formerly housed in the Palacio del Gobernador, acquires its own property in Intramuros. Soon after the Audiencia building is started.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1788,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/5/A_FAT_Palacio_1.jpg",
+		"shorten_media": "A_FAT_Palacio_1",
+		"display_name": null,
+		"photo_id": 136,
+		"url": "2943",
+		"article_id": 2943,
+		"photo_name": "A_FAT_Palacio_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1788 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 137,
+		"timeline_id": 2944,
+		"media_caption": "<p>Main facade of the Malacañan Palace, ca 1920</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1796 Malacañan built",
+		"text_description": "<p>Malaca&ntilde;an is built by Don Antonia Dias Conde around this year; later it is bought by Luis Rocha in 1796; then by Jose Miguel Fomento in 1802, until Gov-Gen Juan Antonio Martinez acquires it for a rest house. Photo: Main facade of the Malaca&ntilde;an Palace, ca 1920 (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1796,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/5/A_FAT_Palacio_2.jpg",
+		"shorten_media": "A_FAT_Palacio_2",
+		"display_name": null,
+		"photo_id": 137,
+		"url": "2944",
+		"article_id": 2944,
+		"photo_name": "A_FAT_Palacio_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1796 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 366,
+		"timeline_id": 2947,
+		"media_caption": "<p>Church of Santo Tomas de Villanueva in Miag-ao, Iloilo, 2013</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda,Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1797 Miag-ao church",
+		"text_description": "<p>The Church of Santo Tomas de Villanueva in Miag-ao, Iloilo is completed with rococo morifs. It is declared World Heritage Site in 1993. Photo: Miag-ao Church, 2013 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1797,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_MiagaoChurch_1.jpg",
+		"shorten_media": "A_STRUCT_MiagaoChurch_1",
+		"display_name": null,
+		"photo_id": 366,
+		"url": "2947",
+		"article_id": 2947,
+		"photo_name": "A_STRUCT_MiagaoChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1797 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 450,
+		"timeline_id": 2950,
+		"media_caption": "<p>Exterior and bell tower of Vigan Cathedral, 2012</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Arianne Buna</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1800 Vigan cathedral",
+		"text_description": "<p>Vigan&rsquo;s Cathedral of San Pablo is completed around this time. Photo: Exterior of the Cathedral of San Pablo and bell tower in Vigan City, 2012 (Arianne Buna)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1800,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_ViganCathedral_1.jpg",
+		"shorten_media": "A_STRUCT_ViganCathedral_1",
+		"display_name": null,
+		"photo_id": 450,
+		"url": "2950",
+		"article_id": 2950,
+		"photo_name": "A_STRUCT_ViganCathedral_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1800 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 76,
+		"timeline_id": 2952,
+		"media_caption": "<p>Tanjosoy-Bautista-de los Santos House in Malolos City, with art nouveau influence, 2017</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Kiko del Rosario</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1812 Tansojoy-Bautista-De los Santos",
+		"text_description": "<p>The Tanjosoy-Bautista-De los Santos house in Malolos is built.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1812,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/4/A_HE_SOURCES_9.jpg",
+		"shorten_media": "A_HE_SOURCES_9",
+		"display_name": null,
+		"photo_id": 76,
+		"url": "2952",
+		"article_id": 2952,
+		"photo_name": "A_HE_SOURCES_9",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1812 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 426,
+		"timeline_id": 2953,
+		"media_caption": "<p>Brick facade of the Church of Santa Monica in Sarrat, Ilocos Norte, 1995</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1816 Sarrat church",
+		"text_description": "<p>Before this year, Sarrat church, Ilocos Norte is completed. It will be rebuilt in 1848. Photo: Sarrat Church, 1995 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1816,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_SarratChurch_1.jpg",
+		"shorten_media": "A_STRUCT_SarratChurch_1",
+		"display_name": null,
+		"photo_id": 426,
+		"url": "2953",
+		"article_id": 2953,
+		"photo_name": "A_STRUCT_SarratChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1816 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 525,
+		"timeline_id": 2955,
+		"media_caption": "<p>Church of the Santisima Trinidad and bell tower, 2012</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Ric V. Obedencio</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1822 Loay Church",
+		"text_description": "<p>Loay&rsquo;s Church of the Santisima Trinidad is built. The convento follows in 1838, the bell tower in 1865 and the cement portico fa&ccedil;ade in the early 20th century. Damaged by the 2013 earthquakes, the church is being restored. Photo: Loay Church, 2012 (Ric V. Obedencio)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1822,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_LoayPoblacion_1.jpg",
+		"shorten_media": "A_HA_LoayPoblacion_1",
+		"display_name": null,
+		"photo_id": 525,
+		"url": "2955",
+		"article_id": 2955,
+		"photo_name": "A_HA_LoayPoblacion_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1822 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 378,
+		"timeline_id": 2960,
+		"media_caption": "<p>Osario or ossuary of Paco Cemetery, ca 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1823 Paco Cemetery",
+		"text_description": "<p>Built for the victims of a cholera epidemic, the oval-shaped Paco Cemetery in Manila is completed.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1823,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_PacoCemetery_2.jpg",
+		"shorten_media": "A_STRUCT_PacoCemetery_2",
+		"display_name": null,
+		"photo_id": 378,
+		"url": "2960",
+		"article_id": 2960,
+		"photo_name": "A_STRUCT_PacoCemetery_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1823 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 293,
+		"timeline_id": 2964,
+		"media_caption": "<p>Ceiling, facade, and bell tower of the Church of San Guillermo in Dalaguete, Cebu, 2003</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photos by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1825 Dalaguete church",
+		"text_description": "<p>Dalaguete church in Cebu, begun in 1801, is completed. It has rococo altars.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1825,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_DalagueteChurch_2.jpg",
+		"shorten_media": "A_STRUCT_DalagueteChurch_2",
+		"display_name": null,
+		"photo_id": 293,
+		"url": "2964",
+		"article_id": 2964,
+		"photo_name": "A_STRUCT_DalagueteChurch_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1825 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 258,
+		"timeline_id": 2967,
+		"media_caption": "<p>Church of San Miguel in Argao, Cebu, 2009</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from National Historical Commission of the Philippines Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1830 Argao Church",
+		"text_description": "<p>The Argao Church of San Miguel in Cebu, begun ca 1788, is completed. It has rococo altars. Photo: Rococo altar of Argao Church, ca 1990</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1830,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_ArgaoChurchandConvento_2.jpg",
+		"shorten_media": "A_STRUCT_ArgaoChurchandConvento_2",
+		"display_name": null,
+		"photo_id": 258,
+		"url": "2967",
+		"article_id": 2967,
+		"photo_name": "A_STRUCT_ArgaoChurchandConvento_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1830 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 286,
+		"timeline_id": 2971,
+		"media_caption": "<p>Prewar Cathedral of San Vitalis in Cebu City</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Leo Cloma Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1834 Cebu Cathedral",
+		"text_description": "<p>The Cebu Cathedral (Church of San Vitalis), begun in 1734, is completed. It is damaged by World War II and reconstructed in 1959 by Jose Zaragosa. Photo: Prewar Church of San Vitalis (Leo Cloma Collection)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1834,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_CebuMetropolitanCathedral_1.jpg",
+		"shorten_media": "A_STRUCT_CebuMetropolitanCathedral_1",
+		"display_name": null,
+		"photo_id": 286,
+		"url": "2971",
+		"article_id": 2971,
+		"photo_name": "A_STRUCT_CebuMetropolitanCathedral_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1834 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 479,
+		"timeline_id": 2976,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1837 non-Spanish trading houses",
+		"text_description": "<p>The establishment of non-Spanish trading houses and businesses in the Philippines, especially in Binondo, Iloilo and Cebu, brings new construction materials and tools from Europe and the USA, such as fabric and stamped metal ceilings, zinc roofing from England, ice-boxes from USA, and French household bric-a-brac.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1837,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_CebuHeritageArea_1.jpg",
+		"shorten_media": "A_HA_CebuHeritageArea_1",
+		"display_name": null,
+		"photo_id": 479,
+		"url": "2976",
+		"article_id": 2976,
+		"photo_name": "A_HA_CebuHeritageArea_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1837 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 371,
+		"timeline_id": 2977,
+		"media_caption": "<p>Church of San Francisco de Asis in Naga, Cebu, 2013</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Michael Oca&ntilde;a</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1839 Naga Church",
+		"text_description": "<p>Naga&rsquo;s Church of San Francisco de Asis in Cebu is completed. Photo: Church of San Francisco de Asis, 2013 (Michael Oca&ntilde;a)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1839,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_NagaChurch_1.jpg",
+		"shorten_media": "A_STRUCT_NagaChurch_1",
+		"display_name": null,
+		"photo_id": 371,
+		"url": "2977",
+		"article_id": 2977,
+		"photo_name": "A_STRUCT_NagaChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1839 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 189,
+		"timeline_id": 2980,
+		"media_caption": "<p>Mercado House in Bustos, Bulacan of carved stone, capiz windows, and wooden balustrade</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Florentino Floro</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1840 Mercado residence",
+		"text_description": "<p>The Mercado residence in Bustos, Bulacan is completed. Photo: Mercado House with carved stone, capiz windows, and wooden balustrade (Florentino Floro)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1840,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/6/A_AOA_ConstructionMethodandMaterials_6.jpg",
+		"shorten_media": "A_AOA_ConstructionMethodandMaterials_6",
+		"display_name": null,
+		"photo_id": 189,
+		"url": "2980",
+		"article_id": 2980,
+		"photo_name": "A_AOA_ConstructionMethodandMaterials_6",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1840 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 136,
+		"timeline_id": 2983,
+		"media_caption": "<p>Facade of the Palacio del Gobernador in Intramuros, Manila</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from <em>Fiestas en Manila A&ntilde;o 1825</em> by Justa Moreno Garbayo, Patrimonio Nacional, 1977</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1850 Palacio del Gobernador",
+		"text_description": "<p>The fa&ccedil;ade of the Palacio del Gobernador in Intramuros (in photo), built under the governorship of Fausto Cruzat y Gongora, is renovated in the neoclassical style. It is ruined by an 1863 earthquake, then abandoned in 1880 after another earthquake. (Photo from <em>Fiestas en Manila A&ntilde;o 1825</em> by Justa Moreno Garbayo, Patrimonio Nacional, 1977)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1850,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/5/A_FAT_Palacio_1.jpg",
+		"shorten_media": "A_FAT_Palacio_1",
+		"display_name": null,
+		"photo_id": 136,
+		"url": "2983",
+		"article_id": 2983,
+		"photo_name": "A_FAT_Palacio_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1850 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 571,
+		"timeline_id": 2985,
+		"media_caption": "<p>Puente de Malagonlong</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Government of Tayabas City</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1850 Puente de Malagonlong",
+		"text_description": "<p>Puente de Malagonlong in Tayabas, Quezon, begun 1841 under Fr Antonio Mateo, OFM, is completed.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1850,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_TayabasPoblacion_3.jpg",
+		"shorten_media": "A_HA_TayabasPoblacion_3",
+		"display_name": null,
+		"photo_id": 571,
+		"url": "2985",
+		"article_id": 2985,
+		"photo_name": "A_HA_TayabasPoblacion_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1850 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 551,
+		"timeline_id": 2992,
+		"media_caption": "<p>Escuela Pia, popularly called Escolapia, 2017</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Kiko del Rosario</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1853 Escuela pia",
+		"text_description": "<p>The construction of the <em>escuela pia</em> at Taal, Batangas is completed. Photo: Escuela Pia, popularly called Escolapia, 2017 (Kiko del Rosario)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1853,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_TaalPoblacion_1.jpg",
+		"shorten_media": "A_HA_TaalPoblacion_1",
+		"display_name": null,
+		"photo_id": 551,
+		"url": "2992",
+		"article_id": 2992,
+		"photo_name": "A_HA_TaalPoblacion_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1853 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 300,
+		"timeline_id": 3005,
+		"media_caption": "<p>Castillo de San Vicente Ferrer in Maribojoc, Bohol, 2016</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Claire Jabines, Bohol Provincial Tourism Office</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1860 Fort of San Vicente Ferrer",
+		"text_description": "<p>Punta Cruz&rsquo;s Fort of San Vicente Ferrer in Maribojoc, Bohol is completed. Photo: Castillo de San Vicente Ferrer, 2016 (Claire Jabines, Bohol Provincial Tourism Office)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1860,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_FortPuntaCruz_1.jpg",
+		"shorten_media": "A_STRUCT_FortPuntaCruz_1",
+		"display_name": null,
+		"photo_id": 300,
+		"url": "3005",
+		"article_id": 3005,
+		"photo_name": "A_STRUCT_FortPuntaCruz_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1860 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 418,
+		"timeline_id": 3007,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1863 new Santo domingo facade",
+		"text_description": "<p>The newly built fa&ccedil;ade of Santo Domingo in the neoclassical style, said to have been patterned after Christopher Wren&rsquo;s St. Paul&rsquo;s Cathedral in London, collapses. It stood for only a little over a year.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1863,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_SantoDomingoChurch_1.jpg",
+		"shorten_media": "A_STRUCT_SantoDomingoChurch_1",
+		"display_name": null,
+		"photo_id": 418,
+		"url": "3007",
+		"article_id": 3007,
+		"photo_name": "A_STRUCT_SantoDomingoChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1863 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 438,
+		"timeline_id": 3008,
+		"media_caption": "<p>Church of the Santo Niño in Tondo, Manila, 1993</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1863 Tondo neoclassical church",
+		"text_description": "<p>After 1863, the Tondo neoclassical church is completed, designed by Luciano Oliver. Photo: Church of the Santo Ni&ntilde;o in Tondo, Manila, 1993 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1863,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_TondoChurch_1.jpg",
+		"shorten_media": "A_STRUCT_TondoChurch_1",
+		"display_name": null,
+		"photo_id": 438,
+		"url": "3008",
+		"article_id": 3008,
+		"photo_name": "A_STRUCT_TondoChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1863 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 281,
+		"timeline_id": 3009,
+		"media_caption": "<p>Casa Gorordo in the Parian, Cebu City, 2015</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Ramon Aboitiz Foundation Inc Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1863 Casa Gorordo house museum",
+		"text_description": "<p>Fr Juan Isidro de Gorordo acquires a house in Parian, Cebu, built in the mid-19th century by Arch Alejandro Reynes. Acquired by Ramon Aboitiz Foundation, Inc. (RAFI) in 1983, it is now the Casa Gorordo house museum. Photo: Casa Gorordo, 2015 (RAFI)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1863,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_CasaGorordo_1.jpg",
+		"shorten_media": "A_STRUCT_CasaGorordo_1",
+		"display_name": null,
+		"photo_id": 281,
+		"url": "3009",
+		"article_id": 3009,
+		"photo_name": "A_STRUCT_CasaGorordo_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1863 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 369,
+		"timeline_id": 3020,
+		"media_caption": "<p>Church of Santa Ana in Molo, Iloilo, 2013</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1869 Molo Church",
+		"text_description": "<p>The Molo Church of Santa Ana is substantially completed but work on the church interior continues to the 1920s when the neogothic retablos of the church are completed. It is marked by NHI in 1992. Photo: Molo Church, 2013 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1869,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_MoloChurch_1.jpg",
+		"shorten_media": "A_STRUCT_MoloChurch_1",
+		"display_name": null,
+		"photo_id": 369,
+		"url": "3020",
+		"article_id": 3020,
+		"photo_name": "A_STRUCT_MoloChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1869 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 252,
+		"timeline_id": 3024,
+		"media_caption": "<p>Aduana or Customs House, also Intendencia or City Administration in Intramuros, 1899</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by F. Tennyson Neely</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1872 Neo-classical Aduana",
+		"text_description": "<p>The Neo-classical Aduana in Intramuros, begun in 1832, is renovated 1874. It replaces the Alcaiceria de San Fernando in Binondo as the Customs House. Photo: Aduana or Customs House, also Intendencia or City Administration in Intramuros, 1899 (F. Tennyson Neely)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1872,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_Aduana_1.jpg",
+		"shorten_media": "A_STRUCT_Aduana_1",
+		"display_name": null,
+		"photo_id": 252,
+		"url": "3024",
+		"article_id": 3024,
+		"photo_name": "A_STRUCT_Aduana_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1872 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 326,
+		"timeline_id": 3027,
+		"media_caption": "<p>Cathedral of Santa Isabel de Hungria in Jaro, Iloilo, 2015</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Department of Tourism</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1874 Jaro Cathedral",
+		"text_description": "<p>Jaro cathedral dedicated to Santa Isabel de Hungria is completed, after Augustinians hand over the parish to Mariano Cuartero, named bishop of Jaro in 1867. Photo: Cathedral of Santa Isabel de Hungria, 2015 (Department of Tourism)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1874,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_JaroCathedral_1.jpg",
+		"shorten_media": "A_STRUCT_JaroCathedral_1",
+		"display_name": null,
+		"photo_id": 326,
+		"url": "3027",
+		"article_id": 3027,
+		"photo_name": "A_STRUCT_JaroCathedral_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1874 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 277,
+		"timeline_id": 3032,
+		"media_caption": "<p>Church of Santa Catalina de Alejandria in Carcar, Cebu, 2003</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1875 Carcar church",
+		"text_description": "<p>Carcar church, Cebu, constructed under Fr. Antonio Manglano OSA, and begun in 1860, is completed under Fr Manuel Fernandez OSA. Photo: Carcar Church, 2003 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1875,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_CarcarChurch_1.jpg",
+		"shorten_media": "A_STRUCT_CarcarChurch_1",
+		"display_name": null,
+		"photo_id": 277,
+		"url": "3032",
+		"article_id": 3032,
+		"photo_name": "A_STRUCT_CarcarChurch_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1875 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 542,
+		"timeline_id": 3041,
+		"media_caption": "<p>Santos-Bautista House, 2017</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Kiko del Rosario</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1877 Santos-Bautista house",
+		"text_description": "<p>The Santos-Bautista House with the caryatids in Malolos, Bulacan is completed. Photo: Santos-Bautista House, 2017 (Kiko del Rosario)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1877,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/10/A_HA_MalolosHeritageZone_15.jpg",
+		"shorten_media": "A_HA_MalolosHeritageZone_15",
+		"display_name": null,
+		"photo_id": 542,
+		"url": "3041",
+		"article_id": 3041,
+		"photo_name": "A_HA_MalolosHeritageZone_15",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1877 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 278,
+		"timeline_id": 3042,
+		"media_caption": "<p>Carcel de Cebu in Cebu City, 2015, now repurposed as a museum</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ramon Aboitiz Foundation Inc Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1878 Carcel de Cebu",
+		"text_description": "<p>The Carcel de Cebu, begun in 1863, is completed, designed by Domingo de Escondrillas.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1878,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_CarcelDeCebu_1.jpg",
+		"shorten_media": "A_STRUCT_CarcelDeCebu_1",
+		"display_name": null,
+		"photo_id": 278,
+		"url": "3042",
+		"article_id": 3042,
+		"photo_name": "A_STRUCT_CarcelDeCebu_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1878 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 401,
+		"timeline_id": 3046,
+		"media_caption": "<p>Church of San Miguel in Samboan, Cebu, 2009</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1878 Samboan church",
+		"text_description": "<p>Samboan&rsquo;s Church of San Miguel and Jacob&rsquo;s Ladder in Cebu are completed. Photo: Church of San Miguel in Samboan, 2009 (Betty Lalana and Lino Arboleda, Ortigas Foundation Library)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1878,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_SamboanChurchandJacob_1.jpg",
+		"shorten_media": "A_STRUCT_SamboanChurchandJacob_1",
+		"display_name": null,
+		"photo_id": 401,
+		"url": "3046",
+		"article_id": 3046,
+		"photo_name": "A_STRUCT_SamboanChurchandJacob_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1878 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 430,
+		"timeline_id": 3048,
+		"media_caption": "<p>Basilica Minore of San Martin de Tours in Taal, Batangas, ca 1990</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1878 Taal church of San Martin",
+		"text_description": "<p>The Taal Church of San Martin in Batangas is completed, designed by municipal architect of Manila, Luciano Oliver. It is elevated to basilica minore on Oct 22, 1948. Restored in 1972, it is declared a National Shrine in 1974 by NHI.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1878,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_TaalBasilica_1.jpg",
+		"shorten_media": "A_STRUCT_TaalBasilica_1",
+		"display_name": null,
+		"photo_id": 430,
+		"url": "3048",
+		"article_id": 3048,
+		"photo_name": "A_STRUCT_TaalBasilica_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1878 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 4958,
+		"timeline_id": 3074,
+		"media_caption": "<p>A section of Tabon Cave, 2015</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Michael Turtle, timetravelturtle.com</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture -50000 Tabon Cave",
+		"text_description": "<p>Tabon Caves are inhabited by humans.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": -50000,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/1/2/2366_History_1.jpg",
+		"shorten_media": "2366_History_1",
+		"display_name": "50,000-45,000 BCE",
+		"photo_id": 4958,
+		"url": "3074",
+		"article_id": 3074,
+		"photo_name": "2366_History_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": -50000 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 683,
+		"timeline_id": 3083,
+		"media_caption": "<p>The Manunggul Jar, 890 to 710 BC</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from National Museum of the Philippines Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture -895 Manunggul Jar",
+		"text_description": "<p>The human practice of secondary burial is indicated by the Manunggul Jar, found in the Tabon Caves, Palawan. Designated as a National Treasure by the National Museum of the Philippines, it depicts on its lid the human soul on a journey to the afterlife.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": -895,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Philippine_Visual_Arts_1.jpg",
+		"shorten_media": "V_HE_Philippine_Visual_Arts_1",
+		"display_name": "895-775 BCE",
+		"photo_id": 683,
+		"url": "3083",
+		"article_id": 3083,
+		"photo_name": "V_HE_Philippine_Visual_Arts_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": -895 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 672,
+		"timeline_id": 3084,
+		"media_caption": "<p>Maitum jar</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from National Museum of the Philippines Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture -5 Maitum Cave",
+		"text_description": "<p>In Maitum Cave, Saranggani, humans leave anthropomorphic burial jars, gall beads, bracelets, and other ornaments for the deceased.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": -5,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Indigenous_2.jpg",
+		"shorten_media": "V_HE_Indigenous_2",
+		"display_name": "5 BCE-225 CE",
+		"photo_id": 672,
+		"url": "3084",
+		"article_id": 3084,
+		"photo_name": "V_HE_Indigenous_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": -5 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1037,
+		"timeline_id": 3085,
+		"media_caption": "<p>Balanghai CE 320, cabo negro, Ambangan, Libertad, Butuan, Agusan del Norte Province, northeastern Mindanao</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Roezielle Joy Iglesia</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 320 balanghay",
+		"text_description": "<p>Large edge-pegged plank boats popularly called &ldquo;balanghay&rdquo; are used for travel and residence. Discovered in the 1970s in Butuan City are the earliest dated boats found in the Philippines. (Photo by Roezielle Joy Iglesia)</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 320,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Balanghai_CE_320_1.jpg",
+		"shorten_media": "V_WORKS_Balanghai_CE_320_1",
+		"display_name": null,
+		"photo_id": 1037,
+		"url": "3085",
+		"article_id": 3085,
+		"photo_name": "V_WORKS_Balanghai_CE_320_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 320 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 2889,
+		"timeline_id": 3092,
+		"media_caption": "NONE",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Architecture 1865 Ateneo Municipal",
+		"text_description": "<p>Ateneo Municipal builds a campus on Arsobispo and Anda Sts; it occupies the block until Santa Lucia.</p>",
+		"category": 8,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1865,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/7/58/T_WorksProductions_DahongPalay.jpg",
+		"shorten_media": "T_WorksProductions_DahongPalay",
+		"display_name": null,
+		"photo_id": 2889,
+		"url": "3092",
+		"article_id": 3092,
+		"photo_name": "T_WorksProductions_DahongPalay",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1865 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

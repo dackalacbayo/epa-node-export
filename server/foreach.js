@@ -5,7 +5,7 @@ var subcat = [3, 4, 5, 6, 7, 8, 9, 10, 11];
 async.forEachOf(
 	subcat,
 	(value, key, callback) => {
-		const url = `http://localhost:3000/articles?volume=${volume}&subcat=${value}`;
+		const url = `http://localhost:4202/articles?volume=${volume}&subcat=${value}`;
 		axios
 			.get(url)
 			.then(res => {

@@ -1,0 +1,101 @@
+[
+	{
+		"timeline_id": 1155,
+		"media_caption": "<p>Francisco Coching, El Indio, 1952</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": "KOMIKS",
+		"article_title": "Lit 1947.1 Pilipino Komiks",
+		"text_description": "<p><em>Pilipino Komiks</em> is published by Ramon Roces. It will serialize <em>El Indio</em> by Francisco V. Coching, which will be reprinted as a graphic novel in 2009 by Vibal Foundation. Other komiks magazines will emerge in the 1950s and 1960s.</p>",
+		"category": 6,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1947,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/timeline/timeline-img/LIT_el indio.png",
+		"shorten_media": "LIT_el indio.png",
+		"display_name": "1947",
+		"photo_id": null,
+		"url": "1155",
+		"article_id": 1155,
+		"photo_name": "LIT_el indio.png",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1947 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1142,
+		"media_caption": "<p>Cover of the original manuscript of Jose Rizal’s Noli Me Tangere, 1887</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>National Library of the Philippines Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1887 Noli me Tangere",
+		"text_description": "<p>Mar: Jose Rizal publishes <em>Noli me Tangere</em> in Berlin. A few copies of the novel begin to arrive in the Philippines in two months. (National Library of the Philippines Collection)</p>",
+		"category": 6,
+		"start_month": 3,
+		"start_day": 0,
+		"start_year": 1887,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/timeline/timeline-img/noli-metangere.jpg",
+		"shorten_media": "noli-metangere",
+		"display_name": null,
+		"photo_id": null,
+		"url": "1142",
+		"article_id": 1142,
+		"photo_name": "noli-metangere",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 3, "day": 0, "year": 1887 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1144,
+		"media_caption": "<p>Cover of the 1961 facsimile edition of Jose Rizal’s El Filibusterismo</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo courtesy of Leon Gallery Fine Arts and Antiques</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1891 El Filibusterismo",
+		"text_description": "<p>Sep 18: Jose Rizal&#39;s <em>El Filibusterismo</em> is published in Ghent, Belgium, and is later smuggled into the Philippines through Hong Kong.</p>",
+		"category": 6,
+		"start_month": 9,
+		"start_day": 18,
+		"start_year": 1891,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/timeline/timeline-img/el-fili.jpg",
+		"shorten_media": "el-fili",
+		"display_name": null,
+		"photo_id": null,
+		"url": "1144",
+		"article_id": 1144,
+		"photo_name": "el-fili",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 18, "year": 1891 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

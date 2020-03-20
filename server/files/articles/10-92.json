@@ -1,0 +1,41 @@
+[
+	{
+		"article_id": "25830",
+		"url": "10/92/25830",
+		"article_title": "Contact",
+		"publish_year": "",
+		"description": "",
+		"volume_name": "ABOUT",
+		"subsection_name": "Contact",
+		"photos": [{ "photo": null, "desc": null }],
+		"vids": [],
+		"text": "<p>For issues pertaining to intellecual property rights, contact the CCP at ipr@culturalcenter.gov.ph.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Other issues and concerns can be addressed to:</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Cultural Research and Development Division</p>\r\n\r\n<p>Cultural Center of the Philippines</p>\r\n\r\n<p>CCP Complex, Roxas Blvd., Pasay City, Metro Manila</p>\r\n\r\n<p>(+632) 832-1125 local 1511-1512</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+		"category": 11,
+		"article": [
+			{
+				"type": "paragraph",
+				"value": "For issues pertaining to intellecual property rights, contact the CCP at ipr@culturalcenter.gov.ph."
+			},
+			{
+				"type": "paragraph",
+				"value": "Other issues and concerns can be addressed to:"
+			},
+			{
+				"type": "paragraph",
+				"value": "Cultural Research and Development Division"
+			},
+			{
+				"type": "paragraph",
+				"value": "Cultural Center of the Philippines"
+			},
+			{
+				"type": "paragraph",
+				"value": "CCP Complex, Roxas Blvd., Pasay City, Metro Manila"
+			},
+			{ "type": "paragraph", "value": "(+632) 832-1125 local 1511-1512" },
+			{ "type": "author", "value": null },
+			{ "type": "see_also", "value": [] },
+			{ "type": "sources", "value": [] }
+		]
+	}
+]

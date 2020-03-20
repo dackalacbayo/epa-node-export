@@ -1,0 +1,3096 @@
+[
+	{
+		"timeline_id": 1052,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1895 projector",
+		"text_description": "<p> The first film projector is brought to the country. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1895,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1052",
+		"article_id": 1052,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1895 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1325,
+		"media_caption": "<p> Oscar Keesee and Edita Vital in Noli Me Tangere, 1961 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando Collection </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1896 Jose Rizal's life and works",
+		"text_description": "<p> Jose Rizal’s life and works will inspire many films, including <em> Sisa, Noli Me Tangere, </em> and <em> El Filibusterismo </em> of Gerardo de Leon. (Cesar Hernando Collection) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1896,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1325",
+		"article_id": 1325,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1896 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1053,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1897 Espetaculo",
+		"text_description": "<p> Espetaculo Cientifico de Pertierra is shown at Escolta. It is a show of chronophotographs. </p>",
+		"category": 2,
+		"start_month": 1,
+		"start_day": 8,
+		"start_year": 1897,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1053",
+		"article_id": 1053,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 1, "day": 8, "year": 1897 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1054,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1897 Lumiere",
+		"text_description": "<p> Lumiere films and the cinematograph are introduced to the country courtesy of two Swiss, Leibman and Peritz. </p>",
+		"category": 2,
+		"start_month": 9,
+		"start_day": 18,
+		"start_year": 1897,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1054",
+		"article_id": 1054,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 18, "year": 1897 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1326,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1898 Antonio Ramos",
+		"text_description": "<p> Antonio Ramos, a Spanish officer, is the first to shoot and exhibit films in the country. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1898,
+		"end_month": 0,
+		"end_day": null,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1326",
+		"article_id": 1326,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1898 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1365,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1903 Jose Jimenez",
+		"text_description": "<p> Jose Jimenez builds the first Filipino-owned theater, Cinematógrafo Rizal in Tondo. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1903,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1365",
+		"article_id": 1365,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1903 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1366,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Eduardo de Leon Collection </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1905 Herbert Wyndham",
+		"text_description": "<p> Herbert Wyndham shoots a series of scenes at the Manila Fire Department, the first edited film in the Philippines.\n(Photo from Eduardo de Leon Collection) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1905,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1366",
+		"article_id": 1366,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1905 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2334,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1909 Albert Yearsley",
+		"text_description": "<p> Albert Yearsley shoots Rizal Day celebrations at Luneta Park; the film is released the following year. </p>",
+		"category": 2,
+		"start_month": 12,
+		"start_day": 30,
+		"start_year": 1909,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2334",
+		"article_id": 2334,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 12, "day": 30, "year": 1909 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2335,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1912 Rizalina",
+		"text_description": "<p> Rizalina Photoplay Company is founded and produces <em> La Vida de Jose Rizal, </em>  based on Edward Gross’s 1905 stage play. Albert Yearsley’s <em> El Fusilamiento de Dr Jose Rizal </em> is shown to the public one day ahead of <em> La Vida de Jose Rizal. </em> </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1912,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2335",
+		"article_id": 2335,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1912 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2338,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1915 Sirena",
+		"text_description": "<p> Sirena Moving Company is formed by theater owner Luis Camas. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1915,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2338",
+		"article_id": 2338,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1915 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2339,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1915 Gross Noli",
+		"text_description": "<p> Edward Gross’s <em> Noli Me Tangere </em> is shown. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1915,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2339",
+		"article_id": 2339,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1915 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2340,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1916 Gross El Fili",
+		"text_description": "<p> Edward Gross’s <em> El Filibusterismo </em> is released. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1916,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2340",
+		"article_id": 2340,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1916 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2341,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1917 Malayan",
+		"text_description": "<p> Jose Nepomuceno establishes the first Filipino-owned company, Malayan Movies. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1917,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2341",
+		"article_id": 2341,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1917 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2342,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1922 Elena Jurado",
+		"text_description": "<p> Elena Jurado appears in two Hollywood films, <em> White Hands </em> and <em> Four Flushers. </em> </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1922,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2342",
+		"article_id": 2342,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1922 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2343,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from James de la Rosa </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1925 Miracles of Love",
+		"text_description": "<p> <em> Miracles of Love, </em> directed by Vicente Salumbides, is shown. The film showcases the use of close-ups and fast-cutting, a first in Philippine cinema. (Photo from James de la Rosa) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1925,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2343",
+		"article_id": 2343,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1925 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2344,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1929 first censors",
+		"text_description": "<p> The first censors body is established by the Philippine Assembly. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1929,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2344",
+		"article_id": 2344,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1929 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2345,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1933 Ang Aswang",
+		"text_description": "<p> The first Filipino movie with sound, <em> Ang Aswang, </em> directed by George Musser, is shown. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1933,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 1940,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1933-1940",
+		"photo_id": null,
+		"url": "2345",
+		"article_id": 2345,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1933 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": 1940 }
+			}
+		]
+	},
+	{
+		"timeline_id": 1776,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1933 first sound stage",
+		"text_description": "<p> The first sound stage is inaugurated, courtesy of Americans Eddie Tait and George Harris for Filippine Films. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1933,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 1940,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1933-1940",
+		"photo_id": null,
+		"url": "1776",
+		"article_id": 1776,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1933 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": 1940 }
+			}
+		]
+	},
+	{
+		"timeline_id": 1777,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1935 Parlatone",
+		"text_description": "<p> Parlatone Hispano-Filipino is established. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1935,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1777",
+		"article_id": 1777,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1935 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1058,
+		"media_caption": "<p> Richard Abeleardo's set for Ibong Adarna, 1941, at the sound stage of LVN Pictures lot in Quezon City </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mike de Leon </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1941 Ibong Adarna",
+		"text_description": "<p> LVN’s <em> Ibong Adarna, </em> directed by Vicente Salumbides, the first Filipino film with color sequences painted frame by frame, is shown. (Photo from Mike de Leon) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1941,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1058",
+		"article_id": 1058,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1941 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2347,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1942 Bureau ",
+		"text_description": "<p> Bureau of Information and Public Security under the Commission of the Interior handles film censorship in the country. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1942,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2347",
+		"article_id": 2347,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1942 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2348,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1942 film stock",
+		"text_description": "<p> The importation of film stock is stopped; filmmaking grinds to a halt. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1942,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2348",
+		"article_id": 2348,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1942 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1779,
+		"media_caption": "<p> Jose Cris Soto, Katy de la Cruz, and Pugo performing in bodabil, ca 1950 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from National Library of the Philippines </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1943 bodabil",
+		"text_description": "<p> Film directors direct film actors in stage shows which replace the movies in terms of popularity during this period. Stage shows are <em> bodabil </em> shows with a play at the end. (Photo from National Library of the Philippines) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1943,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 1945,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1943-1945",
+		"photo_id": null,
+		"url": "1779",
+		"article_id": 1779,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1943 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": 1945 }
+			}
+		]
+	},
+	{
+		"timeline_id": 1780,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1946 Board of Review",
+		"text_description": "<p> The Board of Review for Moving Pictures is formed by Pres Manuel A. Roxas. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1946,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1780",
+		"article_id": 1780,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1946 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1782,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Nicanor G. Tiongson </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1947 Juan Tamad",
+		"text_description": "<p> Manuel Conde produces his first Juan Tamad film <em> Si Juan Tamad. </em> It will be the first of a whole series which raises social and political issues. (Photo from Nicanor G. Tiongson) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1947,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1782",
+		"article_id": 1782,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1947 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1783,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1950 Maria Clara",
+		"text_description": "<p> Manila Times Publishing Company establishes the Maria Clara Awards, the first award-giving film body in the Philippines. The first batch of winners are: Kamay ni Satanas (Best Picture); Gerardo de Leon (Best Director) and Reynaldo Dante (Best Actor), Kamay ni Satanas; and Nena Cardenas (Best Actress), Doble Cara. Photo: Maria Clara Awards trophy </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1950,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1783",
+		"article_id": 1783,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1950 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1785,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1951 Darna",
+		"text_description": "<p> <em> Darna, </em> the first film adaptation of the komiks story and directed by Fernando Poe Sr, is shown. It stars Rosa del Rosario as the titular superheroine. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1951,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1785",
+		"article_id": 1785,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1951 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1787,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Nicanor G. Tiongson </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1952 Genghis Khan",
+		"text_description": "<p> <em> Genghis Khan </em> by Manuel Conde competes at the Venice Film Festival, the first Filipino film to compete in an international festival. (Photo from Nicanor G. Tiongson) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1952,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1787",
+		"article_id": 1787,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1952 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2349,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1961 RA 3060",
+		"text_description": "<p> Republic Act 3060 creating the Board of Censors for Motion Pictures is passed. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1961,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2349",
+		"article_id": 2349,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1961 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1795,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1961 studio collapse",
+		"text_description": "<p> The studio system begins to collapse. Lebran ends production of films, followed by Premiere and LVN. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1961,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1795",
+		"article_id": 1795,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1961 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1796,
+		"media_caption": "<p> Pancho Magalona as Simoun in El Filibusterismo, 1962 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando Collection </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1962 El Fili de Leon",
+		"text_description": "<p> <em> El Filibusterismo </em> by Gerardo de Leon is shown. It wins major FAMAS awards. Photo: Pancho Magalona as Simoun in <em> El Filibusterismo, </em> 1962 (Cesar Hernando Collection) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1962,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1796",
+		"article_id": 1796,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1962 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1830,
+		"media_caption": "<p> Jet del Mundo and\r\nRobert Arevalo in\r\nAng Daigdig ng\r\nmga Api, 1965 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1966 Manila Film Festival",
+		"text_description": "<p> Both <em> A Portrait of the Artist as Filipino </em> and <em> Ang Daigdig ng mga Api </em> (in photo) participate in the first Manila Film Festival. The festival is the idea of Manila Mayor Antonio Villegas to celebrate the city’s foundation with the showing of quality films. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1966,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1830",
+		"article_id": 1830,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1966 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2350,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1972 Board of Censors",
+		"text_description": "<p> Board of Censors for Motion Pictures requires the submission of film scripts for approval. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1972,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2350",
+		"article_id": 2350,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1972 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1063,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1974 MOWELFUND",
+		"text_description": "<p> The Movie Workers Welfare Foundation, Inc. (MOWELFUND) is established by then San Juan mayor Joseph Estrada. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1974,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1063",
+		"article_id": 1063,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1974 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1834,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1975 MMFF",
+		"text_description": "<p> The Metro Manila Film Festival is established, replacing the Manila Film Festival. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1975,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1834",
+		"article_id": 1834,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1975 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1838,
+		"media_caption": "<p> Christopher de Leon and Nora Aunor in Tatlong Taong\r\nWalang Diyos, 1976 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1976 golden year",
+		"text_description": "<p> During this “golden year,” the following films are released: <em> Ganito Kami Noon, Paano Kayo Ngayon? </em> by Eddie Romero, <em> Insiang </em> by Lino Brocka, <em> Itim </em> by Mike de Leon, <em> Nunal sa Tubig </em> by Ishmael Bernal, <em> Tatlong Taong Walang Diyos </em> (in photo) by Mario O’Hara, and <em> Minsa’y Isang Gamu-gamo </em> by Lupita A. Concio. (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1976,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1838",
+		"article_id": 1838,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1976 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1842,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1976 UPFC",
+		"text_description": "<p> The University of the Philippines Film Center (UPFC) is established, providing training ground for aspiring filmmakers. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1976,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1842",
+		"article_id": 1842,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1976 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1844,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1976 Urian",
+		"text_description": "<p> The Manunuri ng Pelikulang Pilipino is formed. Its first batch of Gawad Urian winners includes: <em> Ganito Kami Noon, Paano Kayo Ngayon, </em> Best Picture; Vic Silayan, Best Actor for <em> Ligaw na Bulaklak; </em> Nora Aunor, Best Actress for <em> Tatlong Taong Walang Diyos; </em> and Eddie Romero, Best Director for <em> Ganito Kami Noon, Paano Kayo Ngayon. </em> </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1976,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1844",
+		"article_id": 1844,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1976 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1849,
+		"media_caption": "<p> Santos as Teresa in Itim, 1976 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mike de Leon </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1978 Itim",
+		"text_description": "<p> Mike de Leon wins Best Director and Charo Santos (in photo) wins Best Actress in the Asian Film Festival in Australia for <em> Itim. </em> (Photo from Mike de Leon) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1978,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1849",
+		"article_id": 1849,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1978 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1857,
+		"media_caption": "<p> Fernando Poe Jr in Ang Panday, 1980 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from FPJ Productions </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1979 Itim",
+		"text_description": "<p> <em> Ang Panday, </em> directed by and starring Fernando Poe Jr and based on the Carlo Caparas komiks serial, is shown. This will later on spawn many sequels and remakes, both in film and television. (Photo from FPJ Productions) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1979,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1857",
+		"article_id": 1857,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1979 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2351,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1981 ECP",
+		"text_description": "<p> The Experimental Cinema of the Philippines (ECP) is established primarily to financially assist in the making of quality films. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1981,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2351",
+		"article_id": 2351,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1981 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2352,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1981 FAP",
+		"text_description": "<p> Film Academy of the Philippines (FAP) is formed to oversee the activities of the major guilds, associations, and institutions in the Philippine film industry and upgrade Filipino films through workshops and awards. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1981,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2352",
+		"article_id": 2352,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1981 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1860,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1981 KDPP",
+		"text_description": "<p> Kapisanan ng mga Direktor ng Pelikulang Pilipino (KDPP) is founded under the FAP. A group of younger directors will later split from the KDPP to form the Directors Guild of the Philippines, Inc (DGPI) under Lino Brocka. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1981,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1860",
+		"article_id": 1860,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1981 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1861,
+		"media_caption": "<p> Jay Ilagan, Charo Santos, Aida Carmona, Vic Silayan, Charito Solis,\r\nand Ruben Rustia in Mike de Leon’s Kisapmata, 1981 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo by Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1981 Kisapmata",
+		"text_description": "<p> Mike de Leon’s <em> Kisapmata, </em> a film that alludes to authoritarianism, is shown. (Photo by Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1981,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1861",
+		"article_id": 1861,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1981 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1865,
+		"media_caption": "<p> Nora Aunor in Ishmael Bernal’s Himala, 1982 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1982 Himala",
+		"text_description": "<p> <em> Himala </em> wins the awards for Best Picture, Director (Ishmael Bernal), Story (Ricardo Lee), Cinematography (Sergio Lobo), Production Design (Raquel Villavicencio), Editing (Ike Jarlego Jr), Actress (Nora Aunor), Supporting Actress (Gigi Dueñas), and Supporting Actor (Spanky Manikan) at the Metro Manila Film Festival. (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1982,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1865",
+		"article_id": 1865,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1982 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1868,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1982 de Leon National Artist",
+		"text_description": "<p> Gerardo de Leon is posthumously declared National Artist for Film. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1982,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1868",
+		"article_id": 1868,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1982 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1869,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1983 Himala CIFF",
+		"text_description": "<p> <em> Himala </em> directed by Ishmael Bernal wins the Bronze Hugo award at the Chicago International Film Festival. It is also shown at the Berlin International Film Festival. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1983,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1869",
+		"article_id": 1869,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1983 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1870,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo by Lino Brocka Collection </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1983 CAP",
+		"text_description": "<p> To fight censorship, Lino Brocka and other film and theater artists establish the Free the Artist Movement, which later becomes the Concerned Artists of the Philippines (CAP). Photo: CAP members, from left, Bienvenido Lumbera, Armida Siguion-Reyna, Behn Cervantes, Lino Brocka, Ishmael Bernal, and RC Constantino. (Lino Brocka Collection) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1983,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1870",
+		"article_id": 1870,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1983 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1873,
+		"media_caption": "<p> Tony Santos and Vilma Santos in\r\nSister Stella L., 1984 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo by Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1984 Sister Stella L",
+		"text_description": "<p> Mike de Leon’s <em> Sister Stella L., </em> with screenplay by de Leon, Jose Lacaba, and Jose Almojuela, is shown locally. It also competes in the 41st Venice Film Festival under the title Sangandaan. (Photo by Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1984,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1873",
+		"article_id": 1873,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1984 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2354,
+		"media_caption": "<p> Armida\r\nSiguion-Reyna,\r\nCirio H. Santiago,\r\nand Atty Espiridion\r\nLaxa in a producers’\r\nmeeting, ca 1980 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1984 FDFP",
+		"text_description": "<p> The Experimental Cinema of the Philippines (ECP) is replaced by the Film Development Foundation of the Philippines (FDFP).  (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1984,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2354",
+		"article_id": 2354,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1984 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2355,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1984 Shake, Rattle, and Roll",
+		"text_description": "<p> The first <em> Shake, Rattle and Roll </em> movie is shown. The three-episode film stars Joel Torre, Janice de Belen, Charito Solis, and Herbert Bautista, among others. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1984,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2355",
+		"article_id": 2355,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1984 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1064,
+		"media_caption": "<p> Venchito Galvez,\r\nsecond from left,\r\nand Ariosto Reyes\r\nin Bayan Ko: Kapit\r\nsa Patalim, 1984 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1985 Bayan Ko",
+		"text_description": "<p> <em> Bayan Ko: Kapit sa Patalim </em> directed by Lino Brocka is shown. The film is initially denied an exhibition permit on grounds of subversion and inciting to rebellion. Brocka files a suit in the Supreme Court which results in the SC ordering the board to classify, not cut films. (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1985,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1064",
+		"article_id": 1064,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1985 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2356,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1985 Boatman",
+		"text_description": "<p> <em> Boatman </em> by Tikoy Aguiluz wins the Outstanding Film of the Year at the London Film Festival. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1985,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2356",
+		"article_id": 2356,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1985 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1875,
+		"media_caption": "<p> Lino Brocka as Ramon Magsaysay Awardee, 1985 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Ramon Magsaysay Award Foundation </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1985 Brocka Magsaysay",
+		"text_description": "<p> Lino Brocka receives the Ramon Magsaysay Award for Journalism, Literature, and Creative Communication Arts. (Photo from Ramon Magsaysay Award Foundation) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1985,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1875",
+		"article_id": 1875,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1985 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2357,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1986 FDFP abolished",
+		"text_description": "<p> The Film Development Foundation of the Philippines is abolished. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1986,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2357",
+		"article_id": 2357,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1065,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1986 Cirio Santiago",
+		"text_description": "<p> Film producer and director Cirio Santiago is appointed by Pres Corazon Aquino as Officer-in-Charge of the Task Force on All Film-Related Government Agencies. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1986,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1065",
+		"article_id": 1065,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1066,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1986 new CCP",
+		"text_description": "<p> The new CCP management appointed by Pres Corazon Aquino reorients the institution and its programs to the thrusts of Filipinization, democratization, and decentralization. The CCP as the new national coordinating center for the arts now includes film and broadcast in its programs. </p>",
+		"category": 2,
+		"start_month": 7,
+		"start_day": 15,
+		"start_year": 1986,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1066",
+		"article_id": 1066,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 15, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1876,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1987 Gawad Alternatibo",
+		"text_description": "<p> The Gawad CCP para sa Alternatibong Pelikula at Video (Gawad Alternatibo) is established to honor young and promising filmmakers. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1987,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1876",
+		"article_id": 1876,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1987 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2358,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1987 Revolutions Happen",
+		"text_description": "<p> <em> Revolutions Happen Like Refrains in a Song </em> by Nick Deocampo wins the Grand Prize in the 9th International Super-8 and Video Festival in Brussels, Belgium. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1987,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2358",
+		"article_id": 2358,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1987 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1880,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1989 Brocka Gawad CCP",
+		"text_description": "<p> Gawad CCP para sa Sining is established, with Lino Brocka as the first awardee for film. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1989,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1880",
+		"article_id": 1880,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1989 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1883,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1990 Bernal Gawad CCP",
+		"text_description": "<p> Ishmael Bernal receives the Gawad CCP para Sa Sining for Film. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1990,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1883",
+		"article_id": 1883,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1990 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2360,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1990 YCC",
+		"text_description": "<p> The Young Critics Circle-Film Desk is established, with its first awarding a year later. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1990,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2360",
+		"article_id": 2360,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1990 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1884,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1991 Romero Gawad CCP",
+		"text_description": "<p> Eddie S. Romero receives the Gawad CCP para sa Sining. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1991,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1884",
+		"article_id": 1884,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1991 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1885,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1991 Brocka dies",
+		"text_description": "<p> Lino Brocka dies in a car accident. </p>",
+		"category": 2,
+		"start_month": 5,
+		"start_day": 21,
+		"start_year": 1991,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1885",
+		"article_id": 1885,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 21, "year": 1991 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1886,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1992 Brocka FAP",
+		"text_description": "<p> Brocka posthumously receives the Film Academy of the Philippines Lifetime Achievement Award. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1992,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1886",
+		"article_id": 1886,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1992 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2361,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1994 Manila Film Festival",
+		"text_description": "<p> The Manila Film Festival scandal happens. Ruffa Gutierrez and Gabby Concepcion are falsely announced as Best Actress and Best Actor winners instead of Aiko Melendez and Edu Manzano. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1994,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2361",
+		"article_id": 2361,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1994 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2362,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1994 MTRCB Schindler's List",
+		"text_description": "<p> The MTRCB under Henrietta Mendez disapproves the nudity scenes in <em> Schindler’s List </em> by Steven Spielberg. Pres Fidel V. Ramos intervenes and the film is eventually screened with an R-16 rating. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1994,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2362",
+		"article_id": 2362,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1994 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1888,
+		"media_caption": "<p> Anita Linda in Adela,\r\n2008 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Adolf Alix Jr </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1994 Linda Gawad CCP",
+		"text_description": "<p> Anita Linda receives the Gawad CCP para sa Sining for Film. Photo: Anita Linda in <em> Adela, </em> 2008 (Photo from Adolf Alix Jr) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1994,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1888",
+		"article_id": 1888,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1994 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2364,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1994 MTRCB Appeals",
+		"text_description": "<p> Pres Fidel V. Ramos creates the MTRCB Appeals Committee. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1994,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2364",
+		"article_id": 2364,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1994 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1893,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1997 Brocka National Artist",
+		"text_description": "<p> Lino Brocka is posthumously given the National Artist Award for Film. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1997,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1893",
+		"article_id": 1893,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1997 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2366,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1999 Cinemanila",
+		"text_description": "<p> The Cinemanila International Film Festival is founded by director Tikoy Aguiluz. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1999,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2366",
+		"article_id": 2366,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1999 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1900,
+		"media_caption": "<p> Ronnie Lazaro\r\nand John Arcilla\r\nin Raymond Red’s\r\nAnino, 2000 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Raymond Red </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2000 Anino",
+		"text_description": "<p> <em> Anino </em> by Raymond Red wins the Palme d’Or for short film at the Cannes Film Festival. (Photo from Raymond Red) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2000,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1900",
+		"article_id": 1900,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2000 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1901,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2001 Bernal National Artist",
+		"text_description": "<p> Ishmael Bernal posthumously receives the National Artist Award for Film. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2001,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1901",
+		"article_id": 1901,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2001 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1902,
+		"media_caption": "<p> Yul Servo and Art\r\nAcuña in Lav Diaz’s\r\nBatang West Side, 2001 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo by Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2001 Batang West Side",
+		"text_description": "<p> <em> Batang West Side </em> by Lav Diaz wins the Network for the Promotion of Asian Cinema award in the Cinemanila International Film Festival, and later on wins the Silver Screen Award for Best Asian Feature in the 2002 Singapore International Film Festival. (Photo by Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2001,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1902",
+		"article_id": 1902,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2001 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1904,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2002 Markova",
+		"text_description": "<p> Dolphy and sons Eric and Jeffrey Quizon win as Best Actors for their roles in Gil Portes’s <em> Markova: Comfort Gay </em> in the Brussels International Film Festival Prix de la Meilleure Interpretation. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2002,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1904",
+		"article_id": 1904,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2002 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1905,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2003 Romero National Artist",
+		"text_description": "<p> Eddie S. Romero becomes National Artist for Film. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2003,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1905",
+		"article_id": 1905,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2003 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2367,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2003 Aguiluz French",
+		"text_description": "<p> Tikoy Aguiluz is awarded the Chevalier dans l’Ordre des Arts et Lettres prize by the French government for his contributions to Philippine cinema. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2003,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2367",
+		"article_id": 2367,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2003 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1907,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2004 Zamboanga US Archives",
+		"text_description": "<p> The 1937 film <em> Zamboanga </em> is recovered in the US National Archives and is sent to the Philippines. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2004,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1907",
+		"article_id": 1907,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2004 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1910,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2004 Gallaga Gawad CCP",
+		"text_description": "<p> Peque Gallaga receives the Gawad CCP para sa Sining for Film. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2004,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1910",
+		"article_id": 1910,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2004 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2368,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2004 PIFF",
+		"text_description": "<p> The Pink International Film Festival (PIFF), an international gay, lesbian, bisexual, and transgender themed film and video festival, is established in the Philippines to promote gay-themed films and to advocate for HIV/AIDS awareness. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2004,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2368",
+		"article_id": 2368,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2004 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1913,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2005 Cinemalaya",
+		"text_description": "<p> The Cinemalaya Philippine Independent Film Festival is established. First batch of winners includes <em> Pepot Artista </em> for Best Film; Rica Arevalo, Best Director for <em> ICU Bed#7; </em> Meryll Soriano, Best Actress for <em> Room Boy; </em> Eddie Garcia, Best Actor for <em> ICU Bed#7; </em> and Special Jury Prize for <em> Ang Pagdadalaga ni Maximo Oliveros. </em> </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2005,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1913",
+		"article_id": 1913,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2005 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2369,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2005 Cinema One",
+		"text_description": "<p> The Cinema One Originals Film Festival is established. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2005,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2369",
+		"article_id": 2369,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2005 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1914,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2006 Poe National Artist",
+		"text_description": "<p> Fernando Poe Jr is posthumously recognized as National Artist for Film by Pres Gloria Arroyo, but his family refused to receive the award. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2006,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1914",
+		"article_id": 1914,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2006 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1917,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2008 Himala CNN",
+		"text_description": "<p> <em> Himala </em> is awarded the CNN APSA Viewers Choice Award for Best Asia-Pacific Film of all Time. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2008,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1917",
+		"article_id": 1917,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2008 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1919,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2008 Conde Gawad CCP",
+		"text_description": "<p> Manuel Conde is posthumously awarded the Gawad CCP para sa Sining (Film and Broadcast Arts). </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2008,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1919",
+		"article_id": 1919,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2008 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2370,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2008 100",
+		"text_description": "<p> <em> 100, </em> written and directed by Chris Martinez, wins the KNN Audience Award in the 13th Busan International Film Festival. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2008,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2370",
+		"article_id": 2370,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2008 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1734,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2009 Conde National Artist",
+		"text_description": "<p> Manuel Conde is posthumously bestowed the National Artist award for Film. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2009,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1734",
+		"article_id": 1734,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2009 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1623,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2012 Ang Babae Asian Film Awards",
+		"text_description": "<p> <em> Ang Babae sa Septic Tank </em> wins the People’s Choice Award for Favorite Actress (Eugene Domingo) in the Asian Film Awards. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2012,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1623",
+		"article_id": 1623,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2012 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1619,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2013 Domingo TIFF",
+		"text_description": "<p> Eugene Domingo wins the Best Actress award for her role in <em> Mga Kuwentong Barbero (Barber's Tales) </em> from the Tokyo International Film Festival. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2013,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1619",
+		"article_id": 1619,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2013 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1620,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2013 Thy Womb",
+		"text_description": "<p> Nora Aunor wins the Best Actress award from the 7th Asian Film Awards for her role in <em> Thy Womb. </em> </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2013,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1620",
+		"article_id": 1620,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2013 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1617,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2014 Barber's Tales MIFF",
+		"text_description": "<p> Jun Robles Lana wins Best Director of a Foreign Language Feature Film award for <em> Mga Kuwentong Barbero (Barber's Tales) </em> at the Madrid International Film Festival. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2014,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1617",
+		"article_id": 1617,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2014 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

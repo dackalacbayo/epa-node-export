@@ -1,0 +1,172 @@
+[
+	{
+		"timeline_id": null,
+		"media_caption": "<p> Carlos Vander Tolosa’s Diwata ng Karagatan, 1936 flyer </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mowelfund </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1936 Diwata",
+		"text_description": "<p> <em> Diwata ng Karagatan, </em> Parlatone's first movie directed by Carlos Vander Tolosa, is released. (Photo from Mowelfund) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1936,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/22/F_AOF_Promotion_2.jpg",
+		"shorten_media": "F_AOF_Promotion_2",
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": "F_AOF_Promotion_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1936 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1953 Ang Asawa Kong Amerikana",
+		"text_description": "<p> Luciano B. Carlos wins the Best Screenplay award at the First Asian Film Festival for <em> Ang Asawa Kong Amerikana. </em> </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1953,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1953 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1985 Bayan Ko SC",
+		"text_description": "<p> As a result of the Supreme Court ruling allowing the exhibition of Lino Brocka’s <em> Bayan Ko: Kapit sa Patalim, </em> the Board of Review for Motion Pictures is restructured and becomes the Movie and Television Review and Classification Board (MTRCB). </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1985,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1985 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1992 NCCA",
+		"text_description": "<p> By law, the NCCA succeeds the PCCA. The NCCA has a National Cinema Committee that gives grants to film projects. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1992,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1992 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2012 Aquino Poe National Artist",
+		"text_description": "<p> Pres Benigno Aquino III confirms the declaration of Fernando Poe Jr as National Artist for film. The award was posthumously given to Poe in 2006 by then president Gloria Arroyo who was Poe's rival in the 2004 presidential elections. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2012,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2012 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

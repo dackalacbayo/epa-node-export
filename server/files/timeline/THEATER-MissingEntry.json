@@ -1,0 +1,101 @@
+[
+	{
+		"timeline_id": 1100,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "Theater 1894 Rolante at Claudina",
+		"text_description": "The komedya <em>Rolante at Claudina</em> is performed at the Teatro de Calle Aranque, taking six nightly performances of three hours.",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1894,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/timeline/timeline-img/THEATER_Rolante_at_Claudina.jpg",
+		"shorten_media": "THEATER_Rolante_at_Claudina",
+		"display_name": null,
+		"photo_id": null,
+		"url": "1100",
+		"article_id": 1100,
+		"photo_name": "THEATER_Rolante_at_Claudina",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1894 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3294,
+		"media_caption": "<p><em>Duwa’a jinn</em> ritual held during the rice harvest season among the Sama Dilaut in Sitangkai, Tawi-Tawi, 2007.</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Hamka Malabong</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Theater 1380 jinn",
+		"text_description": "<p>Rituals referencing Islamic belief in <em>jinn</em> is introduced. Photo: <em>Duwa’a jinn</em> ritual held during the rice harvest season among the Sama Dilaut in Sitangkai, Tawi-Tawi, 2007. (Hamka Malabong)</p>",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1380,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/timeline/timeline-img/193_sama_dilaut_religious_pag-jinnritual_pagtulak.jpg",
+		"shorten_media": "193_sama_dilaut_religious_pag-jinnritual_pagtulak",
+		"display_name": null,
+		"photo_id": null,
+		"url": "3294",
+		"article_id": 3294,
+		"photo_name": "193_sama_dilaut_religious_pag-jinnritual_pagtulak",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1380 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1104,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Theater 1904 Walang Sugat",
+		"text_description": "Severino Reyes&rsquo;s <em>Walang Sugat</em> is performed at the St. Louis Exposition.",
+		"category": 7,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1904,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/timeline/timeline-img/THEATER_Severino_Reyes.jpg",
+		"shorten_media": "THEATER_Severino_Reyes",
+		"display_name": null,
+		"photo_id": null,
+		"url": "1104",
+		"article_id": 1104,
+		"photo_name": "THEATER_Severino_Reyes",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1904 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

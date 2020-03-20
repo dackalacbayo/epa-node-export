@@ -1,0 +1,1702 @@
+[
+	{
+		"id": 1678,
+		"timeline_id": 1055,
+		"media_caption": "<p> Bituing Marikit, 1937 flyer  </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1937 Bituing Marikit",
+		"text_description": "<p> Sampaguita Pictures’ inaugural film <em> Bituing Marikit, </em> directed by Carlos Vander Tolosa, is shown. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1937,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_BituingMarikit_1.jpg",
+		"shorten_media": "F_PROD_BituingMarikit_1",
+		"display_name": null,
+		"photo_id": 1678,
+		"url": "1055",
+		"article_id": 1055,
+		"photo_name": "F_PROD_BituingMarikit_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1937 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1558,
+		"timeline_id": 1056,
+		"media_caption": "<p> Naty Bernardo,\r\nTita Duran, and\r\nRosario Moreno in\r\nOctavio Silos’s\r\nTunay na Ina, 1939 </p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1939 Tunay na Ina",
+		"text_description": "<p> Excelsior’s <em> Tunay na Ina </em> (in photo), directed by Octavio Silos, and LVN’s inaugural film <em> Giliw Ko, </em> directed by Carlos Vander Tolosa, are shown. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1939,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/21/F_Fat_Drama_1.jpg",
+		"shorten_media": "F_Fat_Drama_1",
+		"display_name": null,
+		"photo_id": 1558,
+		"url": "1056",
+		"article_id": 1056,
+		"photo_name": "F_Fat_Drama_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1939 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1736,
+		"timeline_id": 1059,
+		"media_caption": "<p> Liwayway ng\r\nKalayaan, 1944 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1944 Dawn of Freedom",
+		"text_description": "<p> <em> Dawn of Freedom </em> (in photo) and Tatlong Maria, Japanese propaganda productions done in cooperation with Filipino filmmakers, are released. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1944,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Liwayway_1.jpg",
+		"shorten_media": "F_PROD_Liwayway_1",
+		"display_name": null,
+		"photo_id": 1736,
+		"url": "1059",
+		"article_id": 1059,
+		"photo_name": "F_PROD_Liwayway_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1944 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 284,
+		"timeline_id": 1060,
+		"media_caption": "<p> Facade and reflecting pool of the Cultural Center of the Philippines (Photo by Akio Kawasumi in The Architecture of Leandro </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo by Akio Kawasumi in The Architecture of Leandro V. Locsin by Nicholas Polites. John Weatherhill Inc, 1977 </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1969 CCP",
+		"text_description": "<p> The Cultural Center of the Philippines is inaugurated. It will have programs for film in later years. (Photo by Akio Kawasumi in The Architecture of Leandro V. Locsin by Nicholas Polites. John Weatherhill Inc, 1977.)  </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1969,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_CCCPMainBuildingandComplex_3.jpg",
+		"shorten_media": "A_STRUCT_CCCPMainBuildingandComplex_3",
+		"display_name": null,
+		"photo_id": 284,
+		"url": "1060",
+		"article_id": 1060,
+		"photo_name": "A_STRUCT_CCCPMainBuildingandComplex_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1969 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1555,
+		"timeline_id": 1061,
+		"media_caption": "<p> Lito Legaspi and\r\nMerle Fernandez\r\nin Ruben Abalos’s\r\nUhaw, 1970 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1970 Uhaw",
+		"text_description": "<p> <em> Uhaw, </em> the first <em> bomba </em> film, is shown. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1970,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/21/F_Fat_Bomba_1.jpg",
+		"shorten_media": "F_Fat_Bomba_1",
+		"display_name": null,
+		"photo_id": 1555,
+		"url": "1061",
+		"article_id": 1061,
+		"photo_name": "F_Fat_Bomba_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1970 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1797,
+		"timeline_id": 1062,
+		"media_caption": "<p> Lilia Dizon, Christopher de Leon, Eddie Garcia, and Lolita Rodriguez in Tinimbang Ka Ngunit Kulang, 1974 </p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1974 Tinimbang Ka",
+		"text_description": "<p> Lino Brocka’s <em> Tinimbang Ka Ngunit Kulang </em> is shown. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1974,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Tinimbang_Ka_Ngunit_Kulang_1.jpg",
+		"shorten_media": "F_PROD_Tinimbang_Ka_Ngunit_Kulang_1",
+		"display_name": null,
+		"photo_id": 1797,
+		"url": "1062",
+		"article_id": 1062,
+		"photo_name": "F_PROD_Tinimbang_Ka_Ngunit_Kulang_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1974 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1472,
+		"timeline_id": 1541,
+		"media_caption": "<p> Mary Walter </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mike de Leon Collection </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1920 silent movie",
+		"text_description": "<p> The silent movie era flourishes. Silent film actors such as Mary Walter (in photo), Manuel Ramirez, Naty Fernandez, Gregorio Fernandez, and Nora Linda rise to fame. (Photo from Mike de Leon Collection) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1920,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Phil1897_7.jpg",
+		"shorten_media": "F_HE_Phil1897_7",
+		"display_name": "1920s",
+		"photo_id": 1472,
+		"url": "1541",
+		"article_id": 1541,
+		"photo_name": "F_HE_Phil1897_7",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1920 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1462,
+		"timeline_id": 1618,
+		"media_caption": "<p> Lav Diaz’s Norte, Hangganan ng Kasaysayan, 2013 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Lav Diaz </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2013 Norte",
+		"text_description": "<p> Lav Diaz’s <em> Norte, Hangganan ng Kasaysayan </em> is screened at the Cannes International Film Festival. It also receives the Nuremberg International Human Rights Film Award. (Photo from Lav Diaz) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2013,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Indecinema_4.jpg",
+		"shorten_media": "F_HE_Indecinema_4",
+		"display_name": null,
+		"photo_id": 1462,
+		"url": "1618",
+		"article_id": 1618,
+		"photo_name": "F_HE_Indecinema_4",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2013 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1659,
+		"timeline_id": 1624,
+		"media_caption": "<p> Dolphy and\r\nNiño Muhlach in\r\nAng Tatay Kong\r\nNanay, 1978 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2012 Dolphy Gawad CCP",
+		"text_description": "<p> Dolphy posthumously receives the Gawad CCP para sa Sining (Film and Broadcast Arts). (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2012,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Ang_Tatay_Kong_Nanay_1.jpg",
+		"shorten_media": "F_PROD_Ang_Tatay_Kong_Nanay_1",
+		"display_name": null,
+		"photo_id": 1659,
+		"url": "1624",
+		"article_id": 1624,
+		"photo_name": "F_PROD_Ang_Tatay_Kong_Nanay_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2012 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1508,
+		"timeline_id": 1625,
+		"media_caption": "<p> Eugene Domingo in Marlon Rivera’s Ang Babae sa Septic Tank, 2011 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Marlon Rivera </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2011 Ang Babae sa Septic Tank",
+		"text_description": "<p> <em> Ang Babae sa Septic Tank </em> is shown and wins Best Picture at the Cinemalaya Festival. (Photo from Marlon Rivera) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2011,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Phil1986_12.jpg",
+		"shorten_media": "F_HE_Phil1986_12",
+		"display_name": null,
+		"photo_id": 1508,
+		"url": "1625",
+		"article_id": 1625,
+		"photo_name": "F_HE_Phil1986_12",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2011 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1686,
+		"timeline_id": 1626,
+		"media_caption": "<p> Alessandra de Rossi in Busong, 2011 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cinemalaya </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2011 Busong",
+		"text_description": "<p> <em> Busong </em> by Auraeus Solito wins the Emile Cantillon Cinema of Tomorrow Award from the Brussels International Independent Film Festival, and the FIPRESCI Award from the Almaty Eurasia International Film Festival. (Photo from Cinemalaya) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2011,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Busong_1.jpg",
+		"shorten_media": "F_PROD_Busong_1",
+		"display_name": null,
+		"photo_id": 1686,
+		"url": "1626",
+		"article_id": 1626,
+		"photo_name": "F_PROD_Busong_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2011 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1729,
+		"timeline_id": 1735,
+		"media_caption": "<p> John Regala,\r\nJhong Hilario,\r\nMaria Isabel Lopez,\r\nand Coco Martin\r\nin Kinatay, 2009 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Brillante Mendoza </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2009 Kinatay",
+		"text_description": "<p> Brillante Mendoza wins the Best Director award at the Cannes Film Festival for <em> Kinatay </em> (in photo). (Photo from Brillante Mendoza) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2009,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Kinatay_1.jpg",
+		"shorten_media": "F_PROD_Kinatay_1",
+		"display_name": null,
+		"photo_id": 1729,
+		"url": "1735",
+		"article_id": 1735,
+		"photo_name": "F_PROD_Kinatay_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2009 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1509,
+		"timeline_id": 1771,
+		"media_caption": "<p> Marceliano Ilagan and Atang de la Rama in Jose Nepomuceno’s\r\nDalagang Bukid, 1919 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mowelfund </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1919 Dalagang Bukid",
+		"text_description": "<p> The popular sarsuwela <em> Dalagang Bukid </em> written by Hermogenes Ilagan and composed by Leon Ignacio is made into a film produced and directed by Jose Nepomuceno, with Atang de la Rama in the title role, performing songs live in some screenings. (Photo from Mowelfund) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1919,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_PhilFilm_1.jpg",
+		"shorten_media": "F_HE_PhilFilm_1",
+		"display_name": null,
+		"photo_id": 1509,
+		"url": "1771",
+		"article_id": 1771,
+		"photo_name": "F_HE_PhilFilm_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1919 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1510,
+		"timeline_id": 1773,
+		"media_caption": "<p> Julian Manansala’s Patria Amore, 1929 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1929 Patria Amore",
+		"text_description": "<p> Julian Manansala directs and produces <em> Patria Amore, </em> a film based on the Philippine Revolution, which angers the Spanish community in the country. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1929,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_PhilFilm_2.jpg",
+		"shorten_media": "F_HE_PhilFilm_2",
+		"display_name": null,
+		"photo_id": 1510,
+		"url": "1773",
+		"article_id": 1773,
+		"photo_name": "F_HE_PhilFilm_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1929 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1468,
+		"timeline_id": 1774,
+		"media_caption": "<p> Noli Me Tangere, 1930 flyer </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Nicanor G. Tiongson </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1930 Noli silent",
+		"text_description": "<p> The silent movie adaptation of <em> Noli Me Tangere </em> directed by Jose Nepomuceno is shown. (Photo from Nicanor G. Tiongson) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1930,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Phil1897_3.jpg",
+		"shorten_media": "F_HE_Phil1897_3",
+		"display_name": null,
+		"photo_id": 1468,
+		"url": "1774",
+		"article_id": 1774,
+		"photo_name": "F_HE_Phil1897_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1930 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1474,
+		"timeline_id": 1775,
+		"media_caption": "<p> Jose Nepomuceno’s Punyal na Ginto, 1933 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1933 Punyal na Ginto",
+		"text_description": "<p> <em> Punyal na Ginto, </em> produced by Malayan Movies, the first complete Filipino talking picture, is shown. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1933,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Phil1897_9.jpg",
+		"shorten_media": "F_HE_Phil1897_9",
+		"display_name": "1933-1940",
+		"photo_id": 1474,
+		"url": "1775",
+		"article_id": 1775,
+		"photo_name": "F_HE_Phil1897_9",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1933 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1476,
+		"timeline_id": 1778,
+		"media_caption": "<p> Eduardo de Castro’s Zamboanga, 1937 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Martin Magsanoc </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1937 Zamboanga",
+		"text_description": "<p> Filippine Films’ <em> Zamboanga, </em> directed by Eduardo de Castro, is made for foreign distribution. The film is shown in the US in 1937. (Photo from Martin Magsanoc) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1937,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Phil1897_11.jpg",
+		"shorten_media": "F_HE_Phil1897_11",
+		"display_name": null,
+		"photo_id": 1476,
+		"url": "1778",
+		"article_id": 1778,
+		"photo_name": "F_HE_Phil1897_11",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1937 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1479,
+		"timeline_id": 1781,
+		"media_caption": "<p> Output of the Big Three Studios 1946-1960 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo prepared by Clodualdo del Mundo Jr and designed by Tom Estrera III </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1946 Big Four",
+		"text_description": "<p> The “Big Four” companies—Sampaguita, LVN, Premiere, and Lebran—produce about 60% of the films in a year. These include dramas, musicals, comedies, horror films, and historical films. (Photo prepared by Clodualdo del Mundo Jr and designed by Tom Estrera III) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1946,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Phil1946_2.jpg",
+		"shorten_media": "F_HE_Phil1946_2",
+		"display_name": "1946-1960s",
+		"photo_id": 1479,
+		"url": "1781",
+		"article_id": 1781,
+		"photo_name": "F_HE_Phil1946_2",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1946 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1481,
+		"timeline_id": 1784,
+		"media_caption": "<p> Tessie Agana\r\nand Boy Alano on\r\nthe right and Van de\r\nLeon (between two\r\npolicemen) on the\r\nleft,\r\nin Olive La Torre’s\r\nRoberta, 1951 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1951 Roberta",
+		"text_description": "<p> <em> Roberta </em> by Sampaguita Pictures is shown. Its box-office success helps Sampaguita to rise from the ashes of a studio fire. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1951,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Phil1946_4.jpg",
+		"shorten_media": "F_HE_Phil1946_4",
+		"display_name": null,
+		"photo_id": 1481,
+		"url": "1784",
+		"article_id": 1784,
+		"photo_name": "F_HE_Phil1946_4",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1951 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1782,
+		"timeline_id": 1786,
+		"media_caption": "<p> Jose Padilla Jr,\r\nRita Gomez, and\r\nAnita Linda in\r\nSawa sa Lumang\r\nSimboryo, 1952 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1952 FAMAS",
+		"text_description": "<p> The Filipino Academy of Movie Arts and Sciences (FAMAS) is established, replacing the Maria Clara Awards. Among the first winners are Ang Sawa Sa Lumang Simboryo (in photo), Best Picture; Gerardo de Leon, Best Director (<em> Bagong Umaga </em>); Alicia Vergel, Best Actress (<em> Basahang Ginto </em>); and Ben Perez, Best Actor (<em> Bagong Umaga </em>). (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1952,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Sawa_1.jpg",
+		"shorten_media": "F_PROD_Sawa_1",
+		"display_name": null,
+		"photo_id": 1782,
+		"url": "1786",
+		"article_id": 1786,
+		"photo_name": "F_PROD_Sawa_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1952 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1696,
+		"timeline_id": 1789,
+		"media_caption": "<p> Edna Luna and Jaime de la Rosa in Dyesebel, 1953 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1953 Dyesebel",
+		"text_description": "<p> <em> Dyesebel, </em> directed by Gerardo de Leon and based on the Mars Ravelo komiks serial is shown, starring Edna Luna as the titular mermaid. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1953,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Dyesebel_1.jpg",
+		"shorten_media": "F_PROD_Dyesebel_1",
+		"display_name": null,
+		"photo_id": 1696,
+		"url": "1789",
+		"article_id": 1789,
+		"photo_name": "F_PROD_Dyesebel_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1953 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1655,
+		"timeline_id": 1791,
+		"media_caption": "<p> Tony Santos,\r\nRosa Rosal, and\r\nVic Bacani in\r\nAnak Dalita, 1956 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from National Library of the Philippines </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1956 Anak Dalita",
+		"text_description": "<p> <em> Anak Dalita, </em> directed by Lamberto Avellana, is released. (Photo from National Library of the Philippines) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1956,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_AnakDalita_1.jpg",
+		"shorten_media": "F_PROD_AnakDalita_1",
+		"display_name": null,
+		"photo_id": 1655,
+		"url": "1791",
+		"article_id": 1791,
+		"photo_name": "F_PROD_AnakDalita_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1956 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1664,
+		"timeline_id": 1792,
+		"media_caption": "<p> Rosa Rosal, Vic Silayan, and Joseph de Cordova in Badjao, 1957 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mike de Leon </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1957 Badjao",
+		"text_description": "<p> Lamberto Avellana wins Best Director for <em> Badjao </em> in the Asian Film Festival. FAMAS gives LVN Pictures the International Prestige Award for the success of <em> Badjao. </em> (Photo from Mike de Leon) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1957,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Badjao_1.jpg",
+		"shorten_media": "F_PROD_Badjao_1",
+		"display_name": null,
+		"photo_id": 1664,
+		"url": "1792",
+		"article_id": 1792,
+		"photo_name": "F_PROD_Badjao_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1957 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1679,
+		"timeline_id": 1793,
+		"media_caption": "<p> Leroy Salvador,\r\nRosa Rosal,\r\nMarita Zobel,\r\nCarlos Padilla Jr,\r\nand Danilo Jurado\r\nin Biyaya ng Lupa,\r\n1959 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mike de Leon </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1960 Biyaya ng Lupa",
+		"text_description": "<p> Leroy Salvador wins the Best Supporting Actor award in the Asian Film Festival in Tokyo for <em> Biyaya ng Lupa. </em> (Photo from Mike de Leon) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1960,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Biyaya_ng_Lupa_1.jpg",
+		"shorten_media": "F_PROD_Biyaya_ng_Lupa_1",
+		"display_name": null,
+		"photo_id": 1679,
+		"url": "1793",
+		"article_id": 1793,
+		"photo_name": "F_PROD_Biyaya_ng_Lupa_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1960 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1759,
+		"timeline_id": 1794,
+		"media_caption": "<p> Oscar Keesee and Edita Vital in Noli Me Tangere, 1961 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando Collection </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1961 Noli de Leon",
+		"text_description": "<p> Gerardo de Leon’s <em> Noli Me Tangere </em> is shown. It wins major FAMAS awards. Photo: Oscar Keesee and Edita Vital in <em> Noli Me Tangere, </em> 1961\n(Cesar Hernando Collection) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1961,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Noli_Me_Tangere_1.jpg",
+		"shorten_media": "F_PROD_Noli_Me_Tangere_1",
+		"display_name": null,
+		"photo_id": 1759,
+		"url": "1794",
+		"article_id": 1794,
+		"photo_name": "F_PROD_Noli_Me_Tangere_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1961 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1664,
+		"timeline_id": 1797,
+		"media_caption": "<p> Rosa Rosal, Vic Silayan, and Joseph de Cordova in Badjao, 1957 </p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1962 Badjao Edinburgh",
+		"text_description": "<p> <em> Badjao </em> is screened at the Edinburgh Film Festival. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1962,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Badjao_1.jpg",
+		"shorten_media": "F_PROD_Badjao_1",
+		"display_name": null,
+		"photo_id": 1664,
+		"url": "1797",
+		"article_id": 1797,
+		"photo_name": "F_PROD_Badjao_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1962 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1671,
+		"timeline_id": 1798,
+		"media_caption": "<p> Joseph Estrada and Imelda Ilanan in Geron Busabos: Ang Batang\r\nQuiapo, 1964 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mowelfund </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1964 Geron Busabos",
+		"text_description": "<p> <em> Geron Busabos </em> by Cesar Gallardo is shown. (Photo from Mowelfund) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1964,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_BatangQuiapo_1.jpg",
+		"shorten_media": "F_PROD_BatangQuiapo_1",
+		"display_name": null,
+		"photo_id": 1671,
+		"url": "1798",
+		"article_id": 1798,
+		"photo_name": "F_PROD_BatangQuiapo_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1964 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1487,
+		"timeline_id": 1831,
+		"media_caption": "<p> Pianing Vidal, as Don Lorenzo, surrounded by his “children,” clockwise from right, Daisy Avellana, Sarah K. Joaquin, Naty Crame-Rogers,\r\nand Nick Agudo in Lamberto V. Avellana’s A Portrait of the Artist as Filipino, 1965 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mike de Leon </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1967 A Portrait",
+		"text_description": "<p> <em> A Portrait of the Artist as Filipino </em> is screened at the Frankfurt Film Festival. (Photo from Mike de Leon) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1967,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Phil1946_10.jpg",
+		"shorten_media": "F_HE_Phil1946_10",
+		"display_name": null,
+		"photo_id": 1487,
+		"url": "1831",
+		"article_id": 1831,
+		"photo_name": "F_HE_Phil1946_10",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1967 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1746,
+		"timeline_id": 1832,
+		"media_caption": "<p> Bembol Roco and\r\nHilda Koronel in\r\nMaynila: Sa mga\r\nKuko ng Liwanag,\r\n1975 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mike de Leon </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1975 Maynila sa Mga Kuko",
+		"text_description": "<p> <em> Maynila: Sa Mga Kuko ng Liwanag, </em> directed by Lino Brocka, is shown. (Photo from Mike de Leon) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1975,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Maynila_1.jpg",
+		"shorten_media": "F_PROD_Maynila_1",
+		"display_name": null,
+		"photo_id": 1746,
+		"url": "1832",
+		"article_id": 1832,
+		"photo_name": "F_PROD_Maynila_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1975 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1719,
+		"timeline_id": 1840,
+		"media_caption": "<p> Mona Lisa and\r\nHilda Koronel in\r\nInsiang, 1976 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1976 Insiang Cannes",
+		"text_description": "<p> <em> Insiang </em> competes at the Cannes Film Festival. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1976,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Insiang_1.jpg",
+		"shorten_media": "F_PROD_Insiang_1",
+		"display_name": null,
+		"photo_id": 1719,
+		"url": "1840",
+		"article_id": 1840,
+		"photo_name": "F_PROD_Insiang_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1976 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 2786,
+		"timeline_id": 1841,
+		"media_caption": "<p> Insignia of the Order of National Artist, previous, conferred in 1976 on National Artist for Theater and Film Lamberto Avellana </p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1976 Lamberto Avellana",
+		"text_description": "<p> Lamberto V. Avellana receives the National Artist Award for Theater and Film. </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1976,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/7/56/T_Aspectsoftheater_AwardsandGrants_3.jpg",
+		"shorten_media": "T_Aspectsoftheater_AwardsandGrants_3",
+		"display_name": null,
+		"photo_id": 2786,
+		"url": "1841",
+		"article_id": 1841,
+		"photo_name": "T_Aspectsoftheater_AwardsandGrants_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1976 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1447,
+		"timeline_id": 1845,
+		"media_caption": "<p> Poster of Kidlat Tahimik’s Perfumed Nightmare, 1977 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Kidlat de Guia </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1977 Mababangong Bangungot",
+		"text_description": "<p> <em> Mababangong Bangungot (Perfumed Nightmare), </em> directed by Kidlat Tahimik, wins the Prix de la Critique Internationale by the FIPRESCI Jury at the Berlin Film Festival. The director will be regarded later as the “Father of the Indie Film.\" (Photo from Kidlat de Guia) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1977,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Altercinema_4.jpg",
+		"shorten_media": "F_HE_Altercinema_4",
+		"display_name": null,
+		"photo_id": 1447,
+		"url": "1845",
+		"article_id": 1845,
+		"photo_name": "F_HE_Altercinema_4",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1977 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1685,
+		"timeline_id": 1847,
+		"media_caption": "<p> Bayani Casimiro,\r\nVilma Santos, and\r\nRomy Brion in\r\nBurlesk Queen, 1977 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1977 Burlesk Queen",
+		"text_description": "<p> <em> Burlesk Queen </em> by Celso Ad. Castillo is shown. The film marks the transition of Vilma Santos from movie star to major actress. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1977,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Burlesk_Queen_1.jpg",
+		"shorten_media": "F_PROD_Burlesk_Queen_1",
+		"display_name": null,
+		"photo_id": 1685,
+		"url": "1847",
+		"article_id": 1847,
+		"photo_name": "F_PROD_Burlesk_Queen_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1977 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1762,
+		"timeline_id": 1848,
+		"media_caption": "<p> Daria Ramirez, left, Rustica Carpio, Leticia de Guzman, and, lying down on the mat, Elizabeth Oropesa\r\nin Nunal sa Tubig, 1976 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1978 CMMA",
+		"text_description": "<p> The Catholic Mass Media Awards (CMMA) is established. First Best Picture is awarded to <em> Nunal sa Tubig. </em> (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1978,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Nunal_1.jpg",
+		"shorten_media": "F_PROD_Nunal_1",
+		"display_name": null,
+		"photo_id": 1762,
+		"url": "1848",
+		"article_id": 1848,
+		"photo_name": "F_PROD_Nunal_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1978 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1721,
+		"timeline_id": 1858,
+		"media_caption": "<p> Phillip Salvador,\nMenggie\nCobarrubias, and\nJohnny Delgado\nin Jaguar, 1979 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1980 Jaguar",
+		"text_description": "<p> <em> Jaguar, </em> a film about criminality in the city, competes at the Cannes Film Festival. (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1980,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Jaguar_1.jpg",
+		"shorten_media": "F_PROD_Jaguar_1",
+		"display_name": null,
+		"photo_id": 1721,
+		"url": "1858",
+		"article_id": 1858,
+		"photo_name": "F_PROD_Jaguar_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1980 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1778,
+		"timeline_id": 1862,
+		"media_caption": "<p> Gina Alajar and Dennis Roldan in Salome, 1981 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1981 Salome",
+		"text_description": "<p> <em> Salome, </em> directed by Laurice Guillen, is shown. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1981,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Salome_1.jpg",
+		"shorten_media": "F_PROD_Salome_1",
+		"display_name": null,
+		"photo_id": 1778,
+		"url": "1862",
+		"article_id": 1862,
+		"photo_name": "F_PROD_Salome_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1981 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1672,
+		"timeline_id": 1863,
+		"media_caption": "<p> Rod Leido, left,\r\nDodo Cabasal,\r\nVic Lima,\r\nNoel Trinidad,\r\nMark Gil,\r\nJimmy Javier,\r\nRicky Sandico,\r\nWard Luarca, and\r\nEdwin Reyes in\r\nBatch ‘81, 1982 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1982 ECP Batch Himala Oro",
+		"text_description": "<p> <em> Batch ’81 </em> directed by Mike de Leon, <em> Himala </em> by Ishmael Bernal, and <em> Oro, Plata, Mata </em> (in photo) by Peque Gallaga are shown. <em> Himala </em> and <em> Oro, Plata, Mata </em> are the first two films funded by the ECP. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1982,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Batch81_1.jpg",
+		"shorten_media": "F_PROD_Batch81_1",
+		"display_name": null,
+		"photo_id": 1672,
+		"url": "1863",
+		"article_id": 1863,
+		"photo_name": "F_PROD_Batch81_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1982 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1730,
+		"timeline_id": 1867,
+		"media_caption": "<p> Charo Santos and Charito Solis in Kisapmata, 1981 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo by Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1982 Directors Cannes",
+		"text_description": "<p> <em> Kisapmata </em> (in photo) and <em> Batch ’81 </em> are screened during the Directors’ Fortnight at the Cannes Film Festival. (Photo by Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1982,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Kisapmata_1.jpg",
+		"shorten_media": "F_PROD_Kisapmata_1",
+		"display_name": null,
+		"photo_id": 1730,
+		"url": "1867",
+		"article_id": 1867,
+		"photo_name": "F_PROD_Kisapmata_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1982 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1450,
+		"timeline_id": 1871,
+		"media_caption": "<p> Mike de Leon's Lakbayan, 1984 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1983 Makiisa",
+		"text_description": "<p> The Makiisa Festival at Fort Santiago showcases anti-Marcos poems, plays, music, and films including <em> Signos </em> and <em> Lakbayan </em> (in photo). (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1983,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Altercinema_7.jpg",
+		"shorten_media": "F_HE_Altercinema_7",
+		"display_name": null,
+		"photo_id": 1450,
+		"url": "1871",
+		"article_id": 1871,
+		"photo_name": "F_HE_Altercinema_7",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1983 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1521,
+		"timeline_id": 1878,
+		"media_caption": "<p> Phillip Salvador,\r\ncenter, carrying\r\nRR Herrera in\r\nLino Brocka’s\r\nOrapronobis, 1989 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1989 Orapronobis banned",
+		"text_description": "<p> Lino Brocka’s <em> Orapronobis </em> is banned for local screening by the MTRCB for its supposed subversive theme and for being produced by an unregistered foreign production company. The film is eventually screened at the UP Film Center and the Cannes Film Festival. (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1989,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_PoliFilm_1.jpg",
+		"shorten_media": "F_HE_PoliFilm_1",
+		"display_name": null,
+		"photo_id": 1521,
+		"url": "1878",
+		"article_id": 1878,
+		"photo_name": "F_HE_PoliFilm_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1989 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1794,
+		"timeline_id": 1889,
+		"media_caption": "<p> Nora Aunor and\r\nRita Avila in\r\nThe Flor\r\nContemplacion\r\nStory, 1995 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1995 Flor Contemplacion",
+		"text_description": "<p> <em> The Flor Contemplacion Story </em> wins the Golden Pyramid Award for director Joel Lamangan and the Princess Pataten Statue for Best Actress for Nora Aunor in the Cairo International Film Festival. (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1995,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_The_Flor_1.jpg",
+		"shorten_media": "F_PROD_The_Flor_1",
+		"display_name": null,
+		"photo_id": 1794,
+		"url": "1889",
+		"article_id": 1889,
+		"photo_name": "F_PROD_The_Flor_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1995 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1753,
+		"timeline_id": 1892,
+		"media_caption": "<p> Jaclyn Jose and Gina Alajar in Mulanay: Sa Pusod ng Paraiso, 1996 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1996 Mulanay",
+		"text_description": "<p> <em> Mulanay </em> directed by Gil Portes wins Best Picture, Best Director, Best Screenplay (Clodualdo del Mundo Jr), Best Actress (Jaclyn Jose), Best Actor (John Arcilla), and Best Musical Score (Joy Marfil) in the Manila Film Festival. (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1996,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Mulanay_1.jpg",
+		"shorten_media": "F_PROD_Mulanay_1",
+		"display_name": null,
+		"photo_id": 1753,
+		"url": "1892",
+		"article_id": 1892,
+		"photo_name": "F_PROD_Mulanay_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1996 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1722,
+		"timeline_id": 1895,
+		"media_caption": "<p> Cesar Montano,\r\ncenter, with\r\nCesar Xerez-Burgos\r\nand Jaime Fabregas\r\nin Jose Rizal, 1998 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1998 Jose Rizal Abaya",
+		"text_description": "<p> <em> Jose Rizal </em> directed by Marilou Diaz-Abaya is released. Other films celebrating the centennial are <em> Damong Ligaw, Rizal sa Dapitan, </em> and <em> Bayaning 3rd World. </em> (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1998,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Jose_Rizal_1.jpg",
+		"shorten_media": "F_PROD_Jose_Rizal_1",
+		"display_name": null,
+		"photo_id": 1722,
+		"url": "1895",
+		"article_id": 1895,
+		"photo_name": "F_PROD_Jose_Rizal_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1998 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1674,
+		"timeline_id": 1897,
+		"media_caption": "<p> Ricky Davao and Cris Villanueva in Bayaning 3rd World, 1999 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mike de Leon </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1999 Bayaning 3rd World",
+		"text_description": "<p> <em> Bayaning 3rd World </em> directed by Mike de Leon is shown. (Photo from Mike de Leon) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1999,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Bayaning_3rd_World_1.jpg",
+		"shorten_media": "F_PROD_Bayaning_3rd_World_1",
+		"display_name": null,
+		"photo_id": 1674,
+		"url": "1897",
+		"article_id": 1897,
+		"photo_name": "F_PROD_Bayaning_3rd_World_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1999 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1461,
+		"timeline_id": 1899,
+		"media_caption": "<p> Jon Red’s Still Lives, 1999 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Jon Red </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 1999 Still Lives",
+		"text_description": "<p> Digital video technology arrives in Manila. Jon Red directs the first Filipino digital film <em> Still Lives. </em> (Photo from Jon Red) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1999,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Indecinema_3.jpg",
+		"shorten_media": "F_HE_Indecinema_3",
+		"display_name": null,
+		"photo_id": 1461,
+		"url": "1899",
+		"article_id": 1899,
+		"photo_name": "F_HE_Indecinema_3",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1999 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1735,
+		"timeline_id": 1903,
+		"media_caption": "<p> Marcus Madrigal and Ana Capri in Live Show, 2001 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Cesar Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2001 Live Show",
+		"text_description": "<p> <em> Live Show </em> by Jose Javier Reyes is shown locally with a legitimate MTRCB permit, but is ultimately pulled out of theaters as ordered by Malacañan after conservative sectors condemned the film’s sexual scenes. MTRCB Chairman Nicanor Tiongson resigns in protest. (Photo from Cesar Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2001,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Live_Show_1.jpg",
+		"shorten_media": "F_PROD_Live_Show_1",
+		"display_name": null,
+		"photo_id": 1735,
+		"url": "1903",
+		"article_id": 1903,
+		"photo_name": "F_PROD_Live_Show_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2001 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1740,
+		"timeline_id": 1908,
+		"media_caption": "<p> Gloria Romero and Jiro Manio in Magnifico, 2003 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Mario Hernando </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2004 Magnifico",
+		"text_description": "<p> <em> Magnifico </em> by Mario J. de los Reyes wins the Crystal Bear and the Deutsches Kinderhilfswerk Grand Prix awards in the Berlin International Film Festival. (Photo from Mario Hernando) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2004,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Magnifico_1.jpg",
+		"shorten_media": "F_PROD_Magnifico_1",
+		"display_name": null,
+		"photo_id": 1740,
+		"url": "1908",
+		"article_id": 1908,
+		"photo_name": "F_PROD_Magnifico_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2004 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1465,
+		"timeline_id": 1911,
+		"media_caption": "<p> Coco Martin in Brillante Mendoza’s Masahista, 2005 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Brillante Mendoza </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2005 Masahista",
+		"text_description": "<p> <em> Masahista </em> by Brillante Mendoza wins the Golden Leopard award in the video section of the 2005 Locarno International Film Festival. (Photo from Brillante Mendoza) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2005,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/20/F_HE_Indecinema_7.jpg",
+		"shorten_media": "F_HE_Indecinema_7",
+		"display_name": null,
+		"photo_id": 1465,
+		"url": "1911",
+		"article_id": 1911,
+		"photo_name": "F_HE_Indecinema_7",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2005 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1731,
+		"timeline_id": 1916,
+		"media_caption": "<p> Gina Pareño in Kubrador, 2006 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from Jeffrey Jeturian </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2006 Kubrador",
+		"text_description": "<p> Gina Pareño wins the Best Actress Award at the Amiens International Film Festival and at the Brussels International Film Festival for her performance in <em> Kubrador </em> by Jeffrey Jeturian. The film also receives the FIPRESCI Award at the Moscow International Film Festival. (Photo from Jeffrey Jeturian) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2006,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/24/F_PROD_Kubrador_1.jpg",
+		"shorten_media": "F_PROD_Kubrador_1",
+		"display_name": null,
+		"photo_id": 1731,
+		"url": "1916",
+		"article_id": 1916,
+		"photo_name": "F_PROD_Kubrador_1",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2006 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"id": 1642,
+		"timeline_id": 3115,
+		"media_caption": "<p> Coco Martin and\r\nMercedes Cabral in\r\nBrillante Mendoza’s\r\nSerbis, 2008 </p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo by Benjamin Padero </p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Film 2008 Serbis",
+		"text_description": "<p> Brillante Mendoza’s <em> Serbis </em> wins the Golden Kinnaree Award in the Bangkok International Film Festival Southeast Asian Competition, and is also nominated for the Palme d’Or in the Cannes Film Festival. (Photo by Benjamin Padero) </p>",
+		"category": 2,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2008,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/multimedia/photo/4/22/F_AOF_Scriptwriting_4.jpg",
+		"shorten_media": "F_AOF_Scriptwriting_4",
+		"display_name": null,
+		"photo_id": 1642,
+		"url": "3115",
+		"article_id": 3115,
+		"photo_name": "F_AOF_Scriptwriting_4",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2008 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

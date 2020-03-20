@@ -1,0 +1,444 @@
+[
+	{
+		"timeline_id": null,
+		"media_caption": "<p>A comic strip of Kiko at Angge written by Iñigo Ed. Regalado and illustrated by Fernando Amorsolo.</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1922.2 Kiko at Angge",
+		"text_description": "<p><em>Kiko at Angge</em>, written by Tagalog novelist I&ntilde;igo Ed. Regalado and illustrated by Fernando Amorsolo, is published in <em>Telembang </em>between 1922 and 1924<em>. Kiko at Angge</em> is seen as a precursor of <em>Kenkoy</em>.</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1922,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1922",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1922 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>Picture of first edition of Joyce's Ulysses</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1922.3 Ulysses and The Wasteland",
+		"text_description": "<p>James Joyce&rsquo;s <em>Ulysses</em> and T. S. Eliot&rsquo;s <em>The Wasteland</em> are published, marking the high tide of literary modernism. It will influence Filipino writers later.</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1922,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": "NONE",
+		"shorten_media": null,
+		"display_name": "1922",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1922 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1925.2 Philippine Harald with Filipino writers",
+		"text_description": "<p>Beginning in 1925, <em>The Philippines Herald</em> will have a weekly magazine supplement where new stories and poems by Filipino writers using English are published.</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1925,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1925",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1925 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>President Manuel L. Quezon, center, signs the Women’s Suffrage Bill following the 1937 plebiscite</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1937 Suffrage Bill",
+		"text_description": "<p>After a feverish campaign by women leaders, the suffrage bill becomes law. Writers like Rosa Sevilla, Encarnacion Alzona, and Trinidad Tarrosa Subido are some of the prominent suffragettes. Photo: Pres Manuel L. Quezon signing the Women&rsquo;s Suffrage Bill following the 1937 plebiscite</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1937,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1937 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1942.2 Japanese anti-Western",
+		"text_description": "<p>In line with its anti-Western agenda, the Japanese government suppresses English but supports Tagalog literature. Some Filipino writers switch mediums. After the war, the occupation engenders literary pieces.</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1942,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1942",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1942 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>Liwayway,1948, The Ramon Roces line of magazines</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Liwayway Publications, Inc</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1946.1 Liwayway resumes",
+		"text_description": "<p><em>Liwayway</em> and other publications resume operations.</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1946,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1946",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1946 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>Bienvenido Santos, Post-World War II writers in English</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1946.2 Fulbright program",
+		"text_description": "<p>Among the writers who benefit from the Fulbright Program are Francisco Arcellana, Bienvenido Santos (in photo), and N. V. M. Gonzalez.</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1946,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1946",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1946 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>Publicity still of James Dean for the film Rebel Without a Cause. 1955. Warner Bros.</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Wikimedia Commons</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1955.5 Rebel without a Cause",
+		"text_description": "<p><em>Rebel without a Cause</em>, starring James Dean, introduces the theme of the rebellious teenager in Philippine literature.</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1955,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": "NONE",
+		"shorten_media": null,
+		"display_name": "1955",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1955 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1971.1 Paksa Workbook",
+		"text_description": "<p>The <em>Paksa Workbook</em>, a compilation of annotations and reviews of the works of art and literature of the national democratic movement from 1970 to 1971, is published.</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1971,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": "NONE",
+		"shorten_media": null,
+		"display_name": "1971",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1971 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>Jose Garcia Villa, 1973, National Artists for Literature</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1973 Garcia Villa, National Artist",
+		"text_description": "<p>Jose Garcia Villa is declared National Artist.</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1973,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1973 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>1986 EDSA Revolt</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Official Gazette of the Philippines</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1986.4 EDSA Revolt ",
+		"text_description": "<p>The new &ldquo;democratic space&rdquo; provided by the EDSA Revolt results in more literary production. The government, however, will be plagued by coup d&rsquo;&eacute;tats, the first happening within months of Pres Corazon Aquino&rsquo;s installation.</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1986,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1986",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p>Bikol edition of Ani, edited by Marjorie M. Evasco, 1988</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1986.5 New CCP",
+		"text_description": "<p>July: The new CCP management reorients the institution to emphasize Filipinization, democratization, and decentralization. It gives grants for literature and publishes the literary journal<em> Ani</em>.</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1986,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1986",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": null,
+		"media_caption": "<p><em>Tulay</em>, an important outlet for Chinese- Filipino literature published by the KAISA para sa Kaunlaran</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ateneo de Manila University Library</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Lit 1987.2 Kaisa Para sa Kaunlaran",
+		"text_description": "<p>The Kaisa Para sa Kaunlaran is established. Apart from the newsletter <em>Tulay</em>, it will publish collections of Filipino-Chinese writings and address the concerns of the Filipino-Chinese community, including the many &ldquo;kidnap for ransom&rdquo; cases in the 1990s. (Photo from Ateneo de Manila University Library)</p>",
+		"category": 6,
+		"start_month": null,
+		"start_day": null,
+		"start_year": 1987,
+		"end_month": null,
+		"end_day": null,
+		"end_year": null,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1987",
+		"photo_id": null,
+		"url": "",
+		"article_id": null,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": null, "day": null, "year": 1987 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": null, "day": null, "year": null }
+			}
+		]
+	}
+]

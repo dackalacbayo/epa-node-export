@@ -46,6 +46,7 @@ https: module.exports = {
 		);
 	},
 	stripMedia: function (str) {
+		console.log('strr', str);
 		return str.replace(
 			/http(s?):\/\/dev-epa\.info-aid\.net\/multimedia\/photo\/\d+\/\d+\//g,
 			''
@@ -59,25 +60,147 @@ https: module.exports = {
 			return a;
 		}, 0);
 	},
+	chunkArray: function (myArray, chunk_size) {
+		var index = 0;
+		var arrayLength = myArray.length;
+		var tempArray = [];
+		//var samp = [];
+		for (index = 0; index < arrayLength; index += chunk_size) {
+			//console.log("indexx", index)
+			myChunk = myArray.slice(index, index + chunk_size);
+			// Do something if you want with the group
+			//console.log("myChunk", myChunk)
+			tempArray.push(myChunk);
+		}
+		var lastArr = tempArray[tempArray.length - 2].concat(
+			tempArray[tempArray.length - 1]
+		);
+		//console.log('lastArr',lastArr)
+
+		var samp = tempArray.map((item, index) => {
+			if (index == chunk_size - 1) {
+				//item = lastArr
+				tempArray[index] = lastArr;
+			}
+		});
+		//console.log("tempArraytempArray1", tempArray)
+
+		return tempArray;
+	},
 	SFInsert: function (arr, contentArr, count, sfType) {
+		// console.log('arr--', arr);
+		// console.log('contentArr--', contentArr);
+		// console.log('count--', count);
+		// console.log('sfType--', sfType);
 		// mutative be careful
 		// highly dependent on count and oldmarkup.length matching
 		var i = 0;
 		for (let j of arr) {
 			if (j['type'] === sfType) {
+				//console.log('array j', j);
 				while (count > i) {
-					//console.log(contentArr[i])
-					if (typeof j['value'] === 'string')
-						j['value'] = contentArr[i];
-					else j['value'].push(contentArr[i]);
+					if (typeof j['value'] === 'string') {
+						j['value'] =
+							contentArr[i] == undefined ? '' : contentArr[i];
+					} else if (contentArr.length === 0) {
+						j['value'] = '';
+						// console.log('contentArr.length === 0', j);
+					} else j['value'].push(contentArr);
 
 					i++;
 					break;
 				}
 			}
 		}
+
+		return arr;
+	},
+	SFInsertPhotoHolder: function (arr, contentArr, count, sfType) {
+		// mutative be careful
+		// highly dependent on count and oldmarkup.length matching
+		var i = 0;
+		for (let j of arr) {
+			if (j['type'] === sfType) {
+				console.log('array j', j);
+				while (count > i) {
+					if (typeof j['value'] === 'string') {
+						console.log('ifff');
+						j['value'] =
+							contentArr[i] == undefined ? '' : contentArr[i];
+					} else if (contentArr.length === 0) {
+						console.log('elseifff');
+						j['value'] = '';
+						// console.log('contentArr.length === 0', j);
+					} else if (contentArr[0].photo == null) {
+						//console.log('elseifnull')
+						//console.log('elseifnullcontentArr',contentArr)
+						j['value'] = contentArr;
+					} else j['value'].push(contentArr[i]);
+
+					i++;
+					break;
+				}
+			}
+		}
+
+		return arr;
+	},
+	SFInsertPhotoCarousel: function (arr, contentArr, count, sfType) {
+		// mutative be careful
+		// highly dependent on count and oldmarkup.length matching
+		var i = 0;
+		for (let j of arr) {
+			if (j['type'] === sfType) {
+				//console.log('array j', j);
+				//console.log('contentArr--', contentArr.length);
+				while (count > i) {
+					if (typeof j['value'] === 'string') {
+						j['value'] =
+							contentArr[i] == undefined ? '' : contentArr[i];
+					} else if (contentArr.length === 0) {
+						j['value'] = '';
+					} else if (contentArr[0].photo == null) {
+						j['value'] = contentArr;
+					} else {
+						var samp = chunkArray(contentArr, count);
+						//console.log('resulttt', samp);
+						j['value'] = samp[i];
+					}
+
+					i++;
+					break;
+				}
+			}
+		}
+
+		return arr;
 	},
 };
+
+function chunkArray (myArray, chunk_size) {
+	var index = 0;
+	var arrayLength = myArray.length;
+	var tempArray = [];
+	//var samp = [];
+	for (index = 0; index < arrayLength; index += chunk_size) {
+		myChunk = myArray.slice(index, index + chunk_size);
+		// Do something if you want with the group
+		tempArray.push(myChunk);
+	}
+	var lastArr = tempArray[tempArray.length - 2].concat(
+		tempArray[tempArray.length - 1]
+	);
+	//console.log('lastArr',lastArr)
+
+	var samp = tempArray.map((item, index) => {
+		if (index == chunk_size - 1) {
+			//item = lastArr
+			tempArray[index] = lastArr;
+		}
+	});
+
+	return tempArray;
+}
 
 function compressParagraphs () {
 	var holder = [];

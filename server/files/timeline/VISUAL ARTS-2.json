@@ -1,0 +1,4189 @@
+[
+	{
+		"rowLength": 123,
+		"list": [
+			{
+				"id": 704,
+				"timeline_id": 519,
+				"media_caption": "<p>Tony Velasquez, Kalibapi Family, comics series in Tribune, 18 Oct 1943</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Ateneo de Manila University Press</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1942 Gatbonton and Velasquez, Kalibapi Family",
+				"text_description": "<p>Liborio &quot;Gat&quot; Gatbonton and Tony Velasquez create illustrations for the Japanese-sponsored papers. <em>The Kalibapi Family</em>, a cartoon by Velasquez, exemplifies the Japanese policy of extolling Filipino virtues. (Photo from Ateneo de Manila University Press)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1942,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Second%20Republic_1942-45_2.jpg",
+				"shorten_media": "V_HE_SecondRepublic_1942-45_2",
+				"display_name": null,
+				"photo_id": 704,
+				"url": "519",
+				"article_id": 519,
+				"photo_name": "V_HE_SecondRepublic_1942-45_2",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1942 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1309,
+				"timeline_id": 528,
+				"media_caption": "<p>H.R. Ocampo, Genesis, 1969</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Cultural Center of the Philippines Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1969 Genesis",
+				"text_description": "<p><em>Genesis</em> by H. R. Ocampo is made into the tapestry show curtain of the Main Theater (later, Tanghalang Nicanor Abelardo) of the Cultural Center of the Philippines.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1969,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Genesis_1.jpg",
+				"shorten_media": "V_WORKS_Genesis_1",
+				"display_name": "1969",
+				"photo_id": 1309,
+				"url": "528",
+				"article_id": 528,
+				"photo_name": "V_WORKS_Genesis_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1969 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1103,
+				"timeline_id": 530,
+				"media_caption": "<p>Jaime de Guzman, Gomburza, 1970</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Cultural Center of the Philippines Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1970 Gomburza by de Guzman",
+				"text_description": "<p><em>Gomburza</em> by Jaime de Guzman uses history to comment on contemporary issues by painting the martyrdom of the three priests killed by the Spanish colonizers in 1872.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1970,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Gomburza_1.jpg",
+				"shorten_media": "V_WORKS_Gomburza_1",
+				"display_name": null,
+				"photo_id": 1103,
+				"url": "530",
+				"article_id": 530,
+				"photo_name": "V_WORKS_Gomburza_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1970 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1222,
+				"timeline_id": 533,
+				"media_caption": "<p>Tikbalang, Peace-loving Tikbalang, Solomon Saprid, 1971</p>",
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1971 Tikbalang",
+				"text_description": "<p><em>Tikbalang</em> by Solomon Saprid presents a metal sculpture of a half-man, half-horse being based on a Filipino folk belief.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1971,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Tikbalang_1.jpg",
+				"shorten_media": "V_WORKS_Tikbalang_1",
+				"display_name": null,
+				"photo_id": 1222,
+				"url": "533",
+				"article_id": 533,
+				"photo_name": "V_WORKS_Tikbalang_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1971 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1041,
+				"timeline_id": 539,
+				"media_caption": "<p>Francisco Verano, Bamboo Fugue I, 1980</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Cultural Center of the Philippines Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1972 Bamboo Fugue",
+				"text_description": "<p><em>Bamboo Fugue</em> by Francisco Verano, an example of bamboo sculpture, is created.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1972,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Bamboo_Fugue_I_1.jpg",
+				"shorten_media": "V_WORKS_Bamboo_Fugue_I_1",
+				"display_name": "1972",
+				"photo_id": 1041,
+				"url": "539",
+				"article_id": 539,
+				"photo_name": "V_WORKS_Bamboo_Fugue_I_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1972 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1375,
+				"timeline_id": 540,
+				"media_caption": "<p>Pasyon at Rebolusyon, Santiago Bose, 1983, Mixed media</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo courtesy of Peggy Bose</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1983 Pasyon at Rebolusyon",
+				"text_description": "<p>Santi Bose creates the installation <em>Pasyon at Rebolusyon</em>, which explores the theme of nativist millenarian faith, using indigenous and organic materials. (Photo from Peggy Bose)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1983,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Pasyon_at_Rebolusyon_1.jpg",
+				"shorten_media": "V_WORKS_Pasyon_at_Rebolusyon_1",
+				"display_name": null,
+				"photo_id": 1375,
+				"url": "540",
+				"article_id": 540,
+				"photo_name": "V_WORKS_Pasyon_at_Rebolusyon_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1983 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1436,
+				"timeline_id": 543,
+				"media_caption": "<p>Two Nuns of Edsa, Pete Reyes, 1986, The Manila Times</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo courtesy of The Manila Times</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1986 Two Nuns ",
+				"text_description": "<p>&quot;Two Nuns of Edsa&quot; by photojournalist Pete Reyes becomes an iconic image of the EDSA Revolt. (Photo from The Manila Times)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1986,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Two_Nuns_1.jpg",
+				"shorten_media": "V_WORKS_Two_Nuns_1",
+				"display_name": null,
+				"photo_id": 1436,
+				"url": "543",
+				"article_id": 543,
+				"photo_name": "V_WORKS_Two_Nuns_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1986 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1072,
+				"timeline_id": 1312,
+				"media_caption": "<p>Lorenzo Atlas, Nuestra Señora del Rosario</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Intramuros Administration Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1760 Atlas ",
+				"text_description": "<p>Lorenzo Atlas does the engraving of the La Naval. (Photo from Intramuros Administration Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1760,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_del_Rosario_3.jpg",
+				"shorten_media": "V_WORKS_del_Rosario_3",
+				"display_name": null,
+				"photo_id": 1072,
+				"url": "1312",
+				"article_id": 1312,
+				"photo_name": "V_WORKS_del_Rosario_3",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1760 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1253,
+				"timeline_id": 1314,
+				"media_caption": "<p>Esteban Villanueva, Basi Revolt, 9th of 14 paintings depicting the bloody battle at Bantaoay, 1821</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from National Museum of the Philippines collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1821 Basi Revolt",
+				"text_description": "<p>Esteban Villanueva is commissioned to do the Basi Revolt Series commemorating the Ilocano Basi revolt in 1807. (Photo from National Museum of the Philippines Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1821,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Basi_Revolt_1.jpg",
+				"shorten_media": "V_WORKS_Basi_Revolt_1",
+				"display_name": null,
+				"photo_id": 1253,
+				"url": "1314",
+				"article_id": 1314,
+				"photo_name": "V_WORKS_Basi_Revolt_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1821 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 691,
+				"timeline_id": 1316,
+				"media_caption": "<p>Juan Arceo/Juan Arzeo, Retrato de la Familia Azcarraga, 1824 Del Monte Collection</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Hugh Kelly, courtesy of Jose Campos III</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1823-24 Retrato de la familia ",
+				"text_description": "<p>Juan Arceo completes the Retrato de la familia Azc&aacute;rraga, one of the earliest secular portraits in the Philippines. (Photo by Hugh Kelly, courtesy of Jose Campos III)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1823,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Philippine_Visual_Arts_9.jpg",
+				"shorten_media": "V_HE_Philippine_Visual_Arts_9",
+				"display_name": "1823-24",
+				"photo_id": 691,
+				"url": "1316",
+				"article_id": 1316,
+				"photo_name": "V_HE_Philippine_Visual_Arts_9",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1823 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1123,
+				"timeline_id": 1317,
+				"media_caption": "<p>Kuan-yin Nuestra Señora del Rosario, 1825</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>San Agustin Museum/Photo by Kiko del Rosario</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1825 Kuan-Yin",
+				"text_description": "<p>Kuan-Yin Nuestra Se&ntilde;ora del Rosario, is created by Boholano painters, similar to the image of Kuanyin, the Chinese goddess of mercy. (San Agustin Museum/Photo by Kiko del Rosario)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1825,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Kuan-Yin_1.jpg",
+				"shorten_media": "V_WORKS_Kuan-Yin_1",
+				"display_name": null,
+				"photo_id": 1123,
+				"url": "1317",
+				"article_id": 1317,
+				"photo_name": "V_WORKS_Kuan-Yin_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1825 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1083,
+				"timeline_id": 1318,
+				"media_caption": "<p>A page of illustrations from the Elementos de Perspectiva</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Miguel de Benavides Library, University of Santo Tomas</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1828 Elementos ",
+				"text_description": "<p>Nov 26: <em>Elementos de Perspectiva</em>, a manual of drawing and painting written in Spanish, is published in the Philippines. It influences painters on how to draw still life, render anatomy, and use perspective. (Photo from Miguel de Benavides Library, University of Santo Tomas)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 11,
+				"start_day": 26,
+				"start_year": 1828,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Elementos_de_Perspectiva_1.jpg",
+				"shorten_media": "V_WORKS_Elementos_de_Perspectiva_1",
+				"display_name": null,
+				"photo_id": 1083,
+				"url": "1318",
+				"article_id": 1318,
+				"photo_name": "V_WORKS_Elementos_de_Perspectiva_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 11, "day": 26, "year": 1828 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 660,
+				"timeline_id": 1323,
+				"media_caption": "<p>Lorenzo Guerrero</p>",
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1850 Academia de Dibujo y Pintura ",
+				"text_description": "<p>The Academia de Dibujo y Pintura re-opens and promotes the academic style of painting under Spanish teachers such as Agustin Saez and Lorenzo Rocha. A Filipino student Lorenzo Guerrero (in photo) eventually becomes a teacher.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1850,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Hispanic_1521_Onward_7.jpg",
+				"shorten_media": "V_HE_Hispanic_1521_Onward_7",
+				"display_name": null,
+				"photo_id": 660,
+				"url": "1323",
+				"article_id": 1323,
+				"photo_name": "V_HE_Hispanic_1521_Onward_7",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1850 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1077,
+				"timeline_id": 1324,
+				"media_caption": "<p>Jose Dans, El Cielo, El Paraiso, El Purgatorio y El Infierno, 1850</p>",
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1850 El Cielo ",
+				"text_description": "<p><em>El Cielo, el Paraiso, el Purgatorio y el Infierno</em>, a mural painting attributed to Jose Dans, is installed in Paete church; it is an example of a catechetical church painting.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1850,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_El_Cielo_1.jpg",
+				"shorten_media": "V_WORKS_El_Cielo_1",
+				"display_name": "1850",
+				"photo_id": 1077,
+				"url": "1324",
+				"article_id": 1324,
+				"photo_name": "V_WORKS_El_Cielo_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1850 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1305,
+				"timeline_id": 1343,
+				"media_caption": "<p>Jose Honorato Lozano, Francisco Garcia Ortiz, 1854-63</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Bangko Sentral ng Pilipinas Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1854 Ortiz ",
+				"text_description": "<p><em>Francisco Garcia Ortiz</em> by Jose Honorato Lozano exemplifies the minituarized form of painting called letras y figuras patronized by the mestizo class and foreigners looking for souvenirs. (Photo from Bangko Sentral ng Pilipinas Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1854,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Francisco_Garcia_Ortiz_1.jpg",
+				"shorten_media": "V_WORKS_Francisco_Garcia_Ortiz_1",
+				"display_name": null,
+				"photo_id": 1305,
+				"url": "1343",
+				"article_id": 1343,
+				"photo_name": "V_WORKS_Francisco_Garcia_Ortiz_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1854 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 762,
+				"timeline_id": 1344,
+				"media_caption": "<p>Ilustracion Filipina, Periodico Quincenal</p>",
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1859 La Ilustracion Filipina",
+				"text_description": "<p><em>La Ilustracion Filipina</em>, published 1859-1860, and 1882, features lithographs of landscapes and genre scenes by Filipino artists.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1859,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Book_Design_9.jpg",
+				"shorten_media": "V_FAT_Book_Design_9",
+				"display_name": null,
+				"photo_id": 762,
+				"url": "1344",
+				"article_id": 1344,
+				"photo_name": "V_FAT_Book_Design_9",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1859 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1322,
+				"timeline_id": 1346,
+				"media_caption": "<p>Antonio Malantic, Inocencia Francia, 1876</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Leandro V. Locsin Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1869-1892 Inocencia Francia ",
+				"text_description": "<p>Antonio Malantic paints the portraits of <em>Soledad Francia</em> and <em>Inocencia Francia</em> (in photo), 1870, which depict young ladies of the mestizo class clothed in formal clothing with delicate embroidery. (Photo from Leandro V. Locsin Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1869,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Inocencia_Francia_1.jpg",
+				"shorten_media": "V_WORKS_Inocencia_Francia_1",
+				"display_name": "1869-1892",
+				"photo_id": 1322,
+				"url": "1346",
+				"article_id": 1346,
+				"photo_name": "V_WORKS_Inocencia_Francia_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1869 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1428,
+				"timeline_id": 1347,
+				"media_caption": "<p>The Quiason Family 1880, Simon Flores</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Bangko Sentral ng Pilipinas Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1869-1892 Familia Quiason",
+				"text_description": "<p>Using the <em>miniaturismo</em> style, Simon Flores paints <em>Familia Quiason</em>, 1880, detailing the embroidery of the clothes, jewelry, and interiors of the family home. (Photo from Bangko Sentral ng Pilipinas Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1869,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_The_Quiason_1.jpg",
+				"shorten_media": "V_WORKS_The_Quiason_1",
+				"display_name": "1869-1892",
+				"photo_id": 1428,
+				"url": "1347",
+				"article_id": 1347,
+				"photo_name": "V_WORKS_The_Quiason_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1869 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1414,
+				"timeline_id": 1348,
+				"media_caption": "<p>Soterania Puson y Quintos de Ventenilla, Dionisio de Castro, 1892</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Bangko Sentral ng Pilipinas Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1869-1892 Soterania Puson Y Quintos",
+				"text_description": "<p><em>Soterania Puson Y Quintos De Ventenilla</em>, 1892, by Dionisio de Castro is an example of 19th century portraiture called <em>miniaturismo</em>, featuring the sitter wearing her jewelry and accoutrements. (Photo from Bangko Sentral ng Pilipinas Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1869,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Soterania_1.jpg",
+				"shorten_media": "V_WORKS_Soterania_1",
+				"display_name": "1869-1892",
+				"photo_id": 1414,
+				"url": "1348",
+				"article_id": 1348,
+				"photo_name": "V_WORKS_Soterania_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1869 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1256,
+				"timeline_id": 1349,
+				"media_caption": "<p>Paz Paterno, Bodegon, 1884</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p></p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1869-1892 Bodegon",
+				"text_description": "<p><em>Bodegon</em>, 1884, by Paz Paterno features a landscape and still life of fruits.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1869,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Bodegon_1.jpg",
+				"shorten_media": "V_WORKS_Bodegon_1",
+				"display_name": "1869-1892",
+				"photo_id": 1256,
+				"url": "1349",
+				"article_id": 1349,
+				"photo_name": "V_WORKS_Bodegon_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1869 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1066,
+				"timeline_id": 1350,
+				"media_caption": "<p>Adelaida Paterno, Country Scene, 1880s</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Bangko Sentral ng Pilipinas Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1869-1892 hair embroidery",
+				"text_description": "<p>Embroidery work using hair in embroidery of a landscape scene, such as the Country Scene by Adelaida Paterno, is taught in the colegios for women. Embroidery work using hair in embroidery of a landscape scene, such as the Country Scene by Adelaida Paterno, is taught in the colegios for women. (Photo from Bangko Sentral ng Pilipinas Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1869,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Country_Scene_1.jpg",
+				"shorten_media": "V_WORKS_Country_Scene_1",
+				"display_name": "1869-1892",
+				"photo_id": 1066,
+				"url": "1350",
+				"article_id": 1350,
+				"photo_name": "V_WORKS_Country_Scene_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1869 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 815,
+				"timeline_id": 1351,
+				"media_caption": "<p>Art nouveau four-poster bed by Eduardo Ah Tay</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from of Leon Gallery</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1869-1892 Ah Tay ",
+				"text_description": "<p>Ah Tay furniture becomes popular with its distinctive design for beds, cabinet, dining table and long seats. (Photo from Leon Gallery)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1869,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Furniture_13.jpg",
+				"shorten_media": "V_FAT_Furniture_13",
+				"display_name": "1869-1892",
+				"photo_id": 815,
+				"url": "1351",
+				"article_id": 1351,
+				"photo_name": "V_FAT_Furniture_13",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1869 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1252,
+				"timeline_id": 1599,
+				"media_caption": "<p>Banton burial cloth, ca 14th-15th century, Abaca, Warp ikat</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from National Museum of the Philippines Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1380-1500 Ikat weave",
+				"text_description": "<p>Ikat weave becomes prevalent in Southeast Asia in the 14th - 15th century, as evidenced by the Banton Burial Cloth, found in Banton Cave, Romblon in 1939.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1382,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Banton_Burial_Cloth_1.jpg",
+				"shorten_media": "V_WORKS_Banton_Burial_Cloth_1",
+				"display_name": "1380-1500",
+				"photo_id": 1252,
+				"url": "1599",
+				"article_id": 1599,
+				"photo_name": "V_WORKS_Banton_Burial_Cloth_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1382 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1358,
+				"timeline_id": 1611,
+				"media_caption": "<p>Louie Cordero, Nardong Tae, Issue No 1</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo courtesy of the artist and ARNDT Fine Art</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2013 Nardong Tae",
+				"text_description": "<p><em>Nardong Tae</em> by Louie Cordero is included in the exhibition <em>The Philippine Contemporary: To Scale the Past and the Possible</em> at the Metropolitan Museum of Manila.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2013,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Nardong_Tae_1.jpg",
+				"shorten_media": "V_WORKS_Nardong_Tae_1",
+				"display_name": null,
+				"photo_id": 1358,
+				"url": "1611",
+				"article_id": 1611,
+				"photo_name": "V_WORKS_Nardong_Tae_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2013 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1016,
+				"timeline_id": 1613,
+				"media_caption": "<p>Inabel weaver Magdalena Gamayo, Gawad sa Manlilikha ng Bayan awardee, 2012</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from NCCA</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2012 Gamayo, Garcia, Gamaba",
+				"text_description": "<p>The Gawad Manlilikha ng Bayan is awarded to Magdalena Gamayo (Photo 1) for Ilocano <em>inabel</em> weaving and Teofilo Garcia (Photo 2) for <em>kattukong</em> hat making. (Photos by Renato S. Rastrollo, NCCA)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2012,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/16/V_AOVA_Modes_of_Validation_16.jpg",
+				"shorten_media": "V_AOVA_Modes_of_Validation_16",
+				"display_name": null,
+				"photo_id": 1016,
+				"url": "1613",
+				"article_id": 1613,
+				"photo_name": "V_AOVA_Modes_of_Validation_16",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2012 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 701,
+				"timeline_id": 1614,
+				"media_caption": "<p>Walang katapusang paghalo ng balat sa tinalupan, Brenda Fajardo, 1987</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Rolando Codes</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2012 Fajardo, Gawad CCP",
+				"text_description": "<p>Brenda Fajardo receives the Gawad CCP para sa Sining. (Photo by Rolando Codes)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2012,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Philippine_Visual_Arts_19.jpg",
+				"shorten_media": "V_HE_Philippine_Visual_Arts_19",
+				"display_name": "2012",
+				"photo_id": 701,
+				"url": "1614",
+				"article_id": 1614,
+				"photo_name": "V_HE_Philippine_Visual_Arts_19",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2012 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1386,
+				"timeline_id": 1737,
+				"media_caption": "<p>Poleteismo, Mideo Cruz, 2011, installation</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the artist</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2011 Kulo exhibit",
+				"text_description": "<p><em>Kulo</em> exhibit at the CCP is forced to close due to protests that arose with regards to <em>Poleteismo</em> (in photo) by Mideo Cruz, an installation work that juxtaposes religiosity and politics. (Photo from the artist) </p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2011,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Poleteismo_1.jpg",
+				"shorten_media": "V_WORKS_Poleteismo_1",
+				"display_name": null,
+				"photo_id": 1386,
+				"url": "1737",
+				"article_id": 1737,
+				"photo_name": "V_WORKS_Poleteismo_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2011 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1310,
+				"timeline_id": 1738,
+				"media_caption": "<p>Martha Atienza, Gilubong ang Akon Pusod sa Dagat, 2011</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photos from the artist</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2011 Gilubong ",
+				"text_description": "<p>Martha Atienza creates <em>Gilubong Ang Akon Pusod Sa Dagat</em>, a video art installation which juxtaposes the related lives of seafarers and the fishing community. The work wins the 2012 Ateneo Art Awards. (Photo from the artist)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2011,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Gilubong_1.jpg",
+				"shorten_media": "V_WORKS_Gilubong_1",
+				"display_name": "2011",
+				"photo_id": 1310,
+				"url": "1738",
+				"article_id": 1738,
+				"photo_name": "V_WORKS_Gilubong_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2011 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 830,
+				"timeline_id": 1740,
+				"media_caption": "<p>Kawayan de Guia in collaboration with Baguio community, Axis Tent, 2011</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo courtesy of Asia-Europe Foundation</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2011 AXIS Art Project",
+				"text_description": "<p>The AXIS Art Project is launched in Baguio City, initiated by artist Kawayan de Guia. AXIS focuses on projects such as art festivals evoking collective memory and communities.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2011,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/15/V_FAT_Installation_3.jpg",
+				"shorten_media": "V_FAT_Installation_3",
+				"display_name": "2011",
+				"photo_id": 830,
+				"url": "1740",
+				"article_id": 1740,
+				"photo_name": "V_FAT_Installation_3",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2011 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 683,
+				"timeline_id": 1833,
+				"media_caption": "<p>Manuggul jar</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from National Museum of the Philippines Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 4000BCE Manunggul Jar",
+				"text_description": "<p>The Manunggul Jar (890-710 BCE), an earthenware pottery found in Palawan in the 1960s and featuring human figures rowing a boat, is used as a secondary burial jar. (Photo from National Museum of the Philippines Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": -4001,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Philippine_Visual_Arts_1.jpg",
+				"shorten_media": "V_HE_Philippine_Visual_Arts_1",
+				"display_name": "Neolithic Period (4000/3000 to 500 BCE)",
+				"photo_id": 683,
+				"url": "1833",
+				"article_id": 1833,
+				"photo_name": "V_HE_Philippine_Visual_Arts_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": -4001 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1137,
+				"timeline_id": 1839,
+				"media_caption": "<p>Maitum Jar No. 21, 5 BCE to CE 225 and CE 70 to 370</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from National Museum of the Philippines Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 500BCE Maitum pottery",
+				"text_description": "<p>Maitum pottery, dated 5 BCE to CE 225 and AD 70 to 370, a period straddling the Philippine Late Neolithic and Early Metal Age, is used as anthropomorphic secondary burial jars. These are discovered in 1992-95, in Sarangani Province in Mindanao. (Photo from National Museum of the Philippines Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": -500,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Maitum_Jar_1.jpg",
+				"shorten_media": "V_WORKS_Maitum_Jar_1",
+				"display_name": "Metal Period (500 BCE to 1000 CE)",
+				"photo_id": 1137,
+				"url": "1839",
+				"article_id": 1839,
+				"photo_name": "V_WORKS_Maitum_Jar_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": -500 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1037,
+				"timeline_id": 1846,
+				"media_caption": "<p>Balanghai CE 320, cabo negro, Ambangan, Libertad, Butuan, Agusan del Norte Province, northeastern Mindanao.</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Roezielle Joy Iglesia</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1000CE Balanghai ",
+				"text_description": "<p>Balanghai boats, dated 320 CE, are used for trade, as seen in archaeological excavation in Butuan, Agusan del Norte. (Photo by Roezielle Joy Iglesia)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1000,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Balanghai_CE_320_1.jpg",
+				"shorten_media": "V_WORKS_Balanghai_CE_320_1",
+				"display_name": "Proto-historic period (1000 to 1300 CE)",
+				"photo_id": 1037,
+				"url": "1846",
+				"article_id": 1846,
+				"photo_name": "V_WORKS_Balanghai_CE_320_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1000 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 921,
+				"timeline_id": 1851,
+				"media_caption": "<p>Zhangzhou tradeware</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo courtesy of Oriental Ceramic Society of the Philippines</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1000CE Chinese porcelain ",
+				"text_description": "<p>Chinese porcelain and stoneware are traded in the Philippines during the Sung and Yuan periods, and this trade reaches its apex in the 13th century. (Photo from Oriental Ceramic Society of the Philippines)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1000,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Pottery_4.jpg",
+				"shorten_media": "V_FAT_Pottery_4",
+				"display_name": "Proto-historic period (1000 to 1300 CE)",
+				"photo_id": 921,
+				"url": "1851",
+				"article_id": 1851,
+				"photo_name": "V_FAT_Pottery_4",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1000 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1102,
+				"timeline_id": 1853,
+				"media_caption": "<p>Golden Tara of Agusan, 13th-14th century</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by John Weinstein, The Field Museum, Image No. A114678d_006A, Cat. No. 109928</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1000CE Golden Tara ",
+				"text_description": "<p>The Golden Tara of Agusan, crafted in the late 13th century and found in 1917, exemplifies the Hindu - Buddhist links of the period. (Photo by John Weinstein, The Field Museum)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1000,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Golden_Tara_1.jpg",
+				"shorten_media": "V_WORKS_Golden_Tara_1",
+				"display_name": "Proto-historic period (1000 to 1300 CE)",
+				"photo_id": 1102,
+				"url": "1853",
+				"article_id": 1853,
+				"photo_name": "V_WORKS_Golden_Tara_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1000 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1155,
+				"timeline_id": 1854,
+				"media_caption": "<p>Oton Death Mask, late 14th to early 15th century, gold</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from National Museum of the Philippines Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1000CE Oton Death Mask",
+				"text_description": "<p>Gold ornaments such as jewelry is included in ancient burial customs. Gold sheet is also used as face covers, such as the Oton Death Mask, dated late 15th century, and found in 1973. (Photo from National Museum of the Philippines Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1000,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Oton_Face_Cover_1.jpg",
+				"shorten_media": "V_WORKS_Oton_Face_Cover_1",
+				"display_name": "Proto-historic period (1000 to 1300 CE)",
+				"photo_id": 1155,
+				"url": "1854",
+				"article_id": 1854,
+				"photo_name": "V_WORKS_Oton_Face_Cover_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1000 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 599,
+				"timeline_id": 1872,
+				"media_caption": "<p>Green nephrite lingling-o and double animal-headed ear pendants from the Tabon Caves in Palawan.</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from National Museum of the Philippines Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2000BCE Jade Ling-ling-o",
+				"text_description": "<p>Jade Ling-ling-o, an ornament made from Fengtian jade from Taiwan, comes to Batanes. Early Filipinos developed a style of jade carving, exemplified by the ling-ling-o found in Uyaw Cave, Palawan (ca 500-300 BCE). (Photo from National Museum of the Philippines Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": -2003,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Ancient_1.jpg",
+				"shorten_media": "V_HE_Ancient_1",
+				"display_name": "2000/1500 BCE to CE 500",
+				"photo_id": 599,
+				"url": "1872",
+				"article_id": 1872,
+				"photo_name": "V_HE_Ancient_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": -2003 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1314,
+				"timeline_id": 1882,
+				"media_caption": "<p>Our Lady of Peace and Good Voyage, NUESTRA SE&Ntilde;ORA DE LA  PAZ Y BUEN VIAJE  Aka Birhen ng Antipolo, early 17th</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Nicanor G. Tiongson</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1578-1815 Antipolo Birhen",
+				"text_description": "<p>The image of the Virgin Mary called Nuestra Se&ntilde;ora de la Paz y Buenviaje, popularly known as Birhen ng Antipolo, is brought by Gov Gen Juan Ni&ntilde;o de Taborato to the Philippines in 1626 from a parish in Acapulco. (Photo from Nicanor G. Tiongson)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1578,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo_old/3/82/V_WORKS_%20Good_Voyagel_1.jpg",
+				"shorten_media": "V_WORKS_Good_Voyagel_1",
+				"display_name": "1578-1815",
+				"photo_id": 1314,
+				"url": "1882",
+				"article_id": 1882,
+				"photo_name": "V_WORKS_Good_Voyagel_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1578 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 688,
+				"timeline_id": 1887,
+				"media_caption": "<p>Doctrina Christiana en la Lengua Espa&ntilde;ola y Tagala, 1593</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from CCP</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1593 Doctrina Christiana",
+				"text_description": "<p><em>Doctrina Christiana</em>, the first book printed in the Philippines using the xylographic method, is printed in both Spanish and Tagalog. It contains the illustration of Santo Domingo by a Chinese convert Juan de Vera. (Photo from CCP)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1593,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Philippine_Visual_Arts_6.jpg",
+				"shorten_media": "V_HE_Philippine_Visual_Arts_6",
+				"display_name": null,
+				"photo_id": 688,
+				"url": "1887",
+				"article_id": 1887,
+				"photo_name": "V_HE_Philippine_Visual_Arts_6",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1593 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1023,
+				"timeline_id": 1890,
+				"media_caption": "<p>Our Lady of La Naval, detail, (Lady of the Navy) aka Nuestra Se&ntilde;ora del Santisimo Rosario (Our Lady of the Most Holy Rosary). 1593</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo courtesy of Santo Domingo Church Library</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1593 La Naval",
+				"text_description": "<p>La Naval, a sculptural image of the Virgin Mary made of wood and ivory, is carved by a Chinese artisan from Ilocos. Products of the ivory carving tradition are eventually exported to Europe. (Photo courtesy of Santo Domingo Church Library)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1593,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_%20La_Naval_1.jpg",
+				"shorten_media": "V_WORKS_La_Naval_1",
+				"display_name": "1593",
+				"photo_id": 1023,
+				"url": "1890",
+				"article_id": 1890,
+				"photo_name": "V_WORKS_La_Naval_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1593 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 946,
+				"timeline_id": 1894,
+				"media_caption": "<p>Depiction of the Visayan pintados, ca 1590</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Boxer Codex, The Lilly Library Digital Collections</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1593 Boxer Codex",
+				"text_description": "<p>The Boxer Codex, ca 1590, depicts types of Filipinos in contemporary dress. It is believed to have been done by Chinese artisans. One image, the Pintados of the Visayas, features body tattoos as a form of dress. Photo: Depiction of the Bisaya, ca 1590 (Boxer Codex, The Lilly Library Digital Collections)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1593,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Tattoo_Art_1.jpg",
+				"shorten_media": "V_FAT_Tattoo_Art_1",
+				"display_name": "1593",
+				"photo_id": 946,
+				"url": "1894",
+				"article_id": 1894,
+				"photo_name": "V_FAT_Tattoo_Art_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1593 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1203,
+				"timeline_id": 1906,
+				"media_caption": "<p>Main retablo and altar of Silang church, Silang Retablos, 1671, Nuestra Señora de Candelaria Church</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Fr Marty Dimaranan and Phillip Medina, Silang Parish Council for Culture and Heritage</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1600-1700 Silang retablo",
+				"text_description": "<p>1671: The Silang retablo features elements from Spanish, Mexican, Asian and native artistic traditions; it features the plateresque style of carving and the use of Solomonic columns. (Photo from Fr Marty Dimaranan and Phillip Medina, Silang Parish Council for Culture and Heritage)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1600,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Silang_1.jpg",
+				"shorten_media": "V_WORKS_Silang_1",
+				"display_name": "1600-1700",
+				"photo_id": 1203,
+				"url": "1906",
+				"article_id": 1906,
+				"photo_name": "V_WORKS_Silang_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1600 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1392,
+				"timeline_id": 1912,
+				"media_caption": "<p>Our Lady of Prompt Help, NUESTRA SE&Ntilde;ORA DE  PRONTO SOCORRO, 1585</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photos courtesy of Santiago A. Pilar Library</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1603-1762 Chinese artisans",
+				"text_description": "<p>Chinese artisans who were conscripted to paint religious images, such as the Nuestra Se&ntilde;ora de Pronto Socorro, 1585, feature Chinese sensibilities in rendering the Virgin Mary&rsquo;s face and drapery. (Photo from Santiago A. Pilar)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1603,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Prompt_Help_1.jpg",
+				"shorten_media": "V_WORKS_Prompt_Help_1",
+				"display_name": "1603-1762",
+				"photo_id": 1392,
+				"url": "1912",
+				"article_id": 1912,
+				"photo_name": "V_WORKS_Prompt_Help_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1603 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 366,
+				"timeline_id": 1915,
+				"media_caption": "<p>Facade details of Church of Santo Tomas de Villanueva in Miag-ao, Iloilo, 2013</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1700-1800 Miag-ao Church",
+				"text_description": "<p>The relief carving on the fa&ccedil;ade of Miag-ao Church in Iloilo, done in 1787, indigenizes the rococo tradition, as it features local plants, such as a banana and a coconut tree, in its facade carvings. (Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library, 2013)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1700,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/2/8/A_STRUCT_MiagaoChurch_1.jpg",
+				"shorten_media": "A_STRUCT_MiagaoChurch_1",
+				"display_name": "1700-1800",
+				"photo_id": 366,
+				"url": "1915",
+				"article_id": 1915,
+				"photo_name": "A_STRUCT_MiagaoChurch_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1700 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 927,
+				"timeline_id": 1920,
+				"media_caption": "<p>IESVS es clauado enla Cruz), Copper engraving by Nicolas de la Cruz Bagay, 1760</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from CCP</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1703 de Belen pasyon engraving",
+				"text_description": "<p>In the fifth edition (1760) of Gaspar Aquino de Belen&rsquo;s <em>pasyon</em>, Nicolas de la Cruz Bagay and Francisco Suarez engrave illustrations of Christ&rsquo;s life and passion.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1703,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Printmaking_2.jpg",
+				"shorten_media": "V_FAT_Printmaking_2",
+				"display_name": null,
+				"photo_id": 927,
+				"url": "1920",
+				"article_id": 1920,
+				"photo_name": "V_FAT_Printmaking_2",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1703 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 754,
+				"timeline_id": 1924,
+				"media_caption": "<p>Print by Francisco Rodriguez depicting the tortures of hell, Ang Infiernong Nabubucsan sa Tauong Christiano, 1713</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from National Library of the Philippines Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1713 Hell images ",
+				"text_description": "<p>The images of hell are engraved by Francisco Dominguez in the popular cathetical book <em>Ang Infiernong Nabubucsan sa Taong Cristiano at Nang Houag Masoc Doon</em>. (Print from National Library of the Philippines)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1713,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Book_Design_1.jpg",
+				"shorten_media": "V_FAT_Book_Design_1",
+				"display_name": null,
+				"photo_id": 754,
+				"url": "1924",
+				"article_id": 1924,
+				"photo_name": "V_FAT_Book_Design_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1713 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 870,
+				"timeline_id": 1931,
+				"media_caption": "<p>Felix Resurreccion Hidalgo, La Banca, 1876 Eleuterio M. Pascual Collection</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Kiko del Rosario</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1876 La Banca ",
+				"text_description": "<p><em>La Banca</em> by Felix Resurreccion Hidalgo (1855-1913) is chosen for the Philadelphia Universal Exposition. (Photo by Kiko del Rosario)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1876,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Painting_and_Related_Forms_6.jpg",
+				"shorten_media": "V_FAT_Painting_and_Related_Forms_6",
+				"display_name": null,
+				"photo_id": 870,
+				"url": "1931",
+				"article_id": 1931,
+				"photo_name": "V_FAT_Painting_and_Related_Forms_6",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1876 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1371,
+				"timeline_id": 1932,
+				"media_caption": "<p>Pan-ay Bell, 1878, Bronze</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Iannekleina</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1878 Pan-ay Bell ",
+				"text_description": "<p>The Pan-ay Bell is cast by Juan Reina in Pan-ay, Capiz. Commissioned by Fr Jose Beloso, the bell is reputed to be the largest in Asia. (Photo by Iannekleina)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1878,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Pan_ay%20Bell_1.jpg",
+				"shorten_media": "V_WORKS_Pan_ayBell_1",
+				"display_name": null,
+				"photo_id": 1371,
+				"url": "1932",
+				"article_id": 1932,
+				"photo_name": "V_WORKS_Pan_ayBell_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1878 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1076,
+				"timeline_id": 1933,
+				"media_caption": "<p>Felix Resurreccion Hidalgo, El Asesinato del Gobernador Bustamante y su Hijo, detail, late 19th century</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Kiko del Rosario</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1882-1896 El Asesinato",
+				"text_description": "<p><em>El Asesinato del Gobernador Fernando Bustamante Y Su Hijo</em>, painted in the late 19th century by Hidalgo, depicts an anti-clerical subject matter which echoes ilustrado discourse on church corruption and governance. (Photo by Kiko del Rosario)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1882,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_El_Asesinato_1.jpg",
+				"shorten_media": "V_WORKS_El_Asesinato_1",
+				"display_name": "1882-1896",
+				"photo_id": 1076,
+				"url": "1933",
+				"article_id": 1933,
+				"photo_name": "V_WORKS_El_Asesinato_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1882 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1177,
+				"timeline_id": 1935,
+				"media_caption": "<p>Las Virgenes Cristianas Expuestas Al Populacho, Felix Resurreccion Hidalgo, 1884</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Kiko del Rosario</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1884 Spoliarium ",
+				"text_description": "<p><em>Spoliarium</em> by Luna and Hidalgo&rsquo;s <em>Virgenes Christianas Expuestas al Populacho</em> (in photo) are interpreted as alluding to the oppression of the Philippine colony by Spain. (Photo by Kiko del Rosario)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1884,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Populacho_1.jpg",
+				"shorten_media": "V_WORKS_Populacho_1",
+				"display_name": null,
+				"photo_id": 1177,
+				"url": "1935",
+				"article_id": 1935,
+				"photo_name": "V_WORKS_Populacho_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1884 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1405,
+				"timeline_id": 1938,
+				"media_caption": "<p>Main altar of the San Ignacio Church, from 150: The Ateneo Way by Jose S. Arcilla, SJ, 1937</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from 150: The Ateneo Way by Jose S. Arcilla, SJ. Media Wise Communications / Muse Books, 2009.</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1882 Tampinco ",
+				"text_description": "<p>The work of Isabelo Tampinco in the San Ignacio Church, especially its interior decorations carved from 1882 to 1889, is hailed as a masterpiece in Philippine sculpture. (Photo from 150: <em>The Ateneo Way</em> by Jose S. Arcilla SJ, Media Wise Communications / Muse Books, 2009)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1882,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_San_Ignacio_Church_Interior_1.jpg",
+				"shorten_media": "V_WORKS_San_Ignacio_Church_Interior_1",
+				"display_name": null,
+				"photo_id": 1405,
+				"url": "1938",
+				"article_id": 1938,
+				"photo_name": "V_WORKS_San_Ignacio_Church_Interior_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1882 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1389,
+				"timeline_id": 1939,
+				"media_caption": "<p>Primeras Letras, Simon Flores, 1890</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from University of the Philippines Jorge B. Vargas Museum collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1890 Primeras Letras ",
+				"text_description": "<p>Primeras Letras by Simon Flores exemplifies genre paintings in the academic style. (Photo from University of the Philippines Jorge B. Vargas Museum collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1890,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Primeras_Letras_1.jpg",
+				"shorten_media": "V_WORKS_Primeras_Letras_1",
+				"display_name": null,
+				"photo_id": 1389,
+				"url": "1939",
+				"article_id": 1939,
+				"photo_name": "V_WORKS_Primeras_Letras_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1890 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1185,
+				"timeline_id": 1940,
+				"media_caption": "<p>Photograph of a Wedding, Felix Laureano, Recuerdos de Filipinas, 1895</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Digital Library @ Villanova University</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1895 Recuerdos de Filipinas ",
+				"text_description": "<p><em>Recuerdos de Filipinas</em> by Felix Laureano is the first collection of photographs by a Filipino. It features genre scenes and dress at the time. (Photo from Digital Library @ Villanova University)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1895,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Recuerdos_de_Filipinas_1.jpg",
+				"shorten_media": "V_WORKS_Recuerdos_de_Filipinas_1",
+				"display_name": null,
+				"photo_id": 1185,
+				"url": "1940",
+				"article_id": 1940,
+				"photo_name": "V_WORKS_Recuerdos_de_Filipinas_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1895 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1267,
+				"timeline_id": 1946,
+				"media_caption": "Harry Harnish, Captain Alex Davis’ Child and Nurse, Between 1898 and 1907. Photo no. 27 of the album “Poses and Exposures,”",
+				"show_caption": "FALSE",
+				"media_credit": "<p>The Philippines Through the Lens of an American Soldier: The Harry Harnish Photographic Collection.</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1899-1907 Harnish",
+				"text_description": "<p>American photographer Harry Harnish takes photos of locals from 1898 to 1907. Photo: &quot;Captain Alex Davis&rsquo; Child and Nurse&quot; by Harry Harnish</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1901,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Captain_1.jpg",
+				"shorten_media": "V_WORKS_Captain_1",
+				"display_name": "1899-1907",
+				"photo_id": 1267,
+				"url": "1946",
+				"article_id": 1946,
+				"photo_name": "V_WORKS_Captain_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1901 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 4236,
+				"timeline_id": 1947,
+				"media_caption": "<p>Bagobo community</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>The Philippines Past and Present by Dean Worcester. The MacMillan Company, 1914.</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1899-1907 Photo-ethnography",
+				"text_description": "<p>Photo-ethnography provides images of Filipinos as &ldquo;primitive&rdquo; under the auspices of Commissioner Dean Worcester from 1902 to 1907. Photo: Bagobo community (Photo from The Philippines Past and Present by Dean Worcester, The MacMillan Company, 1914)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1901,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/1/2/2332_History_3.jpg",
+				"shorten_media": "2332_History_3",
+				"display_name": "1899-1907",
+				"photo_id": 4236,
+				"url": "1947",
+				"article_id": 1947,
+				"photo_name": "2332_History_3",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1901 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 656,
+				"timeline_id": 1948,
+				"media_caption": "<p>Virgen sa Balintawak, ca 1900</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo courtesy of Nicanor G. Tiongson</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1902 Virgen Balintawak",
+				"text_description": "<p>In the spirit of Filipinization, western iconography is appropriated through the Virgen ng Balintawak, ca 1905, of the Aglipayan church. (Photo courtesy of Nicanor G. Tiongson)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1902,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Hispanic_1521_Onward_3.jpg",
+				"shorten_media": "V_HE_Hispanic_1521_Onward_3",
+				"display_name": null,
+				"photo_id": 656,
+				"url": "1948",
+				"article_id": 1948,
+				"photo_name": "V_HE_Hispanic_1521_Onward_3",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1902 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 4629,
+				"timeline_id": 1954,
+				"media_caption": "<p>Norberto Roldan, The Matriarch and The Wedding in Negros (diptych), 1989</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the artist</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2000 Green Papaya ",
+				"text_description": "<p>The Green Papaya Art Projects is founded by Norberto Roldan, Donna Miranda, Manny Chaves, and curator Bobi Valenzuela, as a project space envisioning experimentation in art in a non-commercial venture.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2000,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/1/2/2349_VisualArts_4.jpg",
+				"shorten_media": "2349_VisualArts_4",
+				"display_name": "2000",
+				"photo_id": 4629,
+				"url": "1954",
+				"article_id": 1954,
+				"photo_name": "2349_VisualArts_4",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2000 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1353,
+				"timeline_id": 1968,
+				"media_caption": "<p>EZ Izon, Military Rule Next?, 1972</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the Presidential Communications Development and Strategic Planning Office</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1972 Military Rule Next?",
+				"text_description": "<p>Jul 22: Philippine Free Press publishes the editorial cartoon &quot;Military Rule Next?&quot; by EZ Izon. (Photo from the Presidential Communications Development and Strategic Planning Office)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 7,
+				"start_day": 22,
+				"start_year": 1972,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Military_Rule_Next_1.jpg",
+				"shorten_media": "V_WORKS_Military_Rule_Next_1",
+				"display_name": null,
+				"photo_id": 1353,
+				"url": "1968",
+				"article_id": 1968,
+				"photo_name": "V_WORKS_Military_Rule_Next_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 7, "day": 22, "year": 1972 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1404,
+				"timeline_id": 1969,
+				"media_caption": "<p>San Clemente Festival/ The Fluvial Festival of Angono, Jose Blanco, 1984</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Lopez Museum and Library Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1973 Folk genre painting flourish",
+				"text_description": "<p>Folk genre paintings flourish in Angono, Tanay, and Binangonan, giving rise to painters such as Jose Blanco, Salvador Juban, Nemesio Miranda, and Vicente Reyes. (Photo from Lopez Museum and Library Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1973,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_San_Clemente_Festival_1.jpg",
+				"shorten_media": "V_WORKS_San_Clemente_Festival_1",
+				"display_name": "1973",
+				"photo_id": 1404,
+				"url": "1969",
+				"article_id": 1969,
+				"photo_name": "V_WORKS_San_Clemente_Festival_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1973 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1433,
+				"timeline_id": 1972,
+				"media_caption": "<p>Tinguians, Manuel Rodriguez Jr., 1978</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Marcelino Rodriguez</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1978 Tingguians, Rodriguez Jr.",
+				"text_description": "<p><em>Tingguians</em> by Manuel Rodriguez Jr explores tapestry work and printmaking. (Photo from Marcelino Rodriguez)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1978,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Tinguians_1.jpg",
+				"shorten_media": "V_WORKS_Tinguians_1",
+				"display_name": null,
+				"photo_id": 1433,
+				"url": "1972",
+				"article_id": 1972,
+				"photo_name": "V_WORKS_Tinguians_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1978 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 765,
+				"timeline_id": 1973,
+				"media_caption": "<p>Turn of the Century, Gilda Cordero-Fernando, Nik Ricio</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photos from GCF Books</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1978 Turn of the Century",
+				"text_description": "<p>The book <em>Turn of the Century</em> is published, edited by Gilda Cordero-Fernando and designed by Nik Ricio. (Photo from GCF Books)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1978,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Book_Design_12.jpg",
+				"shorten_media": "V_FAT_Book_Design_12",
+				"display_name": "1978",
+				"photo_id": 765,
+				"url": "1973",
+				"article_id": 1973,
+				"photo_name": "V_FAT_Book_Design_12",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1978 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 647,
+				"timeline_id": 1974,
+				"media_caption": "<p>Antipas Delotavo, Itak sa Puso ni Mang Juan, 1978</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the artist</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1978-86 Ang Itak sa Puso ni Mang Juan ",
+				"text_description": "<p><em>Ang Itak sa Puso ni Mang Juan</em> by Antipas Delotavo is painted to show the plight of Filipino workers oppressed by multinational companies.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1978,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Fourth_Republic_1972-86_19.jpg",
+				"shorten_media": "V_HE_Fourth_Republic_1972-86_19",
+				"display_name": "1978-86",
+				"photo_id": 647,
+				"url": "1974",
+				"article_id": 1974,
+				"photo_name": "V_HE_Fourth_Republic_1972-86_19",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1978 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 968,
+				"timeline_id": 1976,
+				"media_caption": "<p>Juan Luna, The Filipino as Painter, Santiago Albano Pilar</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo of book cover courtesy of Eugenio Lopez Foundation, Inc</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1980 Juan Luna: The Filipino as Painter ",
+				"text_description": "<p>Santiago Pilar writes <em>Juan Luna: The Filipino as Painter</em>, published by the Eugenio Lopez Foundation. (Photo from Eugenio Lopez Foundation, Inc)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1980,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/16/V_AOVA_Knowledge_5.jpg",
+				"shorten_media": "V_AOVA_Knowledge_5",
+				"display_name": "1980",
+				"photo_id": 968,
+				"url": "1976",
+				"article_id": 1976,
+				"photo_name": "V_AOVA_Knowledge_5",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1980 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1442,
+				"timeline_id": 1977,
+				"media_caption": "<p>Wood things, Junyee, 1981</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Kiko del Rosario</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1981 Wood Things ",
+				"text_description": "<p><em>Wood Things</em>by Junyee exemplifies installation art made of kapok or cotton pods, installed on the walls and floor of the CCP. (Photo by Kiko del Rosario) </p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1981,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Wood_Things_1.jpg",
+				"shorten_media": "V_WORKS_Wood_Things_1",
+				"display_name": null,
+				"photo_id": 1442,
+				"url": "1977",
+				"article_id": 1977,
+				"photo_name": "V_WORKS_Wood_Things_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1981 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1378,
+				"timeline_id": 1985,
+				"media_caption": "<p>Felix Resurreccion Hidalgo, Per Pacem et Libertatem, study</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<Photo from Eugenio Lopez Foundation collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1904 Per Pacem",
+				"text_description": "<p><em>Per Pacem et Libertatem</em> by Hidalgo is installed in a government building in Manila by December 1907. It is destroyed in 1945. (Photo from Eugenio Lopez Foundation collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1904,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Per_Pacem_1.jpg",
+				"shorten_media": "V_WORKS_Per_Pacem_1",
+				"display_name": "1904",
+				"photo_id": 1378,
+				"url": "1985",
+				"article_id": 1985,
+				"photo_name": "V_WORKS_Per_Pacem_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1904 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1248,
+				"timeline_id": 1989,
+				"media_caption": "<p>Ramon Martinez, Balintawak Monument, 1911</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Kiko del Rosario</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1905 Homenaje ",
+				"text_description": "<p><em>Homenaje del Pueblo Filipino a los Heroes del ’96</em> aka Cry of Balintawak by Ramon Martinez becomes the first concrete full-figure sculpture of a revolutionary figure, assumed to be the figure of Andres Bonifacio. The sculpture has been installed in UP Diliman since 1967. (Photo by Kiko del Rosario)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1905,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Balintawak_Monument_1.jpg",
+				"shorten_media": "V_WORKS_Balintawak_Monument_1",
+				"display_name": null,
+				"photo_id": 1248,
+				"url": "1989",
+				"article_id": 1989,
+				"photo_name": "V_WORKS_Balintawak_Monument_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1905 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 964,
+				"timeline_id": 1995,
+				"media_caption": "<p>The University of the Philippines College of Fine Arts first director, Fabian de la Rosa, seated, with eminent professors, left to right: Pablo Amorsolo, Irineo Miranda, Teodoro Buenaventura, Toribio Herrera, Ramon Peralta Sr, Vicente Rivera y Mir, Guillermo Tolentino, Fernando Amorsolo, and Ambrosio Morales</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from CCP</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1908 Fabian de la Rosa ",
+				"text_description": "<p>Fabian de la Rosa (in photo, seated) goes to Europe in 1908-1910 under a pensionado scholarship. He joins the faculty of UP School of Fine Arts and will later become its director (1925-35), after Rafael Enriquez.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1908,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/16/V_AOVA_Knowledge_1.jpg",
+				"shorten_media": "V_AOVA_Knowledge_1",
+				"display_name": null,
+				"photo_id": 964,
+				"url": "1995",
+				"article_id": 1995,
+				"photo_name": "V_AOVA_Knowledge_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1908 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1187,
+				"timeline_id": 2003,
+				"media_caption": "<p>Rizal Monument, Richard Kissling, 1913</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Kiko del Rosario</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1913 Rizal Monument",
+				"text_description": "<p>The <em>Rizal Monument</em> by Richard Kissling is installed at the Luneta Park in Manila. His design is replicated in reinforced concrete in the public plazas of towns and cities throughout the 1910s to the 1930s. (Photo by Kiko del Rosario).</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1913,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Rizal_National_Monument_1.jpg",
+				"shorten_media": "V_WORKS_Rizal_National_Monument_1",
+				"display_name": null,
+				"photo_id": 1187,
+				"url": "2003",
+				"article_id": 2003,
+				"photo_name": "V_WORKS_Rizal_National_Monument_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1913 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1301,
+				"timeline_id": 2005,
+				"media_caption": "<p>Planting Rice, Fernando Amorsolo, 1921</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Copyright owned by Fernando C. Amorsolo Art Foundation, Inc</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1921 Planting Rice ",
+				"text_description": "<p>Fabian de la Rosa and Fernando Amorsolo paint their own versions of <em>Planting Rice</em>, presenting an idealized view of peasant life. Landscape and genre paintings continue to be popular for the tourist market and art patrons. Photo: Fabian de la Rosa's <em>Planting Rice</em></p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1921,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Fernando%20Amorsolo_1.jpg",
+				"shorten_media": "V_WORKS_FernandoAmorsolo_1",
+				"display_name": null,
+				"photo_id": 1301,
+				"url": "2005",
+				"article_id": 2005,
+				"photo_name": "V_WORKS_FernandoAmorsolo_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1921 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1258,
+				"timeline_id": 2008,
+				"media_caption": "<p>Guillermo Tolentino, Bonifacio Monument, 1933. Bronze</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from CCP</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1931 Bonifacio Monument",
+				"text_description": "<p>Guillermo Tolentino creates the <em>Bonifacio Monument</em>, installed at Caloocan. It features a sculptural tableau of the events from the 1872 execution of the GomBurZa to the 1896 Katipunan Revolution, with Bonifacio at its head flanked by Emilio Jacinto and other revolutionaries.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1931,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Bonifacio_Monument_1.jpg",
+				"shorten_media": "V_WORKS_Bonifacio_Monument_1",
+				"display_name": null,
+				"photo_id": 1258,
+				"url": "2008",
+				"article_id": 2008,
+				"photo_name": "V_WORKS_Bonifacio_Monument_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1931 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 707,
+				"timeline_id": 2072,
+				"media_caption": "<p>Diosdado Lorenzo, Rape and Massacre in Ermita, 1947</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Kiko del Rosario</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1945-1947 Document the war ",
+				"text_description": "<p>Artists, liberated from the Japanese, paint artworks that document the war: <em>Doomed Family</em>, 1945, by Dominador Castañeda; <em>Capas</em>, 1948, by Demetrio Diego; <em>Rape and Massacre in Ermita</em> (in photo), <em>Atrocities in Paco</em>, and <em>Execution at the Cemetery</em> by Diosdado Lorenzo, all in 1947.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1945,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/14/V_HE_Second%20Republic_1942-45_5.jpg",
+				"shorten_media": "V_HE_SecondRepublic_1942-45_5",
+				"display_name": "1945-1947",
+				"photo_id": 707,
+				"url": "2072",
+				"article_id": 2072,
+				"photo_name": "V_HE_SecondRepublic_1942-45_5",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1945 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 731,
+				"timeline_id": 2073,
+				"media_caption": "<p>Pilipino Komiks, Kontra-Bida, 1955</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photos from the Dennis S. Villegas Collection, komiksph, and The Life and Art of Francisco Coching by Patrick Flores et al. Vibal Foundation, 2009</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1947 Ace Publications",
+				"text_description": "<p>Don Ramon Roces and Tony Velasquez organize Ace Publications which puts out <em>Pilipino Komiks</em>, 1947, <em>Tagalog Klasiks</em>, 1949; <em>Hiwaga Komiks</em>, 1950; and <em>Espesyal Komiks</em> and <em>Kenkoy Komiks</em>, 1952. These comic books flourish until the 1980s. Some stories from the komiks eventually are adopted into films.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1947,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/14/V_HE_Third_Republic_1946-72_24.jpg",
+				"shorten_media": "V_HE_Third_Republic_1946-72_24",
+				"display_name": null,
+				"photo_id": 731,
+				"url": "2073",
+				"article_id": 2073,
+				"photo_name": "V_HE_Third_Republic_1946-72_24",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1947 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1098,
+				"timeline_id": 2079,
+				"media_caption": "<p>Cesar Legaspi, Gadgets, 1947</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Lucila Salazar Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1938 The Gadgets",
+				"text_description": "<p>Cesar Legaspi paints The Gadgets, evoking human labor and its dehumanization in an industrial setting. (Photo from Lucila Salazar Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1948,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Gadgets_1.jpg",
+				"shorten_media": "V_WORKS_Gadgets_1",
+				"display_name": "1948",
+				"photo_id": 1098,
+				"url": "2079",
+				"article_id": 2079,
+				"photo_name": "V_WORKS_Gadgets_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1948 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1332,
+				"timeline_id": 2083,
+				"media_caption": "<p>Napoloen Abueva, Kaganapan, 1952</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Artist’s collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1952 Kaganapan",
+				"text_description": "<p><em>Kaganapan</em> by Napoleon Abueva wins the grand prize at the Art Association of the Philippines (AAP) annual competition and is considered a breakthrough in Philippine sculpture, as it veers away from the classical traditions and employs neorealism in its figuration.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1952,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Kaganapan_1.jpg",
+				"shorten_media": "V_WORKS_Kaganapan_1",
+				"display_name": "1952",
+				"photo_id": 1332,
+				"url": "2083",
+				"article_id": 2083,
+				"photo_name": "V_WORKS_Kaganapan_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1952 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1303,
+				"timeline_id": 2084,
+				"media_caption": "Galo Ocampo, Flagellantes, 1953",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Bangko Sentral ng Pilipinas Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1953 Filipino-themed surrealism",
+				"text_description": "<p>Modern artists explore rooted expression modes such as Filipino-themed surrealism, as in Galo Ocampo&rsquo;s <em>Flagellants</em> (Photo from Bangko Sentral ng Pilipinas Collection).</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1953,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Flagellantes_1.jpg",
+				"shorten_media": "V_WORKS_Flagellantes_1",
+				"display_name": null,
+				"photo_id": 1303,
+				"url": "2084",
+				"article_id": 2084,
+				"photo_name": "V_WORKS_Flagellantes_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1953 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1118,
+				"timeline_id": 2085,
+				"media_caption": "<p>Martino Abellana, Job Was Also Man, 1953</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Romulo Galicano Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1953 Job Was Also Man",
+				"text_description": "<p><em>Job Was Also Man</em> by Martino Abellana wins first prize in the conservative category at the 1953 semiannual competition of the Art Association of the Philippines (AAP). (Photo from Romulo Galicano Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1953,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Job_1.jpg",
+				"shorten_media": "V_WORKS_Job_1",
+				"display_name": "1953",
+				"photo_id": 1118,
+				"url": "2085",
+				"article_id": 2085,
+				"photo_name": "V_WORKS_Job_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1953 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1262,
+				"timeline_id": 2090,
+				"media_caption": "<p>BenCab, Brown Brothers’ Burden, 1972</p>",
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1960s Bencab's Larawan ",
+				"text_description": "<p>Benedicto Cabrera aka BenCab begins creating the Larawan and Sabel series, exploring the image of the marginalized people in Philippine society, and contrasting the past with the present.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1960,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Brown_Brothers_1.jpg",
+				"shorten_media": "V_WORKS_Brown_Brothers_1",
+				"display_name": "1960s",
+				"photo_id": 1262,
+				"url": "2090",
+				"article_id": 2090,
+				"photo_name": "V_WORKS_Brown_Brothers_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1960 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 889,
+				"timeline_id": 2091,
+				"media_caption": "<p>David Medalla in San Francisco, ca 1960s</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Planting Rice</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1960s Arts Laboratory group",
+				"text_description": "<p>Performance art is done by the Arts Laboratory group composed of David Medalla, Jun Terra, Lazaro Soriano, Marciano Galang, Alan Rivera, and Red Mansueto. The works are improvisational and participatory, and done unannounced in public places and open spaces.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1960,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Performance_Art_1.jpg",
+				"shorten_media": "V_FAT_Performance_Art_1",
+				"display_name": "1960s",
+				"photo_id": 889,
+				"url": "2091",
+				"article_id": 2091,
+				"photo_name": "V_FAT_Performance_Art_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1960 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 836,
+				"timeline_id": 2092,
+				"media_caption": "<p>Larry Alcala, Slice of Life, 1983, UP Diliman</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by John Paul Olivares</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1960s field of komiks",
+				"text_description": "<p>Larry Alcala, Mauro Malang Santos, Corky Trinidad, Nonoy Marcelo, and Danilo Dalena are the most active in the field of komiks, creating witty satire on the political and social conditions of the country.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1960,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Komiks_and_Editorial_Cartoon_5.jpg",
+				"shorten_media": "V_FAT_Komiks_and_Editorial_Cartoon_5",
+				"display_name": "1960s",
+				"photo_id": 836,
+				"url": "2092",
+				"article_id": 2092,
+				"photo_name": "V_FAT_Komiks_and_Editorial_Cartoon_5",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1960 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1302,
+				"timeline_id": 2095,
+				"media_caption": "<p>Carlos V. Francisco, Filipino Struggles Through History, detail, 1964</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Manila City Hall</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1964 Filipino Struggles Through History",
+				"text_description": "<p><em>Filipino Struggles Through History</em> by Carlos &ldquo;Botong&rdquo; Francisco is installed at the City of Manila Katipunan Hall, depicting the visual narrative of the history of Manila on all four walls. Photo: Detail of Filipino Struggles... (Manila City Hall)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1964,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Filipino_Struggles_1.jpg",
+				"shorten_media": "V_WORKS_Filipino_Struggles_1",
+				"display_name": null,
+				"photo_id": 1302,
+				"url": "2095",
+				"article_id": 2095,
+				"photo_name": "V_WORKS_Filipino_Struggles_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1964 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 708,
+				"timeline_id": 2096,
+				"media_caption": "<p>Napoloen Abueva, Allegorical Harpoon, 1964</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Cultural Center of the Philippines Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1964 Allegorical Harpoon",
+				"text_description": "<p><em>Allegorical Harpoon</em> by Napoleon Abueva, a modernist who challenged conventions in classical sculpture, is created and later acquired by the CCP.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1964,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Third_Republic_1946-72_1.jpg",
+				"shorten_media": "V_HE_Third_Republic_1946-72_1",
+				"display_name": "1964",
+				"photo_id": 708,
+				"url": "2096",
+				"article_id": 2096,
+				"photo_name": "V_HE_Third_Republic_1946-72_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1964 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1320,
+				"timeline_id": 2097,
+				"media_caption": "<p>J. Elizalde Navarro, Homage to Dodgie Laurel, 1966</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Ateneo Art Gallery Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1966 Homage to Dodgie Laurel",
+				"text_description": "<p><em>Homage to Dodgie Laurel</em> by J. Elizalde Navarro is an assemblage using found objects and metal parts. (Photo from Ateneo Art Gallery Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1966,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Homage_1.jpg",
+				"shorten_media": "V_WORKS_Homage_1",
+				"display_name": null,
+				"photo_id": 1320,
+				"url": "2097",
+				"article_id": 2097,
+				"photo_name": "V_WORKS_Homage_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1966 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1068,
+				"timeline_id": 2098,
+				"media_caption": "<p>Ang Kiukok, Crucifixion, 1968</p>",
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1968 Crucifixion",
+				"text_description": "<p><em>Crucifixion</em>, an expressionistic image of the tortured human condition, is painted by Ang Kiukok.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1968,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Crucifixion_1.jpg",
+				"shorten_media": "V_WORKS_Crucifixion_1",
+				"display_name": "1968",
+				"photo_id": 1068,
+				"url": "2098",
+				"article_id": 2098,
+				"photo_name": "V_WORKS_Crucifixion_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1968 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 630,
+				"timeline_id": 2100,
+				"media_caption": "<p>Marcos bust before1986</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo courtesy of Nicanor G. Tiongson</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1981 Marcos Monument created",
+				"text_description": "<p>The colossal Marcos Monument is created by the government in La Union, in the ancestral lands of the Ibaloi. It is damaged in 1989 by a blast reportedly done by the New People&rsquo;s Army. It is subsequently destroyed in 2002 by bomb blasts from suspected treasure hunters. (Photo courtesy of Nicanor G. Tiongson)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1981,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_Fourth_Republic_1972-86_2.jpg",
+				"shorten_media": "V_HE_Fourth_Republic_1972-86_2",
+				"display_name": "1981",
+				"photo_id": 630,
+				"url": "2100",
+				"article_id": 2100,
+				"photo_name": "V_HE_Fourth_Republic_1972-86_2",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1981 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1121,
+				"timeline_id": 2102,
+				"media_caption": "<p>Renato Habulan, Kagampan, 1983</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the artist</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1983 Protest art intensifies ",
+				"text_description": "<p>Protest art intensifies with paintings and murals exhibited at the first Makiisa Festival. Social realist paintings are done, like Renato Habulan&rsquo;s large-scale painting <em>Kagampan</em>, depicting the struggle of workers and peasants, Baens Santos&rsquo;s <em>Malumbay si Ina</em> (in photo), and Doloricon&rsquo;s <em>Hinagpis</em>.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1983,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Kagampan_1.jpg",
+				"shorten_media": "V_WORKS_Kagampan_1",
+				"display_name": "1983",
+				"photo_id": 1121,
+				"url": "2102",
+				"article_id": 2102,
+				"photo_name": "V_WORKS_Kagampan_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1983 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1317,
+				"timeline_id": 2103,
+				"media_caption": "<p>Edgar Talusan Fernandez, Hanap ay Laya, 1984</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Renato Santos Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1984 Protest art continues",
+				"text_description": "<p>Protest art continues with Pablo Baens Santos&rsquo;s <em>Alay sa Bagong Bayani</em> and Edgar Talusan Fernandez&rsquo;s <em>Hanap ay Laya</em>, both expressing the people&rsquo;s aspiration for freedom and sovereignty. The clenched fist motif becomes popular in symbolizing militancy and defiance, as in Al Manrique&rsquo;s <em>Hand Series</em>.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1984,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Hanap_ay_Laya_1.jpg",
+				"shorten_media": "V_WORKS_Hanap_ay_Laya_1",
+				"display_name": "1984",
+				"photo_id": 1317,
+				"url": "2103",
+				"article_id": 2103,
+				"photo_name": "V_WORKS_Hanap_ay_Laya_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1984 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1116,
+				"timeline_id": 2106,
+				"media_caption": "<p>Lazaro Soriano, Jak en Poy, 1987</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Ateneo Art Gallery Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1987 Jak en Poy",
+				"text_description": "<p><em>Jak en Poy</em>, a playful interpretation of the historic EDSA Revolt by Lazaro Soriano, is painted.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1987,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Jak%20en%20Poy_1.jpg",
+				"shorten_media": "V_WORKS_JakenPoy_1",
+				"display_name": "1987",
+				"photo_id": 1116,
+				"url": "2106",
+				"article_id": 2106,
+				"photo_name": "V_WORKS_JakenPoy_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1987 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1227,
+				"timeline_id": 2108,
+				"media_caption": "<p>Uma ti Biag/Archetype, A Cordillera Labyrinth, Roberto Villanueva, 1989</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Japan Foundation and Angel Velasco Shaw</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1989 Uma ti Biag",
+				"text_description": "<p>Roberto Villanueva installs the open-air labyrinth <em>Uma ti Biag</em> at the CCP grounds. (Photo from Japan Foundation and Angel Velasco Shaw) </p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1989,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Uma_ti_Biag_1.jpg",
+				"shorten_media": "V_WORKS_Uma_ti_Biag_1",
+				"display_name": "1989",
+				"photo_id": 1227,
+				"url": "2108",
+				"article_id": 2108,
+				"photo_name": "V_WORKS_Uma_ti_Biag_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1989 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 959,
+				"timeline_id": 2110,
+				"media_caption": "<p>H.R. Ocampo’s Circe, 1969</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Cultural Center of the Philippines Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1991 Ocampo, National Artist",
+				"text_description": "<p>H.R. Ocampo receives the National Artist award.&nbsp;</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1991,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/16/V_AOVA_Initiatives_and_Engagements_1.jpg",
+				"shorten_media": "V_AOVA_Initiatives_and_Engagements_1",
+				"display_name": "1991",
+				"photo_id": 959,
+				"url": "2110",
+				"article_id": 2110,
+				"photo_name": "V_AOVA_Initiatives_and_Engagements_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1991 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 910,
+				"timeline_id": 2111,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Nikki Books</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1991 Sinaunang Habi",
+				"text_description": "<p><em>Sinaunang Habi: Philippine Ancestral Weave</em> is authored by Marian Pastor Roces, with photography by Dick Baldovino and Wig Tysman. (Photo from Nikki Books)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1991,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Photography_5.jpg",
+				"shorten_media": "V_FAT_Photography_5",
+				"display_name": "1991",
+				"photo_id": 910,
+				"url": "2111",
+				"article_id": 2111,
+				"photo_name": "V_FAT_Photography_5",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1991 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 788,
+				"timeline_id": 2112,
+				"media_caption": "<p>UGATLahi Artist Collective, Manananggal, 2007</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the artist collective</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1992 UGATLahi",
+				"text_description": "<p>UGATLahi, a collective of progressive artists and activists, is founded. Photo: UGATLahi's <em>Manananggal</em>, 2007 (Photo from UGATLahi)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1992,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Effigies_2.jpg",
+				"shorten_media": "V_FAT_Effigies_2",
+				"display_name": "1992",
+				"photo_id": 788,
+				"url": "2112",
+				"article_id": 2112,
+				"photo_name": "V_FAT_Effigies_2",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1992 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 879,
+				"timeline_id": 2114,
+				"media_caption": "<p>Sanggawa Art Collective, Epilogo, 1998 Del Monte Collection</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from of Mark Justiniani and Joy Mallari</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1994, Sanggawa Art Collective",
+				"text_description": "<p>Sanggawa Art Collective (1994 -2000) is organized by Elmer Borlongan, Karen Flores, Mark Justiniani, Joy Mallari, and Federico Sievert. It aims to revitalize mural art through collective work. Photo: Sanggawa's <em>Epilogo</em>, 1998 (Photo from Mark Justiniani and Joy Mallari).</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1994,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Painting_and_Related_Forms_15.jpg",
+				"shorten_media": "V_FAT_Painting_and_Related_Forms_15",
+				"display_name": "1994",
+				"photo_id": 879,
+				"url": "2114",
+				"article_id": 2114,
+				"photo_name": "V_FAT_Painting_and_Related_Forms_15",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1994 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 975,
+				"timeline_id": 2115,
+				"media_caption": "<p>Felix Resurreccion Hidalgo and the Generation of 1872, Alfredo Roces</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Eugenio Lopez Foundation, Inc</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1998 Generation of 1872 ",
+				"text_description": "<p>Alfredo Roces publishes <em>Felix Resurrecion Hidalgo and the Generation of 1872</em>. (Photo from Eugenio Lopez Foundation, Inc).</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1998,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/16/V_AOVA_Knowledge_12.jpg",
+				"shorten_media": "V_AOVA_Knowledge_12",
+				"display_name": null,
+				"photo_id": 975,
+				"url": "2115",
+				"article_id": 2115,
+				"photo_name": "V_AOVA_Knowledge_12",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1998 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 624,
+				"timeline_id": 2116,
+				"media_caption": "<p>Antipas Delotavo, Dantaon, 1998</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the artist</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1998 Dantaon",
+				"text_description": "<p>Antipas Delotavo paints <em>Dantaon</em>, which offers a critical view of the narrative of Philippine history.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1998,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_%20Fifth%20Republic%20_1986_Onward_17.jpg",
+				"shorten_media": "V_HE_FifthRepublic_1986_Onward_17",
+				"display_name": "1998",
+				"photo_id": 624,
+				"url": "2116",
+				"article_id": 2116,
+				"photo_name": "V_HE_FifthRepublic_1986_Onward_17",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1998 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 971,
+				"timeline_id": 2117,
+				"media_caption": "<p>Painting History, revisions in philippine colonial art, Patrick D. Flores</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from NCCA</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1998 Painting History: Revisions in Philippine Colonial Art",
+				"text_description": "<p><em>Painting History: Revisions in Philippine Colonial Art</em> by Patrick Flores is published, offering a postcolonial perspective in reading Philippine art. (Photo from NCCA)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1998,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/16/V_AOVA_Knowledge_8.jpg",
+				"shorten_media": "V_AOVA_Knowledge_8",
+				"display_name": "1998",
+				"photo_id": 971,
+				"url": "2117",
+				"article_id": 2117,
+				"photo_name": "V_AOVA_Knowledge_8",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1998 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 954,
+				"timeline_id": 2118,
+				"media_caption": "<p>Bagobo inabal weaver, Salinta Monon, Gawad sa Manililikha ng Bayan awardee, 1998</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Renato S. Rastrollo, NCCA</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1998 Monon and Dulay, Gamaba",
+				"text_description": "<p>Salinta Monon (in photo) and Lang Dulay receive the Gawad Manlilikha ng Bayan award for Bagobo textile weaving and Tboli t’nalak weaving, respectively. (Photo by Renato S. Rastrollo, NCCA)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1998,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/15/V_FAT_Textile_Weaving_7.jpg",
+				"shorten_media": "V_FAT_Textile_Weaving_7",
+				"display_name": "1998",
+				"photo_id": 954,
+				"url": "2118",
+				"article_id": 2118,
+				"photo_name": "V_FAT_Textile_Weaving_7",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1998 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 972,
+				"timeline_id": 2121,
+				"media_caption": "<p>Protest/Revolutionary Art in the Philippine 1970-1990, Alice G. Guillermo</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from UP Press</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2001 Protest: Revolutionary Art in the Philippines",
+				"text_description": "<p>Alice Guillermo writes <em>Protest: Revolutionary Art in the Philippines, 1970-1990</em>, an important contribution in establishing the history of the art of the protest movement in the Philippines. (Photo from UP Press)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2001,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/16/V_AOVA_Knowledge_9.jpg",
+				"shorten_media": "V_AOVA_Knowledge_9",
+				"display_name": "2001",
+				"photo_id": 972,
+				"url": "2121",
+				"article_id": 2121,
+				"photo_name": "V_AOVA_Knowledge_9",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2001 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1019,
+				"timeline_id": 2123,
+				"media_caption": "<p>Neo-Angono Art Collective, Sangandaan ng Kasaysayan ng Malayang Pamamahayag sa Pilipinas, 2007, original mural, top, and altered portions</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the artist collective</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2004 Neo-Angono Artists Collective",
+				"text_description": "<p>The Neo-Angono Artists Collective is founded in Rizal province with members who are visual artists, writers, musicians, theater workers, filmmakers, critics, and researchers. They organize the Neo-Angono Public Art Festival annually which features installation pieces and performance art.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2004,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/16/V_AOVA_Modes_of_Validation_19.jpg",
+				"shorten_media": "V_AOVA_Modes_of_Validation_19",
+				"display_name": "2004",
+				"photo_id": 1019,
+				"url": "2123",
+				"article_id": 2123,
+				"photo_name": "V_AOVA_Modes_of_Validation_19",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2004 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1153,
+				"timeline_id": 2125,
+				"media_caption": "<p>Poklong Anading, Ocular, 2009</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the artist</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2009 Ocular",
+				"text_description": "<p>The video installation <em>Ocular</em> by Poklong Anading (1975) is exhibited in Some Rooms held at Osage Gallery. It explores the condition of migrant workers in Hong Kong. The video installation Ocular by Poklong Anading is exhibited in Some Rooms held at Osage Gallery. It explores the condition of migrant workers in Hong Kong. (Photo from the artist)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2009,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Ocular_1.jpg",
+				"shorten_media": "V_WORKS_Ocular_1",
+				"display_name": "2009",
+				"photo_id": 1153,
+				"url": "2125",
+				"article_id": 2125,
+				"photo_name": "V_WORKS_Ocular_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2009 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 598,
+				"timeline_id": 2129,
+				"media_caption": "<p>Vicente Alvarez Dizon, After the Day’s Toil, 1938</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Josie Dizon Henson</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1936 After a Day's Toil",
+				"text_description": "<p><em>After a Day&rsquo;s Toil</em> by Vicente Alvarez Dizon wins the top prize in the Golden Gate International Exposition, California in 1939. It wins over 77 other artworks, including that of Salvador Dali. (Photo from Josie Dizon Henson)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1936,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/14/V_HE_American_1900_Onward_13.jpg",
+				"shorten_media": "V_HE_American_1900_Onward_13",
+				"display_name": "1936",
+				"photo_id": 598,
+				"url": "2129",
+				"article_id": 2129,
+				"photo_name": "V_HE_American_1900_Onward_13",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1936 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1263,
+				"timeline_id": 2131,
+				"media_caption": "<p>Galo Ocampo, Brown Madonna, 1938</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from University of Santo Tomas Museum Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1938 Brown Madonna",
+				"text_description": "<p><em>Brown Madonna</em> by Galo Ocampo indigenizes the theme of Madonna and Child. (University of Santo Tomas Museum Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1938,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Brown_Madonna_1.jpg",
+				"shorten_media": "V_WORKS_Brown_Madonna_1",
+				"display_name": "1938",
+				"photo_id": 1263,
+				"url": "2131",
+				"article_id": 2131,
+				"photo_name": "V_WORKS_Brown_Madonna_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1938 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 4020,
+				"timeline_id": 2144,
+				"media_caption": "<p>El Renacimiento, a politically oriented periodical</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Biblioteca Nacional de Espa&ntilde;a</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1904-1907 Weekly publications",
+				"text_description": "<p>Weekly publications of <em>Lipang Kalabaw, Philippines Free Press</em>, and <em>El Renacimiento</em>, or dailies like <em>The Independent</em>, feature illustration work for editorial cartoons and artworks by Filipino artists. (Photo from Biblioteca Nacional de Espa&ntilde;a) </p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1904,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/9/74/L_AOL_Literary_4.jpg",
+				"shorten_media": "L_AOL_Literary_4",
+				"display_name": "1904-1907",
+				"photo_id": 4020,
+				"url": "2144",
+				"article_id": 2144,
+				"photo_name": "L_AOL_Literary_4",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1904 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 3815,
+				"timeline_id": 2147,
+				"media_caption": "<p>Album ng Kabalbalan ni Kenkoy, Tony Velasquez, Pre-World War II Kenkoy comic strip published in Liwayway</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Ateneo de Manila University Rizal Library</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1929 Velasquez and Ramos, Kenkoy",
+				"text_description": "<p>Antonio S. Velasquez and Romualdo Ramos publish the first issue of <em>Album ng Mga Kabalbalan ni Kenkoy</em> in <em>Liwayway</em> magazine. (Photo from Ateneo de Manila University Rizal Library)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1929,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/9/73/L_FAT_Komiks_1.jpg",
+				"shorten_media": "L_FAT_Komiks_1",
+				"display_name": null,
+				"photo_id": 3815,
+				"url": "2147",
+				"article_id": 2147,
+				"photo_name": "L_FAT_Komiks_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1929 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 3920,
+				"timeline_id": 2150,
+				"media_caption": "<p>Ulos, 1972/1973, Anthologies of socially oriented stories</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Nicanor G. Tiongson Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1972 Ulos begins ",
+				"text_description": "<p>The underground cultural magazine, <em>Ulos</em>, begins publication, and well-known social realists serve as illustrators. (Photo from Nicanor G. Tiongson Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1972,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/9/73/L_FAT_Short_Story_7.jpg",
+				"shorten_media": "L_FAT_Short_Story_7",
+				"display_name": "1972",
+				"photo_id": 3920,
+				"url": "2150",
+				"article_id": 2150,
+				"photo_name": "L_FAT_Short_Story_7",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1972 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1145,
+				"timeline_id": 3087,
+				"media_caption": "<p>Nicolas de la Cruz Bagay and Francisco Suarez, Murillo Velarde Map of 1734, CARTA HYDROGRAPHICA Y CHOROGRAPHICA DE LAS YSLAS FILIPINAS</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Library of Congress</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1734 Hydrographica",
+				"text_description": "<p><em>Carta hydrographica y chorographica de las Yslas Filipinas</em>, drawn by Fr Pedro Murillo Velarde, is printed, using four copper plates. Nicolas Dela Cruz Bagay and Francisco Suarez use the technique of copper engraving for the Map of 1734 and 1744 and their marginal vignettes. (Photo from Library of Congress)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1734,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Murillo%20Velarde%20Map%20of%201734_1.jpg",
+				"shorten_media": "V_WORKS_MurilloVelardeMapof1734_1",
+				"display_name": null,
+				"photo_id": 1145,
+				"url": "3087",
+				"article_id": 3087,
+				"photo_name": "V_WORKS_MurilloVelardeMapof1734_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1734 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1422,
+				"timeline_id": 3119,
+				"media_caption": "<p>Roberto Feleo, Tau-tao</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Galeri Nasional Indonesia</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1997 Tau-Tao",
+				"text_description": "<p>Roberto Feleo creates the installation work <em>Tau-Tao</em>, using the traditional <em>pinalakpak</em> process in creating figures based on Bagobo mythology. (Photo from Galeri Nasional Indonesia) </p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1997,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Tau_tao_1.jpg",
+				"shorten_media": "V_WORKS_Tau_tao_1",
+				"display_name": "1997",
+				"photo_id": 1422,
+				"url": "3119",
+				"article_id": 3119,
+				"photo_name": "V_WORKS_Tau_tao_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1997 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1408,
+				"timeline_id": 3120,
+				"media_caption": "<p>Judy Freya Sibayan, Scapular Gallery</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the artist</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1997 Scapular Gallery Nomad",
+				"text_description": "<p>Judy Freya Sibayan starts the performance <em>Scapular Gallery Nomad</em>, a concept-based work performed anywhere and anytime, as a project of institutional critique. (Photo from the artist).</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1997,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Scapular_1.jpg",
+				"shorten_media": "V_WORKS_Scapular_1",
+				"display_name": "1997",
+				"photo_id": 1408,
+				"url": "3120",
+				"article_id": 3120,
+				"photo_name": "V_WORKS_Scapular_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1997 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1296,
+				"timeline_id": 3121,
+				"media_caption": "<p>UGATLahi Artist Collective, Erapzilla</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from UGATLahi</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2000 Erapzilla",
+				"text_description": "<p>Nov 30: The effigy Erapzilla by UGATLahi is used in a protest rally and the Welgang Bayan organized by the Erap Resign Movement and Bagong Alyansang Makabayan. (Photo from UGATLahi)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 11,
+				"start_day": 30,
+				"start_year": 2000,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Erapzilla_1.jpg",
+				"shorten_media": "V_WORKS_Erapzilla_1",
+				"display_name": null,
+				"photo_id": 1296,
+				"url": "3121",
+				"article_id": 3121,
+				"photo_name": "V_WORKS_Erapzilla_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 11, "day": 30, "year": 2000 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1214,
+				"timeline_id": 3122,
+				"media_caption": "<p>Kublai Ponce Millan, The Durian</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the artist</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2003 The Durian",
+				"text_description": "<p>Kublai Milan creates <em>The Durian</em>, a monumental sculpture done in concrete, for the Davao International Airport. (Photo from the artist)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2003,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_The_Durian_1.jpg",
+				"shorten_media": "V_WORKS_The_Durian_1",
+				"display_name": "2003",
+				"photo_id": 1214,
+				"url": "3122",
+				"article_id": 3122,
+				"photo_name": "V_WORKS_The_Durian_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2003 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1188,
+				"timeline_id": 3123,
+				"media_caption": "<p>Tad Ermitaño, Robot Gamelan Quartet</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Joel Ong</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2008 Robot Gamelan Quartet",
+				"text_description": "<p>Robot Gamelan Quartet (in photo) by Tad Ermita&ntildeo is included in the exhibition of the 2008 International Symposium on Electronic Art (ISEAS2008) and exhibited in the National Museum of Singapore. (Photo by Joel Ong)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2008,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Robot_Gamelan_Quartet_1.jpg",
+				"shorten_media": "V_WORKS_Robot_Gamelan_Quartet_1",
+				"display_name": null,
+				"photo_id": 1188,
+				"url": "3123",
+				"article_id": 3123,
+				"photo_name": "V_WORKS_Robot_Gamelan_Quartet_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2008 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 590,
+				"timeline_id": 3125,
+				"media_caption": "<p>Filipinos Ilustres, lithographic print, Jorge Pineda, based on drawing by Guillermo Tolentino, 1911</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<Photo from Nicanor G. Tiongson Collection</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1912 Filipino Ilustres",
+				"text_description": "<p><em>Filipinos Ilustres</em> by Guillermo Tolentino, a fictive group portrait of the heroes and martyrs of the revolution, is drawn. This is later translated into a lithograph by Jorge Pineda and printed by Carmelo and Bauermann. (Photo from Nicanor G. Tiongson Collection)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1912,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/14/V_HE_American_1900_Onward_5.jpg",
+				"shorten_media": "V_HE_American_1900_Onward_5",
+				"display_name": null,
+				"photo_id": 590,
+				"url": "3125",
+				"article_id": 3125,
+				"photo_name": "V_HE_American_1900_Onward_5",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1912 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1361,
+				"timeline_id": 3126,
+				"media_caption": "<p>Guillermo Tolentino, Oblation, 1935</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Jefferson Villacruz</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1935 Oblation",
+				"text_description": "<p>Guillermo Tolentino makes the <em>Oblation</em>, which becomes the symbol of the University of the Philippines. (Photo from Jefferson Villacruz)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1935,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Oblation_1.jpg",
+				"shorten_media": "V_WORKS_Oblation_1",
+				"display_name": null,
+				"photo_id": 1361,
+				"url": "3126",
+				"article_id": 3126,
+				"photo_name": "V_WORKS_Oblation_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1935 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1288,
+				"timeline_id": 3127,
+				"media_caption": "<p>Francisco Coching, El Indio, 1952</p>",
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1952 El Indio",
+				"text_description": "<p><em>El Indio</em> by Francisco Coching, a komiks story featuring a salakot-wearing hero, is published in Pilipino Komiks.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1952,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_El_Indio_1.jpg",
+				"shorten_media": "V_WORKS_El_Indio_1",
+				"display_name": null,
+				"photo_id": 1288,
+				"url": "3127",
+				"article_id": 3127,
+				"photo_name": "V_WORKS_El_Indio_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1952 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1054,
+				"timeline_id": 3129,
+				"media_caption": "<p>David Medalla, Cloud Canyons No. 2</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from University of Washington Department of Architecture</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1964 Cloud Canyons ",
+				"text_description": "<p>David Medalla&rsquo;s <em>Cloud Canyons No. 2</em> aka <em>Bubble Machines</em>, a mixed media work which exemplifies avant-garde art, is presented in England. (Photo from University of Washington Department of Architecture)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1964,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Bubble_Machines_1.jpg",
+				"shorten_media": "V_WORKS_Bubble_Machines_1",
+				"display_name": "1964",
+				"photo_id": 1054,
+				"url": "3129",
+				"article_id": 3129,
+				"photo_name": "V_WORKS_Bubble_Machines_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1964 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1115,
+				"timeline_id": 3130,
+				"media_caption": "<p>Danilo Dalena, Tres-Seis Dejado, from the Jai-alai series</p>",
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1974 Jai Alai series",
+				"text_description": "<p>Danny Dalena starts his <em>Jai Alai</em> series, which he explores until 1990. The ball game with the aspect of betting is used as metaphor for the human condition in time of crisis in the Philippines.</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1974,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Jai_Alai_1.jpg",
+				"shorten_media": "V_WORKS_Jai_Alai_1",
+				"display_name": "1974",
+				"photo_id": 1115,
+				"url": "3130",
+				"article_id": 3130,
+				"photo_name": "V_WORKS_Jai_Alai_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1974 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1230,
+				"timeline_id": 3131,
+				"media_caption": "<p>Willie Vicoy, Vietnam War</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo courtesy of Getty Images</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1975 Vietnam War",
+				"text_description": "<p>Vietnam War, a photograph by Willie Vicoy, becomes an iconic image of that war, after its publication in <em>Newsweek Magazine</em> and <em>Time Magazine</em>. (Photo courtesy of Getty Images)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1975,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Vietnam_War_1.jpg",
+				"shorten_media": "V_WORKS_Vietnam_War_1",
+				"display_name": null,
+				"photo_id": 1230,
+				"url": "3131",
+				"article_id": 3131,
+				"photo_name": "V_WORKS_Vietnam_War_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1975 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1186,
+				"timeline_id": 3132,
+				"media_caption": "<p>Carlos Villa, Ritual</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Tymar Productions</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1980 Villa's Ritual",
+				"text_description": "<p>Carlos Villa does performance art in <em>Ritual</em>, exploring issues of race and multi-culturalism among the migrants in America. (Photo from Tymar Productions)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1980,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Ritual_1.jpg",
+				"shorten_media": "V_WORKS_Ritual_1",
+				"display_name": null,
+				"photo_id": 1186,
+				"url": "3132",
+				"article_id": 3132,
+				"photo_name": "V_WORKS_Ritual_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1980 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1087,
+				"timeline_id": 3133,
+				"media_caption": "<p>Jose Tence Ruiz, Erding Erdrayb at Ang Kanyang Palasyong Agaw-Tanaw</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the artist</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1980 Erding Erdrayb",
+				"text_description": "<p><em>Erding Erdrayb at ang Kanyang Palasyong Agaw-Tanaw</em> is an assemblage created by Jose Tence Ruiz, inspired by the survivalist way of life of a jeepney driver. (Photo from the artist)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1980,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_ErdingErdrayb_1.jpg",
+				"shorten_media": "V_WORKS_ErdingErdrayb_1",
+				"display_name": "1980",
+				"photo_id": 1087,
+				"url": "3133",
+				"article_id": 3133,
+				"photo_name": "V_WORKS_ErdingErdrayb_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1980 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1119,
+				"timeline_id": 3134,
+				"media_caption": "<p>Kim Komenich, Joel Abong</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo courtesy of the Bancroft Library,  University of California, Berkeley</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1985 Kim Komenich",
+				"text_description": "<p>Joel Abong photograph by Kim Komenich is circulated internationally, drawing attention to the plight of the sugar workers in Negros. (Photo from The Regents of the University of California, The Bancroft Library, University of California, Berkeley)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1985,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://info-aid.net/dev-epa/multimedia/photo/3/82/V_WORKS_Joel_Abong_1.jpg",
+				"shorten_media": "V_WORKS_Joel_Abong_1",
+				"display_name": null,
+				"photo_id": 1119,
+				"url": "3134",
+				"article_id": 3134,
+				"photo_name": "V_WORKS_Joel_Abong_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1985 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1345,
+				"timeline_id": 3424,
+				"media_caption": "<p>Vicente Manansala, Madonna of the Slums</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo courtesy of Ronna Manansala</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1950 Madonna of the Slums",
+				"text_description": "<p><em>Madonna of the Slums</em> by Vicente Manansala, a key modernist painting that appropriates cubism to depict the poverty of the slum areas which arose after World War II, is painted. (Photo courtesy of Ronna Manansala)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1950,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Madonna_1.jpg",
+				"shorten_media": "V_WORKS_Madonna_1",
+				"display_name": "1950",
+				"photo_id": 1345,
+				"url": "3424",
+				"article_id": 3424,
+				"photo_name": "V_WORKS_Madonna_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1950 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1351,
+				"timeline_id": 3448,
+				"media_caption": "<p>Imelda Cajipe-Endaya, Mga Ninuno VIII, 1979</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo by Kiko del Rosario</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1976 Mga Ninuno series",
+				"text_description": "<p>Imelda Cajipe-Endaya starts the <em>Mga Ninuno</em> series, 1976-1979. The prints explore images from The Boxer Codex, 19th-century engravings and novenas, and Damian Domingo's albums, as commentary on Philippine society. Photo: <em>Mga Ninuno VIII</em>, 1979 (Photo by Kiko del Rosario)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1975,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo/3/82/V_WORKS_Mga_Ninuno_1.jpg",
+				"shorten_media": "V_WORKS_Mga_Ninuno_1",
+				"display_name": "1976",
+				"photo_id": 1351,
+				"url": "3448",
+				"article_id": 3448,
+				"photo_name": "V_WORKS_Mga_Ninuno_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1975 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1431,
+				"timeline_id": 3469,
+				"media_caption": "<p>Julie Lluch, Thinking Nude</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from Singapore National Heritage Board</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 1987 Thinking Nude",
+				"text_description": "<p><em>Thinking Nude</em>, a terra-cotta sculpture by Julie Lluch, explores a feminist trajectory in her art practice. (Photo from Singapore National Heritage Board)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1987,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo_old/3/82/V_WORKS_Thinking_Nude_1.jpg",
+				"shorten_media": "V_WORKS_Thinking_Nude_1",
+				"display_name": "1987",
+				"photo_id": 1431,
+				"url": "3469",
+				"article_id": 3469,
+				"photo_name": "V_WORKS_Thinking_Nude_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1987 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1348,
+				"timeline_id": 3494,
+				"media_caption": "<p>Alfredo Esquillo Jr, MamaKinley, 2003</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from the artist</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2001 Mamakinley",
+				"text_description": "<p>Alfredo Esquillo paints <em>Mamakinley</em> as a critique of Philippine-US relations and is lauded at the Whitney Museum of American Art’s 2003 exhibition <em>The American Effect: Global Perspectives on the United States 1990-2003</em>. (Photo from the artist)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2001,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo_old/3/82/V_WORKS_MamaKinley_1.jpg",
+				"shorten_media": "V_WORKS_MamaKinley_1",
+				"display_name": "2001",
+				"photo_id": 1348,
+				"url": "3494",
+				"article_id": 3494,
+				"photo_name": "V_WORKS_MamaKinley_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2001 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"id": 1391,
+				"timeline_id": 3499,
+				"media_caption": "<p>Project M201: In God We Trust, Alfredo Juan, Isabel Aquilizan, 2003</p>",
+				"show_caption": "FALSE",
+				"media_credit": "<p>Photo from The Drawing Room</p>",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "VA 2003 Project M201",
+				"text_description": "<p><em>Project M201: In God We Trust</em> by Alfredo Juan and Isabel Aquilizan is exhibited as part of the 50th Venice Biennale, which offers a rethinking of the jeepney as representation of Filipino culture. (Photo from The Drawing Room)</p>",
+				"category": "VISUAL ARTS",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2003,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "https://dev-epa.info-aid.net/multimedia/photo_old/3/82/V_WORKS_Project%20_M201_1.jpg",
+				"shorten_media": "V_WORKS_Project_M201_1",
+				"display_name": "2003",
+				"photo_id": 1391,
+				"url": "3499",
+				"article_id": 3499,
+				"photo_name": "V_WORKS_Project_M201_1",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2003 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			}
+		]
+	}
+]

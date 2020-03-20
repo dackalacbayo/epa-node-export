@@ -1,0 +1,11 @@
+module.exports = {
+	THEATER: 7,
+	FILM: 2,
+	'VISUAL ARTS': 3,
+	'BROADCAST ARTS': 4,
+	MUSIC: 5,
+	LITERATURE: 6,
+	DANCE: 1,
+	ARCHITECTURE: 8,
+	HISTORICAL: 9,
+};

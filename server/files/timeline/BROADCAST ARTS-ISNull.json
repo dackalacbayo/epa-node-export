@@ -1,0 +1,6711 @@
+[
+	{
+		"timeline_id": 1749,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1942 Broadcast radio sets",
+		"text_description": "<p>KZRH announces that radio sets must be registered with the Customs office. Defiance of the order is punishable by torture or death.</p>",
+		"category": 4,
+		"start_month": 8,
+		"start_day": 13,
+		"start_year": 1942,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1749",
+		"article_id": 1749,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 8, "day": 13, "year": 1942 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1818,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1942 Broadcast stage shows",
+		"text_description": "<p>In the absence of prewar commercial radio and film, talents join stage shows directed by notable film directors including Lamberto Avellana, Gerardo de Leon, and Manuel Conde. Stage shows are <em>bodabil</em> with a play at the end.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1942,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1818",
+		"article_id": 1818,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1942 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3935,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1942 Broadcast Jai-Alai",
+		"text_description": "<p>The Japanese find radio equipment in the Jai-Alai building and put KZRH back on the air.</p>",
+		"category": 4,
+		"start_month": 1,
+		"start_day": 14,
+		"start_year": 1942,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3935",
+		"article_id": 3935,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 1, "day": 14, "year": 1942 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4019,
+		"media_caption": "<p>American and Filipino troops surrendering at Bataan, 9 Apr 1942</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from United States National Parks Service</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1942 Broadcast Bataan Has Fallen",
+		"text_description": "<p>On <em>Voice of Freedom</em>, Norman Reyes reads the historic announcement “Bataan Has Fallen,” written by Salvador P Lopez, and translated and read in Tagalog by Francisco Isidoro. Photo: American and Filipino troops surrendering at Bataan, 9 Apr 1942 (United States National Parks Service)</p>",
+		"category": 4,
+		"start_month": 4,
+		"start_day": 9,
+		"start_year": 1942,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4019",
+		"article_id": 4019,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 4, "day": 9, "year": 1942 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4020,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1942 Broadcast Voice of Juan de la Cruz",
+		"text_description": "<p><em>Voice of Freedom</em> ceases broadcast. <em>Voice of Juan de la Cruz</em> goes on the air. KZRC ceases broadcast.</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 0,
+		"start_year": 1942,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4020",
+		"article_id": 4020,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 0, "year": 1942 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4022,
+		"media_caption": "<p>Japanese propaganda letters</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p> Photo from U.S. Army Center of Military History</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1942 Broadcast Japan propaganda",
+		"text_description": "<p>The Japanese propaganda corps, the Hodobu, strictly monitors and controls radio, stage shows, printed media, and film. Photo: Japanese propaganda letters (U.S. Army Center of Military History)</p>",
+		"category": 4,
+		"start_month": 8,
+		"start_day": 0,
+		"start_year": 1942,
+		"end_month": 0,
+		"end_day": 8,
+		"end_year": 8,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4022",
+		"article_id": 4022,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 8, "day": 0, "year": 1942 }
+			},
+			{ "type": "end_date", "value": { "month": 0, "day": 8, "year": 8 } }
+		]
+	},
+	{
+		"timeline_id": 4024,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1942 Broadcast Voice ceases",
+		"text_description": "<p><em>Voice of Juan de la Cruz</em> ceases broadcast with the capture of its broadcasters.</p>",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 19,
+		"start_year": 1942,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4024",
+		"article_id": 4024,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 19, "year": 1942 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1747,
+		"media_caption": "<p>“Reconditioning” or reconfiguration of radio sets, ca 1943</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from US National Archives and Records Administration</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1943 Broadcast reconditioning",
+		"text_description": "<p>Jan 6: The Japanese order the “reconditioning” of shortwave radio receivers to receive only authorized broadcasts. (Photo from US National Archives and Records Administration)</p>",
+		"category": 4,
+		"start_month": 1,
+		"start_day": 6,
+		"start_year": 1943,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1747",
+		"article_id": 1747,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 1, "day": 6, "year": 1943 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4025,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1943 Broadcast Phil. Symphony Orchestra",
+		"text_description": "<p>The Philippine Symphony Orchestra is formed and performs classical music over KZRH.</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 0,
+		"start_year": 1943,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4025",
+		"article_id": 4025,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 0, "year": 1943 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4026,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1943 Broadcast PIAM",
+		"text_description": "<p>Declaring “independence” for the Philippines, the Japanese change the call letters of KZRH to PIAM.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 14,
+		"start_year": 1943,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4026",
+		"article_id": 4026,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 14, "year": 1943 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1124,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1944 Broadcast WVLC",
+		"text_description": "<p>Upon Gen Douglas MacArthur’s landing, <em>Voice of Freedom</em> operates under the call letters WVLC from Leyte.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 20,
+		"start_year": 1944,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1124",
+		"article_id": 1124,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 20, "year": 1944 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4027,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1944 Broadcast BRMP",
+		"text_description": "<p>The Japanese re-constitute the Board of Review for Moving Pictures (BRMP).</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1944,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4027",
+		"article_id": 4027,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1944 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4029,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1944 Broadcast PIAM ceases",
+		"text_description": "<p>PIAM ceases broadcast.</p>",
+		"category": 4,
+		"start_month": 12,
+		"start_day": 30,
+		"start_year": 1944,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4029",
+		"article_id": 4029,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 12, "day": 30, "year": 1944 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4030,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1945 Broadcast KZFM",
+		"text_description": "<p>Several mobile army stations are sent to Japan while the remaining stations are integrated into KZFM in Manila.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1945,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4030",
+		"article_id": 4030,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1945 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4034,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1946 Broadcast PBC",
+		"text_description": "<p>KZPI goes on test broadcast under the Philippine Broadcasting Corporation.</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 1,
+		"start_year": 1946,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4034",
+		"article_id": 4034,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 1, "year": 1946 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4036,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1946 Broadcast KZFM turnover",
+		"text_description": "<p>The US government turns over KZFM to the Philippine government, under the office of Vice Pres. and Foreign Affairs Secretary Elpidio Quirino.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 20,
+		"start_year": 1946,
+		"end_month": 20,
+		"end_day": 10,
+		"end_year": 10,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4036",
+		"article_id": 4036,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 20, "year": 1946 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 20, "day": 10, "year": 10 }
+			}
+		]
+	},
+	{
+		"timeline_id": 1757,
+		"media_caption": "<p>Chronicle Broadcasting Network Building, Aduana Street, Intramuros, Manila, 1955</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from ABS-CBN</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1947 Broadcast CBN",
+		"text_description": "<p>Eugenio Lopez Sr acquires the news daily The Manila Chronicle. It will later lend its name to the first Lopez broadcast company, the Chronicle Broadcasting Network (CBN). (Photo from ABS-CBN)</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1947,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1757",
+		"article_id": 1757,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1947 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4038,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1947 Broadcast RCD",
+		"text_description": "<p>The Department of Commerce and Industry takes jurisdiction over the Radio Control Division (RCD).</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 1,
+		"start_year": 1947,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4038",
+		"article_id": 4038,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 1, "year": 1947 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1336,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1925 Broadcast RCP and FERI",
+		"text_description": "<p>Radio Corporation of the Philippines merges with Far Eastern Radio Inc.</p>",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 3,
+		"start_year": 1925,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1336",
+		"article_id": 1336,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 3, "year": 1925 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3994,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1926 Broadcast RCA and RCP",
+		"text_description": "<p>Radio Corporation of America (RCA) buys Radio Corporation of the Philippines.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1926,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3994",
+		"article_id": 3994,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1926 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3996,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1927 Broadcast Ship Radio Station Law",
+		"text_description": "<p>The Philippine Legislature enacts the Ship Radio Station Law, establishing the first radio regulatory office, the Radio Construction and Maintenance Section, under the Telegraph Division of the Bureau of Posts.</p>",
+		"category": 4,
+		"start_month": 12,
+		"start_day": 5,
+		"start_year": 1927,
+		"end_month": 5,
+		"end_day": 12,
+		"end_year": 12,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3996",
+		"article_id": 3996,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 12, "day": 5, "year": 1927 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 5, "day": 12, "year": 12 }
+			}
+		]
+	},
+	{
+		"timeline_id": 3997,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1929 Broadcast BCMP",
+		"text_description": "<p>The Philippine Legislature creates the Board of Censorship for Moving Pictures (BCMP).</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 27,
+		"start_year": 1929,
+		"end_month": 27,
+		"end_day": 11,
+		"end_year": 11,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3997",
+		"article_id": 3997,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 27, "year": 1929 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 27, "day": 11, "year": 11 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4037,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1947 Bradcast ITU",
+		"text_description": "<p>The Philippines requests the International Telecommunications Union (ITU) to replace its radio call letters from the American KZ to PI (Philippine Islands). The ITU instead grants the Philippines part of the D series, which until then was used exclusively by Germany.</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 28,
+		"start_year": 1947,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4037",
+		"article_id": 4037,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 28, "year": 1947 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3928,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1930s Broadcast KZRM programs",
+		"text_description": "<p>KZRM carries American and other foreign programs.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1930,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1930s",
+		"photo_id": null,
+		"url": "3928",
+		"article_id": 3928,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1930 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3999,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1931 Broadcast Radio Control Law",
+		"text_description": "<p>The Philippine Legislature enacts the Radio Control Law, shifting regulation of radio broadcasting from the Bureau of Posts to the newly created Radio Control Board.</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 11,
+		"start_year": 1931,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3999",
+		"article_id": 3999,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 11, "year": 1931 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3930,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1932 Broadcast license fee",
+		"text_description": "<p>The Philippine Legislature passes a law to collect license fees from owners of radio sets.</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 11,
+		"start_year": 1932,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3930",
+		"article_id": 3930,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 11, "year": 1932 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4000,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1932 Broadcast KZEG opens",
+		"text_description": "<p>Erlanger & Galinger opens KZEG, and features local opera and <em>sarsuwela</em> singers.</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 11,
+		"start_year": 1932,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4000",
+		"article_id": 4000,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 11, "year": 1932 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4002,
+		"media_caption": "<p>Franklin D. Roosevelt's fireside chat on the US Supreme Court Reform Plan, 1937</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Harris & Ewing Collection, Library of Congress</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1933 Broadcast FDR fireside",
+		"text_description": "<p>US President Franklin D. Roosevelt’s “fireside chats” go on air, the first to use radio to address audiences directly. (Photo from Harris & Ewing Collection, Library of Congress)</p>",
+		"category": 4,
+		"start_month": 3,
+		"start_day": 3,
+		"start_year": 1933,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4002",
+		"article_id": 4002,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 3, "day": 3, "year": 1933 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4003,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1934 Broadcast Balagtasan on the Air",
+		"text_description": "<p><em>Balagtasan on the Air</em> begins airing on KZRM.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1934,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4003",
+		"article_id": 4003,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1934 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1925,
+		"media_caption": "<p>Lina Flor, writer, host, and principal character of <em>Si Aling Juanang Mapag-impok</em></p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Ateneo de Manila University Library Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1938 Broadcast Si Aling Juana",
+		"text_description": "<p><em>Si Aling Juanang Mapag-Impok</em>, a soap-opera-cum advice program by Lina Flor (in photo), and <em>Kuwentong Kutsero</em>, a satire on Philippine society and politics produced by Horacio de la Costa, go on the air. (Photo from Ateneo de Manila University Library Collection)</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1938,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1925",
+		"article_id": 1925,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1938 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4005,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1938 Broadcast BRMP",
+		"text_description": "<p>The National Assembly changes Board of Censors for Motion Picture’s name to Board of Review for Moving Pictures and expands its coverage to locally produced films distributed abroad.</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 9,
+		"start_year": 1938,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4005",
+		"article_id": 4005,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 9, "year": 1938 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4006,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1938 Broadcast FEBC",
+		"text_description": "<p>Erlanger & Galinger sells KZRM and KZEG to Far Eastern Broadcasting Corporation of publisher J. Amado Araneta, marking the first cross-media ownership of radio and newspapers. He changes KZEG’s call letters to KZRF.</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 1,
+		"start_year": 1938,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4006",
+		"article_id": 4006,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 1, "year": 1938 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4009,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1939 Broadcast Walang Sugat live",
+		"text_description": "<p>KZRM covers live the sarsuwela <em>Walang Sugat</em> by Severino Reyes at the Metropolitan Theater.</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 3,
+		"start_year": 1939,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4009",
+		"article_id": 4009,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 3, "year": 1939 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3933,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1940 Broadcast KZRC re-opens",
+		"text_description": "<p>KZRC re-opens under Heacock.</p>",
+		"category": 4,
+		"start_month": 3,
+		"start_day": 2,
+		"start_year": 1940,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3933",
+		"article_id": 3933,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 3, "day": 2, "year": 1940 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4012,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1940 Broadcast Iyo Karpo",
+		"text_description": "<p>Iyo Karpo, the advice-dispensing radio character of Ben Zubiri, hosts <em>Pangutan-a Ako</em> and <em>Purico Amateur Hour</em> on KZRC. Zubiri gains fame as the composer and singer of the Cebuano classic \"Matud Nila.\"</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1940,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4012",
+		"article_id": 4012,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1940 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4013,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1941 Broadcast KZND opens",
+		"text_description": "<p>The Commonwealth government opens KZND.</p>",
+		"category": 4,
+		"start_month": 4,
+		"start_day": 30,
+		"start_year": 1941,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4013",
+		"article_id": 4013,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 4, "day": 30, "year": 1941 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4015,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1941 Broadcast KZRH equipment",
+		"text_description": "<p>Before retreating to Corregidor, Gen Douglas MacArthur orders the destruction of radio equipment. Some KZRH equipment is brought to Corregidor while other pieces are hidden in the Jai-Alai building on Taft Avenue.</p>",
+		"category": 4,
+		"start_month": 12,
+		"start_day": 26,
+		"start_year": 1941,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4015",
+		"article_id": 4015,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 12, "day": 26, "year": 1941 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4016,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1941 Broadcast USAFFE",
+		"text_description": "<p>All commercial radio programming ceases as the United States Army Forces in the Far East (USAFFE) blows up radio transmitters and destroys equipment.</p>",
+		"category": 4,
+		"start_month": 12,
+		"start_day": 0,
+		"start_year": 1941,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4016",
+		"article_id": 4016,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 12, "day": 0, "year": 1941 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1123,
+		"media_caption": "<p>Lt Gen Jonathan Wainwright announcing the surrender of Corregidor on 7 May 1942 on Japanese-controlled KZRH</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>US National Archives and Records Administration</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1942 Broadcast PH surrender",
+		"text_description": "<p>The Japanese order Maj Gen Jonathan Wainwright to announce on KZRH the surrender of the Philippine-American forces to the Japanese. (Photo from US National Archives and Records Administration)</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 7,
+		"start_year": 1942,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1123",
+		"article_id": 1123,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 7, "year": 1942 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4039,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1947 Broadcast PBS",
+		"text_description": "<p>Pres Manuel Roxas transfers KZFM to the newly created Philippine Broadcasting Service (PBS) under the Office of the President.</p>",
+		"category": 4,
+		"start_month": 8,
+		"start_day": 0,
+		"start_year": 1947,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4039",
+		"article_id": 4039,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 8, "day": 0, "year": 1947 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4040,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1947 Broadcast KZRC-MBC",
+		"text_description": "<p>KZRC re-opens in Cebu as an affiliate of Manila Broadcasting Company.</p>",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 21,
+		"start_year": 1947,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4040",
+		"article_id": 4040,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 21, "year": 1947 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4042,
+		"media_caption": "<p>Full size reproduction of the on air announcement for KZAS in 1948</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from FEBC International Historical Archive</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1948 Broadcast KZAS",
+		"text_description": "<p>KZAS, the first radio station in the Philippines with religious programming, goes on the air. (Photo from FEBC International Historical Archive)</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1948,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4042",
+		"article_id": 4042,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1948 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4043,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1948 Broadcast KZBU",
+		"text_description": "<p>A second Cebu station, KZBU, opens under Philippine Broadcasting Corporation.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1948,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4043",
+		"article_id": 4043,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1948 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3947,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1949 Broadcast DZBC ",
+		"text_description": "<p> Due to import restrictions on TV equipment, James Lindenberg focuses on radio and establishes DZBC</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 23,
+		"start_year": 1949,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3947",
+		"article_id": 3947,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 23, "year": 1949 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4044,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1949 Broadcast call letter D",
+		"text_description": "<p>All Philippine stations adopt the initial call letter D.</p>",
+		"category": 4,
+		"start_month": 1,
+		"start_day": 1,
+		"start_year": 1949,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4044",
+		"article_id": 4044,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 1, "day": 1, "year": 1949 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4045,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1949 Broadcast DXMV",
+		"text_description": "<p>DXMV goes on the air in Cotabato City, the first radio station with a franchise to operate in Mindanao.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1949,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4045",
+		"article_id": 4045,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1949 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4047,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1950s Broadcast local recording",
+		"text_description": "<p>Local recording companies produce records of Philippine music.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1950,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1950s",
+		"photo_id": null,
+		"url": "4047",
+		"article_id": 4047,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1950 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4048,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1950s Broadcast DZST",
+		"text_description": "<p>The University of Santo Tomas establishes the Catholic station DZST.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1950,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1950s",
+		"photo_id": null,
+		"url": "4048",
+		"article_id": 4048,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1950 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4049,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1950s Broadcast Tony Narra",
+		"text_description": "<p>The first detective drama on radio, <em>Tony Narra</em>, airs on DZBB.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1950,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1950s",
+		"photo_id": null,
+		"url": "4049",
+		"article_id": 4049,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1950 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3948,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1950 Broadcast Bob Stewart DZBB",
+		"text_description": "<p>Robert “Bob” Stewart establishes DZBB under the Loreto F. de Hemedes Inc. </p>",
+		"category": 4,
+		"start_month": 3,
+		"start_day": 1,
+		"start_year": 1950,
+		"end_month": 1,
+		"end_day": 3,
+		"end_year": 3,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3948",
+		"article_id": 3948,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 3, "day": 1, "year": 1950 }
+			},
+			{ "type": "end_date", "value": { "month": 1, "day": 3, "year": 3 } }
+		]
+	},
+	{
+		"timeline_id": 4050,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1950 Broadcast BEC",
+		"text_description": "<p>Congress grants James Lindenberg’s Bolinao Electronics Company a franchise to operate a radio and TV station.</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 14,
+		"start_year": 1950,
+		"end_month": 14,
+		"end_day": 6,
+		"end_year": 6,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4050",
+		"article_id": 4050,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 14, "year": 1950 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 14, "day": 6, "year": 6 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4051,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1950 Broadcast DZBB on air",
+		"text_description": "<p>DZBB goes on the air.</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 14,
+		"start_year": 1950,
+		"end_month": 14,
+		"end_day": 6,
+		"end_year": 6,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4051",
+		"article_id": 4051,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 14, "year": 1950 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 14, "day": 6, "year": 6 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4052,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1951 Broadcast RCD",
+		"text_description": "<p>The Radio Control Division, by then under the Radio Control Board, is transferred to the Department of Public Works and Communications.</p>",
+		"category": 4,
+		"start_month": 1,
+		"start_day": 1,
+		"start_year": 1951,
+		"end_month": 1,
+		"end_day": 1,
+		"end_year": 1,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4052",
+		"article_id": 4052,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 1, "day": 1, "year": 1951 }
+			},
+			{ "type": "end_date", "value": { "month": 1, "day": 1, "year": 1 } }
+		]
+	},
+	{
+		"timeline_id": 4053,
+		"media_caption": "<p>RMN logo, 1952</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Michael Jord B. Abiera, CC-BY-SA</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1952 Broadcast RMN founded",
+		"text_description": "<p>Aug 28: The Canoy brothers, Henry and Reuben, found the Radio Mindanao Network (RMN) with the first radio station in Cagayan de Oro City, DXCC. Photo: RMN logo, 1952 (Michael Jord B. Abiera, CC-BY-SA)</p>",
+		"category": 4,
+		"start_month": 8,
+		"start_day": 28,
+		"start_year": 1952,
+		"end_month": 28,
+		"end_day": 8,
+		"end_year": 8,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4053",
+		"article_id": 4053,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 8, "day": 28, "year": 1952 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 28, "day": 8, "year": 8 }
+			}
+		]
+	},
+	{
+		"timeline_id": 3949,
+		"media_caption": "<p>Public invitation to DZAQ-TV telecasts, 1953</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Lou Gopal, Manila Nostalgia</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1953 Broadcast DZAQ-TV",
+		"text_description": "<p>The first TV station in the Philippines, ABS’s DZAQ-TV Channel 3, goes on the air. Photo: Public invitation to DZAQ-TV telecasts, 1953 (Photo from Lou Gopal, Manila Nostalgia)</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 23,
+		"start_year": 1953,
+		"end_month": 23,
+		"end_day": 10,
+		"end_year": 10,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3949",
+		"article_id": 3949,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 23, "year": 1953 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 23, "day": 10, "year": 10 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4054,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1953 Broadcast Mambo Magsaysay",
+		"text_description": "<p>Records of <em>Mambo Magsaysay</em>, the campaign jingle of Presidential candidate Ramon Magsaysay, are distributed free and aired almost everywhere in town fiestas.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1953,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4054",
+		"article_id": 4054,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1953 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4055,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1953 Broadcast Cyrano",
+		"text_description": "<p>A TV adaptation of <em>Cyrano de Bergerac</em> directed by James Reuter is broadcast live on ABS Channel 3 as the first drama program aired on Philippine TV.</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 16,
+		"start_year": 1953,
+		"end_month": 16,
+		"end_day": 11,
+		"end_year": 11,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4055",
+		"article_id": 4055,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 16, "year": 1953 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 16, "day": 11, "year": 11 }
+			}
+		]
+	},
+	{
+		"timeline_id": 1764,
+		"media_caption": "<p><em>Tawag ng Tanghalan</em> hosts Lopito and Patsy</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from James de la Rosa/Baul ni Juan</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1954 Broadcast TNT",
+		"text_description": "<p><em>Tawag ng Tanghalan</em> airs on DZBB. Photo: Tawag ng Tanghalan hosts Lopito and Patsy (James de la Rosa/Baul ni Juan)</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1954,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1764",
+		"article_id": 1764,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1954 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4056,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1955 Broadcast DZXX",
+		"text_description": "<p>Loreto F. de Hemedes Inc. expands and puts DZXX on the air.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1955,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4056",
+		"article_id": 4056,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1955 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4057,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1956 Broadcast DZYL",
+		"text_description": "<p>ABS launches DZYL, the first radio station to broadcast via frequency modulation (FM).</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1956,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4057",
+		"article_id": 4057,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1956 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4058,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1956 Broadcast DPWC",
+		"text_description": "<p>Republic Act 1476 abolishes the Radio Control Board but retains Radio Control Division under the Department of Public Works and Communications.</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 15,
+		"start_year": 1956,
+		"end_month": 15,
+		"end_day": 6,
+		"end_year": 6,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4058",
+		"article_id": 4058,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 15, "year": 1956 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 15, "day": 6, "year": 6 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4059,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1956 Broadcast DZXL",
+		"text_description": "<p>CBN launches DZXL.</p>",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 24,
+		"start_year": 1956,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4059",
+		"article_id": 4059,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 24, "year": 1956 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1828,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1958 Broadcast DZUP",
+		"text_description": "<p>DZUP begins noncommercial shortwave radio broadcast at the University of the Philippines in Diliman.</p>",
+		"category": 4,
+		"start_month": 12,
+		"start_day": 2,
+		"start_year": 1958,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1828",
+		"article_id": 1828,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 12, "day": 2, "year": 1958 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4060,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1958 Broadcast DZXL-TV",
+		"text_description": "<p>CBN’s DZXL-TV Channel 9 begins broadcasting.</p>",
+		"category": 4,
+		"start_month": 4,
+		"start_day": 19,
+		"start_year": 1958,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4060",
+		"article_id": 4060,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 4, "day": 19, "year": 1958 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1761,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1960 Broadcast DZKB",
+		"text_description": "<p>The Benedicto family, publisher of the newspaper <em>Philippine Daily Express</em>, establishes DZKB under Kanlaon Broadcasting System (KBS).</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 29,
+		"start_year": 1960,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1761",
+		"article_id": 1761,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 29, "year": 1960 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4062,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1960s",
+		"text_description": "<p>Similar to the <em>balagtasan, Cancionan on the Air</em> airs on DWDW in Pangasinan.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1960,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4062",
+		"article_id": 4062,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1960 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4063,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1961 Broadcast BCMP",
+		"text_description": "<p>The Board of Review for Motion Pictures is renamed Board of Censors for Motion Pictures, with jurisdiction expanded to include movies aired on TV.</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 17,
+		"start_year": 1961,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4063",
+		"article_id": 4063,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 17, "year": 1961 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4064,
+		"media_caption": "<p>Dance number from <em>Dance Time with Chito</em>, ca 1970</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from <em>GMA Gold: Fifty Years of Broadcast History</em>, GMA Network Inc, 2001</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1961 Broadcast DZBB-TV",
+		"text_description": "<p>Loreto F. de Hemedes Inc establishes DZBB-TV Channel 7 with its first program, the dance show <em>Dance Time with Chito</em>, hosted by Chito Feliciano. (Photo from <em>GMA Gold: Fifty Years of Broadcast History</em>, GMA Network Inc, 2001)</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 29,
+		"start_year": 1961,
+		"end_month": 29,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4064",
+		"article_id": 4064,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 29, "year": 1961 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 29, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4066,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1962 Broadcast RCO",
+		"text_description": "<p>The Department of Public Works and Communications renames the Radio Control Division as Radio Control Office.</p>",
+		"category": 4,
+		"start_month": 8,
+		"start_day": 23,
+		"start_year": 1962,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4066",
+		"article_id": 4066,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 8, "day": 23, "year": 1962 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3951,
+		"media_caption": "<p>Abelardo Yabut Sr, founder of NBC</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from TV5</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1963 Broadcast NBC",
+		"text_description": "<p>Nation Broadcasting Corporation begins operations with DXYZ in Zamboanga and DZAM in Manila. Photo: Abelardo Yabut Sr, founder of NBC (TV5)</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 12,
+		"start_year": 1963,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "3951",
+		"article_id": 3951,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 12, "year": 1963 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4067,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1963 Broadcast Mareco",
+		"text_description": "<p>Mareco Broadcasting Network begins radio broadcasts and specializes in local music.</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 1,
+		"start_year": 1963,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4067",
+		"article_id": 4067,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 1, "year": 1963 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4068,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1963 Broadcast RBS",
+		"text_description": "<p>The Loreto F. de Hemedes Inc. is renamed Republic Broadcasting System.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1963,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4068",
+		"article_id": 4068,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1963 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4070,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1965 Broadcast NMPC",
+		"text_description": "<p>The National Media Production Center is created under the Office of the President.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1965,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4070",
+		"article_id": 4070,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1965 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4071,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1965 Broadcast IMC",
+		"text_description": "<p>Republic Act 4379 establishes the Institute of Mass Communication in UP, the first to teach broadcasting in the Philippines. It will become the College of Mass Communication in 1988.</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 19,
+		"start_year": 1965,
+		"end_month": 19,
+		"end_day": 6,
+		"end_year": 6,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4071",
+		"article_id": 4071,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 19, "year": 1965 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 19, "day": 6, "year": 6 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4072,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1965 Broadcast DZRP",
+		"text_description": "<p>The National Media Production Center acquires the facilities of the Voice of America in Malolos, Bulacan and begins operating it as the Voice of the Philippines with the call letters DZRP.</p>",
+		"category": 4,
+		"start_month": 12,
+		"start_day": 30,
+		"start_year": 1965,
+		"end_month": 30,
+		"end_day": 12,
+		"end_year": 12,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4072",
+		"article_id": 4072,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 12, "day": 30, "year": 1965 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 30, "day": 12, "year": 12 }
+			}
+		]
+	},
+	{
+		"timeline_id": 1767,
+		"media_caption": "<p>Print advertisement of <em>Gorio and His Jeepney</em>, ca 1966</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Simon Santos/Video 48</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1966 Broadcast Gorio",
+		"text_description": "<p>The sitcom <em>Gorio and His Jeepney</em> airs on ABC 5. (Photo from Simon Santos/Video 48)</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1966,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1767",
+		"article_id": 1767,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1966 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4074,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1966 Broadcast color TV",
+		"text_description": "<p>ABS Channel 3 airs the first color TV transmission in the Philippines.</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 17,
+		"start_year": 1966,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4074",
+		"article_id": 4074,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 17, "year": 1966 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1981,
+		"media_caption": "<p>Print advertisement for <em>Balintataw</em></p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Simon Santos/Video 48</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1967 Broadcast Balintataw",
+		"text_description": "<p><em>Balintataw</em>, a joint venture between the Philippine Educational Theater Association and ABC Channel 5, begins airing original TV adaptations of Philippine literary pieces. (Photo from Simon Santos/Video 48)</p>",
+		"category": 4,
+		"start_month": 8,
+		"start_day": 19,
+		"start_year": 1967,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1981",
+		"article_id": 1981,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 8, "day": 19, "year": 1967 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4075,
+		"media_caption": "<p>ABS-CBN logo, 1967-1972</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from ABS-CBN</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1967 Broadcast ABS-CBN",
+		"text_description": "<p>ABS and CBN stations officially merge as ABS-CBN. (Photo from ABS-CBN)</p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 1,
+		"start_year": 1967,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4075",
+		"article_id": 4075,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 1, "year": 1967 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4076,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1967 Broadcast Halalan",
+		"text_description": "<p>ABS-CBN Channel 3 produces <em>Halalan ’67</em>, a 36-hour live nationwide television coverage of the results of the 1967 Congressional elections.</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 14,
+		"start_year": 1967,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4076",
+		"article_id": 4076,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 14, "year": 1967 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1754,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1968 Broadcast DZFX",
+		"text_description": "<p>DZFX airs and becomes the first successful FM station in the Philippines with high fidelity stereophonic sound.</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 29,
+		"start_year": 1968,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1754",
+		"article_id": 1754,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 29, "year": 1968 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4078,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1968 Broadcast DZEC",
+		"text_description": "<p>DZEC goes on the air under the Eagle Broadcasting Corporation for the Iglesia ni Cristo.</p>",
+		"category": 4,
+		"start_month": 4,
+		"start_day": 26,
+		"start_year": 1968,
+		"end_month": 26,
+		"end_day": 4,
+		"end_year": 4,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4078",
+		"article_id": 4078,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 4, "day": 26, "year": 1968 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 26, "day": 4, "year": 4 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4079,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1968 Broadcast Kennedy assassination",
+		"text_description": "<p>ABS-CBN airs the coverage of the assassination of US Senator Robert Kennedy via the first satellite transmission on Philippine TV.</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 5,
+		"start_year": 1968,
+		"end_month": 5,
+		"end_day": 6,
+		"end_year": 6,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4079",
+		"article_id": 4079,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 5, "year": 1968 }
+			},
+			{ "type": "end_date", "value": { "month": 5, "day": 6, "year": 6 } }
+		]
+	},
+	{
+		"timeline_id": 4080,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1968 Broadcast Ateneo",
+		"text_description": "<p>The Ateneo Center for Educational TV begins transmitting televised lessons to schools through closed circuit transmission and via a microwave link to IBC TV-13.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1968,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4080",
+		"article_id": 4080,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1968 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4081,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1968 Broadcast Panagimpan",
+		"text_description": "<p> The drama anthology <em>Panagimpan</em> airs on ABS-CBN.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 0,
+		"start_year": 1968,
+		"end_month": 0,
+		"end_day": 10,
+		"end_year": 10,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4081",
+		"article_id": 4081,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 0, "year": 1968 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 10, "year": 10 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4082,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1968 Broadcast Tisoy",
+		"text_description": "<p>The sitcom <em>Tisoy</em>, based on a satirical comic strip by Nonoy Marcelo, airs on ABC 5.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1968,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4082",
+		"article_id": 4082,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1968 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 2078,
+		"media_caption": "<p>Scene from <em>Sunday, Sweet Sunday</em>, with Fides Cuyugan-Asensio in polka dots and Jimmy Melendrez to her right, 1969</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1969 Broadcast Sunday",
+		"text_description": "<p>The musical program <em>Sunday Sweet Sunday</em>, the first TV program in the country to broadcast in color, airs. (Photo from CCP)</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1969,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "2078",
+		"article_id": 2078,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1969 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4083,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1969 Broadcast DZRV",
+		"text_description": "<p>DZST is transferred to the Philippine Radio Educational and Information Center Inc. Its call letters are changed to DZRV, for Radio Veritas.</p>",
+		"category": 4,
+		"start_month": 4,
+		"start_day": 11,
+		"start_year": 1969,
+		"end_month": 11,
+		"end_day": 4,
+		"end_year": 4,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4083",
+		"article_id": 4083,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 4, "day": 11, "year": 1969 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 11, "day": 4, "year": 4 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4086,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1969 Broadcast Apollo 11",
+		"text_description": "<p>RBS Channel 7 carries for Philippine television channels the satellite broadcast of the landing of the Apollo 11 spaceship on the moon.</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 20,
+		"start_year": 1969,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4086",
+		"article_id": 4086,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 20, "year": 1969 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4088,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1970 Broadcast KBS PSE",
+		"text_description": "<p>Roberto Benedicto lists KBS in the Philippine Stock Exchange.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1970,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4088",
+		"article_id": 4088,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1970 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4089,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1970s Broadcast OFW show",
+		"text_description": "<p>The long-running talk show for families of Overseas Filipino Workers, <em>To Saudi with Love</em>, airs on DZRH.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1970,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1970s",
+		"photo_id": null,
+		"url": "4089",
+		"article_id": 4089,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1970 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4090,
+		"media_caption": "<p>Nora Daza in her younger years</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Nina Puyat</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1970s Broadcast Nora Daza",
+		"text_description": "<p>CBN airs the first live cooking show on TV, <em>Let’s Cook with Nora</em>, hosted by Nora Daza (in photo), later renamed <em>Cooking It Up with Nora</em>, enjoying a 25-year run. (Photo from Nina Puyat)</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1970,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1970s",
+		"photo_id": null,
+		"url": "4090",
+		"article_id": 4090,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1970 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4091,
+		"media_caption": "<p>Athletes parade at the Olympic Stadium for the opening ceremony of the 1972 Summer Olympics in Munich, West Germany.</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Romák Éva/Fortepan</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1972 Broadcast Olympics",
+		"text_description": "<p>KBS Channel 9 airs the live coverage of the 1972 Olympic Games in Munich, West Germany. (Photo from Romák Éva/Fortepan)</p>",
+		"category": 4,
+		"start_month": 8,
+		"start_day": 21,
+		"start_year": 1972,
+		"end_month": 21,
+		"end_day": 8,
+		"end_year": 8,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4091",
+		"article_id": 4091,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 8, "day": 21, "year": 1972 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 21, "day": 8, "year": 8 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4094,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1972 Broadcast BOC",
+		"text_description": "<p>Pres Ferdinand Marcos moves Radio Control Office to the Board of Communications (BOC), the first quasi-judicial body with adjudicatory powers on matters involving telecommunication services. The BOC remains administratively under the Department of Public Works and Communications.</p>",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 24,
+		"start_year": 1972,
+		"end_month": 24,
+		"end_day": 9,
+		"end_year": 9,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4094",
+		"article_id": 4094,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 24, "year": 1972 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 24, "day": 9, "year": 9 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4095,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1972 Broadcast New Society",
+		"text_description": "<p>Channels 7 and 13 resume broadcast while Channels 2, 4, 5, and 11 remain off the air. Local TV programs, with new titles that reflect what Marcos calls the New Society, are allowed to go on air.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 0,
+		"start_year": 1972,
+		"end_month": 0,
+		"end_day": 10,
+		"end_year": 10,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4095",
+		"article_id": 4095,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 0, "year": 1972 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 10, "year": 10 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4096,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1972 Broadcast Pulong",
+		"text_description": "<p><em>Pulong-Pulong sa Kaunlaran</em>, the first public affairs talk show to be simulcast live by all radio and TV stations in the country, airs.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 0,
+		"start_year": 1972,
+		"end_month": 0,
+		"end_day": 10,
+		"end_year": 10,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4096",
+		"article_id": 4096,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 0, "year": 1972 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 10, "year": 10 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4097,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1972 Broadcast PD 36",
+		"text_description": "<p>Presidential Decree 36 cancels legislative franchises issued by Congress to radio and TV stations prior to the proclamation of martial law and requires all broadcast operations to obtain prior clearance from the newly-created Mass Media Council.</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 2,
+		"start_year": 1972,
+		"end_month": 2,
+		"end_day": 11,
+		"end_year": 11,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4097",
+		"article_id": 4097,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 2, "year": 1972 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 2, "day": 11, "year": 11 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4112,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1977 Broadcast DOMSAT",
+		"text_description": "<p>Roberto Benedicto inaugurates domestic satellite communications (DOMSAT) with RPN as the transmitting network of 11 satellite earth stations for all broadcasts from the Office of the President.</p>",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 21,
+		"start_year": 1977,
+		"end_month": 21,
+		"end_day": 9,
+		"end_year": 9,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4112",
+		"article_id": 4112,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 21, "year": 1977 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 21, "day": 9, "year": 9 }
+			}
+		]
+	},
+	{
+		"timeline_id": 1800,
+		"media_caption": "<p>Kapisanan ng mga Brodkaster sa Pilipinas logo</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Kapisanan ng mga Brodkaster ng Pilipinas</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1973 Broadcast KBP",
+		"text_description": "<p>The Kapisanan ng mga Brodkaster sa Pilipinas (KBP), later Kapisanan ng mga Brodkaster ng Pilipinas, is organized by leaders of the broadcast media industry. It is among the means the martial law government used to control the media. It will operate independently when Marcos rule ends.</p>",
+		"category": 4,
+		"start_month": 4,
+		"start_day": 27,
+		"start_year": 1973,
+		"end_month": 27,
+		"end_day": 4,
+		"end_year": 4,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1800",
+		"article_id": 1800,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 4, "day": 27, "year": 1973 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 27, "day": 4, "year": 4 }
+			}
+		]
+	},
+	{
+		"timeline_id": 1874,
+		"media_caption": "<p>Original cast of <em>John en Marsha</em>, seated left to right, Maricel Soriano, Dolphy, Nida Blanca, Rolly Quizon, and standing behind, Matutina and Dely Atay-atayan, 1975</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from ABS-CBN</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1973 Broadcast John en Marsha",
+		"text_description": "<p>The sitcom <em>John en Marsha</em> begins its 17-year run on RPN 9. (Photo from ABS-CBN)</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 0,
+		"start_year": 1973,
+		"end_month": 0,
+		"end_day": 11,
+		"end_year": 11,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1874",
+		"article_id": 1874,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 0, "year": 1973 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 11, "year": 11 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4098,
+		"media_caption": "<p>Banahaw Broadcasting Corporation logo</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Banahaw Broadcasting Corporation</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1973 Broadcast Banahaw",
+		"text_description": "<p>Roberto Benedicto renames KBS Radio Philippines Network and continues broadcast on Channel 9; begins a takeover of almost all the radio and television stations and facilities of the Lopezes throughout the country; and establishes Barangay (later Banahaw) Broadcasting Corporation (BBC), which starts airing on Channel 2. (Photo from Banahaw Broadcasting Corporation)</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1973,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4098",
+		"article_id": 4098,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1973 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4099,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1973 Broadcast BBC Balita",
+		"text_description": "<p><em>BBC Balita</em>, the first primetime TV news in Filipino after the declaration of martial law, airs.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1973,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4099",
+		"article_id": 4099,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1973 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4100,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1973 Broadcast Lim Seng",
+		"text_description": "<p>The execution of convicted drug lord Lim Seng is broadcast on television.</p>",
+		"category": 4,
+		"start_month": 1,
+		"start_day": 15,
+		"start_year": 1973,
+		"end_month": 15,
+		"end_day": 1,
+		"end_year": 1,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4100",
+		"article_id": 4100,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 1, "day": 15, "year": 1973 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 15, "day": 1, "year": 1 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4101,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1973 Broadcast MMAC",
+		"text_description": "<p>The Mass Media Advisory Council replaces the Mass Media Council. It issues permits for the operation of mass media in the Philippines, subject to Marcos’s approval.</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 11,
+		"start_year": 1973,
+		"end_month": 11,
+		"end_day": 5,
+		"end_year": 5,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4101",
+		"article_id": 4101,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 11, "year": 1973 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 11, "day": 5, "year": 5 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4102,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1973 Broadcast Constitution",
+		"text_description": "<p>The 1973 Constitution takes effect, banning foreigners from owning mass media in RP. Marcos presidential aide Gilberto M. Duavit Sr, Robert Stewart’s lawyer Felipe L Gozon, and his accountant Menardo R. Jimenez buy the controlling interest in RBS from Stewart, an American.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1973,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4102",
+		"article_id": 4102,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1973 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4103,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1973 Broadcast Obra Maestra",
+		"text_description": "<p>The drama anthology <em>Obra Maestra</em> airs on BBC 2.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1973,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4103",
+		"article_id": 4103,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1973 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4104,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1974 Broadcast GTV",
+		"text_description": "<p>Government Television Network is established, airs on Channel 4, with airtime shared by the Department of Public Information, the National Media Production Center, and Radio Philippines Network.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1974,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4104",
+		"article_id": 4104,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1974 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4105,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1974 Broadcast GMA-RTV",
+		"text_description": "<p>Gilberto M. Duavit Sr, Felipe L. Gozon, and Menardo Jimenez rename RBS Greater Manila Area Radio-Television Arts (GMA-RTV), later shortened to GMA</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 28,
+		"start_year": 1974,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4105",
+		"article_id": 4105,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 28, "year": 1974 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4106,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1974 Broadcast TCB",
+		"text_description": "<p>The Radio Control Office is renamed Telecommunications Control Bureau..</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 1,
+		"start_year": 1974,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4106",
+		"article_id": 4106,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 1, "year": 1974 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4108,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1974 Broadcast PCPM",
+		"text_description": "<p>The Mass Media Advisory Council is abolished and its powers are transferred to the Philippine Council for Print Media and the Broadcast Media Council.</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 9,
+		"start_year": 1974,
+		"end_month": 9,
+		"end_day": 11,
+		"end_year": 11,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4108",
+		"article_id": 4108,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 9, "year": 1974 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 9, "day": 11, "year": 11 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4109,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1975 Broadcast IBC",
+		"text_description": "<p>Roberto Benedicto buys the controlling interest in IBC and renames it Intercontinental Broadcasting Corporation while the Canoys buy RMN back from Andres Soriano Sr.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1975,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4109",
+		"article_id": 4109,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1975 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4110,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1976 Broadcast DWIM",
+		"text_description": "<p>The Marcos government establishes DWIM-FM.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1976,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4110",
+		"article_id": 4110,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1976 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4111,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1976 Broadcast BCMP",
+		"text_description": "<p>The Board of Censors for Motion Pictures is run mostly by military personnel until 1981.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1976,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4111",
+		"article_id": 4111,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1976 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4115,
+		"media_caption": "<p>Voltes V and Purefoods Hotdog ad., 1978</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Eduardo de Leon Collection</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1978 Broadcast Voltes V",
+		"text_description": "<p>The Japanese robot animation program <em>Voltes V</em> airs on GMA7. Marcos will ban it a year later. (Photo from Eduardo de Leon Collection)</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 5,
+		"start_year": 1978,
+		"end_month": 5,
+		"end_day": 5,
+		"end_year": 5,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4115",
+		"article_id": 4115,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 5, "year": 1978 }
+			},
+			{ "type": "end_date", "value": { "month": 5, "day": 5, "year": 5 } }
+		]
+	},
+	{
+		"timeline_id": 4116,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1978 Broadcast Sining Makulay",
+		"text_description": "<p>Roberto Benedicto ventures into cable television through Sining Makulay Inc.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1978,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4116",
+		"article_id": 4116,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1978 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1134,
+		"media_caption": "<p><em>Eat Bulaga!</em> hosts Tito, Vic, and Joey, 2016</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from TAPE, Inc</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1979 Broadcast Eat Bulaga",
+		"text_description": "<p>Blocktimer Television and Production Exponents (TAPE Inc.) launches <em>Eat Bulaga!</em> on RPN 9. Photo: <em>Eat Bulaga!</em> hosts Tito, Vic, and Joey, 2016 (Photo from TAPE, Inc)</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 30,
+		"start_year": 1979,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1134",
+		"article_id": 1134,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 30, "year": 1979 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4117,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1979 Broadcast Marcelino",
+		"text_description": "<p>The drama <em>Marcelino Pan y Vino: Alamat o Milagro?</em>, adapted from a Spanish novel, airs on BBC 2.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1979,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4117",
+		"article_id": 4117,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1979 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4118,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1979 Broadcast Rosas",
+		"text_description": "<p>The drama anthology <em>Rosas</em> airs on GTV 4.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1979,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4118",
+		"article_id": 4118,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1979 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4119,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1979 Broadcast RPN mini-series",
+		"text_description": "<p>RPN 9 airs the first mini-series <em>Malayo Pa ang Umaga</em>, based on Stevan Javellana's novel, <em>Without Seeing the Dawn.</em></p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1979,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4119",
+		"article_id": 4119,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1979 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4120,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1979 Broadcast Maskara",
+		"text_description": "<p><em>Maskara</em>, a drama anthology about the entertainment industry, airs on BBC 2.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1979,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4120",
+		"article_id": 4120,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1979 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4121,
+		"media_caption": "<p>Seal of the National Telecommunications Commission of the Philippines, 2017</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1979 Broadcast NTC",
+		"text_description": "<p>Pres Ferdinand Marcos creates the National Telecommunications Commission (NTC) under the Ministry of Transportation and Communications. The NTC integrates the functions of the Board of Communications and the Telecommunications Control Bureau.</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 23,
+		"start_year": 1979,
+		"end_month": 23,
+		"end_day": 7,
+		"end_year": 7,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4121",
+		"article_id": 4121,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 23, "year": 1979 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 23, "day": 7, "year": 7 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4122,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1979 Broadcast Lam-ang",
+		"text_description": "<p>RPN 9 airs a two-hour special on the animated version of the Iluko epic <em>Biag ni Lam-ang.</em></p>",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 21,
+		"start_year": 1979,
+		"end_month": 21,
+		"end_day": 9,
+		"end_year": 9,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4122",
+		"article_id": 4122,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 21, "year": 1979 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 21, "day": 9, "year": 9 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4123,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1979 Broadcast NTC broadcast",
+		"text_description": "<p>The National Telecommunications Commission is empowered to oversee technical matters concerning the broadcast media.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 23,
+		"start_year": 1979,
+		"end_month": 23,
+		"end_day": 10,
+		"end_year": 10,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4123",
+		"article_id": 4123,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 23, "year": 1979 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 23, "day": 10, "year": 10 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4124,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1980 Broadcast Maharlika",
+		"text_description": "<p>GTV is re-named Maharlika Broadcasting System, with the National Media Production Center in full control of the station and its airtime.</p>",
+		"category": 4,
+		"start_month": 1,
+		"start_day": 1,
+		"start_year": 1980,
+		"end_month": 1,
+		"end_day": 1,
+		"end_year": 1,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4124",
+		"article_id": 4124,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 1, "day": 1, "year": 1980 }
+			},
+			{ "type": "end_date", "value": { "month": 1, "day": 1, "year": 1 } }
+		]
+	},
+	{
+		"timeline_id": 4125,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1980 Broadcast Lovingly Yours Helen",
+		"text_description": "<p>GMA 7 airs<em> Lovingly Yours Helen</em>, a drama anthology based on letters sent by viewers.</p",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 7,
+		"start_year": 1980,
+		"end_month": 7,
+		"end_day": 9,
+		"end_year": 9,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4125",
+		"article_id": 4125,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 7, "year": 1980 }
+			},
+			{ "type": "end_date", "value": { "month": 7, "day": 9, "year": 9 } }
+		]
+	},
+	{
+		"timeline_id": 4127,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1980 Broadcast BRMPT",
+		"text_description": "<p>The Board of Censors for Motion Pictures is re-organized and re-named Board of Review for Motion Pictures and Television.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1981,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4127",
+		"article_id": 4127,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1981 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4128,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1981 Broadcast Batasang Pambansa",
+		"text_description": "<p>The Philippine Council for Print Media and the Broadcast Media Council are abolished. The power to grant broadcast franchises is given to the Batasang Pambansa.</p>",
+		"category": 4,
+		"start_month": 1,
+		"start_day": 17,
+		"start_year": 1981,
+		"end_month": 17,
+		"end_day": 1,
+		"end_year": 1,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4128",
+		"article_id": 4128,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 1, "day": 17, "year": 1981 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 17, "day": 1, "year": 1 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4130,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1985 Broadcast snap election announcement",
+		"text_description": "<p>Pres Ferdinand Marcos announces on <em>This Week with David Brinkley</em> on American ABC-TV that a presidential snap election will be held.</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 3,
+		"start_year": 1985,
+		"end_month": 3,
+		"end_day": 11,
+		"end_year": 11,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4130",
+		"article_id": 4130,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 3, "year": 1985 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 3, "day": 11, "year": 11 }
+			}
+		]
+	},
+	{
+		"timeline_id": 1140,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1986 Broadcast Enrile Ramos siege",
+		"text_description": "<p>Juan Ponce Enrile asks DZRV to cover the announcement of his, and Fidel V. Ramos’s, break with Pres Ferdinand Marcos. Cardinal Sin calls people via DZRV to protect Enrile and Ramos. By nightfall a siege is underway. Initially, only DZRV covers the event live, but provincial and foreign stations carry its signals.</p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 22,
+		"start_year": 1986,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1140",
+		"article_id": 1140,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 22, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1809,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1986 Broadcast DZRV bombed",
+		"text_description": "<p>The DZRV transmitter is bombed presumably by Marcos partisans. Its broadcast moves to DZRJ on Santa Mesa, identifies itself as Radyo Bandido, and begins broadcast with \"Mambo Magsaysay.\" Meanwhile, DZRH airs Marcos’s press conference where he declares he is in control of the situation. </p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 23,
+		"start_year": 1986,
+		"end_month": 23,
+		"end_day": 2,
+		"end_year": 2,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1809",
+		"article_id": 1809,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 23, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 23, "day": 2, "year": 2 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4131,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1986 Broadcast election",
+		"text_description": "<p>The media cover the election campaign, the polling, the count, and the election aftermath.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1986,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4131",
+		"article_id": 4131,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4132,
+		"media_caption": "<p>Tabulators manning the PICC plenary hall walk out in protest of cheating in favor of Marcos with Comelec's quick count computer terminals, 10 February 1986</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Alex Baluyut, <em>Malaya</em></p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1986 Broadcast tally",
+		"text_description": "<p>The media cover the separate counts of the Commission on Elections (COMELEC) and the citizens’ group NAMFREL. TV and newspaper images of computer programmers walking out of the COMELEC count in protest strengthen public perception of a rigged tally in favor of Marcos. (Photo by Alex Baluyut, <em>Malaya</em>)</p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 8,
+		"start_year": 1986,
+		"end_month": 2,
+		"end_day": 21,
+		"end_year": 2,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4132",
+		"article_id": 4132,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 8, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 2, "day": 21, "year": 2 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4134,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1986 Broadcast MBS 4",
+		"text_description": "<p>As Pres Ferdinand Marcos goes on air on MBS 4, he is interrupted by Gen Fabian Ver to ask permission to “annihilate” the rebels. The announcement is cut off by rebel troops who take over MBS 4 and, soon, other stations.</p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 24,
+		"start_year": 1986,
+		"end_month": 24,
+		"end_day": 2,
+		"end_year": 2,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4134",
+		"article_id": 4134,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 24, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 24, "day": 2, "year": 2 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4135,
+		"media_caption": "<p>Protesters pushing against government tanks with media men documenting the events at EDSA</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Pete Reyes, <em>People Power: The Philippine Revolution of 1986,</em> Presidential Museum and Library</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1986 Broadcast EDSA live",
+		"text_description": "<p>The media, including international media, cover the events at EDSA. Live broadcast signals from Manila are carried by provincial stations. The whole nation and the rest of the world watch and listen. (Photo by Pete Reyes, <em>People Power: The Philippine Revolution of 1986,</em> Presidential Museum and Library)</p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 22,
+		"start_year": 1986,
+		"end_month": 25,
+		"end_day": 2,
+		"end_year": 2,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4135",
+		"article_id": 4135,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 22, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 25, "day": 2, "year": 2 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4137,
+		"media_caption": "<p>Logo of PTV-4 in 1995</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1986 Broadcast PTV 4",
+		"text_description": "<p>MBS is renamed People’s Television Channel 4 (PTV 4).</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1986,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4137",
+		"article_id": 4137,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4138,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1986 Broadcast mass media",
+		"text_description": "<p>Cory Aquino’s government returns ABS-CBN to the Lopezes and sequesters RPN 9 and IBC 13.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1986,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4138",
+		"article_id": 4138,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4139,
+		"media_caption": "<p>Randy David, host of <em>Public Forum</em>, 1997</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from CCP</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1986 Broadcast IBC 13 docu",
+		"text_description": "<p>IBC 13 airs several firsts: Its documentary <em>Ceasefire</em> discusses a ceasefire between the military and the National Democratic Front-New People’s Army (NDF-NPA). Its public affairs program <em>Truth Forum</em> (later renamed <em>Public Forum</em>), hosted by Randy David (in photo), becomes the first to use Filipino as language of serious discussion. (Photo from CCP)</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1986,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4139",
+		"article_id": 4139,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4141,
+		"media_caption": "<p>ABS-CBN's logo (1986-1999)</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from ABS-CBN</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1986 Broadcast ABS-CBN resumes",
+		"text_description": "<p>ABS-CBN resumes broadcast on Channel 2 (Photo from ABS-CBN)</p>",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 14,
+		"start_year": 1986,
+		"end_month": 14,
+		"end_day": 9,
+		"end_year": 9,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4141",
+		"article_id": 4141,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 14, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 14, "day": 9, "year": 9 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4143,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1986-1999 Broadcast coup attempts",
+		"text_description": "<p>Radio and TV cover the coup attempts live. In one of the attempts, DZRH reporter Rey Langit negotiates on the air with the rebels for a ceasefire to allow Department of Tourism Secretary Rafael Alunan to escort local and foreign tourists out of the battle zone in Makati.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1986,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 1990,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": "1986-1990",
+		"photo_id": null,
+		"url": "4143",
+		"article_id": 4143,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1986 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": 1990 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4162,
+		"media_caption": "<p>Star Cinema logo</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Screenshot from Cesar Blanco/Youtube</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1993 Broadcast Star Cinema",
+		"text_description": "<p>ABS-CBN establishes Star Cinema as its filmmaking arm. Screenshot from Cesar Blanco/Youtube</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 0,
+		"start_year": 1993,
+		"end_month": 0,
+		"end_day": 5,
+		"end_year": 5,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4162",
+		"article_id": 4162,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 0, "year": 1993 }
+			},
+			{ "type": "end_date", "value": { "month": 0, "day": 5, "year": 5 } }
+		]
+	},
+	{
+		"timeline_id": 4146,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1987 Broadcast documentary in FIlipino",
+		"text_description": "<p><em>Hamon sa Pamahalaan, Hamon sa Taumbayan</em>, considered the first documentary to use the Filipino language, airs on IBC13.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1987,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4146",
+		"article_id": 4146,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1987 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4147,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1987 Broadcast Constitution",
+		"text_description": "<p>The 1987 Philippine Constitution recognizes the vital role of communication and information in nation-building.</p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 2,
+		"start_year": 1987,
+		"end_month": 2,
+		"end_day": 2,
+		"end_year": 1987,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4147",
+		"article_id": 4147,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 2, "year": 1987 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 2, "day": 2, "year": 1987 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4148,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1987 Broadcast Star Network",
+		"text_description": "<p>ABS-CBN 2 re-launches itself with the live musical special <em>Star Network: Ang Pagbabalik ng mga Bituin.</em></p>",
+		"category": 4,
+		"start_month": 3,
+		"start_day": 1,
+		"start_year": 1987,
+		"end_month": 1,
+		"end_day": 3,
+		"end_year": 3,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4148",
+		"article_id": 4148,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 3, "day": 1, "year": 1987 }
+			},
+			{ "type": "end_date", "value": { "month": 1, "day": 3, "year": 3 } }
+		]
+	},
+	{
+		"timeline_id": 4149,
+		"media_caption": "<p>Official logo of DZUP</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1987 Broadcast DZUP",
+		"text_description": "<p>DZUP, off the air since the declaration of martial law, resumes broadcast under the management of the UP Institute of Mass Communication.</p>",
+		"category": 4,
+		"start_month": 12,
+		"start_day": 1,
+		"start_year": 1987,
+		"end_month": 1,
+		"end_day": 12,
+		"end_year": 12,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4149",
+		"article_id": 4149,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 12, "day": 1, "year": 1987 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 1, "day": 12, "year": 12 }
+			}
+		]
+	},
+	{
+		"timeline_id": 1879,
+		"media_caption": "<p><em>The Probe Team</em> hosts Howie Severino and Cheche Lazaro, 2009</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo by Ella Marie Evangelista-Martelino</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1988 Broadcast The Probe Team",
+		"text_description": "<p><em>Probe</em> moves to GMA 7 and renames itself <em>The Probe Team</em>. Photo: <em>The Probe Team</em> hosts Howie Severino and Cheche Lazaro, 2009 (Ella Marie Evangelista-Martelino)</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 20,
+		"start_year": 1988,
+		"end_month": 5,
+		"end_day": 20,
+		"end_year": 1988,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1879",
+		"article_id": 1879,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 20, "year": 1988 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 5, "day": 20, "year": 1988 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4151,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1989 Broadcast Hilda Drama",
+		"text_description": "<p><em>Hilda Drama Specials</em>, a drama anthology airs, on RPN 9.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1989,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4151",
+		"article_id": 4151,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1989 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4152,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1990 Broadcast Gawad CCP",
+		"text_description": "<p>The CCP launches the Gawad CCP Para sa Radyo.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1990,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4152",
+		"article_id": 4152,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1990 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4153,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1990 Broadcast Dear Sam",
+		"text_description": "<p>Produced by the Ateneo Center for Social Policy and Public Affairs and the Foundation for Media Alternatives, the documentary <em>Dear Sam … Sumasaiyo, Juan</em>, airs on ABS-CBN. For its resolute anti-US bases stance, MTRCB Chair Manuel Morato bans the TV special.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1990,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4153",
+		"article_id": 4153,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1990 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4154,
+		"media_caption": "<p><em>Tatak Pilipino</em> hosts Gel Santos-Relos and Jim Paredes</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1990 Broadcast Tatak Pilipino",
+		"text_description": "<p>The telemagazine <em>Tatak Pilipino</em> airs on ABS-CBN. Photo: <em>Tatak Pilipino</em> hosts Gel Santos-Relos and Jim Paredes</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 3,
+		"start_year": 1990,
+		"end_month": 3,
+		"end_day": 11,
+		"end_year": 11,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4154",
+		"article_id": 4154,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 3, "year": 1990 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 3, "day": 11, "year": 11 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4155,
+		"media_caption": "<p>Logo of SKYcable</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1990 Broadcast SKYcable",
+		"text_description": "<p>ABS-CBN expands into cable TV distribution by establishing SKYcable.</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 6,
+		"start_year": 1990,
+		"end_month": 6,
+		"end_day": 6,
+		"end_year": 6,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4155",
+		"article_id": 4155,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 6, "year": 1990 }
+			},
+			{ "type": "end_date", "value": { "month": 6, "day": 6, "year": 6 } }
+		]
+	},
+	{
+		"timeline_id": 4156,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1992 Broadcast Dream FM",
+		"text_description": "<p>ABC returns to the air with the call sign DWET-TV and operates the Dream FM Network.</p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 21,
+		"start_year": 1992,
+		"end_month": 21,
+		"end_day": 2,
+		"end_year": 2,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4156",
+		"article_id": 4156,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 21, "year": 1992 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 21, "day": 2, "year": 2 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4157,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1992 Broadcast RA 7306",
+		"text_description": "<p>Republic Act 7306 grants PTV 4 a charter.</p>",
+		"category": 4,
+		"start_month": 3,
+		"start_day": 26,
+		"start_year": 1992,
+		"end_month": 26,
+		"end_day": 3,
+		"end_year": 3,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4157",
+		"article_id": 4157,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 3, "day": 26, "year": 1992 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 26, "day": 3, "year": 3 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4158,
+		"media_caption": "<p>Logo of SBN 21 from 1996 to 2005</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1992 Broadcast SBN",
+		"text_description": "<p>The first TV station to broadcast on the ultra-high frequency (UHF) band, Southern Broadcasting Network (SBN) Channel 21, goes on the air.</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 0,
+		"start_year": 1992,
+		"end_month": 0,
+		"end_day": 5,
+		"end_year": 5,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4158",
+		"article_id": 4158,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 0, "year": 1992 }
+			},
+			{ "type": "end_date", "value": { "month": 0, "day": 5, "year": 5 } }
+		]
+	},
+	{
+		"timeline_id": 4160,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1992 Broadcast DWKC-TV",
+		"text_description": "<p>RMN launches DWKC-TV Channel 31 on UHF, the first to carry a movie format.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 31,
+		"start_year": 1992,
+		"end_month": 31,
+		"end_day": 10,
+		"end_year": 10,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4160",
+		"article_id": 4160,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 31, "year": 1992 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 31, "day": 10, "year": 10 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4161,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1993 Broadcast RJTV",
+		"text_description": "<p>Rajah Broadcasting launches RJTV Channel 29 as an all-female and lifestyle station, the first to host home TV shopping.</p>",
+		"category": 4,
+		"start_month": 4,
+		"start_day": 0,
+		"start_year": 1993,
+		"end_month": 0,
+		"end_day": 4,
+		"end_year": 4,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4161",
+		"article_id": 4161,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 4, "day": 0, "year": 1993 }
+			},
+			{ "type": "end_date", "value": { "month": 0, "day": 4, "year": 4 } }
+		]
+	},
+	{
+		"timeline_id": 4163,
+		"media_caption": "<p>Cinema One logo, 2001</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Michael Jord B. Abiera, CC-BY-SA</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1994 Broadcast Cinema One",
+		"text_description": "<p>ABS-CBN launches Cinema One, a pay TV channel targeted at Filipinos overseas, on SkyCable. (Photo from Michael Jord B. Abiera, CC-BY-SA)</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 0,
+		"start_year": 1994,
+		"end_month": 0,
+		"end_day": 6,
+		"end_year": 6,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4163",
+		"article_id": 4163,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 0, "year": 1994 }
+			},
+			{ "type": "end_date", "value": { "month": 0, "day": 6, "year": 6 } }
+		]
+	},
+	{
+		"timeline_id": 4164,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1994 Broadcast Bisperas",
+		"text_description": "<p>The historical drama <em>Bisperas ng Kasaysayan</em> airs on RPN 9.</p>",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 19,
+		"start_year": 1994,
+		"end_month": 19,
+		"end_day": 9,
+		"end_year": 9,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4164",
+		"article_id": 4164,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 19, "year": 1994 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 19, "day": 9, "year": 9 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4165,
+		"media_caption": "<p>The Filipino Channel logo, 1994-1996</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Amiel Estoy Peña, CC-BY-SA</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1994 Broadcast TFC",
+		"text_description": "<p>ABS-CBN Global Limited's The Filipino Channel (TFC) is launched to cater to Filipinos worldwide. (Photo from Amiel Estoy Peña, CC-BY-SA)</p>",
+		"category": 4,
+		"start_month": 9,
+		"start_day": 24,
+		"start_year": 1994,
+		"end_month": 24,
+		"end_day": 9,
+		"end_year": 9,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4165",
+		"article_id": 4165,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 9, "day": 24, "year": 1994 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 24, "day": 9, "year": 9 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4174,
+		"media_caption": "<p>Star Records Logo, 1994-2000</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1995 Broadcast Star Records",
+		"text_description": "<p>ABS-CBN produces and distributes music by establishing Star Records.</p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 0,
+		"start_year": 1995,
+		"end_month": 0,
+		"end_day": 2,
+		"end_year": 2,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4174",
+		"article_id": 4174,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 0, "year": 1995 }
+			},
+			{ "type": "end_date", "value": { "month": 0, "day": 2, "year": 2 } }
+		]
+	},
+	{
+		"timeline_id": 4175,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1995 Broadcast DWDB-TV",
+		"text_description": "<p>GMA launches DWDB-TV Channel 27 on UHF, called CityNet TV from 1995 to 1999, Entertainment Music Channel (EMC) from 1999 to 2001, and back as CityNet in 2005, as GMA’s outlet for imported programs.</p>",
+		"category": 4,
+		"start_month": 8,
+		"start_day": 27,
+		"start_year": 1995,
+		"end_month": 27,
+		"end_day": 8,
+		"end_year": 8,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4175",
+		"article_id": 4175,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 8, "day": 27, "year": 1995 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 27, "day": 8, "year": 8 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4176,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1995 Broadcast DWSS",
+		"text_description": "<p><em>Tinig ng Nursia: Women's Studies on the Air</em>, produced by St. Scholastica's College, airs on DWSS.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1995,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4176",
+		"article_id": 4176,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1995 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4177,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1995 Broadcast GMA Films",
+		"text_description": "<p>GMA Network establishes GMA Films.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1995,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4177",
+		"article_id": 4177,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1995 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4178,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1996 Broadcast Marimar",
+		"text_description": "<p>The Mexican telenovela <em>Marimar </em>airs on RPN 9, shifting television&rsquo;s late afternoon and evening primetime programming and ushering in the dubbing industry in the country.</p>",
+		"category": 4,
+		"start_month": 3,
+		"start_day": 0,
+		"start_year": 1996,
+		"end_month": 0,
+		"end_day": 3,
+		"end_year": 3,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4178",
+		"article_id": 4178,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 3, "day": 0, "year": 1996 }
+			},
+			{ "type": "end_date", "value": { "month": 0, "day": 3, "year": 3 } }
+		]
+	},
+	{
+		"timeline_id": 4179,
+		"media_caption": "<p><em>Isip Pinoy</p> RPN transitional program bumper, 1986</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>©1986 Radio Philippines Network</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1996 Broadcast Isip Pinoy",
+		"text_description": "<p>The talk show <em>Isip Pinoy</em> airs on RPN 9. (©1986 Radio Philippines Network)</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1996,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4179",
+		"article_id": 4179,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1996 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4180,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1996 Broadcast SNN",
+		"text_description": "<p>ABS-CBN launches Sarimanok News Network (SNN), now ABS-CBN News Channel (ANC), as the Philippines&rsquo; first 24/7 news channel on SkyCable.</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 10,
+		"start_year": 1996,
+		"end_month": 10,
+		"end_day": 7,
+		"end_year": 7,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4180",
+		"article_id": 4180,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 10, "year": 1996 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 10, "day": 7, "year": 7 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4181,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1996 Broadcast Studio 23",
+		"text_description": "<p>ABS-CBN acquires Studio 23 on the UHF band.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 0,
+		"start_year": 1996,
+		"end_month": 0,
+		"end_day": 10,
+		"end_year": 10,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4181",
+		"article_id": 4181,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 0, "year": 1996 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 10, "year": 10 }
+			}
+		]
+	},
+	{
+		"timeline_id": 1820,
+		"media_caption": "<p><em>I-Witness</em> logo from episode 'Kidneys for Sale,' a documentary by Jessica Soho</p",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from GMA Public Affairs</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1999 Broadcast i-Witness",
+		"text_description": "<p>The documentary i-Witness airs on GMA. (Photo from GMA Public Affairs)</p>",
+		"category": 4,
+		"start_month": 1,
+		"start_day": 18,
+		"start_year": 1999,
+		"end_month": 18,
+		"end_day": 1,
+		"end_year": 1,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1820",
+		"article_id": 1820,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 1, "day": 18, "year": 1999 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 18, "day": 1, "year": 1 }
+			}
+		]
+	},
+	{
+		"timeline_id": 1988,
+		"media_caption": "<p>Cheche Lazaro, with guest Sarah Geronimo, in Cheche Lazaro Presents, 2014</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Probe Productions, Inc</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1999 Broadcast Cheche Lazaro Presents",
+		"text_description": "<p>The magazine show <em>Cheche Lazaro Presents</em> airs on GMA 7, then moves to ABS-CBN in 2010. (Photo from Probe Productions, Inc)</p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 14,
+		"start_year": 1999,
+		"end_month": 14,
+		"end_day": 2,
+		"end_year": 2,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1988",
+		"article_id": 1988,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 14, "year": 1999 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 14, "day": 2, "year": 2 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4182,
+		"media_caption": "<p>ABS-CBN Interactive, 1999 </p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "1999 Broadcast ABS-CBNi",
+		"text_description": "<p>ABS-CBN launches ABS-CBN Interactive (ABS-CBNi, later ABS-CBN Digital Media) as its digital and internet subsidiary.</p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 0,
+		"start_year": 1999,
+		"end_month": 0,
+		"end_day": 2,
+		"end_year": 2,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4182",
+		"article_id": 4182,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 0, "year": 1999 }
+			},
+			{ "type": "end_date", "value": { "month": 0, "day": 2, "year": 2 } }
+		]
+	},
+	{
+		"timeline_id": 4183,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1999 Broadcast Lifestyle Network",
+		"text_description": "<p>ABS-CBN launches the Lifestyle Network channel on SKYcable.</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 11,
+		"start_year": 1999,
+		"end_month": 11,
+		"end_day": 7,
+		"end_year": 7,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4183",
+		"article_id": 4183,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 11, "year": 1999 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 11, "day": 7, "year": 7 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4184,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "1999 Broadcast Knowledge Channel",
+		"text_description": "<p>ABS-CBN launches the Knowledge Channel on SKYcable.</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 6,
+		"start_year": 1999,
+		"end_month": 6,
+		"end_day": 11,
+		"end_year": 11,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4184",
+		"article_id": 4184,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 6, "year": 1999 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 6, "day": 11, "year": 11 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4185,
+		"media_caption": "<p>Atty Mario Bautista with star witness Clarissa Ocampo during the trial of former Pres Joseph Estrada</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Screenshot from GMA News and Public Affairs</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "2000 Broadcast Estrada trial coverage",
+		"text_description": "<p>Filipinos witness through live radio and television coverage an elected president stand trial.  (Screenshot from GMA News and Public Affairs)</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 0,
+		"start_year": 2000,
+		"end_month": 0,
+		"end_day": 12,
+		"end_year": 12,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4185",
+		"article_id": 4185,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 0, "year": 2000 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 12, "year": 12 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4186,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2000 Broadcast Pitlag",
+		"text_description": "<p>DZRV's <em>Pitlag! Kwento ng Buhay </em>becomes the first Philippine radio program to win an international award in a NY Festival.</p>",
+		"category": 4,
+		"start_month": 12,
+		"start_day": 4,
+		"start_year": 2000,
+		"end_month": 4,
+		"end_day": 12,
+		"end_year": 12,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4186",
+		"article_id": 4186,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 12, "day": 4, "year": 2000 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 4, "day": 12, "year": 12 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4187,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2001 Broadcast Estrada trial",
+		"text_description": "<p>Pres Estrada's trial continues on live radio and television.</p>",
+		"category": 4,
+		"start_month": 1,
+		"start_day": 0,
+		"start_year": 2001,
+		"end_month": 0,
+		"end_day": 1,
+		"end_year": 1,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4187",
+		"article_id": 4187,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 1, "day": 0, "year": 2001 }
+			},
+			{ "type": "end_date", "value": { "month": 0, "day": 1, "year": 1 } }
+		]
+	},
+	{
+		"timeline_id": 4188,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2001 Broadcast Cardinal Sin",
+		"text_description": "<p>Jaime Cardinal Sin calls on the people via DZRV to once again rebel against a president, this time Joseph Estrada, following accusations of massive corruption.</p>",
+		"category": 4,
+		"start_month": 1,
+		"start_day": 17,
+		"start_year": 2001,
+		"end_month": 17,
+		"end_day": 1,
+		"end_year": 1,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4188",
+		"article_id": 4188,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 1, "day": 17, "year": 2001 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 17, "day": 1, "year": 1 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4189,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2001 Broadcast NBN",
+		"text_description": "<p>PTV 4 is rebranded as National Broadcasting Network (NBN).</p>",
+		"category": 4,
+		"start_month": 7,
+		"start_day": 16,
+		"start_year": 2001,
+		"end_month": 16,
+		"end_day": 7,
+		"end_year": 7,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4189",
+		"article_id": 4189,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 7, "day": 16, "year": 2001 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 16, "day": 7, "year": 7 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4191,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2002 Broadcast Usapang Pambata",
+		"text_description": "<p>The children's magazine show <em>Usapang Pambata</em> airs on DXMD in Kidapawan and DXMS in Cotabato.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2002,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4191",
+		"article_id": 4191,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2002 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4192,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2002 Broadcast GMA renaming",
+		"text_description": "<p>Greater Manila Area Radio-Television Arts (GMA) Channel 7 changes its name to Global Media Arts (GMA) Channel 7.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 27,
+		"start_year": 2002,
+		"end_month": 27,
+		"end_day": 10,
+		"end_year": 10,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4192",
+		"article_id": 4192,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 27, "year": 2002 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 27, "day": 10, "year": 10 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4193,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2003 Broadcast Iraq invasion",
+		"text_description": "<p>Both ABS-CBN and GMA send journalists to cover the US invasion of Iraq.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2003,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4193",
+		"article_id": 4193,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2003 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4194,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2003 Broadcast Meteor Garden",
+		"text_description": "<p>The Chinese telenovela <em>Meteor Garden</em> airs on ABS-CBN. Other chinovelas from Taiwan and koreanovelas from South Korea follow.</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 5,
+		"start_year": 2003,
+		"end_month": 5,
+		"end_day": 5,
+		"end_year": 5,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4194",
+		"article_id": 4194,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 5, "year": 2003 }
+			},
+			{ "type": "end_date", "value": { "month": 5, "day": 5, "year": 5 } }
+		]
+	},
+	{
+		"timeline_id": 4195,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2003 Broadcast PLDT",
+		"text_description": "<p>A group led by Antonio Cojuangco Jr, former chair of the Philippine Long Distance Telephone Company (PLDT) and owner of Dream Satellite Broadcasting, acquires ABC. He retains ownership of Dream FM Network, but later sells it to Ultrasonic Broadcasting System.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 0,
+		"start_year": 2003,
+		"end_month": 0,
+		"end_day": 10,
+		"end_year": 10,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4195",
+		"article_id": 4195,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 0, "year": 2003 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 10, "year": 10 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4197,
+		"media_caption": "<p>GMA Pinoy TV Logo, 2005-2011</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Franz Anthony Copina, Russel Wiki</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "2004 Broadcast GMA Pinoy TV",
+		"text_description": "<p>GMA launches its first international channel, GMA Pinoy TV. (Photo from Franz Anthony Copina, Russel Wiki)</p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 14,
+		"start_year": 2004,
+		"end_month": 14,
+		"end_day": 2,
+		"end_year": 2,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4197",
+		"article_id": 4197,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 14, "year": 2004 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 14, "day": 2, "year": 2 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4198,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2005 Broadcast Channel Q",
+		"text_description": "<p>GMA CityNet changes its name to Channel Q, a lifestyle channel for women.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2005,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4198",
+		"article_id": 4198,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2005 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4199,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2005 Broadcast Wan Dey",
+		"text_description": "<p>The CCP produces the children&rsquo;s radio show <em>Wan Dey Isang Araw</em> on DZAS.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2005,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4199",
+		"article_id": 4199,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2005 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4200,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2005 Broadcast Pinoy Klasiks",
+		"text_description": "<p>The radio drama <em>Pinoy Klasiks</em>, based on Filipino literary classics, airs on DZAS.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2005,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4200",
+		"article_id": 4200,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2005 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 4201,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2005 Broadcast Hero TV",
+		"text_description": "<p>ABS-CBN establishes Hero TV channel on SKYcable.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 1,
+		"start_year": 2005,
+		"end_month": 1,
+		"end_day": 10,
+		"end_year": 10,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4201",
+		"article_id": 4201,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 1, "year": 2005 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 1, "day": 10, "year": 10 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4196,
+		"media_caption": "<p><em>Wowowee</em> logo, 2005-2006</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Aries Andres</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "2006 Broadcast Wowowee",
+		"text_description": "<p> A stampede of mostly impoverished 30,000 fans at the entrance of the Philippine Sports Stadium on the anniversary of the television game show <em>Wowowee</em> kills 73 and injures 392. (Photo from Aries Andres)</p>",
+		"category": 4,
+		"start_month": 2,
+		"start_day": 4,
+		"start_year": 2006,
+		"end_month": 4,
+		"end_day": 2,
+		"end_year": 2,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4196",
+		"article_id": 4196,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 2, "day": 4, "year": 2006 }
+			},
+			{ "type": "end_date", "value": { "month": 4, "day": 2, "year": 2 } }
+		]
+	},
+	{
+		"timeline_id": 4202,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2007 Broadcast DZMM",
+		"text_description": "<p>ABS-CBN merges radio and television through DZMM Teleradyo on SKYCable.</p>",
+		"category": 4,
+		"start_month": 4,
+		"start_day": 12,
+		"start_year": 2007,
+		"end_month": 12,
+		"end_day": 4,
+		"end_year": 4,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4202",
+		"article_id": 4202,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 4, "day": 12, "year": 2007 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 12, "day": 4, "year": 4 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4203,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2008 Broadcast TV5",
+		"text_description": "<p>ABC relaunches as TV5 under ABC Development Corporation.</p>",
+		"category": 4,
+		"start_month": 10,
+		"start_day": 0,
+		"start_year": 2008,
+		"end_month": 0,
+		"end_day": 10,
+		"end_year": 10,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4203",
+		"article_id": 4203,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 10, "day": 0, "year": 2008 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 10, "year": 10 }
+			}
+		]
+	},
+	{
+		"timeline_id": 4204,
+		"media_caption": "<p>TV5 Logo, 2008</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Aries Andres</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "2009 Broadcast Kapatid Network",
+		"text_description": "<p>Antonio Cojuangco's group sells its share to PLDT’s broadcasting division, Media Quest Holdings Incorporated, owned by Manuel V Pangilinan. TV5 is rebranded as the Kapatid network while its radio station is branded as Radyo Singko.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2009,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "4204",
+		"article_id": 4204,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2009 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1711,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2010 Broadcast Media Quest",
+		"text_description": "<p>Media Quest shifts FM programming from mainly music to news and talk, a format traditionally used in AM radio.</p>",
+		"category": 4,
+		"start_month": 11,
+		"start_day": 28,
+		"start_year": 2010,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1711",
+		"article_id": 1711,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 11, "day": 28, "year": 2010 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1707,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2011 Broadcast GMA News TV",
+		"text_description": "<p>GMA News TV Channel 27 replaces QTV-11 and Channel Q.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2011,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1707",
+		"article_id": 1707,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2011 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1708,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2011 Broadcast WIlling Willie",
+		"text_description": "<p>The \"macho dance\" controversy involving a minor on the <em>Willing Willie</em> show on ABC 5 sparks outrage among activist groups and ordinary citizens.</p>",
+		"category": 4,
+		"start_month": 3,
+		"start_day": 12,
+		"start_year": 2011,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1708",
+		"article_id": 1708,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 3, "day": 12, "year": 2011 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1709,
+		"media_caption": "<p>Seal of the National Telecommunications Commission of the Philippines, 2017</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "2011 Broadcast NTC",
+		"text_description": "<p>Pres Aquino puts the National Telecommunications Commission under the Office of the President.</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 23,
+		"start_year": 2011,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1709",
+		"article_id": 1709,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 23, "year": 2011 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1710,
+		"media_caption": null,
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "2011 Broadcast PTV4",
+		"text_description": "<p>NBN re-introduces its brand name People's Television or PTV4.</p>",
+		"category": 4,
+		"start_month": 8,
+		"start_day": 0,
+		"start_year": 2011,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1710",
+		"article_id": 1710,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 8, "day": 0, "year": 2011 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1680,
+		"media_caption": "<p>MTRCB program classifications for movie and television/p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from MTRCB</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "2012 Broadcast SPG classification",
+		"text_description": "<p>The MTRCB adds the SPG (Striktong Patnubay at Gabay, or Strict Parental Guidance) classification to TV programs. (Photo from MTRCB)</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2012,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1680",
+		"article_id": 1680,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2012 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1681,
+		"media_caption": "<p>Cignal Digital TV logo, 2009-2013</p>",
+		"show_caption": "FALSE",
+		"media_credit": null,
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "2012 Broadcast Cignal",
+		"text_description": "<p>TV5 partners with Cignal Digital TV for cable and satellite TV, including the channels Colours for lifestyle and reality shows, Hyper for sports and entertainment, and Bloomberg TV, a business news channel. TV 5 archives and airs programs on Fox Filipino.</p>",
+		"category": 4,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2012,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1681",
+		"article_id": 1681,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2012 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1675,
+		"media_caption": "<p>MTRCB, headed by its chair, Eugenio Villareal, center, imposing strict measures on <em>Pinoy Big Brother</em> to protect minor housemates, 2015</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from MTRCB</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "2014 Broadcast MTRCB PBB",
+		"text_description": "<p>The MTRCB orders ABS-CBN to attend a mandatory conference on gender sensitivity following the condemnation by the Philippine Commission on Women of the June 4 episode of the reality show <em>Pinoy Big Brother: All In</em>, where program participants are instructed to participate in a nude painting activity. (Photo from MTRCB)</p>",
+		"category": 4,
+		"start_month": 6,
+		"start_day": 11,
+		"start_year": 2014,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1675",
+		"article_id": 1675,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 6, "day": 11, "year": 2014 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 1673,
+		"media_caption": null,
+		"show_caption": null,
+		"media_credit": null,
+		"show_credit": null,
+		"text_headline": null,
+		"article_title": "2015 Broadcast The Rich Man's Daughter",
+		"text_description": "<p><em>The Rich Man's Daughter</em>, a telenovela on lesbian characters, airs on GMA7.</p>",
+		"category": 4,
+		"start_month": 5,
+		"start_day": 11,
+		"start_year": 2015,
+		"end_month": 0,
+		"end_day": 0,
+		"end_year": 0,
+		"media_url": null,
+		"shorten_media": null,
+		"display_name": null,
+		"photo_id": null,
+		"url": "1673",
+		"article_id": 1673,
+		"photo_name": null,
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 5, "day": 11, "year": 2015 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

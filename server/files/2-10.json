@@ -9,44 +9,40 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>Baguio City Hall, ca 1925</p>\r\n\r\n<p>(Ben Cabrera Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Prewar Pines Hotel</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Kennon Road to Baguio, popularly known as the Zigzag, ca 1915</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Cathedral of Our Lady of the Atonement</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>American-period Mirador Hill</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 459,
 				"desc": "<p>Houses in Teachers Camp</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 457,
 				"desc": "<p>Prewar Mansion House</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>American-period Baguio Market</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+				"photo": 456,
+				"desc": "<p>Prewar cottages in Camp John Hay</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 464,
+				"desc": "<p>American-period Mirador Hill</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 463,
 				"desc": "<p>Dominican Hill</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Prewar cottages in Camp John Hay</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+				"photo": 462,
+				"desc": "<p>Cathedral of Our Lady of the Atonement</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+			},
+			{
+				"photo": 461,
+				"desc": "<p>American-period Baguio Market</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 460,
+				"desc": "<p>Baguio City Hall, ca 1925</p>\r\n\r\n<p>(Ben Cabrera Collection)</p>\r\n"
+			},
+			{
+				"photo": 458,
+				"desc": "<p>Prewar Pines Hotel</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -68,44 +64,40 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Baguio City Hall, ca 1925</p>\r\n\r\n<p>(Ben Cabrera Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Prewar Pines Hotel</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Kennon Road to Baguio, popularly known as the Zigzag, ca 1915</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Cathedral of Our Lady of the Atonement</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>American-period Mirador Hill</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 459,
 						"desc": "<p>Houses in Teachers Camp</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 457,
 						"desc": "<p>Prewar Mansion House</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>American-period Baguio Market</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+						"photo": 456,
+						"desc": "<p>Prewar cottages in Camp John Hay</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 464,
+						"desc": "<p>American-period Mirador Hill</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 463,
 						"desc": "<p>Dominican Hill</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Prewar cottages in Camp John Hay</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+						"photo": 462,
+						"desc": "<p>Cathedral of Our Lady of the Atonement</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 461,
+						"desc": "<p>American-period Baguio Market</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 460,
+						"desc": "<p>Baguio City Hall, ca 1925</p>\r\n\r\n<p>(Ben Cabrera Collection)</p>\r\n"
+					},
+					{
+						"photo": 458,
+						"desc": "<p>Prewar Pines Hotel</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					}
 				]
 			},
@@ -133,44 +125,40 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Baguio City Hall, ca 1925</p>\r\n\r\n<p>(Ben Cabrera Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Prewar Pines Hotel</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Kennon Road to Baguio, popularly known as the Zigzag, ca 1915</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Cathedral of Our Lady of the Atonement</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>American-period Mirador Hill</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 459,
 						"desc": "<p>Houses in Teachers Camp</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 457,
 						"desc": "<p>Prewar Mansion House</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>American-period Baguio Market</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+						"photo": 456,
+						"desc": "<p>Prewar cottages in Camp John Hay</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 464,
+						"desc": "<p>American-period Mirador Hill</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 463,
 						"desc": "<p>Dominican Hill</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Prewar cottages in Camp John Hay</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+						"photo": 462,
+						"desc": "<p>Cathedral of Our Lady of the Atonement</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 461,
+						"desc": "<p>American-period Baguio Market</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 460,
+						"desc": "<p>Baguio City Hall, ca 1925</p>\r\n\r\n<p>(Ben Cabrera Collection)</p>\r\n"
+					},
+					{
+						"photo": 458,
+						"desc": "<p>Prewar Pines Hotel</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					}
 				]
 			},
@@ -392,12 +380,10 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Gutierrez, Chi Balmaceda, Jack Kintanar Cari&#xF1;o, eds. 2009. <i>The Baguio Centennial Yearbook</i>. Baguio City: Heritage Promotions."
+						"source": "Gutierrez, Chi Balmaceda, Jack Kintanar Cari&#xF1;o, eds. 2009. <i>The Baguio Centennial Yearbook</i>. Baguio City: Heritage Promotions."
 					},
 					{
-						"type": "text",
-						"value": "Reed, Robert R. 1999. <em>City of Pines: The Origins of a Colonial Hill Station and Regional Capital</em>. Baguio City: A-Seven Publishing."
+						"source": "Reed, Robert R. 1999. <em>City of Pines: The Origins of a Colonial Hill Station and Regional Capital</em>. Baguio City: A-Seven Publishing."
 					}
 				]
 			}
@@ -413,32 +399,32 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>Hotel de Oriente</p>\r\n\r\n<p>(Colorized by Eduardo S. Sison, John Tewell Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>El Hogar building by the Pasig River</p>\r\n\r\n<p>(<i>A Philippine Album: American Era Photographs 1900-1930</i> by Jonathan Best, The Bookmark, Inc, 1998)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 466,
 				"desc": "<p>Binondo canal, Manila, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>La Insular Cigar Factory, ca 1920</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 467,
 				"desc": "<p>Shop houses with overhanging balconies and <i>toldas</i> on Calle Rosario, now Quintin Paredes, in Manila&rsquo;s Chinatown</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Church of Nuestra Se&ntilde;ora del Rosario, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+				"photo": 468,
+				"desc": "<p>Binondo canal, Manila, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Binondo canal, Manila, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+				"photo": 469,
+				"desc": "<p>La Insular Cigar Factory, ca 1920</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
+			},
+			{
+				"photo": 470,
+				"desc": "<p>Hotel de Oriente</p>\r\n\r\n<p>(Colorized by Eduardo S. Sison, John Tewell Collection)</p>\r\n"
+			},
+			{
+				"photo": 471,
+				"desc": "<p>El Hogar building by the Pasig River</p>\r\n\r\n<p>(<i>A Philippine Album: American Era Photographs 1900-1930</i> by Jonathan Best, The Bookmark, Inc, 1998)</p>\r\n"
+			},
+			{
+				"photo": 465,
+				"desc": "<p>Church of Nuestra Se&ntilde;ora del Rosario, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -456,32 +442,32 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Hotel de Oriente</p>\r\n\r\n<p>(Colorized by Eduardo S. Sison, John Tewell Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>El Hogar building by the Pasig River</p>\r\n\r\n<p>(<i>A Philippine Album: American Era Photographs 1900-1930</i> by Jonathan Best, The Bookmark, Inc, 1998)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 466,
 						"desc": "<p>Binondo canal, Manila, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>La Insular Cigar Factory, ca 1920</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 467,
 						"desc": "<p>Shop houses with overhanging balconies and <i>toldas</i> on Calle Rosario, now Quintin Paredes, in Manila&rsquo;s Chinatown</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Church of Nuestra Se&ntilde;ora del Rosario, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+						"photo": 468,
+						"desc": "<p>Binondo canal, Manila, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Binondo canal, Manila, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+						"photo": 469,
+						"desc": "<p>La Insular Cigar Factory, ca 1920</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
+					},
+					{
+						"photo": 470,
+						"desc": "<p>Hotel de Oriente</p>\r\n\r\n<p>(Colorized by Eduardo S. Sison, John Tewell Collection)</p>\r\n"
+					},
+					{
+						"photo": 471,
+						"desc": "<p>El Hogar building by the Pasig River</p>\r\n\r\n<p>(<i>A Philippine Album: American Era Photographs 1900-1930</i> by Jonathan Best, The Bookmark, Inc, 1998)</p>\r\n"
+					},
+					{
+						"photo": 465,
+						"desc": "<p>Church of Nuestra Se&ntilde;ora del Rosario, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
 					}
 				]
 			},
@@ -505,8 +491,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Hotel de Oriente</p>\r\n\r\n<p>(Colorized by Eduardo S. Sison, John Tewell Collection)</p>\r\n"
+						"photo": 466,
+						"desc": "<p>Binondo canal, Manila, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					}
 				]
 			},
@@ -627,24 +613,19 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Alarcon, Norma. 1991. <i>Philippine Architecture during the</i> <i>Pre-Spanish and</i> <i>Spanish Periods</i>.<i> </i>Manila: Santo Tomas University Press."
+						"source": "Alarcon, Norma. 1991. <i>Philippine Architecture during the</i> <i>Pre-Spanish and</i> <i>Spanish Periods</i>.<i> </i>Manila: Santo Tomas University Press."
 					},
 					{
-						"type": "text",
-						"value": "Chu, Richard T. 2009. <i>Chinese and Chinese Mestizos of Manila: Family, Identity, and Culture, 1860s-1930s.<b> </b></i>Mandaluyong: Anvil Publishing, Inc."
+						"source": "Chu, Richard T. 2009. <i>Chinese and Chinese Mestizos of Manila: Family, Identity, and Culture, 1860s-1930s.<b> </b></i>Mandaluyong: Anvil Publishing, Inc."
 					},
 					{
-						"type": "text",
-						"value": "&#x2014;&#x2014;&#x2014;. 2010. <i>Chinese Merchants of Binondo in the Nineteenth Century.</i> Manila: Santo Tomas University Publishing House."
+						"source": "&#x2014;&#x2014;&#x2014;. 2010. <i>Chinese Merchants of Binondo in the Nineteenth Century.</i> Manila: Santo Tomas University Publishing House."
 					},
 					{
-						"type": "text",
-						"value": "De Viana, Lorelei D. C. 2001. <i>Three Centuries of Binondo Architecture 1594-1898: A Socio-Historical Perspective</i>. Manila: University of Santo Tomas Publishing House."
+						"source": "De Viana, Lorelei D. C. 2001. <i>Three Centuries of Binondo Architecture 1594-1898: A Socio-Historical Perspective</i>. Manila: University of Santo Tomas Publishing House."
 					},
 					{
-						"type": "text",
-						"value": "&#x2014;&#x2014;&#x2014;. 2011. <i>Manila: Selected Papers of 19th Annual Manila Studies Conference.</i> Manila: National Commission for Culture and the Arts."
+						"source": "&#x2014;&#x2014;&#x2014;. 2011. <i>Manila: Selected Papers of 19th Annual Manila Studies Conference.</i> Manila: National Commission for Culture and the Arts."
 					}
 				]
 			}
@@ -660,32 +641,32 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
+				"photo": 472,
 				"desc": "<p>Exterior of the Church of Santa Catalina de Alejandria, 2003</p>\r\n\r\n<p>(Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 478,
 				"desc": "<p>Kiosk at a rotunda in Carcar</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Detail of colored glass window arch, Carcar Museum, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+				"photo": 477,
+				"desc": "<p>Don Mariano Mercado House, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 476,
 				"desc": "<p>Staircase of Saint Catherine&rsquo;s Academy, 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Interior of Carcar Church, 2003</p>\r\n\r\n<p>(Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection)</p>\r\n"
+				"photo": 475,
+				"desc": "<p>Detail of colored glass window arch, Carcar Museum, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 474,
 				"desc": "<p>The dispensary in Carcar, now a museum, 2016</p>\r\n\r\n<p>(Karl Alfred Jamandre)</p>\r\n\r\n<p>&nbsp;</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Don Mariano Mercado House, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+				"photo": 473,
+				"desc": "<p>Interior of Carcar Church, 2003</p>\r\n\r\n<p>(Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -703,32 +684,32 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
+						"photo": 472,
 						"desc": "<p>Exterior of the Church of Santa Catalina de Alejandria, 2003</p>\r\n\r\n<p>(Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 478,
 						"desc": "<p>Kiosk at a rotunda in Carcar</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Detail of colored glass window arch, Carcar Museum, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+						"photo": 477,
+						"desc": "<p>Don Mariano Mercado House, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 476,
 						"desc": "<p>Staircase of Saint Catherine&rsquo;s Academy, 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Interior of Carcar Church, 2003</p>\r\n\r\n<p>(Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection)</p>\r\n"
+						"photo": 475,
+						"desc": "<p>Detail of colored glass window arch, Carcar Museum, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 474,
 						"desc": "<p>The dispensary in Carcar, now a museum, 2016</p>\r\n\r\n<p>(Karl Alfred Jamandre)</p>\r\n\r\n<p>&nbsp;</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Don Mariano Mercado House, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+						"photo": 473,
+						"desc": "<p>Interior of Carcar Church, 2003</p>\r\n\r\n<p>(Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection)</p>\r\n"
 					}
 				]
 			},
@@ -769,7 +750,7 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
+						"photo": 472,
 						"desc": "<p>Exterior of the Church of Santa Catalina de Alejandria, 2003</p>\r\n\r\n<p>(Photo by Betty Lalana and Lino Arboleda, Ortigas Foundation Library Collection)</p>\r\n"
 					}
 				]
@@ -838,8 +819,7 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Aleonar, V.P. 2015. <i>Carcar Families: A Genealogy Blog for Carcar</i>. Accessed 12 May. http://carcarfamilies.wordpress.com"
+						"source": "Aleonar, V.P. 2015. <i>Carcar Families: A Genealogy Blog for Carcar</i>. Accessed 12 May. http://carcarfamilies.wordpress.com"
 					}
 				]
 			}
@@ -855,52 +835,52 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>Calle Colon, early 1900s</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Basilica Minore of the Santo Ni&ntilde;o</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Kiosk of Magellan&rsquo;s Cross</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>View of Osme&ntilde;a Ave with the Rizal Library, left, and the Cebu Provincial Capitol at far end, ca 1950</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Prewar Colegio Seminario de San Carlos</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 487,
 				"desc": "<p>Prewar San Nicolas de Tolentino Church</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 486,
 				"desc": "<p>Prewar Gotiaoco Building</p>\r\n\r\n<p>(Sugbu Chinese Heritage Museum, Ortigas Foundation Library Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Cathedral Museum of Cebu, 2013</p>\r\n\r\n<p>(Constantine Agustin)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Cebu Cathedral</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Fuente Osme&ntilde;a at midtown Cebu, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 485,
 				"desc": "<p>Yap-Sandiego Ancestral House, 2004</p>\r\n\r\n<p>(Wikimedia Commons)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 489,
+				"desc": "<p>Fuente Osme&ntilde;a at midtown Cebu, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+			},
+			{
+				"photo": 490,
+				"desc": "<p>View of Osme&ntilde;a Ave with the Rizal Library, left, and the Cebu Provincial Capitol at far end, ca 1950</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 488,
+				"desc": "<p>Prewar Colegio Seminario de San Carlos</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
+			},
+			{
+				"photo": 484,
+				"desc": "<p>Cathedral Museum of Cebu, 2013</p>\r\n\r\n<p>(Constantine Agustin)</p>\r\n"
+			},
+			{
+				"photo": 483,
+				"desc": "<p>Cebu Cathedral</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
+			},
+			{
+				"photo": 482,
 				"desc": "<p>Fort San Pedro</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+			},
+			{
+				"photo": 481,
+				"desc": "<p>Basilica Minore of the Santo Ni&ntilde;o</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
+			},
+			{
+				"photo": 480,
+				"desc": "<p>Kiosk of Magellan&rsquo;s Cross</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
+			},
+			{
+				"photo": 479,
+				"desc": "<p>Calle Colon, early 1900s</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -918,52 +898,52 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Calle Colon, early 1900s</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Basilica Minore of the Santo Ni&ntilde;o</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Kiosk of Magellan&rsquo;s Cross</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>View of Osme&ntilde;a Ave with the Rizal Library, left, and the Cebu Provincial Capitol at far end, ca 1950</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Prewar Colegio Seminario de San Carlos</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 487,
 						"desc": "<p>Prewar San Nicolas de Tolentino Church</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 486,
 						"desc": "<p>Prewar Gotiaoco Building</p>\r\n\r\n<p>(Sugbu Chinese Heritage Museum, Ortigas Foundation Library Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Cathedral Museum of Cebu, 2013</p>\r\n\r\n<p>(Constantine Agustin)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Cebu Cathedral</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Fuente Osme&ntilde;a at midtown Cebu, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 485,
 						"desc": "<p>Yap-Sandiego Ancestral House, 2004</p>\r\n\r\n<p>(Wikimedia Commons)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 489,
+						"desc": "<p>Fuente Osme&ntilde;a at midtown Cebu, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 490,
+						"desc": "<p>View of Osme&ntilde;a Ave with the Rizal Library, left, and the Cebu Provincial Capitol at far end, ca 1950</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 488,
+						"desc": "<p>Prewar Colegio Seminario de San Carlos</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
+					},
+					{
+						"photo": 484,
+						"desc": "<p>Cathedral Museum of Cebu, 2013</p>\r\n\r\n<p>(Constantine Agustin)</p>\r\n"
+					},
+					{
+						"photo": 483,
+						"desc": "<p>Cebu Cathedral</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
+					},
+					{
+						"photo": 482,
 						"desc": "<p>Fort San Pedro</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 481,
+						"desc": "<p>Basilica Minore of the Santo Ni&ntilde;o</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
+					},
+					{
+						"photo": 480,
+						"desc": "<p>Kiosk of Magellan&rsquo;s Cross</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
+					},
+					{
+						"photo": 479,
+						"desc": "<p>Calle Colon, early 1900s</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
 					}
 				]
 			},
@@ -1116,52 +1096,52 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Calle Colon, early 1900s</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Basilica Minore of the Santo Ni&ntilde;o</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Kiosk of Magellan&rsquo;s Cross</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>View of Osme&ntilde;a Ave with the Rizal Library, left, and the Cebu Provincial Capitol at far end, ca 1950</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Prewar Colegio Seminario de San Carlos</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 487,
 						"desc": "<p>Prewar San Nicolas de Tolentino Church</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 486,
 						"desc": "<p>Prewar Gotiaoco Building</p>\r\n\r\n<p>(Sugbu Chinese Heritage Museum, Ortigas Foundation Library Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Cathedral Museum of Cebu, 2013</p>\r\n\r\n<p>(Constantine Agustin)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Cebu Cathedral</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Fuente Osme&ntilde;a at midtown Cebu, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 485,
 						"desc": "<p>Yap-Sandiego Ancestral House, 2004</p>\r\n\r\n<p>(Wikimedia Commons)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 489,
+						"desc": "<p>Fuente Osme&ntilde;a at midtown Cebu, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 490,
+						"desc": "<p>View of Osme&ntilde;a Ave with the Rizal Library, left, and the Cebu Provincial Capitol at far end, ca 1950</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 488,
+						"desc": "<p>Prewar Colegio Seminario de San Carlos</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
+					},
+					{
+						"photo": 484,
+						"desc": "<p>Cathedral Museum of Cebu, 2013</p>\r\n\r\n<p>(Constantine Agustin)</p>\r\n"
+					},
+					{
+						"photo": 483,
+						"desc": "<p>Cebu Cathedral</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
+					},
+					{
+						"photo": 482,
 						"desc": "<p>Fort San Pedro</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 481,
+						"desc": "<p>Basilica Minore of the Santo Ni&ntilde;o</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
+					},
+					{
+						"photo": 480,
+						"desc": "<p>Kiosk of Magellan&rsquo;s Cross</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
+					},
+					{
+						"photo": 479,
+						"desc": "<p>Calle Colon, early 1900s</p>\r\n\r\n<p>(Cebuano Studies Center, University of San Carlos)</p>\r\n"
 					}
 				]
 			},
@@ -1208,32 +1188,25 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Bersales, Jose Eleazar R., ed. 2010. <i>Balaanong Bahandi: Sacred Treasures of the Archdiocese of Cebu</i>. Cebu: The Cathedral Museum of Cebu and University of San Carlos Press."
+						"source": "Bersales, Jose Eleazar R., ed. 2010. <i>Balaanong Bahandi: Sacred Treasures of the Archdiocese of Cebu</i>. Cebu: The Cathedral Museum of Cebu and University of San Carlos Press."
 					},
 					{
-						"type": "text",
-						"value": "Cullinane, Michael. 2013. <i>The Parian of Cebu: A Historical Overview, 1565-1898</i>. Cebu: Ramon Aboitiz Foundation, Inc."
+						"source": "Cullinane, Michael. 2013. <i>The Parian of Cebu: A Historical Overview, 1565-1898</i>. Cebu: Ramon Aboitiz Foundation, Inc."
 					},
 					{
-						"type": "text",
-						"value": "Fenner, Bruce L. (1985) 2014. <i>Cebu Under the Spanish Flag (1521-1896): An Economic and Social History</i>. Cebu: University of San Carlos Press."
+						"source": "Fenner, Bruce L. (1985) 2014. <i>Cebu Under the Spanish Flag (1521-1896): An Economic and Social History</i>. Cebu: University of San Carlos Press."
 					},
 					{
-						"type": "text",
-						"value": "Lico, Gerard. 2008. <i>Arkitekturang Filipino: A History of Architecture and Urbanism in the Philippines. </i>Quezon City: University of the Philippines Press."
+						"source": "Lico, Gerard. 2008. <i>Arkitekturang Filipino: A History of Architecture and Urbanism in the Philippines. </i>Quezon City: University of the Philippines Press."
 					},
 					{
-						"type": "text",
-						"value": "Miller, Lucy Urgello. 2010. <i>Glimpses of Old Cebu: Images of the Colonial Era</i>. Cebu City: University of San Carlos Press."
+						"source": "Miller, Lucy Urgello. 2010. <i>Glimpses of Old Cebu: Images of the Colonial Era</i>. Cebu City: University of San Carlos Press."
 					},
 					{
-						"type": "text",
-						"value": "Redondo, Felipe Sendino. 2014. <i>A Brief Survey of What was and What is the Diocese of Cebu in the Philippine Islands</i>. Translated by Azucena L. Pace. Cebu: University of San Carlos Press."
+						"source": "Redondo, Felipe Sendino. 2014. <i>A Brief Survey of What was and What is the Diocese of Cebu in the Philippine Islands</i>. Translated by Azucena L. Pace. Cebu: University of San Carlos Press."
 					},
 					{
-						"type": "text",
-						"value": "Villalon, Augusto. 2001. <i>Lugar: Essays on Philippine Heritage and Architecture.</i> Makati: Bookmark, Inc."
+						"source": "Villalon, Augusto. 2001. <i>Lugar: Essays on Philippine Heritage and Architecture.</i> Makati: Bookmark, Inc."
 					}
 				]
 			}
@@ -1249,20 +1222,20 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>Casa Redonda, rebuilt according to the plans of the original octagonal hut by Jose Rizal</p>\r\n\r\n<p>(Carmelo Bayarcal)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 493,
 				"desc": "<p>Church of Santiago</p>\r\n\r\n<p>(Carmelo Bayarcal)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 491,
+				"desc": "<p>View of Dapitan</p>\r\n\r\n<p>(Colorized by Kiko del Rosario, <i>Philippine Picture Post Cards: 1900-1920</i> by Jonathan Best,&nbsp;The Bookmark, Inc, 1994)</p>\r\n"
+			},
+			{
+				"photo": 492,
 				"desc": "<p>Aniano Adasa Residence, now Department of Tourism office, 2014</p>\r\n\r\n<p>(Jeffy Tomarong)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>View of Dapitan</p>\r\n\r\n<p>(Colorized by Kiko del Rosario, <i>Philippine Picture Post Cards: 1900-1920</i> by Jonathan Best,&nbsp;The Bookmark, Inc, 1994)</p>\r\n"
+				"photo": 494,
+				"desc": "<p>Casa Redonda, rebuilt according to the plans of the original octagonal hut by Jose Rizal</p>\r\n\r\n<p>(Carmelo Bayarcal)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -1280,8 +1253,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Casa Redonda, rebuilt according to the plans of the original octagonal hut by Jose Rizal</p>\r\n\r\n<p>(Carmelo Bayarcal)</p>\r\n"
+						"photo": 493,
+						"desc": "<p>Church of Santiago</p>\r\n\r\n<p>(Carmelo Bayarcal)</p>\r\n"
 					}
 				]
 			},
@@ -1317,8 +1290,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Church of Santiago</p>\r\n\r\n<p>(Carmelo Bayarcal)</p>\r\n"
+						"photo": 491,
+						"desc": "<p>View of Dapitan</p>\r\n\r\n<p>(Colorized by Kiko del Rosario, <i>Philippine Picture Post Cards: 1900-1920</i> by Jonathan Best,&nbsp;The Bookmark, Inc, 1994)</p>\r\n"
 					}
 				]
 			},
@@ -1346,7 +1319,7 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
+						"photo": 492,
 						"desc": "<p>Aniano Adasa Residence, now Department of Tourism office, 2014</p>\r\n\r\n<p>(Jeffy Tomarong)</p>\r\n"
 					}
 				]
@@ -1377,40 +1350,40 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>West entrance of Escolta, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 496,
 				"desc": "<p>Plaza Goiti at the back of the Santa Cruz Church, with streetcars on the right, and, on the left, the Grecian temple-inspired building, later to be incorporated into the Don Roman Santos Building</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Escolta Street looking down from Escolta Bridge, showing the Regina Building on the left, and in front of it, the Perez-Samanillo Building on the right</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Prewar Escolta Street with cars, <i>tranvia</i> or streetcar, and horse-drawn <i>caretela</i></p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Lyric Theater on the left with Santa Cruz Church at the far end</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 503,
 				"desc": "<p>Clarke&rsquo;s Ice Cream Parlor, left, on Plaza Moraga after the rain</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>The Filipinas Insurance Company Building, left, and Mariano Uy-Chaco Building with the American flag, ca 1920</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+				"photo": 502,
+				"desc": "<p>Lyric Theater on the left with Santa Cruz Church at the far end</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 501,
+				"desc": "<p>Commercial buildings on Escolta street, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 500,
 				"desc": "<p>Escolta Ice Cream Parlor, ca 1920</p>\r\n\r\n<p>(Lou Gopal, www.manilanostalgia.com)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Commercial buildings on Escolta street, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+				"photo": 499,
+				"desc": "<p>The Filipinas Insurance Company Building, left, and Mariano Uy-Chaco Building with the American flag, ca 1920</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+			},
+			{
+				"photo": 498,
+				"desc": "<p>West entrance of Escolta, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 497,
+				"desc": "<p>Escolta Street looking down from Escolta Bridge, showing the Regina Building on the left, and in front of it, the Perez-Samanillo Building on the right</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
+			},
+			{
+				"photo": 495,
+				"desc": "<p>Prewar Escolta Street with cars, <i>tranvia</i> or streetcar, and horse-drawn <i>caretela</i></p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -1428,40 +1401,40 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>West entrance of Escolta, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 496,
 						"desc": "<p>Plaza Goiti at the back of the Santa Cruz Church, with streetcars on the right, and, on the left, the Grecian temple-inspired building, later to be incorporated into the Don Roman Santos Building</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Escolta Street looking down from Escolta Bridge, showing the Regina Building on the left, and in front of it, the Perez-Samanillo Building on the right</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Prewar Escolta Street with cars, <i>tranvia</i> or streetcar, and horse-drawn <i>caretela</i></p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Lyric Theater on the left with Santa Cruz Church at the far end</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 503,
 						"desc": "<p>Clarke&rsquo;s Ice Cream Parlor, left, on Plaza Moraga after the rain</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>The Filipinas Insurance Company Building, left, and Mariano Uy-Chaco Building with the American flag, ca 1920</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+						"photo": 502,
+						"desc": "<p>Lyric Theater on the left with Santa Cruz Church at the far end</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 501,
+						"desc": "<p>Commercial buildings on Escolta street, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 500,
 						"desc": "<p>Escolta Ice Cream Parlor, ca 1920</p>\r\n\r\n<p>(Lou Gopal, www.manilanostalgia.com)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Commercial buildings on Escolta street, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+						"photo": 499,
+						"desc": "<p>The Filipinas Insurance Company Building, left, and Mariano Uy-Chaco Building with the American flag, ca 1920</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 498,
+						"desc": "<p>West entrance of Escolta, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 497,
+						"desc": "<p>Escolta Street looking down from Escolta Bridge, showing the Regina Building on the left, and in front of it, the Perez-Samanillo Building on the right</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
+					},
+					{
+						"photo": 495,
+						"desc": "<p>Prewar Escolta Street with cars, <i>tranvia</i> or streetcar, and horse-drawn <i>caretela</i></p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
 					}
 				]
 			},
@@ -1473,8 +1446,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>West entrance of Escolta, ca 1920</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+						"photo": 496,
+						"desc": "<p>Plaza Goiti at the back of the Santa Cruz Church, with streetcars on the right, and, on the left, the Grecian temple-inspired building, later to be incorporated into the Don Roman Santos Building</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
 					}
 				]
 			},
@@ -1498,8 +1471,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Plaza Goiti at the back of the Santa Cruz Church, with streetcars on the right, and, on the left, the Grecian temple-inspired building, later to be incorporated into the Don Roman Santos Building</p>\r\n\r\n<p>(Edward Delos Santos/Pinoy Kollektor)</p>\r\n"
+						"photo": 503,
+						"desc": "<p>Clarke&rsquo;s Ice Cream Parlor, left, on Plaza Moraga after the rain</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					}
 				]
 			},
@@ -1608,16 +1581,13 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Gopal, Lou. 2015a. <i>Manila Nostalgia</i>. Accessed 21 Mar. http://www.lougopal.com/manila/"
+						"source": "Gopal, Lou. 2015a. <i>Manila Nostalgia</i>. Accessed 21 Mar. http://www.lougopal.com/manila/"
 					},
 					{
-						"type": "text",
-						"value": "Ira, Luning B. 1977. <i>Streets of Manila</i>. Photographs by Nik Ricio. Contributors, Isagani Medina and Nik Ricio. Manila: GCF Books."
+						"source": "Ira, Luning B. 1977. <i>Streets of Manila</i>. Photographs by Nik Ricio. Contributors, Isagani Medina and Nik Ricio. Manila: GCF Books."
 					},
 					{
-						"type": "text",
-						"value": "Lico, Gerard. 2008. <i>Arkitekturang Filipino: A History of Architecture and Urbanism in the Philippines. </i>Quezon City: University of the Philippines Press."
+						"source": "Lico, Gerard. 2008. <i>Arkitekturang Filipino: A History of Architecture and Urbanism in the Philippines. </i>Quezon City: University of the Philippines Press."
 					}
 				]
 			}
@@ -1633,48 +1603,48 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>Prewar Jaro bell tower</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Iloilo Provincial Capitol, ca 1915</p>\r\n\r\n<p>(Nereo Cajilig Luj&aacute;n Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Prewar Iloilo Customs Building</p>\r\n\r\n<p>(Franz Jereza Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Sanson y Montinola House, 2013</p>\r\n\r\n<p>(Constantine Agustin)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>View of prewar Iloilo City</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>American-period street scene in Iloilo</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>American-period Colegio de San Agustin</p>\r\n\r\n<p>(Nereo Cajilig Luj&aacute;n Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Former city hall of Iloilo, now the University of the Philippines Visayas</p>\r\n\r\n<p>(<i>The University of the Philippines: A University for Filipinos</i>, edited by Gloria D. Feliciano, Diamond Jubilee Presidential Commission, 1984)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>San Jose de Placer Church and Lacson House in the foreground, ca 1920</p>\r\n\r\n<p>(Franz Jereza Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 514,
 				"desc": "<p>Molo Church, ca 1990, a neo-Gothic church built by the diocesan clergy in Iloilo</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 504,
+				"desc": "<p>View of prewar Iloilo City</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 505,
+				"desc": "<p>Iloilo Provincial Capitol, ca 1915</p>\r\n\r\n<p>(Nereo Cajilig Luj&aacute;n Collection)</p>\r\n"
+			},
+			{
+				"photo": 506,
+				"desc": "<p>San Jose de Placer Church and Lacson House in the foreground, ca 1920</p>\r\n\r\n<p>(Franz Jereza Collection)</p>\r\n"
+			},
+			{
+				"photo": 507,
 				"desc": "<p>Fort San Pedro, demolished in the 1900s</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 508,
+				"desc": "<p>American-period street scene in Iloilo</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 509,
+				"desc": "<p>Prewar Iloilo Customs Building</p>\r\n\r\n<p>(Franz Jereza Collection)</p>\r\n"
+			},
+			{
+				"photo": 510,
+				"desc": "<p>American-period Colegio de San Agustin</p>\r\n\r\n<p>(Nereo Cajilig Luj&aacute;n Collection)</p>\r\n"
+			},
+			{
+				"photo": 511,
+				"desc": "<p>Former city hall of Iloilo, now the University of the Philippines Visayas</p>\r\n\r\n<p>(<i>The University of the Philippines: A University for Filipinos</i>, edited by Gloria D. Feliciano, Diamond Jubilee Presidential Commission, 1984)</p>\r\n"
+			},
+			{
+				"photo": 512,
+				"desc": "<p>Prewar Jaro bell tower</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 513,
+				"desc": "<p>Sanson y Montinola House, 2013</p>\r\n\r\n<p>(Constantine Agustin)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -1696,48 +1666,48 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Prewar Jaro bell tower</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Iloilo Provincial Capitol, ca 1915</p>\r\n\r\n<p>(Nereo Cajilig Luj&aacute;n Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Prewar Iloilo Customs Building</p>\r\n\r\n<p>(Franz Jereza Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Sanson y Montinola House, 2013</p>\r\n\r\n<p>(Constantine Agustin)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>View of prewar Iloilo City</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>American-period street scene in Iloilo</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>American-period Colegio de San Agustin</p>\r\n\r\n<p>(Nereo Cajilig Luj&aacute;n Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Former city hall of Iloilo, now the University of the Philippines Visayas</p>\r\n\r\n<p>(<i>The University of the Philippines: A University for Filipinos</i>, edited by Gloria D. Feliciano, Diamond Jubilee Presidential Commission, 1984)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>San Jose de Placer Church and Lacson House in the foreground, ca 1920</p>\r\n\r\n<p>(Franz Jereza Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 514,
 						"desc": "<p>Molo Church, ca 1990, a neo-Gothic church built by the diocesan clergy in Iloilo</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 504,
+						"desc": "<p>View of prewar Iloilo City</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 505,
+						"desc": "<p>Iloilo Provincial Capitol, ca 1915</p>\r\n\r\n<p>(Nereo Cajilig Luj&aacute;n Collection)</p>\r\n"
+					},
+					{
+						"photo": 506,
+						"desc": "<p>San Jose de Placer Church and Lacson House in the foreground, ca 1920</p>\r\n\r\n<p>(Franz Jereza Collection)</p>\r\n"
+					},
+					{
+						"photo": 507,
 						"desc": "<p>Fort San Pedro, demolished in the 1900s</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 508,
+						"desc": "<p>American-period street scene in Iloilo</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 509,
+						"desc": "<p>Prewar Iloilo Customs Building</p>\r\n\r\n<p>(Franz Jereza Collection)</p>\r\n"
+					},
+					{
+						"photo": 510,
+						"desc": "<p>American-period Colegio de San Agustin</p>\r\n\r\n<p>(Nereo Cajilig Luj&aacute;n Collection)</p>\r\n"
+					},
+					{
+						"photo": 511,
+						"desc": "<p>Former city hall of Iloilo, now the University of the Philippines Visayas</p>\r\n\r\n<p>(<i>The University of the Philippines: A University for Filipinos</i>, edited by Gloria D. Feliciano, Diamond Jubilee Presidential Commission, 1984)</p>\r\n"
+					},
+					{
+						"photo": 512,
+						"desc": "<p>Prewar Jaro bell tower</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 513,
+						"desc": "<p>Sanson y Montinola House, 2013</p>\r\n\r\n<p>(Constantine Agustin)</p>\r\n"
 					}
 				]
 			},
@@ -1765,48 +1735,48 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Prewar Jaro bell tower</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Iloilo Provincial Capitol, ca 1915</p>\r\n\r\n<p>(Nereo Cajilig Luj&aacute;n Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Prewar Iloilo Customs Building</p>\r\n\r\n<p>(Franz Jereza Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Sanson y Montinola House, 2013</p>\r\n\r\n<p>(Constantine Agustin)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>View of prewar Iloilo City</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>American-period street scene in Iloilo</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>American-period Colegio de San Agustin</p>\r\n\r\n<p>(Nereo Cajilig Luj&aacute;n Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Former city hall of Iloilo, now the University of the Philippines Visayas</p>\r\n\r\n<p>(<i>The University of the Philippines: A University for Filipinos</i>, edited by Gloria D. Feliciano, Diamond Jubilee Presidential Commission, 1984)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>San Jose de Placer Church and Lacson House in the foreground, ca 1920</p>\r\n\r\n<p>(Franz Jereza Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 514,
 						"desc": "<p>Molo Church, ca 1990, a neo-Gothic church built by the diocesan clergy in Iloilo</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 504,
+						"desc": "<p>View of prewar Iloilo City</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 505,
+						"desc": "<p>Iloilo Provincial Capitol, ca 1915</p>\r\n\r\n<p>(Nereo Cajilig Luj&aacute;n Collection)</p>\r\n"
+					},
+					{
+						"photo": 506,
+						"desc": "<p>San Jose de Placer Church and Lacson House in the foreground, ca 1920</p>\r\n\r\n<p>(Franz Jereza Collection)</p>\r\n"
+					},
+					{
+						"photo": 507,
 						"desc": "<p>Fort San Pedro, demolished in the 1900s</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 508,
+						"desc": "<p>American-period street scene in Iloilo</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 509,
+						"desc": "<p>Prewar Iloilo Customs Building</p>\r\n\r\n<p>(Franz Jereza Collection)</p>\r\n"
+					},
+					{
+						"photo": 510,
+						"desc": "<p>American-period Colegio de San Agustin</p>\r\n\r\n<p>(Nereo Cajilig Luj&aacute;n Collection)</p>\r\n"
+					},
+					{
+						"photo": 511,
+						"desc": "<p>Former city hall of Iloilo, now the University of the Philippines Visayas</p>\r\n\r\n<p>(<i>The University of the Philippines: A University for Filipinos</i>, edited by Gloria D. Feliciano, Diamond Jubilee Presidential Commission, 1984)</p>\r\n"
+					},
+					{
+						"photo": 512,
+						"desc": "<p>Prewar Jaro bell tower</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 513,
+						"desc": "<p>Sanson y Montinola House, 2013</p>\r\n\r\n<p>(Constantine Agustin)</p>\r\n"
 					}
 				]
 			},
@@ -2079,44 +2049,34 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Alejandro, Reynaldo Gamboa and Santos, Vicente Roman S. 2009. <i>EstiloIlonggo: Philippine Southern Lifestyle</i>. Studio Graphics Corp."
+						"source": "Alejandro, Reynaldo Gamboa and Santos, Vicente Roman S. 2009. <i>EstiloIlonggo: Philippine Southern Lifestyle</i>. Studio Graphics Corp."
 					},
 					{
-						"type": "text",
-						"value": "Fernandez, Juan OSA. 2006. <i>Monografias de los Pueblos de la Isla de Pan-ay.</i> Iloilo City: University of San Agustin Publishing House."
+						"source": "Fernandez, Juan OSA. 2006. <i>Monografias de los Pueblos de la Isla de Pan-ay.</i> Iloilo City: University of San Agustin Publishing House."
 					},
 					{
-						"type": "text",
-						"value": "Funtecha, Henry Florida. 1997. <i>Iloilo in the 20<sup>th</sup> Century: An Economic History.</i> Iloilo City."
+						"source": "Funtecha, Henry Florida. 1997. <i>Iloilo in the 20<sup>th</sup> Century: An Economic History.</i> Iloilo City."
 					},
 					{
-						"type": "text",
-						"value": "Galende, Pedro, OSA. (1987) 1996. <i>Angels in Stone: Architecture of Augustinian Churches in the Philippines</i>. Metro Manila: G.A. Formoso Publishing. 1996 hardcover ed. Manila: San Agustin Museum."
+						"source": "Galende, Pedro, OSA. (1987) 1996. <i>Angels in Stone: Architecture of Augustinian Churches in the Philippines</i>. Metro Manila: G.A. Formoso Publishing. 1996 hardcover ed. Manila: San Agustin Museum."
 					},
 					{
-						"type": "text",
-						"value": "Hernandez, Policarpio F. 2008. <i>Iloilo, the Most Noble City: History and Development 1566-1898.</i> Quezon City: New Day Publishers."
+						"source": "Hernandez, Policarpio F. 2008. <i>Iloilo, the Most Noble City: History and Development 1566-1898.</i> Quezon City: New Day Publishers."
 					},
 					{
-						"type": "text",
-						"value": "Javellana, Ren&#xE9; B. 2010. <i>La Casa de Dios: The Legacy of Filipino-Hispanic Churches in the Philippines</i>. Pasig City: Ortigas Foundation, Inc."
+						"source": "Javellana, Ren&#xE9; B. 2010. <i>La Casa de Dios: The Legacy of Filipino-Hispanic Churches in the Philippines</i>. Pasig City: Ortigas Foundation, Inc."
 					},
 					{
-						"type": "text",
-						"value": "Javellana, Ren&#xE9; B., Elizabeth V. Reyes, and Fernando N. Zialcita. 1997. <i>Filipino Style</i>. Singapore: Periplus."
+						"source": "Javellana, Ren&#xE9; B., Elizabeth V. Reyes, and Fernando N. Zialcita. 1997. <i>Filipino Style</i>. Singapore: Periplus."
 					},
 					{
-						"type": "text",
-						"value": "Layug, Benjamin Locsin. 2007. <i>A Tourist Guide to Notable Philippine Churches.</i> Quezon City: New Day Publishers."
+						"source": "Layug, Benjamin Locsin. 2007. <i>A Tourist Guide to Notable Philippine Churches.</i> Quezon City: New Day Publishers."
 					},
 					{
-						"type": "text",
-						"value": "Reyes, Elizabeth V. and Luca Tettozini. 2013. <i>Philippine Style: Design and Architecture</i>. Manila: Anvil Books."
+						"source": "Reyes, Elizabeth V. and Luca Tettozini. 2013. <i>Philippine Style: Design and Architecture</i>. Manila: Anvil Books."
 					},
 					{
-						"type": "text",
-						"value": "Valera-Turalba, Maria Christina. 2005a. <i>Philippine Heritage Architecture: Before 1521 to the 1970s</i>. Manila: Anvil Publishing Inc."
+						"source": "Valera-Turalba, Maria Christina. 2005a. <i>Philippine Heritage Architecture: Before 1521 to the 1970s</i>. Manila: Anvil Publishing Inc."
 					}
 				]
 			}
@@ -2132,44 +2092,44 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>Fort Santiago, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Puerta del Parian, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>San Francisco Church, destroyed during World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Ateneo Municipal de Manila facade, facing Manila Bay, ca 1920</p>\r\n\r\n<p>(Mario Feir Filipiniana Library Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Legazpi and Urdaneta Monument outside Intramuros</p>\r\n\r\n<p>(Smithsonian Institution Archives)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Lourdes Church after World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 515,
 				"desc": "<p>View of the Anda Monument and Fort Santiago before World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Plaza Mayor in Intramuros</p>\r\n\r\n<p>(Jose Honorato Lozano, 1847, Biblioteca Nacional de Espa&ntilde;a Collection)</p>\r\n"
+				"photo": 524,
+				"desc": "<p>Legazpi and Urdaneta Monument outside Intramuros</p>\r\n\r\n<p>(Smithsonian Institution Archives)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 523,
+				"desc": "<p>Colegio de San Juan de Letran, 1887</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
+			},
+			{
+				"photo": 522,
+				"desc": "<p>Ateneo Municipal de Manila facade, facing Manila Bay, ca 1920</p>\r\n\r\n<p>(Mario Feir Filipiniana Library Collection)</p>\r\n"
+			},
+			{
+				"photo": 521,
+				"desc": "<p>Lourdes Church after World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+			},
+			{
+				"photo": 520,
+				"desc": "<p>San Francisco Church, destroyed during World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 519,
 				"desc": "<p>Aduana or Customs House of Manila in Intramuros, ca 1935</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Colegio de San Juan de Letran, 1887</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
+				"photo": 518,
+				"desc": "<p>Puerta del Parian, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+			},
+			{
+				"photo": 517,
+				"desc": "<p>Fort Santiago, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+			},
+			{
+				"photo": 516,
+				"desc": "<p>Plaza Mayor in Intramuros</p>\r\n\r\n<p>(Jose Honorato Lozano, 1847, Biblioteca Nacional de Espa&ntilde;a Collection)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -2187,44 +2147,44 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Fort Santiago, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Puerta del Parian, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>San Francisco Church, destroyed during World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Ateneo Municipal de Manila facade, facing Manila Bay, ca 1920</p>\r\n\r\n<p>(Mario Feir Filipiniana Library Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Legazpi and Urdaneta Monument outside Intramuros</p>\r\n\r\n<p>(Smithsonian Institution Archives)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Lourdes Church after World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 515,
 						"desc": "<p>View of the Anda Monument and Fort Santiago before World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Plaza Mayor in Intramuros</p>\r\n\r\n<p>(Jose Honorato Lozano, 1847, Biblioteca Nacional de Espa&ntilde;a Collection)</p>\r\n"
+						"photo": 524,
+						"desc": "<p>Legazpi and Urdaneta Monument outside Intramuros</p>\r\n\r\n<p>(Smithsonian Institution Archives)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 523,
+						"desc": "<p>Colegio de San Juan de Letran, 1887</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
+					},
+					{
+						"photo": 522,
+						"desc": "<p>Ateneo Municipal de Manila facade, facing Manila Bay, ca 1920</p>\r\n\r\n<p>(Mario Feir Filipiniana Library Collection)</p>\r\n"
+					},
+					{
+						"photo": 521,
+						"desc": "<p>Lourdes Church after World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 520,
+						"desc": "<p>San Francisco Church, destroyed during World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 519,
 						"desc": "<p>Aduana or Customs House of Manila in Intramuros, ca 1935</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Colegio de San Juan de Letran, 1887</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
+						"photo": 518,
+						"desc": "<p>Puerta del Parian, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 517,
+						"desc": "<p>Fort Santiago, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 516,
+						"desc": "<p>Plaza Mayor in Intramuros</p>\r\n\r\n<p>(Jose Honorato Lozano, 1847, Biblioteca Nacional de Espa&ntilde;a Collection)</p>\r\n"
 					}
 				]
 			},
@@ -2308,44 +2268,44 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Fort Santiago, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Puerta del Parian, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>San Francisco Church, destroyed during World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Ateneo Municipal de Manila facade, facing Manila Bay, ca 1920</p>\r\n\r\n<p>(Mario Feir Filipiniana Library Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Legazpi and Urdaneta Monument outside Intramuros</p>\r\n\r\n<p>(Smithsonian Institution Archives)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Lourdes Church after World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 515,
 						"desc": "<p>View of the Anda Monument and Fort Santiago before World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Plaza Mayor in Intramuros</p>\r\n\r\n<p>(Jose Honorato Lozano, 1847, Biblioteca Nacional de Espa&ntilde;a Collection)</p>\r\n"
+						"photo": 524,
+						"desc": "<p>Legazpi and Urdaneta Monument outside Intramuros</p>\r\n\r\n<p>(Smithsonian Institution Archives)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 523,
+						"desc": "<p>Colegio de San Juan de Letran, 1887</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
+					},
+					{
+						"photo": 522,
+						"desc": "<p>Ateneo Municipal de Manila facade, facing Manila Bay, ca 1920</p>\r\n\r\n<p>(Mario Feir Filipiniana Library Collection)</p>\r\n"
+					},
+					{
+						"photo": 521,
+						"desc": "<p>Lourdes Church after World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 520,
+						"desc": "<p>San Francisco Church, destroyed during World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 519,
 						"desc": "<p>Aduana or Customs House of Manila in Intramuros, ca 1935</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Colegio de San Juan de Letran, 1887</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
+						"photo": 518,
+						"desc": "<p>Puerta del Parian, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 517,
+						"desc": "<p>Fort Santiago, ca 1920</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 516,
+						"desc": "<p>Plaza Mayor in Intramuros</p>\r\n\r\n<p>(Jose Honorato Lozano, 1847, Biblioteca Nacional de Espa&ntilde;a Collection)</p>\r\n"
 					}
 				]
 			},
@@ -2666,68 +2626,52 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Aluit, Alfonso J. 1994. <i>By Sword and Fire: The Destruction of Manila in World War II 3 February - 3 March 1945</i>. Manila: National Commission for Culture and Arts."
+						"source": "Aluit, Alfonso J. 1994. <i>By Sword and Fire: The Destruction of Manila in World War II 3 February - 3 March 1945</i>. Manila: National Commission for Culture and Arts."
 					},
 					{
-						"type": "text",
-						"value": "Churchill, Bernadita Reyes, ed. 1994. <i>Manila: Selected papers of the Annual Conference of the Manila Studies Association, 1989-1993</i>. Manila: Manila Studies Association."
+						"source": "Churchill, Bernadita Reyes, ed. 1994. <i>Manila: Selected papers of the Annual Conference of the Manila Studies Association, 1989-1993</i>. Manila: Manila Studies Association."
 					},
 					{
-						"type": "text",
-						"value": "Cushner, Nicolas P. 1971. <i>A Walking Tour of Historic Intramuros. </i>Manila: Alemar-Phoenix Publishing House."
+						"source": "Cushner, Nicolas P. 1971. <i>A Walking Tour of Historic Intramuros. </i>Manila: Alemar-Phoenix Publishing House."
 					},
 					{
-						"type": "text",
-						"value": "Diaz-Trechuelo, Lourdes. 1959. <i>Arquitectura espa&#xF1;ola en Filipinas (1565-1800)</i>. Sevilla: Escuela de Estudios Hispano-Americanos de Sevilla."
+						"source": "Diaz-Trechuelo, Lourdes. 1959. <i>Arquitectura espa&#xF1;ola en Filipinas (1565-1800)</i>. Sevilla: Escuela de Estudios Hispano-Americanos de Sevilla."
 					},
 					{
-						"type": "text",
-						"value": "Galende, Pedro and Regalado Trota Jose Jr. 2000. <i>San Agustin.</i> Makati: Bookmark Inc."
+						"source": "Galende, Pedro and Regalado Trota Jose Jr. 2000. <i>San Agustin.</i> Makati: Bookmark Inc."
 					},
 					{
-						"type": "text",
-						"value": "Gatbonton, Esperanza Bunag 1980.<i> Intramuros: A Historical Guide.</i> Manila: Intramuros Administration."
+						"source": "Gatbonton, Esperanza Bunag 1980.<i> Intramuros: A Historical Guide.</i> Manila: Intramuros Administration."
 					},
 					{
-						"type": "text",
-						"value": "&#x2014;&#x2014;&#x2014;. 1985.<i>Bastion San Diego.</i> Manila: Intramuros Administration."
+						"source": "&#x2014;&#x2014;&#x2014;. 1985.<i>Bastion San Diego.</i> Manila: Intramuros Administration."
 					},
 					{
-						"type": "text",
-						"value": "Historical Notes Concerning Manila to Accompany the Index Map of Manila. 1904. Manila: Philippines Division, Adjutant General&apos;s Office."
+						"source": "Historical Notes Concerning Manila to Accompany the Index Map of Manila. 1904. Manila: Philippines Division, Adjutant General&apos;s Office."
 					},
 					{
-						"type": "text",
-						"value": "<i>Intramuros and Beyond.</i> Manila. n.d. Manila: Letr&#xE1;n College."
+						"source": "<i>Intramuros and Beyond.</i> Manila. n.d. Manila: Letr&#xE1;n College."
 					},
 					{
-						"type": "text",
-						"value": "Ira, Luning B., and Isagani Medina. 1977. <i>Streets of Manila</i>. Quezon City: GCF Books."
+						"source": "Ira, Luning B., and Isagani Medina. 1977. <i>Streets of Manila</i>. Quezon City: GCF Books."
 					},
 					{
-						"type": "text",
-						"value": "Javellana, Rene. 2003. <i>In &amp; Around Intramuros: An Interactive Guide. </i>Quezon City: Jescom."
+						"source": "Javellana, Rene. 2003. <i>In &amp; Around Intramuros: An Interactive Guide. </i>Quezon City: Jescom."
 					},
 					{
-						"type": "text",
-						"value": "Joaquin, Nick, ed. 1988. <i>Intramuros</i>. Manila: Philippine Daily Inquirer, Inc."
+						"source": "Joaquin, Nick, ed. 1988. <i>Intramuros</i>. Manila: Philippine Daily Inquirer, Inc."
 					},
 					{
-						"type": "text",
-						"value": "Laya, Jaime C., and Esperanza B. Gatbonton. 1983. <i>Intramuros of</i> <i>Memory</i>.<i> </i>Manila: Intramuros Administration."
+						"source": "Laya, Jaime C., and Esperanza B. Gatbonton. 1983. <i>Intramuros of</i> <i>Memory</i>.<i> </i>Manila: Intramuros Administration."
 					},
 					{
-						"type": "text",
-						"value": "Ortiz Armengol, Pedro. 1958. <i>Intramuros de Manila de 1571 hasta su destrucci&#xF3;n en 1945.</i> Manila: Ediciones de Cultura Hispanica."
+						"source": "Ortiz Armengol, Pedro. 1958. <i>Intramuros de Manila de 1571 hasta su destrucci&#xF3;n en 1945.</i> Manila: Ediciones de Cultura Hispanica."
 					},
 					{
-						"type": "text",
-						"value": "Tracy, Nicolas. 1995. <i>Manila Ransomed: The British Assault on Manila in the Seven Years War</i>. University of Exeter Press."
+						"source": "Tracy, Nicolas. 1995. <i>Manila Ransomed: The British Assault on Manila in the Seven Years War</i>. University of Exeter Press."
 					},
 					{
-						"type": "text",
-						"value": "Villacorta, Wilfrido V., Isagani R. Cruz, and Ma. Lourdes Brillantes, eds. 1989. <i>Manila: History, People and Culture, The Proceedings of the Manila Studies Conference.</i> Manila: De La Salle University Press"
+						"source": "Villacorta, Wilfrido V., Isagani R. Cruz, and Ma. Lourdes Brillantes, eds. 1989. <i>Manila: History, People and Culture, The Proceedings of the Manila Studies Conference.</i> Manila: De La Salle University Press"
 					}
 				]
 			}
@@ -2743,15 +2687,15 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
+				"photo": 525,
 				"desc": "<p>Church of the Santisima Trinidad and bell tower, 2012 (Ric V. Obedencio);</p>\r\n\r\n<p>opposite: <i>escuela</i>, left, and <i>casa real</i>, right, 1990 (CCP Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 526,
 				"desc": "<p><em>Escuela </em>or school in Loay, 1990<em>&nbsp;</em></p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 527,
 				"desc": "<p><em>Casa real </em>in Loay, 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 			}
 		],
@@ -2770,7 +2714,7 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
+						"photo": 525,
 						"desc": "<p>Church of the Santisima Trinidad and bell tower, 2012 (Ric V. Obedencio);</p>\r\n\r\n<p>opposite: <i>escuela</i>, left, and <i>casa real</i>, right, 1990 (CCP Collection)</p>\r\n"
 					}
 				]
@@ -2795,7 +2739,7 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
+						"photo": 526,
 						"desc": "<p><em>Escuela </em>or school in Loay, 1990<em>&nbsp;</em></p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					}
 				]
@@ -2828,7 +2772,7 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
+						"photo": 527,
 						"desc": "<p><em>Casa real </em>in Loay, 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					}
 				]
@@ -2847,8 +2791,7 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Redondo, Felipe Sendino. 1886. <i>Breve Rese&#xF1;a de lo que fue y lo que es la Diocesis de Cebu en las Islas Filipinas.</i> Manila: Establecimieto Tipografico del Colegio de Sto. Tom&#xE1;s."
+						"source": "Redondo, Felipe Sendino. 1886. <i>Breve Rese&#xF1;a de lo que fue y lo que es la Diocesis de Cebu en las Islas Filipinas.</i> Manila: Establecimieto Tipografico del Colegio de Sto. Tom&#xE1;s."
 					}
 				]
 			}
@@ -2864,68 +2807,68 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>Restored Casa Real of Malolos, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+				"photo": 533,
+				"desc": "<p>Cojuangco-Chichioco House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>River landing at Malolos along the Tampoy River with the Tanchanco House beyond the 1810 stone bridge</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Lino Reyes House</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Santos-Bautista House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 540,
 				"desc": "<p>American soldiers on Pariancillo Street in front of Ponciano and Vicente Tiongson Houses and the <i>casa tribunal</i> at the far end</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n\r\n<p>&nbsp;</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Parade of Emilio Aguinaldo and his retinue across the main plaza of Malolos on their way to Barasoain Church in 23 Jan 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+				"photo": 534,
+				"desc": "<p>Restored Casa Real of Malolos, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Church and convento of the Inmaculada Concepcion in Malolos before the 1863 earthquake</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+				"photo": 535,
+				"desc": "<p>River landing at Malolos along the Tampoy River with the Tanchanco House beyond the 1810 stone bridge</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Adriano-Vasquez Mansion, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n\r\n<p>&nbsp;</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Art deco Luis U. Santos Mansion, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Church of Nuestra Se&ntilde;ora del Carmen in Barasoain, 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Bridge of Malolos taken from the Tanchanco House, 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>American troops occupying Malolos on 31 Mar 1899</p>\r\n\r\n<p>(Mike Price Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>The burning of Malolos Church on 31 Mar 1899</p>\r\n\r\n<p>(Mike Price Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Antonio Tiongson and Erastro Cervantes House</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 541,
 				"desc": "<p>Santos-Uitangcoy House, 2013</p>\r\n\r\n<p>(IJ Velas)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Cojuangco-Chichioco House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+				"photo": 539,
+				"desc": "<p>Antonio Tiongson and Erastro Cervantes House</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+			},
+			{
+				"photo": 538,
+				"desc": "<p>Adriano-Vasquez Mansion, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+			},
+			{
+				"photo": 537,
+				"desc": "<p>Lino Reyes House</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+			},
+			{
+				"photo": 536,
+				"desc": "<p>Church and convento of the Inmaculada Concepcion in Malolos before the 1863 earthquake</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+			},
+			{
+				"photo": 528,
+				"desc": "<p>Church of Nuestra Se&ntilde;ora del Carmen in Barasoain, 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+			},
+			{
+				"photo": 542,
+				"desc": "<p>Santos-Bautista House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+			},
+			{
+				"photo": 543,
+				"desc": "<p>Art deco Luis U. Santos Mansion, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+			},
+			{
+				"photo": 529,
+				"desc": "<p>Bridge of Malolos taken from the Tanchanco House, 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+			},
+			{
+				"photo": 530,
+				"desc": "<p>The burning of Malolos Church on 31 Mar 1899</p>\r\n\r\n<p>(Mike Price Collection)</p>\r\n"
+			},
+			{
+				"photo": 531,
+				"desc": "<p>American troops occupying Malolos on 31 Mar 1899</p>\r\n\r\n<p>(Mike Price Collection)</p>\r\n"
+			},
+			{
+				"photo": 532,
+				"desc": "<p>Parade of Emilio Aguinaldo and his retinue across the main plaza of Malolos on their way to Barasoain Church in 23 Jan 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -2944,68 +2887,68 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Restored Casa Real of Malolos, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+						"photo": 533,
+						"desc": "<p>Cojuangco-Chichioco House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>River landing at Malolos along the Tampoy River with the Tanchanco House beyond the 1810 stone bridge</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Lino Reyes House</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Santos-Bautista House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 540,
 						"desc": "<p>American soldiers on Pariancillo Street in front of Ponciano and Vicente Tiongson Houses and the <i>casa tribunal</i> at the far end</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n\r\n<p>&nbsp;</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Parade of Emilio Aguinaldo and his retinue across the main plaza of Malolos on their way to Barasoain Church in 23 Jan 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+						"photo": 534,
+						"desc": "<p>Restored Casa Real of Malolos, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Church and convento of the Inmaculada Concepcion in Malolos before the 1863 earthquake</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+						"photo": 535,
+						"desc": "<p>River landing at Malolos along the Tampoy River with the Tanchanco House beyond the 1810 stone bridge</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Adriano-Vasquez Mansion, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n\r\n<p>&nbsp;</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Art deco Luis U. Santos Mansion, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Church of Nuestra Se&ntilde;ora del Carmen in Barasoain, 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Bridge of Malolos taken from the Tanchanco House, 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>American troops occupying Malolos on 31 Mar 1899</p>\r\n\r\n<p>(Mike Price Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>The burning of Malolos Church on 31 Mar 1899</p>\r\n\r\n<p>(Mike Price Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Antonio Tiongson and Erastro Cervantes House</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 541,
 						"desc": "<p>Santos-Uitangcoy House, 2013</p>\r\n\r\n<p>(IJ Velas)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Cojuangco-Chichioco House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+						"photo": 539,
+						"desc": "<p>Antonio Tiongson and Erastro Cervantes House</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 538,
+						"desc": "<p>Adriano-Vasquez Mansion, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+					},
+					{
+						"photo": 537,
+						"desc": "<p>Lino Reyes House</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 536,
+						"desc": "<p>Church and convento of the Inmaculada Concepcion in Malolos before the 1863 earthquake</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 528,
+						"desc": "<p>Church of Nuestra Se&ntilde;ora del Carmen in Barasoain, 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 542,
+						"desc": "<p>Santos-Bautista House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+					},
+					{
+						"photo": 543,
+						"desc": "<p>Art deco Luis U. Santos Mansion, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+					},
+					{
+						"photo": 529,
+						"desc": "<p>Bridge of Malolos taken from the Tanchanco House, 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 530,
+						"desc": "<p>The burning of Malolos Church on 31 Mar 1899</p>\r\n\r\n<p>(Mike Price Collection)</p>\r\n"
+					},
+					{
+						"photo": 531,
+						"desc": "<p>American troops occupying Malolos on 31 Mar 1899</p>\r\n\r\n<p>(Mike Price Collection)</p>\r\n"
+					},
+					{
+						"photo": 532,
+						"desc": "<p>Parade of Emilio Aguinaldo and his retinue across the main plaza of Malolos on their way to Barasoain Church in 23 Jan 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
 					}
 				]
 			},
@@ -3069,68 +3012,68 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Restored Casa Real of Malolos, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+						"photo": 533,
+						"desc": "<p>Cojuangco-Chichioco House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>River landing at Malolos along the Tampoy River with the Tanchanco House beyond the 1810 stone bridge</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Lino Reyes House</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Santos-Bautista House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 540,
 						"desc": "<p>American soldiers on Pariancillo Street in front of Ponciano and Vicente Tiongson Houses and the <i>casa tribunal</i> at the far end</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n\r\n<p>&nbsp;</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Parade of Emilio Aguinaldo and his retinue across the main plaza of Malolos on their way to Barasoain Church in 23 Jan 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+						"photo": 534,
+						"desc": "<p>Restored Casa Real of Malolos, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Church and convento of the Inmaculada Concepcion in Malolos before the 1863 earthquake</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+						"photo": 535,
+						"desc": "<p>River landing at Malolos along the Tampoy River with the Tanchanco House beyond the 1810 stone bridge</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Adriano-Vasquez Mansion, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n\r\n<p>&nbsp;</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Art deco Luis U. Santos Mansion, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Church of Nuestra Se&ntilde;ora del Carmen in Barasoain, 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Bridge of Malolos taken from the Tanchanco House, 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>American troops occupying Malolos on 31 Mar 1899</p>\r\n\r\n<p>(Mike Price Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>The burning of Malolos Church on 31 Mar 1899</p>\r\n\r\n<p>(Mike Price Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Antonio Tiongson and Erastro Cervantes House</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 541,
 						"desc": "<p>Santos-Uitangcoy House, 2013</p>\r\n\r\n<p>(IJ Velas)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Cojuangco-Chichioco House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+						"photo": 539,
+						"desc": "<p>Antonio Tiongson and Erastro Cervantes House</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 538,
+						"desc": "<p>Adriano-Vasquez Mansion, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+					},
+					{
+						"photo": 537,
+						"desc": "<p>Lino Reyes House</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 536,
+						"desc": "<p>Church and convento of the Inmaculada Concepcion in Malolos before the 1863 earthquake</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 528,
+						"desc": "<p>Church of Nuestra Se&ntilde;ora del Carmen in Barasoain, 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 542,
+						"desc": "<p>Santos-Bautista House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+					},
+					{
+						"photo": 543,
+						"desc": "<p>Art deco Luis U. Santos Mansion, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+					},
+					{
+						"photo": 529,
+						"desc": "<p>Bridge of Malolos taken from the Tanchanco House, 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 530,
+						"desc": "<p>The burning of Malolos Church on 31 Mar 1899</p>\r\n\r\n<p>(Mike Price Collection)</p>\r\n"
+					},
+					{
+						"photo": 531,
+						"desc": "<p>American troops occupying Malolos on 31 Mar 1899</p>\r\n\r\n<p>(Mike Price Collection)</p>\r\n"
+					},
+					{
+						"photo": 532,
+						"desc": "<p>Parade of Emilio Aguinaldo and his retinue across the main plaza of Malolos on their way to Barasoain Church in 23 Jan 1899</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
 					}
 				]
 			},
@@ -3146,8 +3089,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Restored Casa Real of Malolos, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+						"photo": 533,
+						"desc": "<p>Cojuangco-Chichioco House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
 					}
 				]
 			},
@@ -3324,32 +3267,25 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Agoncillo, Teodoro A. 1960. <i>Malolos: Crisis of the Republic</i>. Quezon City: University of the Philippines Press"
+						"source": "Agoncillo, Teodoro A. 1960. <i>Malolos: Crisis of the Republic</i>. Quezon City: University of the Philippines Press"
 					},
 					{
-						"type": "text",
-						"value": "<i>Barasoain Church (A Historical Landmark)</i>. 1977. Manila: National Historical Institute"
+						"source": "<i>Barasoain Church (A Historical Landmark)</i>. 1977. Manila: National Historical Institute"
 					},
 					{
-						"type": "text",
-						"value": "Corpus, Jaime Salvador, and Erlinda Dungo Lalic, eds. 2000. <i>Ang Malulos sa mga Dahon ng Kasaysayan / Mga Ulat ni Don Antonio Bautista na Isinaayos at Isinaaklat ni Jose P. Santos. </i>Facsimile of 1934 first edition. Malolos: Center for Bulacan Studies, Bulacan State University."
+						"source": "Corpus, Jaime Salvador, and Erlinda Dungo Lalic, eds. 2000. <i>Ang Malulos sa mga Dahon ng Kasaysayan / Mga Ulat ni Don Antonio Bautista na Isinaayos at Isinaaklat ni Jose P. Santos. </i>Facsimile of 1934 first edition. Malolos: Center for Bulacan Studies, Bulacan State University."
 					},
 					{
-						"type": "text",
-						"value": "National Historical Institute Resolution No. 2, S. 2001 &#x201C;Declaring the Historic Town Center of Malolos in Bulacan a National Historical Landmark.&#x201D;"
+						"source": "National Historical Institute Resolution No. 2, S. 2001 &#x201C;Declaring the Historic Town Center of Malolos in Bulacan a National Historical Landmark.&#x201D;"
 					},
 					{
-						"type": "text",
-						"value": "Recto, Manuelito M. 1977. &#x201C;History of Malolos, Bulacan : Some Notes.&#x201D; Mimeographed copy. Manila: National Historical Institute."
+						"source": "Recto, Manuelito M. 1977. &#x201C;History of Malolos, Bulacan : Some Notes.&#x201D; Mimeographed copy. Manila: National Historical Institute."
 					},
 					{
-						"type": "text",
-						"value": "Tantoco, Jose P. W., ed. 1956. <i>Ang Plaridel, Tanging Babasahin ng Malolos Jaycees</i>. Published on the occasion of the 58th anniversary of the Revolutionary Congress in Malolos under the leadership of the Malolos Jaycees and its president Jose P. W. Tantoco. Malolos: Malolos Jaycees."
+						"source": "Tantoco, Jose P. W., ed. 1956. <i>Ang Plaridel, Tanging Babasahin ng Malolos Jaycees</i>. Published on the occasion of the 58th anniversary of the Revolutionary Congress in Malolos under the leadership of the Malolos Jaycees and its president Jose P. W. Tantoco. Malolos: Malolos Jaycees."
 					},
 					{
-						"type": "text",
-						"value": "Tiongson, Nicanor G. 2004. <i>The Women of Malolos</i>. Quezon City: Ateneo de Manila University Press"
+						"source": "Tiongson, Nicanor G. 2004. <i>The Women of Malolos</i>. Quezon City: Ateneo de Manila University Press"
 					}
 				]
 			}
@@ -3365,20 +3301,20 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>Agra-Villarica House, 2010</p>\r\n\r\n<p>(Elmer L. Gatchalian)</p>\r\n"
+				"photo": 546,
+				"desc": "<p>Rudolfo Relova House, 2010</p>\r\n\r\n<p>(Elmer L. Gatchalian)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 544,
 				"desc": "<p>Church of San Antonio de Padua and convento, now the Liceo de Pila</p>\r\n\r\n<p>(Elmer L. Gatchalian)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Dimaculangan-Relova House, 2010</p>\r\n\r\n<p>(Elmer L. Gatchalian)</p>\r\n"
+				"photo": 545,
+				"desc": "<p>Agra-Villarica House, 2010</p>\r\n\r\n<p>(Elmer L. Gatchalian)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Rudolfo Relova House, 2010</p>\r\n\r\n<p>(Elmer L. Gatchalian)</p>\r\n"
+				"photo": 547,
+				"desc": "<p>Dimaculangan-Relova House, 2010</p>\r\n\r\n<p>(Elmer L. Gatchalian)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -3396,8 +3332,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Agra-Villarica House, 2010</p>\r\n\r\n<p>(Elmer L. Gatchalian)</p>\r\n"
+						"photo": 546,
+						"desc": "<p>Rudolfo Relova House, 2010</p>\r\n\r\n<p>(Elmer L. Gatchalian)</p>\r\n"
 					}
 				]
 			},
@@ -3417,7 +3353,7 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
+						"photo": 544,
 						"desc": "<p>Church of San Antonio de Padua and convento, now the Liceo de Pila</p>\r\n\r\n<p>(Elmer L. Gatchalian)</p>\r\n"
 					}
 				]
@@ -3434,8 +3370,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Dimaculangan-Relova House, 2010</p>\r\n\r\n<p>(Elmer L. Gatchalian)</p>\r\n"
+						"photo": 545,
+						"desc": "<p>Agra-Villarica House, 2010</p>\r\n\r\n<p>(Elmer L. Gatchalian)</p>\r\n"
 					}
 				]
 			},
@@ -3460,32 +3396,25 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Go Bon, Juan. 2005. &#x201C;Ma&#x2019;I in Chinese records&#x2014;Mindoro or Bai? An Examination of a Historical Puzzle.&#x201D; <i>Philippine Studies</i> Vol 53, No 1, 119-138."
+						"source": "Go Bon, Juan. 2005. &#x201C;Ma&#x2019;I in Chinese records&#x2014;Mindoro or Bai? An Examination of a Historical Puzzle.&#x201D; <i>Philippine Studies</i> Vol 53, No 1, 119-138."
 					},
 					{
-						"type": "text",
-						"value": "Santiago, Luciano P. R. 1983. &#x201C;When a Town Has to Move: How Pila (Laguna) Transferred to its Present Site (1794-1811).&#x201D; <i>Philippine Quarterly of Culture and Society</i>, Vol 11, No 2/3, Jun-Sep, 93-106. Cebu: University of San Carlos Publications."
+						"source": "Santiago, Luciano P. R. 1983. &#x201C;When a Town Has to Move: How Pila (Laguna) Transferred to its Present Site (1794-1811).&#x201D; <i>Philippine Quarterly of Culture and Society</i>, Vol 11, No 2/3, Jun-Sep, 93-106. Cebu: University of San Carlos Publications."
 					},
 					{
-						"type": "text",
-						"value": "&#x2014;&#x2014;&#x2014;. 1997. &#x201C;The Roots of Pila, Laguna: A Secular and Spiritual History of the Town (900AD to the Present).&#x201D; <i>Philippine Quarterly of Culture and Society</i>, Vol 25, No 3/4, Sep-Dec, 125-155. Cebu: University of San Carlos Publications."
+						"source": "&#x2014;&#x2014;&#x2014;. 1997. &#x201C;The Roots of Pila, Laguna: A Secular and Spiritual History of the Town (900AD to the Present).&#x201D; <i>Philippine Quarterly of Culture and Society</i>, Vol 25, No 3/4, Sep-Dec, 125-155. Cebu: University of San Carlos Publications."
 					},
 					{
-						"type": "text",
-						"value": "&#x2014;&#x2014;&#x2014;. 2005a. &#x201C;Pomp, Pageantry and Gold: The Eight Spanish Villas in the Philippines (1565-1887).&#x201D; <i>Philippine Quarterly of Culture and Society</i>, Vol 33, No 1/2, Mar-Jun, 57-55. Cebu: University of San Carlos Publications."
+						"source": "&#x2014;&#x2014;&#x2014;. 2005a. &#x201C;Pomp, Pageantry and Gold: The Eight Spanish Villas in the Philippines (1565-1887).&#x201D; <i>Philippine Quarterly of Culture and Society</i>, Vol 33, No 1/2, Mar-Jun, 57-55. Cebu: University of San Carlos Publications."
 					},
 					{
-						"type": "text",
-						"value": "&#x2014;&#x2014;&#x2014;. 2005b. <i>To Love and to Suffer: The Development of the Religious Congregations for Women in the Spanish Philippines 1565-1898</i>. Quezon City: Ateneo de Manila University Press."
+						"source": "&#x2014;&#x2014;&#x2014;. 2005b. <i>To Love and to Suffer: The Development of the Religious Congregations for Women in the Spanish Philippines 1565-1898</i>. Quezon City: Ateneo de Manila University Press."
 					},
 					{
-						"type": "text",
-						"value": "&#x2014;&#x2014;&#x2014;. 2010. &#x201C;Ancient Pila: From Pailah in Pinagbayanan to Pagalangan.&#x201D; <i>Philippine Quarterly of Culture and Society</i>, Vol 38, No 1, Mar, 1-36. Cebu: University of San Carlos Publications."
+						"source": "&#x2014;&#x2014;&#x2014;. 2010. &#x201C;Ancient Pila: From Pailah in Pinagbayanan to Pagalangan.&#x201D; <i>Philippine Quarterly of Culture and Society</i>, Vol 38, No 1, Mar, 1-36. Cebu: University of San Carlos Publications."
 					},
 					{
-						"type": "text",
-						"value": "Tenazas, Rosa C. P. n.d. <i>A Report on the Archaeology of the Locsin-University of San Carlos Excavations in Pila, Laguna (September 4, 1967-March 19, 1968)</i>. Manila."
+						"source": "Tenazas, Rosa C. P. n.d. <i>A Report on the Archaeology of the Locsin-University of San Carlos Excavations in Pila, Laguna (September 4, 1967-March 19, 1968)</i>. Manila."
 					}
 				]
 			}
@@ -3501,16 +3430,12 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>Ramon Hofile&ntilde;a House, 2013</p>\r\n\r\n<p>(Wikimedia Commons)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Church of San Diego, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 550,
 				"desc": "<p>Bernardino Jalandoni House, 2017</p>\r\n\r\n<p>(Sofia Beloso)</p>\r\n"
+			},
+			{
+				"photo": 548,
+				"desc": "<p>Church of San Diego, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -3528,8 +3453,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Ramon Hofile&ntilde;a House, 2013</p>\r\n\r\n<p>(Wikimedia Commons)</p>\r\n"
+						"photo": 550,
+						"desc": "<p>Bernardino Jalandoni House, 2017</p>\r\n\r\n<p>(Sofia Beloso)</p>\r\n"
 					}
 				]
 			},
@@ -3561,7 +3486,7 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
+						"photo": 548,
 						"desc": "<p>Church of San Diego, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					}
 				]
@@ -3602,15 +3527,7 @@
 				"type": "paragraph",
 				"value": "Completing the list for the declared houses are: the <strong><em>Alejandro Amechazura House</em></strong>, <strong><em>Amelia Hilado <strong>Flores</strong></em></strong> <em><strong>House</strong> </em>owned by the Jison-Alano family, <strong><em>Antonio <strong>Novel</strong>a Sian House</em></strong>, <strong><em>Arsenio Lopez Jison House</em></strong>, <strong><em>Carlos Arceo Ledesma House</em></strong>, <strong><em>Delfin Ledesma House</em></strong>, <strong><em>Digna Locsin Consing House</em></strong>, <strong><em>Generoso Reyes Gamboa House</em></strong>, <strong><em>Germain Lacson Gaston House</em></strong>, <strong><em>German Locsin Unson House</em></strong>, <strong><em>Jose &#x201C;Pitong&#x201D; Ledesma House</em></strong>, <strong><em>Jose Corteza Locsin House</em></strong>, <strong><em>Josefita Tionko Lacson House</em></strong>, <strong><em>Juana Coloso Ledesma House</em></strong>, <strong><em>Kapitan Marciano Montelibano Lacson House</em></strong>, <strong><em>Leandro de la Rama Locsin House</em></strong>, <strong><em>Manuel de la Rama Locsin House</em></strong>, <strong><em>Modesto Ramirez Hojilla House</em></strong> owned by Carlos Javelosa Jalandoni, <strong><em>Lino Lope Severino</em></strong> or <strong><em>Severino Building</em></strong>, <strong><em><strong>Soledad</strong> and <strong><strong>Maria Montelibano</strong></strong> Lacson House</em></strong>, <strong><em>Teodoro Morada House</em></strong>, and <strong><em>Vicente Conlu Montelibano House</em></strong>. The <strong><em>Nicolas Armin Jalandoni</em></strong> or the <strong><em>Benita Jara Heritage House</em></strong> was likewise declared such by the Silay City council. It is used by the Sangguniang Panlungsod."
 			},
-			{
-				"type": "photo_holder",
-				"value": [
-					{
-						"photo": null,
-						"desc": "<p>Bernardino Jalandoni House, 2017</p>\r\n\r\n<p>(Sofia Beloso)</p>\r\n"
-					}
-				]
-			},
+			{ "type": "photo_holder", "value": [null] },
 			{
 				"type": "paragraph",
 				"value": "Those declared but demolished by the owners were the <strong><em>Augusto Hilado Severino House</em></strong> which was bought by the Iglesia ni Cristo, and the <strong><em>Claudio Hilado Akol Heritage House</em></strong>, now owned by the Locsin Genealogy Foundation. Only the balcony of this house still exists and has been retained."
@@ -3636,12 +3553,10 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Henares, Ivan. 2016. Ivan About Town. http://www.ivanhenares.com"
+						"source": "Henares, Ivan. 2016. Ivan About Town. http://www.ivanhenares.com"
 					},
 					{
-						"type": "text",
-						"value": "Ledesma, Maritel. <i>My Silay Heritage</i>. http://www.silayheritage.com/p/silay-heritage-list.html."
+						"source": "Ledesma, Maritel. <i>My Silay Heritage</i>. http://www.silayheritage.com/p/silay-heritage-list.html."
 					}
 				]
 			}
@@ -3657,20 +3572,20 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
+				"photo": 552,
 				"desc": "<p>Shrine of Our Lady of Caysasay, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 554,
+				"desc": "<p>Gregorio Agoncillo House, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+			},
+			{
+				"photo": 553,
 				"desc": "<p>Leon Apacible House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 551,
 				"desc": "<p>Escuela Pia, popularly called Escolapia, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Gregorio Agoncillo House, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -3688,7 +3603,7 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
+						"photo": 552,
 						"desc": "<p>Shrine of Our Lady of Caysasay, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
 					}
 				]
@@ -3713,8 +3628,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Leon Apacible House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+						"photo": 554,
+						"desc": "<p>Gregorio Agoncillo House, ca 1990</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
 					}
 				]
 			},
@@ -3758,8 +3673,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Escuela Pia, popularly called Escolapia, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
+						"photo": 553,
+						"desc": "<p>Leon Apacible House, 2017</p>\r\n\r\n<p>(Kiko del Rosario)</p>\r\n"
 					}
 				]
 			},
@@ -3864,20 +3779,16 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Galende, Pedro, OSA. (1987) 1996. <i>Angels in Stone: Architecture of Augustinian Churches in the Philippines</i>. Metro Manila: G. A. Formoso Publishing. 1996 hardcover ed. Manila: San Agustin Museum."
+						"source": "Galende, Pedro, OSA. (1987) 1996. <i>Angels in Stone: Architecture of Augustinian Churches in the Philippines</i>. Metro Manila: G. A. Formoso Publishing. 1996 hardcover ed. Manila: San Agustin Museum."
 					},
 					{
-						"type": "text",
-						"value": "Reyes, Elizabeth V. 2012. <i>Philippine Architecture. </i>Manila: National Bookstore."
+						"source": "Reyes, Elizabeth V. 2012. <i>Philippine Architecture. </i>Manila: National Bookstore."
 					},
 					{
-						"type": "text",
-						"value": "Saderra-Maso, Miguel, SJ. 1904. <i>Volcanoes and Seismic Centers of the Philippine Archipelago. </i>Washington: Government Printing Office."
+						"source": "Saderra-Maso, Miguel, SJ. 1904. <i>Volcanoes and Seismic Centers of the Philippine Archipelago. </i>Washington: Government Printing Office."
 					},
 					{
-						"type": "text",
-						"value": "&#x2014;&#x2014;&#x2014;. 1911. <i>The Eruption of Taal Volcano, January 30, 1911. </i>Manila: Bureau of Printing."
+						"source": "&#x2014;&#x2014;&#x2014;. 1911. <i>The Eruption of Taal Volcano, January 30, 1911. </i>Manila: Bureau of Printing."
 					}
 				]
 			}
@@ -3893,60 +3804,60 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>De La Salle College before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Elks Club at the foreground and Army and Navy Club at the background before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Malate Church, ca 1920</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Metropolitan Theater, ca 1930</p>\r\n\r\n<p>(Colorized by Bilog Bilugan, John Tewell Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Manila City Hall, ca 1950</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>1935 poster showing the prewar Legislative Building, now the National Museum of Fine Arts</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>University of the Philippines along Padre Faura Street, Manila</p>\r\n\r\n<p>(<i>Philippine Picture Post Cards: 1900-1920</i> by Jonathan Best,&nbsp;The Bookmark, Inc, 1994)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Agrifina Circle between the former Agriculture and Finance Buildings</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 556,
 				"desc": "<p>The Luneta, 1901</p>\r\n\r\n<p>(Library of Congress Prints and Photographs Division)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Meralco Building, built in 1936</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Luneta Hotel to the left and Bayview Hotel to the right before World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>American-period Central United Methodist Church</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 568,
 				"desc": "<p>San Vicente de Paul Church on San Marcelino Street, Manila</p>\r\n\r\n<p>(Photo courtesy of Mello Villareal)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 567,
+				"desc": "<p>Meralco Building, built in 1936</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+			},
+			{
+				"photo": 566,
 				"desc": "<p>Adamson University, ca 1950</p>\r\n\r\n<p>(Colorized by Kiko del Rosario)</p>\r\n"
+			},
+			{
+				"photo": 565,
+				"desc": "<p>De La Salle College before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 564,
+				"desc": "<p>University of the Philippines along Padre Faura Street, Manila</p>\r\n\r\n<p>(<i>Philippine Picture Post Cards: 1900-1920</i> by Jonathan Best,&nbsp;The Bookmark, Inc, 1994)</p>\r\n"
+			},
+			{
+				"photo": 563,
+				"desc": "<p>American-period Central United Methodist Church</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 562,
+				"desc": "<p>1935 poster showing the prewar Legislative Building, now the National Museum of Fine Arts</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+			},
+			{
+				"photo": 561,
+				"desc": "<p>Manila City Hall, ca 1950</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+			},
+			{
+				"photo": 560,
+				"desc": "<p>Metropolitan Theater, ca 1930</p>\r\n\r\n<p>(Colorized by Bilog Bilugan, John Tewell Collection)</p>\r\n"
+			},
+			{
+				"photo": 559,
+				"desc": "<p>Malate Church, ca 1920</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+			},
+			{
+				"photo": 558,
+				"desc": "<p>Luneta Hotel to the left and Bayview Hotel to the right before World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+			},
+			{
+				"photo": 557,
+				"desc": "<p>Elks Club at the foreground and Army and Navy Club at the background before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+			},
+			{
+				"photo": 555,
+				"desc": "<p>Agrifina Circle between the former Agriculture and Finance Buildings</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -3964,60 +3875,60 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>De La Salle College before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Elks Club at the foreground and Army and Navy Club at the background before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Malate Church, ca 1920</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Metropolitan Theater, ca 1930</p>\r\n\r\n<p>(Colorized by Bilog Bilugan, John Tewell Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Manila City Hall, ca 1950</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>1935 poster showing the prewar Legislative Building, now the National Museum of Fine Arts</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>University of the Philippines along Padre Faura Street, Manila</p>\r\n\r\n<p>(<i>Philippine Picture Post Cards: 1900-1920</i> by Jonathan Best,&nbsp;The Bookmark, Inc, 1994)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Agrifina Circle between the former Agriculture and Finance Buildings</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 556,
 						"desc": "<p>The Luneta, 1901</p>\r\n\r\n<p>(Library of Congress Prints and Photographs Division)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Meralco Building, built in 1936</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Luneta Hotel to the left and Bayview Hotel to the right before World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>American-period Central United Methodist Church</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 568,
 						"desc": "<p>San Vicente de Paul Church on San Marcelino Street, Manila</p>\r\n\r\n<p>(Photo courtesy of Mello Villareal)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 567,
+						"desc": "<p>Meralco Building, built in 1936</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 566,
 						"desc": "<p>Adamson University, ca 1950</p>\r\n\r\n<p>(Colorized by Kiko del Rosario)</p>\r\n"
+					},
+					{
+						"photo": 565,
+						"desc": "<p>De La Salle College before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 564,
+						"desc": "<p>University of the Philippines along Padre Faura Street, Manila</p>\r\n\r\n<p>(<i>Philippine Picture Post Cards: 1900-1920</i> by Jonathan Best,&nbsp;The Bookmark, Inc, 1994)</p>\r\n"
+					},
+					{
+						"photo": 563,
+						"desc": "<p>American-period Central United Methodist Church</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 562,
+						"desc": "<p>1935 poster showing the prewar Legislative Building, now the National Museum of Fine Arts</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 561,
+						"desc": "<p>Manila City Hall, ca 1950</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 560,
+						"desc": "<p>Metropolitan Theater, ca 1930</p>\r\n\r\n<p>(Colorized by Bilog Bilugan, John Tewell Collection)</p>\r\n"
+					},
+					{
+						"photo": 559,
+						"desc": "<p>Malate Church, ca 1920</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 558,
+						"desc": "<p>Luneta Hotel to the left and Bayview Hotel to the right before World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 557,
+						"desc": "<p>Elks Club at the foreground and Army and Navy Club at the background before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 555,
+						"desc": "<p>Agrifina Circle between the former Agriculture and Finance Buildings</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
 					}
 				]
 			},
@@ -4081,60 +3992,60 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>De La Salle College before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Elks Club at the foreground and Army and Navy Club at the background before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Malate Church, ca 1920</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Metropolitan Theater, ca 1930</p>\r\n\r\n<p>(Colorized by Bilog Bilugan, John Tewell Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Manila City Hall, ca 1950</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>1935 poster showing the prewar Legislative Building, now the National Museum of Fine Arts</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>University of the Philippines along Padre Faura Street, Manila</p>\r\n\r\n<p>(<i>Philippine Picture Post Cards: 1900-1920</i> by Jonathan Best,&nbsp;The Bookmark, Inc, 1994)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Agrifina Circle between the former Agriculture and Finance Buildings</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 556,
 						"desc": "<p>The Luneta, 1901</p>\r\n\r\n<p>(Library of Congress Prints and Photographs Division)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Meralco Building, built in 1936</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Luneta Hotel to the left and Bayview Hotel to the right before World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>American-period Central United Methodist Church</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 568,
 						"desc": "<p>San Vicente de Paul Church on San Marcelino Street, Manila</p>\r\n\r\n<p>(Photo courtesy of Mello Villareal)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 567,
+						"desc": "<p>Meralco Building, built in 1936</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 566,
 						"desc": "<p>Adamson University, ca 1950</p>\r\n\r\n<p>(Colorized by Kiko del Rosario)</p>\r\n"
+					},
+					{
+						"photo": 565,
+						"desc": "<p>De La Salle College before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 564,
+						"desc": "<p>University of the Philippines along Padre Faura Street, Manila</p>\r\n\r\n<p>(<i>Philippine Picture Post Cards: 1900-1920</i> by Jonathan Best,&nbsp;The Bookmark, Inc, 1994)</p>\r\n"
+					},
+					{
+						"photo": 563,
+						"desc": "<p>American-period Central United Methodist Church</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 562,
+						"desc": "<p>1935 poster showing the prewar Legislative Building, now the National Museum of Fine Arts</p>\r\n\r\n<p>(Nicanor G. Tiongson Collection)</p>\r\n"
+					},
+					{
+						"photo": 561,
+						"desc": "<p>Manila City Hall, ca 1950</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 560,
+						"desc": "<p>Metropolitan Theater, ca 1930</p>\r\n\r\n<p>(Colorized by Bilog Bilugan, John Tewell Collection)</p>\r\n"
+					},
+					{
+						"photo": 559,
+						"desc": "<p>Malate Church, ca 1920</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 558,
+						"desc": "<p>Luneta Hotel to the left and Bayview Hotel to the right before World War II</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 557,
+						"desc": "<p>Elks Club at the foreground and Army and Navy Club at the background before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+					},
+					{
+						"photo": 555,
+						"desc": "<p>Agrifina Circle between the former Agriculture and Finance Buildings</p>\r\n\r\n<p>(John Tewell Collection)</p>\r\n"
 					}
 				]
 			},
@@ -4174,8 +4085,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>De La Salle College before World War II</p>\r\n\r\n<p>(Leo Cloma Collection)</p>\r\n"
+						"photo": 556,
+						"desc": "<p>The Luneta, 1901</p>\r\n\r\n<p>(Library of Congress Prints and Photographs Division)</p>\r\n"
 					}
 				]
 			},
@@ -4468,24 +4379,19 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Alcazaren, Paulo, ed. 2013. <i>Parks for a Nation: The Rizal Park and 50 Years of the National Parks Development Committee.</i> Manila: National Parks Development Committee."
+						"source": "Alcazaren, Paulo, ed. 2013. <i>Parks for a Nation: The Rizal Park and 50 Years of the National Parks Development Committee.</i> Manila: National Parks Development Committee."
 					},
 					{
-						"type": "text",
-						"value": "Gopal, Lou. 2014. <i>Manila Nostalgia</i>. Accessed 10 Dec. http://www.lougopal.com/manila/"
+						"source": "Gopal, Lou. 2014. <i>Manila Nostalgia</i>. Accessed 10 Dec. http://www.lougopal.com/manila/"
 					},
 					{
-						"type": "text",
-						"value": "&#x2014;&#x2014;&#x2014;. 2015b. <i>Manila Nostalgia</i>. Accessed Jan 16. http://www.lougopal.com/manila/"
+						"source": "&#x2014;&#x2014;&#x2014;. 2015b. <i>Manila Nostalgia</i>. Accessed Jan 16. http://www.lougopal.com/manila/"
 					},
 					{
-						"type": "text",
-						"value": "Ira, Luning B. 1977. <i>Streets of Manila</i>. Photographs by Nik Ricio. Contributors, Isagani Medina and Nik Ricio. Manila: GCF Books."
+						"source": "Ira, Luning B. 1977. <i>Streets of Manila</i>. Photographs by Nik Ricio. Contributors, Isagani Medina and Nik Ricio. Manila: GCF Books."
 					},
 					{
-						"type": "text",
-						"value": "Lico, Gerard. 2008. <i>Arkitekturang Filipino: A History of Architecture and Urbanism in the Philippines. </i>Quezon City: University of the Philippines Press."
+						"source": "Lico, Gerard. 2008. <i>Arkitekturang Filipino: A History of Architecture and Urbanism in the Philippines. </i>Quezon City: University of the Philippines Press."
 					}
 				]
 			}
@@ -4501,16 +4407,16 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>Puente de Isabel II</p>\r\n\r\n<p>(Government of Tayabas City)</p>\r\n"
+				"photo": 571,
+				"desc": "<p>Puente de Malagonlong&nbsp;</p>\r\n\r\n<p>(Government of Tayabas City)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 569,
 				"desc": "<p>Santuario de las Almas, a mortuary chapel, 2011</p>\r\n\r\n<p>(Joanne Mina)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Puente de Malagonlong&nbsp;</p>\r\n\r\n<p>(Government of Tayabas City)</p>\r\n"
+				"photo": 570,
+				"desc": "<p>Puente de Isabel II</p>\r\n\r\n<p>(Government of Tayabas City)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -4528,8 +4434,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Puente de Isabel II</p>\r\n\r\n<p>(Government of Tayabas City)</p>\r\n"
+						"photo": 571,
+						"desc": "<p>Puente de Malagonlong&nbsp;</p>\r\n\r\n<p>(Government of Tayabas City)</p>\r\n"
 					}
 				]
 			},
@@ -4589,7 +4495,7 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
+						"photo": 569,
 						"desc": "<p>Santuario de las Almas, a mortuary chapel, 2011</p>\r\n\r\n<p>(Joanne Mina)</p>\r\n"
 					}
 				]
@@ -4638,8 +4544,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Puente de Malagonlong&nbsp;</p>\r\n\r\n<p>(Government of Tayabas City)</p>\r\n"
+						"photo": 570,
+						"desc": "<p>Puente de Isabel II</p>\r\n\r\n<p>(Government of Tayabas City)</p>\r\n"
 					}
 				]
 			},
@@ -4676,52 +4582,40 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Barcelona, Rufino. 1877. &#x201C;Tayabas.&#x201D; Tayabas Varias Provincias No 12. Manuscript. Manila: Philippine National Archives."
+						"source": "Barcelona, Rufino. 1877. &#x201C;Tayabas.&#x201D; Tayabas Varias Provincias No 12. Manuscript. Manila: Philippine National Archives."
 					},
 					{
-						"type": "text",
-						"value": "De Huerta, Felix. (1855) 1865. <i>Estado Geografico, Topografico, Estadistico, Historico-Religioso de la Santa y Apostolica Provincia de S. Gregorio Magno</i>. Manila: Imprenta de los Amigos del Pais. Reprint, Binondo: Imprenta de M. S&#xE1;nchez y C&#xAA;."
+						"source": "De Huerta, Felix. (1855) 1865. <i>Estado Geografico, Topografico, Estadistico, Historico-Religioso de la Santa y Apostolica Provincia de S. Gregorio Magno</i>. Manila: Imprenta de los Amigos del Pais. Reprint, Binondo: Imprenta de M. S&#xE1;nchez y C&#xAA;."
 					},
 					{
-						"type": "text",
-						"value": "De San Antonio, Melchor, OFM. 1743. <i>Breve y veridica relacion del lastimoso Estrago, que hicieron los Terremotos y Temblores; en las Iglesias, y Conventos, que estan en las faldas de los Montes de Saryaya, Tayabas, Lucban, Mahayhay, Lilio, y Nagcarlan, el dia 12. de Henero de este a&#xF1;o de 1743 entre las cinco, y seis horas de la tarde, en estas Islas Philipinas</i>. Manila."
+						"source": "De San Antonio, Melchor, OFM. 1743. <i>Breve y veridica relacion del lastimoso Estrago, que hicieron los Terremotos y Temblores; en las Iglesias, y Conventos, que estan en las faldas de los Montes de Saryaya, Tayabas, Lucban, Mahayhay, Lilio, y Nagcarlan, el dia 12. de Henero de este a&#xF1;o de 1743 entre las cinco, y seis horas de la tarde, en estas Islas Philipinas</i>. Manila."
 					},
 					{
-						"type": "text",
-						"value": "Guerra, Juan Alvarez. 1887. <i>De Manila a Tayabas</i>. Segunda Edicion. Madrid: Imprenta de Fortanet."
+						"source": "Guerra, Juan Alvarez. 1887. <i>De Manila a Tayabas</i>. Segunda Edicion. Madrid: Imprenta de Fortanet."
 					},
 					{
-						"type": "text",
-						"value": "&#x201C;Kasaysayan ng Lalawigan ng Tayabas.&#x201D; MS, n.d."
+						"source": "&#x201C;Kasaysayan ng Lalawigan ng Tayabas.&#x201D; MS, n.d."
 					},
 					{
-						"type": "text",
-						"value": "Mallat, Jean. 1994. <i>The Philippines: History, Geography, Customs, Agriculture, Industry, and Commerce of the Spanish Colonies in Oceania 1808-1863</i>. Manila: National Historical Institute."
+						"source": "Mallat, Jean. 1994. <i>The Philippines: History, Geography, Customs, Agriculture, Industry, and Commerce of the Spanish Colonies in Oceania 1808-1863</i>. Manila: National Historical Institute."
 					},
 					{
-						"type": "text",
-						"value": "&#x201C;Minuta de los Que Gobernaron en el Municipio de Tayabas Provincia de Tayabas, Desde su Fundacion del a&#xF1;o 1620 hasta la Fecha.&#x201D; MS, n.d."
+						"source": "&#x201C;Minuta de los Que Gobernaron en el Municipio de Tayabas Provincia de Tayabas, Desde su Fundacion del a&#xF1;o 1620 hasta la Fecha.&#x201D; MS, n.d."
 					},
 					{
-						"type": "text",
-						"value": "&#x201C;Petsa ng mga Mahahalagang Pangyayari dito sa Tayabas buhat ng Magsimula ang Digmaan.&#x201D; n.d. Manuscript."
+						"source": "&#x201C;Petsa ng mga Mahahalagang Pangyayari dito sa Tayabas buhat ng Magsimula ang Digmaan.&#x201D; n.d. Manuscript."
 					},
 					{
-						"type": "text",
-						"value": "Ponce, Mariano, and Jaime C. de Veyra. 1998. <i>Eferemides Filipinas</i>. Translated by Edgardo M. Tiamson, Teresita A. Alcantara, and Erwin Bautista. Quezon City: Office of Research Coordination, University of the Philippines."
+						"source": "Ponce, Mariano, and Jaime C. de Veyra. 1998. <i>Eferemides Filipinas</i>. Translated by Edgardo M. Tiamson, Teresita A. Alcantara, and Erwin Bautista. Quezon City: Office of Research Coordination, University of the Philippines."
 					},
 					{
-						"type": "text",
-						"value": "Ramos, Elsie. 1992. &#x201C;Tayabas: 1571-1907.&#x201D; Undergraduate thesis. Quezon City: University of the Philippines Department of History."
+						"source": "Ramos, Elsie. 1992. &#x201C;Tayabas: 1571-1907.&#x201D; Undergraduate thesis. Quezon City: University of the Philippines Department of History."
 					},
 					{
-						"type": "text",
-						"value": "Robles, Eliodoro. 1969. <i>The Philippines in the 19th Century</i>.<i> </i>Quezon City: Malaya Books Inc."
+						"source": "Robles, Eliodoro. 1969. <i>The Philippines in the 19th Century</i>.<i> </i>Quezon City: Malaya Books Inc."
 					},
 					{
-						"type": "text",
-						"value": "Zaragoza, Ramon Ma. 1994. <i>Lost Era</i>. Makati: Ramaza Publishing."
+						"source": "Zaragoza, Ramon Ma. 1994. <i>Lost Era</i>. Makati: Ramaza Publishing."
 					}
 				]
 			}
@@ -4737,36 +4631,36 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
-				"desc": "<p>Syquia Mansion in Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Interior of the Ilocos Sur Provincial Jail, adjoining the house of Fr Burgos, now a branch of the National Museum, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Plaza Salcedo, with Salcedo Obelisk, fountain, and Vigan Cathedral, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 578,
 				"desc": "<p>Crisologo House in Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Facade of the Simbaan a Bassit, a mortuary chapel with <i>espada&ntilde;a</i> belfry, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
+				"photo": 572,
+				"desc": "<p>Calle Crisologo at Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Department of Tourism)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 573,
 				"desc": "<p>Plaza Burgos, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 574,
+				"desc": "<p>Plaza Salcedo, with Salcedo Obelisk, fountain, and Vigan Cathedral, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
+			},
+			{
+				"photo": 575,
+				"desc": "<p>Interior of the Ilocos Sur Provincial Jail, adjoining the house of Fr Burgos, now a branch of the National Museum, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
+			},
+			{
+				"photo": 576,
 				"desc": "<p>Ancestral house of Fr Jose Burgos, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Calle Crisologo at Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Department of Tourism)</p>\r\n"
+				"photo": 577,
+				"desc": "<p>Syquia Mansion in Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
+			},
+			{
+				"photo": 579,
+				"desc": "<p>Facade of the Simbaan a Bassit, a mortuary chapel with <i>espada&ntilde;a</i> belfry, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -4788,36 +4682,36 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Syquia Mansion in Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Interior of the Ilocos Sur Provincial Jail, adjoining the house of Fr Burgos, now a branch of the National Museum, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Plaza Salcedo, with Salcedo Obelisk, fountain, and Vigan Cathedral, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 578,
 						"desc": "<p>Crisologo House in Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Facade of the Simbaan a Bassit, a mortuary chapel with <i>espada&ntilde;a</i> belfry, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
+						"photo": 572,
+						"desc": "<p>Calle Crisologo at Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Department of Tourism)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 573,
 						"desc": "<p>Plaza Burgos, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 574,
+						"desc": "<p>Plaza Salcedo, with Salcedo Obelisk, fountain, and Vigan Cathedral, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
+					},
+					{
+						"photo": 575,
+						"desc": "<p>Interior of the Ilocos Sur Provincial Jail, adjoining the house of Fr Burgos, now a branch of the National Museum, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
+					},
+					{
+						"photo": 576,
 						"desc": "<p>Ancestral house of Fr Jose Burgos, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Calle Crisologo at Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Department of Tourism)</p>\r\n"
+						"photo": 577,
+						"desc": "<p>Syquia Mansion in Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
+					},
+					{
+						"photo": 579,
+						"desc": "<p>Facade of the Simbaan a Bassit, a mortuary chapel with <i>espada&ntilde;a</i> belfry, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
 					}
 				]
 			},
@@ -4857,8 +4751,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Syquia Mansion in Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
+						"photo": 578,
+						"desc": "<p>Crisologo House in Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
 					}
 				]
 			},
@@ -4970,8 +4864,8 @@
 				"type": "photo_holder",
 				"value": [
 					{
-						"photo": null,
-						"desc": "<p>Interior of the Ilocos Sur Provincial Jail, adjoining the house of Fr Burgos, now a branch of the National Museum, 2016</p>\r\n\r\n<p>(Photo by Jesse Alegre, Government of Vigan City)</p>\r\n"
+						"photo": 572,
+						"desc": "<p>Calle Crisologo at Vigan&rsquo;s Mestizo district, 2016</p>\r\n\r\n<p>(Department of Tourism)</p>\r\n"
 					}
 				]
 			},
@@ -5000,12 +4894,10 @@
 				"type": "sources",
 				"value": [
 					{
-						"type": "text",
-						"value": "Reyes, Elizabeth V., and Luca Tettoni. 2013.<b> </b><i>Philippine Style: Design and Architecture. </i>Mandaluyong City: Anvil Publishing."
+						"source": "Reyes, Elizabeth V., and Luca Tettoni. 2013.<b> </b><i>Philippine Style: Design and Architecture. </i>Mandaluyong City: Anvil Publishing."
 					},
 					{
-						"type": "text",
-						"value": "UNESCO World Heritage Centre. 2014. &#x201C;Historic City of Vigan.&#x201D; Accessed 10 July. http://whc.unesco.org/en/list/502"
+						"source": "UNESCO World Heritage Centre. 2014. &#x201C;Historic City of Vigan.&#x201D; Accessed 10 July. http://whc.unesco.org/en/list/502"
 					}
 				]
 			}
@@ -5021,24 +4913,24 @@
 		"subsection_name": "Heritage Areas",
 		"photos": [
 			{
-				"photo": null,
+				"photo": 583,
 				"desc": "<p>Don Francisco Barrios residence, built in the 1860s, now Bank of the Philippine Islands Zamboanga main office, 2017</p>\r\n\r\n<p>(Eduardo Flores Jr)</p>\r\n"
 			},
 			{
-				"photo": null,
-				"desc": "<p>Plaza Rizal fronting the Zamboanga City Hall, 2015</p>\r\n\r\n<p>(Jeffrey Pioquinto)</p>\r\n"
-			},
-			{
-				"photo": null,
-				"desc": "<p>Relief of Nuestra Se&ntilde;ora del Pilar</p>\r\n\r\n<p>(Wikimedia Commons)</p>\r\n"
-			},
-			{
-				"photo": null,
+				"photo": 581,
 				"desc": "<p>Outer walls of Fort Pilar</p>\r\n\r\n<p>(Wikimedia Commons)</p>\r\n"
 			},
 			{
-				"photo": null,
+				"photo": 580,
+				"desc": "<p>Plaza Rizal fronting the Zamboanga City Hall, 2015</p>\r\n\r\n<p>(Jeffrey Pioquinto)</p>\r\n"
+			},
+			{
+				"photo": 584,
 				"desc": "<p>Taluksangay Mosque, built by the Nu&ntilde;o family</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+			},
+			{
+				"photo": 582,
+				"desc": "<p>Relief of Nuestra Se&ntilde;ora del Pilar</p>\r\n\r\n<p>(Wikimedia Commons)</p>\r\n"
 			}
 		],
 		"vids": [],
@@ -5060,24 +4952,24 @@
 				"type": "carousel",
 				"value": [
 					{
-						"photo": null,
+						"photo": 583,
 						"desc": "<p>Don Francisco Barrios residence, built in the 1860s, now Bank of the Philippine Islands Zamboanga main office, 2017</p>\r\n\r\n<p>(Eduardo Flores Jr)</p>\r\n"
 					},
 					{
-						"photo": null,
-						"desc": "<p>Plaza Rizal fronting the Zamboanga City Hall, 2015</p>\r\n\r\n<p>(Jeffrey Pioquinto)</p>\r\n"
-					},
-					{
-						"photo": null,
-						"desc": "<p>Relief of Nuestra Se&ntilde;ora del Pilar</p>\r\n\r\n<p>(Wikimedia Commons)</p>\r\n"
-					},
-					{
-						"photo": null,
+						"photo": 581,
 						"desc": "<p>Outer walls of Fort Pilar</p>\r\n\r\n<p>(Wikimedia Commons)</p>\r\n"
 					},
 					{
-						"photo": null,
+						"photo": 580,
+						"desc": "<p>Plaza Rizal fronting the Zamboanga City Hall, 2015</p>\r\n\r\n<p>(Jeffrey Pioquinto)</p>\r\n"
+					},
+					{
+						"photo": 584,
 						"desc": "<p>Taluksangay Mosque, built by the Nu&ntilde;o family</p>\r\n\r\n<p>(CCP Collection)</p>\r\n"
+					},
+					{
+						"photo": 582,
+						"desc": "<p>Relief of Nuestra Se&ntilde;ora del Pilar</p>\r\n\r\n<p>(Wikimedia Commons)</p>\r\n"
 					}
 				]
 			},

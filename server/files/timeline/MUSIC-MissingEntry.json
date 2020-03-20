@@ -1,0 +1,40 @@
+[
+	{
+		"rowLength": 1,
+		"list": [
+			{
+				"timeline_id": 2428,
+				"media_caption": "Musikong bumbong, ca 1910",
+				"show_caption": "FALSE",
+				"media_credit": "Mario Feir Filipiniana Library",
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>For the poor Filipinos, banda de voca or musikong bumbong, an orchestra made up of bamboo instruments imitating the look of European instruments, is an alternative to the western orchestra. It is believed to have been used as tactical tool for dissimulating the clandestine meetings of the Katipunan.</p>",
+				"text_description": "<p>For the poor Filipinos, banda de voca or musikong bumbong, an orchestra made up of bamboo instruments imitating the look of European instruments, is an alternative to the western orchestra. It is believed to have been used as tactical tool for dissimulating the clandestine meetings of the Katipunan.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1892,
+				"end_day": 0,
+				"end_month": 0,
+				"media_url": "Musikong bumbong, ca 1910",
+				"shorten_media": "Musikong bumbong, ca 1910",
+				"display_name": null,
+				"photo_id": 2428,
+				"url": "2428",
+				"article_id": 2428,
+				"photo_name": "Musikong bumbong, ca 1910",
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1892 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			}
+		]
+	}
+]

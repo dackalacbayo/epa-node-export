@@ -1,0 +1,68 @@
+[
+	{
+		"timeline_id": 3976,
+		"media_caption": "<p>Ramon A. Obusan, 2006</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Steve Villaruz</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Dance 1993 Gawad CCP Obusan",
+		"text_description": "<p>Ramon Obusan receives the Gawad CCP Para sa Sining. (Photo from Steve Villaruz)</p>",
+		"category": 1,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 1993,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/timeline/timeline-img/237_ramon.jpg",
+		"shorten_media": "237_ramon",
+		"display_name": null,
+		"photo_id": null,
+		"url": "3976",
+		"article_id": 3976,
+		"photo_name": "237_ramon",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 1993 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	},
+	{
+		"timeline_id": 3981,
+		"media_caption": "<p>Ramon A. Obusan, 2006</p>",
+		"show_caption": "FALSE",
+		"media_credit": "<p>Photo from Steve Villaruz</p>",
+		"show_credit": "FALSE",
+		"text_headline": null,
+		"article_title": "Dance 2006 National Artist Obusan",
+		"text_description": "<p>Ramon A. Obusan is proclained National Artist for Dance. (Photo from Steve Villaruz)</p>",
+		"category": 1,
+		"start_month": 0,
+		"start_day": 0,
+		"start_year": 2006,
+		"end_day": 0,
+		"end_month": 0,
+		"media_url": "https://dev-epa.info-aid.net/timeline/timeline-img/237_ramon.jpg",
+		"shorten_media": "237_ramon",
+		"display_name": null,
+		"photo_id": null,
+		"url": "3981",
+		"article_id": 3981,
+		"photo_name": "237_ramon",
+		"dates": [
+			{
+				"type": "start_date",
+				"value": { "month": 0, "day": 0, "year": 2006 }
+			},
+			{
+				"type": "end_date",
+				"value": { "month": 0, "day": 0, "year": null }
+			}
+		]
+	}
+]

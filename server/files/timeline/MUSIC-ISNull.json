@@ -1,0 +1,3305 @@
+[
+	{
+		"rowLength": 97,
+		"list": [
+			{
+				"timeline_id": 1072,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": "CEBUANO LOVE SONG",
+				"article_title": "<p>Ben Zubiri composes the most famous Cebuano love song &quot;Matud Nila.&quot;</p>",
+				"text_description": "<p>Ben Zubiri composes the most famous Cebuano love song &quot;Matud Nila.&quot;</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1941,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 1072,
+				"url": "1072",
+				"article_id": 1072,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1941 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 1082,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": "PATATAG",
+				"article_title": "<p>Activist singing group Patatag releases cassette Nagbabagang Lupa.</p>",
+				"text_description": "<p>Activist singing group Patatag releases cassette Nagbabagang Lupa.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1986,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 1082,
+				"url": "1082",
+				"article_id": 1082,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1986 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 1367,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": "Fr. Eliodoro Chico, a Tagalog priest, organizes a band in Gapan, Nueva Ecija.",
+				"article_title": "<p>Fr. Eliodoro Chico, a Tagalog priest, organizes a band in Gapan, Nueva Ecija.</p>",
+				"text_description": "<p>Fr. Eliodoro Chico, a Tagalog priest, organizes a band in Gapan, Nueva Ecija.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1820,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 1367,
+				"url": "1367",
+				"article_id": 1367,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1820 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 1570,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": "Viennese classical traditional style",
+				"article_title": "<p>Franz Joseph Haydn (1732-1809), Wolfgang Amadeus Mozart (1756-1791), and Ludwig van Beethoven (1770-1827) codify the Viennese classical traditional style, particularly influencing the genres of sonata, concerto, and symphony. These genres are later used by Filipino classical composers.</p>",
+				"text_description": "<p>Franz Joseph Haydn (1732-1809), Wolfgang Amadeus Mozart (1756-1791), and Ludwig van Beethoven (1770-1827) codify the Viennese classical traditional style, particularly influencing the genres of sonata, concerto, and symphony. These genres are later used by Filipino classical composers.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1760,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 1570,
+				"url": "1570",
+				"article_id": 1570,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1760 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 1631,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": "The Augustinians organize an orchestra in Guadalupe.",
+				"article_title": "<p>The Augustinians organize an orchestra in Guadalupe.</p>",
+				"text_description": "<p>The Augustinians organize an orchestra in Guadalupe.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1601,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 1631,
+				"url": "1631",
+				"article_id": 1631,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1601 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 1632,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": "The Franciscans in Lumban, Laguna train 400 boys to sing, play, and manufacture musical instruments.",
+				"article_title": "<p>The Franciscans in Lumban, Laguna train 400 boys to sing, play, and manufacture musical instruments.</p>",
+				"text_description": "<p>The Franciscans in Lumban, Laguna train 400 boys to sing, play, and manufacture musical instruments.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1606,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 1632,
+				"url": "1632",
+				"article_id": 1632,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1606 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2403,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Jugar con fuego (Playing with Fire) is performed by Dario Cespedes&rsquo;s group at the Teatro de Novedades in Arroceros, Manila; it is the first Spanish zarzuela performed in the Philippines.</p>",
+				"text_description": "<p>Jugar con fuego (Playing with Fire) is performed by Dario Cespedes&rsquo;s group at the Teatro de Novedades in Arroceros, Manila; it is the first Spanish zarzuela performed in the Philippines.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1879,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2403,
+				"url": "2403",
+				"article_id": 2403,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1879 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 1638,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": "Joed Balsamo composes the music of the Filipino musical Mabining Mandirigma in CCP.",
+				"article_title": "<p>Joed Balsamo composes the music of the Filipino musical Mabining Mandirigma in CCP.</p>",
+				"text_description": "<p>Joed Balsamo composes the music of the Filipino musical Mabining Mandirigma in CCP.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2015,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 1638,
+				"url": "1638",
+				"article_id": 1638,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2015 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 1721,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": "Chino Toledo conducts the Philippine Philharmonic Orchestra for the CCP 40th anniversary.",
+				"article_title": "<p>Chino Toledo conducts the Philippine Philharmonic Orchestra for the CCP 40th anniversary.</p>",
+				"text_description": "<p>Chino Toledo conducts the Philippine Philharmonic Orchestra for the CCP 40th anniversary.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2013,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 1721,
+				"url": "1721",
+				"article_id": 1721,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2013 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 1728,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": "Alaric Riam Yuson (aka Anygma) starts the rap battle known as “FlipTop Battle League” that later becomes the most watched battle on YouTube.",
+				"article_title": "<p>Alaric Riam Yuson (aka Anygma) starts the rap battle known as &ldquo;FlipTop Battle League&rdquo; that later becomes the most watched battle on YouTube.</p>",
+				"text_description": "<p>Alaric Riam Yuson (aka Anygma) starts the rap battle known as &ldquo;FlipTop Battle League&rdquo; that later becomes the most watched battle on YouTube.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2010,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 1728,
+				"url": "1728",
+				"article_id": 1728,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2010 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 1730,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": "NCCA institutes Ani ng Dangal for Filipino musicians winning in international contests",
+				"article_title": "<p>NCCA institutes Ani ng Dangal for Filipino musicians winning in international contests, the first recipient of which is US-based Filipino composer Nilo Alcala.</p>",
+				"text_description": "<p>NCCA institutes Ani ng Dangal for Filipino musicians winning in international contests, the first recipient of which is US-based Filipino composer Nilo Alcala.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2009,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 1730,
+				"url": "1730",
+				"article_id": 1730,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2009 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 1731,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": "Mel Villena organizes the AMP Big Band.",
+				"article_title": "<p>Mel Villena organizes the AMP Big Band.</p>",
+				"text_description": "<p>Mel Villena organizes the AMP Big Band.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2009,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 1731,
+				"url": "1731",
+				"article_id": 1731,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2009 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 1732,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": "Philippine Choral Directors Association (PCDA) is founded.",
+				"article_title": "<p>Philippine Choral Directors Association (PCDA) is founded.</p>",
+				"text_description": "<p>Philippine Choral Directors Association (PCDA) is founded.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2008,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 1732,
+				"url": "1732",
+				"article_id": 1732,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2008 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2382,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Islamic chanting is introduced.</p>",
+				"text_description": "<p>Islamic chanting is introduced.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1400,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2382,
+				"url": "2382",
+				"article_id": 2382,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1400 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2389,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Manila printer Balthasar Giraudier gives a cundiman notation to the Austrian navy aboard Novarra, which Diego C. Perez would later arrange in a medley.</p>",
+				"text_description": "<p>Manila printer Balthasar Giraudier gives a cundiman notation to the Austrian navy aboard Novarra, which Diego C. Perez would later arrange in a medley.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1858,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2389,
+				"url": "2389",
+				"article_id": 2389,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1858 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2390,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Colegio de Ni&ntilde;os Tiples de la Santa Iglesia Catedral is established in Intramuros.</p>",
+				"text_description": "<p>Colegio de Ni&ntilde;os Tiples de la Santa Iglesia Catedral is established in Intramuros.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1742,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2390,
+				"url": "2390",
+				"article_id": 2390,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1742 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2391,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Fr. Eliodoro Chico, a Tagalog priest, organizes a band in Gapan, Nueva Ecija.</p>",
+				"text_description": "<p>Fr. Eliodoro Chico, a Tagalog priest, organizes a band in Gapan, Nueva Ecija.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1820,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2391,
+				"url": "2391",
+				"article_id": 2391,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1820 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2394,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Sociedad de Artes y Oficios is established to promote arts such as drawing, engraving, sculpture, declamation, and vocal and instrumental music.</p>",
+				"text_description": "<p>Sociedad de Artes y Oficios is established to promote arts such as drawing, engraving, sculpture, declamation, and vocal and instrumental music.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1869,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2394,
+				"url": "2394",
+				"article_id": 2394,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1869 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2395,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>&ldquo;La Bella Filipina,&rdquo; a habanera, by Ignacio Massaguer (1846-1906) is printed as sheet music.</p>",
+				"text_description": "<p>&ldquo;La Bella Filipina,&rdquo; a habanera, by Ignacio Massaguer (1846-1906) is printed as sheet music.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1870,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2395,
+				"url": "2395",
+				"article_id": 2395,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1870 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2396,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The Pe&ntilde;aranda Band is founded by Pedro Mercado.</p>",
+				"text_description": "<p>The Pe&ntilde;aranda Band is founded by Pedro Mercado.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1870,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2396,
+				"url": "2396",
+				"article_id": 2396,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1870 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2397,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The first volume of the Manual Cantoral para Uso de las Religiosas de Santa Clara de la Ciudad de Manila, edited by Fr. Pedro Parra (1816-?), is published by Litografia de Oppel.</p>",
+				"text_description": "<p>The first volume of the Manual Cantoral para Uso de las Religiosas de Santa Clara de la Ciudad de Manila, edited by Fr. Pedro Parra (1816-?), is published by Litografia de Oppel.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1871,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2397,
+				"url": "2397",
+				"article_id": 2397,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1871 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2398,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>La Lira Filipina music magazine publishes an international music repertory by Peninsular composers, beginning the age of music print capitalism.</p>",
+				"text_description": "<p>La Lira Filipina music magazine publishes an international music repertory by Peninsular composers, beginning the age of music print capitalism.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1877,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2398,
+				"url": "2398",
+				"article_id": 2398,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1877 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2399,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Liceo Cientifico Artistico-Literario was organized to encourage creative works in music, fine arts, and literature, and to cultivate aesthetic taste.</p>",
+				"text_description": "<p>Liceo Cientifico Artistico-Literario was organized to encourage creative works in music, fine arts, and literature, and to cultivate aesthetic taste.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1877,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2399,
+				"url": "2399",
+				"article_id": 2399,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1877 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2400,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>A violin prodigy and student of Remigio Calahorra, Manuel Luna (1858-1883) begins his studies in the Madrid Conservatory, perhaps the first Filipino to achieve that distinction in the field of conservatory music.</p>",
+				"text_description": "<p>A violin prodigy and student of Remigio Calahorra, Manuel Luna (1858-1883) begins his studies in the Madrid Conservatory, perhaps the first Filipino to achieve that distinction in the field of conservatory music.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1877,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2400,
+				"url": "2400",
+				"article_id": 2400,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1877 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2402,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Filipino musicians begin working abroad for the Shanghai Municipal Band, among others.</p>",
+				"text_description": "<p>Filipino musicians begin working abroad for the Shanghai Municipal Band, among others.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1878,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2402,
+				"url": "2402",
+				"article_id": 2402,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1878 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2404,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Filipino cellist Antonio Garcia (1865-1919) wins a contest in music performance at the Liceo.</p>",
+				"text_description": "<p>Filipino cellist Antonio Garcia (1865-1919) wins a contest in music performance at the Liceo.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1879,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2404,
+				"url": "2404",
+				"article_id": 2404,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1879 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2406,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Jos&eacute; Canseco (1843-1902) wins the first music competition in composition, in celebration of Santa Teresa de Jesus&rsquo;s centenary.</p>",
+				"text_description": "<p>Jos&eacute; Canseco (1843-1902) wins the first music competition in composition, in celebration of Santa Teresa de Jesus&rsquo;s centenary.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1882,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2406,
+				"url": "2406",
+				"article_id": 2406,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1882 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2408,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Emilio Ramirez de Arellano publishes an erudite book on music aesthetics Apuntes para Una Introducci&oacute;n a la Est&eacute;tica y Literatura Musical y Ensayo de un Programa de la Misma Ciencia.</p>",
+				"text_description": "<p>Emilio Ramirez de Arellano publishes an erudite book on music aesthetics Apuntes para Una Introducci&oacute;n a la Est&eacute;tica y Literatura Musical y Ensayo de un Programa de la Misma Ciencia.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1884,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2408,
+				"url": "2408",
+				"article_id": 2408,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1884 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2409,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Manuel Garrido y Rabe organizes the Union Artistico-Musical to improve the general welfare as well as regulate the fees of professional musicians in public events.</p>",
+				"text_description": "<p>Manuel Garrido y Rabe organizes the Union Artistico-Musical to improve the general welfare as well as regulate the fees of professional musicians in public events.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1885,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2409,
+				"url": "2409",
+				"article_id": 2409,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1885 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2410,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Fr. Cipriano Gonzales inspires Ladislao Bonus (1854-1908) to challenge visiting Italian opera troupes by putting up an all-Filipino opera company in Pandacan to perform Donizetti&rsquo;s Lucrecia Borgia in a cockpit.</p>",
+				"text_description": "<p>Fr. Cipriano Gonzales inspires Ladislao Bonus (1854-1908) to challenge visiting Italian opera troupes by putting up an all-Filipino opera company in Pandacan to perform Donizetti&rsquo;s Lucrecia Borgia in a cockpit.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1886,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2410,
+				"url": "2410",
+				"article_id": 2410,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1886 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2411,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Filipino music compositions are exhibited in Madrid, 1887; Barcelona, 1888; and Manila, 1895.</p>",
+				"text_description": "<p>Filipino music compositions are exhibited in Madrid, 1887; Barcelona, 1888; and Manila, 1895.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1887,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2411,
+				"url": "2411",
+				"article_id": 2411,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1887 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2412,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The La Lira music store catalogue of musical works is published by music editor Arturo Saco del Valle (1869-1932), indicating that Manila is now clearly a global market of European music.</p>",
+				"text_description": "<p>The La Lira music store catalogue of musical works is published by music editor Arturo Saco del Valle (1869-1932), indicating that Manila is now clearly a global market of European music.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1887,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2412,
+				"url": "2412",
+				"article_id": 2412,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1887 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2416,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Padre Jose Zamora writes a music theory book in Tagalog: Breve Explicaci&oacute;n de los Principios Elementales de la Musica en Idioma Tagalog, addressing music literacy, which is required of the then blooming music labor market.</p>",
+				"text_description": "<p>Padre Jose Zamora writes a music theory book in Tagalog: Breve Explicaci&oacute;n de los Principios Elementales de la Musica en Idioma Tagalog, addressing music literacy, which is required of the then blooming music labor market.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1888,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2416,
+				"url": "2416",
+				"article_id": 2416,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1888 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2419,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>An early Tagalog sarsuwela Budhing Napahamak by writer Maximino de los Reyes and musician Isidoro Roxas is produced.</p>",
+				"text_description": "<p>An early Tagalog sarsuwela Budhing Napahamak by writer Maximino de los Reyes and musician Isidoro Roxas is produced.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1890,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2419,
+				"url": "2419",
+				"article_id": 2419,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1890 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2421,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Following the footsteps of her teacher Spanish actress Elisea Raguer, Praxedes Fernandez becomes a vedette in the Spanish zarzuela, along with Patrocinio Tagaroma, Venancia Suzara and with actors Jose Carvajal and Nemesio Ratia.</p>",
+				"text_description": "<p>Following the footsteps of her teacher Spanish actress Elisea Raguer, Praxedes Fernandez becomes a vedette in the Spanish zarzuela, along with Patrocinio Tagaroma, Venancia Suzara and with actors Jose Carvajal and Nemesio Ratia.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1891,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2421,
+				"url": "2421",
+				"article_id": 2421,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1891 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2425,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Filemon Sotto&rsquo;s &ldquo;Meditacion&rdquo; for solo piano in classical style wins in the composition contest in celebration of the 3rd centenary of San Juan de la Cruz in San Sebastian.</p>",
+				"text_description": "<p>Filemon Sotto&rsquo;s &ldquo;Meditacion&rdquo; for solo piano in classical style wins in the composition contest in celebration of the 3rd centenary of San Juan de la Cruz in San Sebastian.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1892,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2425,
+				"url": "2425",
+				"article_id": 2425,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1892 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2426,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Hispanic bureaucrat Manuel Walls y Merino publishes La Musica Popular de Filipinas.</p>",
+				"text_description": "<p>Hispanic bureaucrat Manuel Walls y Merino publishes La Musica Popular de Filipinas.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1892,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2426,
+				"url": "2426",
+				"article_id": 2426,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1892 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2427,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Hispanic bureaucrat Manuel Walls y Merino publishes La Musica Popular de Filipinas.</p>",
+				"text_description": "<p>Hispanic bureaucrat Manuel Walls y Merino publishes La Musica Popular de Filipinas.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1892,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2427,
+				"url": "2427",
+				"article_id": 2427,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1892 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2431,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The Rizal Orchestra is founded by Martin Ocampo with Jose Estella as its first director.</p>",
+				"text_description": "<p>The Rizal Orchestra is founded by Martin Ocampo with Jose Estella as its first director.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1898,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2431,
+				"url": "2431",
+				"article_id": 2431,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1898 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2432,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Banda Arevalo, owned by Bonifacio Flores Arevalo (1850-1920) of Quiapo, performs for the Philippine Revolutionary government in Malolos. They also perform for the republic in 1899.</p>",
+				"text_description": "<p>Banda Arevalo, owned by Bonifacio Flores Arevalo (1850-1920) of Quiapo, performs for the Philippine Revolutionary government in Malolos. They also perform for the republic in 1899.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1898,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2432,
+				"url": "2432",
+				"article_id": 2432,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1898 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2434,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Anti-Filipino songs are popularized by the American soldiers.</p>",
+				"text_description": "<p>Anti-Filipino songs are popularized by the American soldiers.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1899,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2434,
+				"url": "2434",
+				"article_id": 2434,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1899 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2435,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Catalino Palisoc&rsquo;s Say Liman ag Naketket Pampinsioan is first staged in Lingayen.</p>",
+				"text_description": "<p>Catalino Palisoc&rsquo;s Say Liman ag Naketket Pampinsioan is first staged in Lingayen.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1900,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2435,
+				"url": "2435",
+				"article_id": 2435,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1900 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2436,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>American songs begin to be taught to Filipino students.</p>",
+				"text_description": "<p>American songs begin to be taught to Filipino students.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1901,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2436,
+				"url": "2436",
+				"article_id": 2436,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1901 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2437,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The Centro Artistico is completed to hold conferences, contests, concerts, and classes in solfeggio, violin and many other instruments, declamation, oratory, gymnastics, fencing, and drawing.</p>",
+				"text_description": "<p>The Centro Artistico is completed to hold conferences, contests, concerts, and classes in solfeggio, violin and many other instruments, declamation, oratory, gymnastics, fencing, and drawing.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1901,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2437,
+				"url": "2437",
+				"article_id": 2437,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1901 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2439,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Mariano Pabalan&rsquo;s Kapampangan sarsuwela Ing Managpe, with music by Amado David, is performed in Bacolor Pampanga.</p>",
+				"text_description": "<p>Mariano Pabalan&rsquo;s Kapampangan sarsuwela Ing Managpe, with music by Amado David, is performed in Bacolor Pampanga.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1901,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2439,
+				"url": "2439",
+				"article_id": 2439,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1901 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2445,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Musicologist Frances Densmore (1867-1957) works on the first recording of Filipino music in Louisiana, USA.</p>",
+				"text_description": "<p>Musicologist Frances Densmore (1867-1957) works on the first recording of Filipino music in Louisiana, USA.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1906,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2445,
+				"url": "2445",
+				"article_id": 2445,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1906 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2447,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The sarsuwela Codigo Municipal by Mena Pecson Crisologo (1844 &ndash; 1927) is performed in Vigan, Ilocos Sur.</p>",
+				"text_description": "<p>The sarsuwela Codigo Municipal by Mena Pecson Crisologo (1844 &ndash; 1927) is performed in Vigan, Ilocos Sur.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1907,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2447,
+				"url": "2447",
+				"article_id": 2447,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1907 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2448,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Nating by Valente Cristobal (1875 &ndash; 1945) is performed in Iloilo City.</p>",
+				"text_description": "<p>Nating by Valente Cristobal (1875 &ndash; 1945) is performed in Iloilo City.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1907,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2448,
+				"url": "2448",
+				"article_id": 2448,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1907 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2449,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Pagkamoot sa Banuang Tinoboan by Asisclo Jimenez (1909&ndash;1961) is completed.</p>",
+				"text_description": "<p>Pagkamoot sa Banuang Tinoboan by Asisclo Jimenez (1909&ndash;1961) is completed.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1907,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2449,
+				"url": "2449",
+				"article_id": 2449,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1907 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2456,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>St. Scholastica&rsquo;s College under Sor Battista Battig begins offering music lessons in its Department of Music; it trains, among many others, Pilar Sala, the mother of pianist Ingrid Sala-Santamaria.</p>",
+				"text_description": "<p>St. Scholastica&rsquo;s College under Sor Battista Battig begins offering music lessons in its Department of Music; it trains, among many others, Pilar Sala, the mother of pianist Ingrid Sala-Santamaria.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1908,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2456,
+				"url": "2456",
+				"article_id": 2456,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1908 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2469,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Workers songs are created and sung in meetings and rallies.</p>",
+				"text_description": "<p>Workers songs are created and sung in meetings and rallies.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1920,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2469,
+				"url": "2469",
+				"article_id": 2469,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1920 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2472,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Nicanor Abelardo (1893-1934) composes Sonata in G Major, the first (Western art) sonata by a Filipino.</p>",
+				"text_description": "<p>Nicanor Abelardo (1893-1934) composes Sonata in G Major, the first (Western art) sonata by a Filipino.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1921,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2472,
+				"url": "2472",
+				"article_id": 2472,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1921 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2473,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Pianist Luis Borromeo records in the United States his own jazz composition &ldquo;My Beloved Philipines,&rdquo; earning him the distinction of being the first Filipino composer to be recognized in the USA. Upon returning to the Philippines in April, Borromeo performed the first of his vod-a-vil (later bodabil) shows held weekly for four years at Manila&rsquo;s Olympic Stadium.</p>",
+				"text_description": "<p>Pianist Luis Borromeo records in the United States his own jazz composition &ldquo;My Beloved Philipines,&rdquo; earning him the distinction of being the first Filipino composer to be recognized in the USA. Upon returning to the Philippines in April, Borromeo performed the first of his vod-a-vil (later bodabil) shows held weekly for four years at Manila&rsquo;s Olympic Stadium.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1921,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2473,
+				"url": "2473",
+				"article_id": 2473,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1921 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2474,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Nicanor Abelardo premieres his Concerto in B-flat minor for Piano and Orchestra, the first complete extant concerto written by a Filipino.</p>",
+				"text_description": "<p>Nicanor Abelardo premieres his Concerto in B-flat minor for Piano and Orchestra, the first complete extant concerto written by a Filipino.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1923,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2474,
+				"url": "2474",
+				"article_id": 2474,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1923 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2476,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Raymundo Ba&ntilde;as (1894-1962) publishes Pilipino Music and Theater, which includes descriptions of indigenous music and musicians in Manila in the 19th and the turn of the 20th centuries.</p>",
+				"text_description": "<p>Raymundo Ba&ntilde;as (1894-1962) publishes Pilipino Music and Theater, which includes descriptions of indigenous music and musicians in Manila in the 19th and the turn of the 20th centuries.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1924,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2476,
+				"url": "2476",
+				"article_id": 2476,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1924 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2544,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The Filipino Bandmasters Association (FIBA) is organized by Hilarion F. Rubio and Mariano Zabat.</p>",
+				"text_description": "<p>The Filipino Bandmasters Association (FIBA) is organized by Hilarion F. Rubio and Mariano Zabat.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1960,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2544,
+				"url": "2544",
+				"article_id": 2544,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1960 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2483,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Jos&eacute; Estella composes the first symphony Filipinas in the Philippines, utilizing folk materials.</p>",
+				"text_description": "<p>Jos&eacute; Estella composes the first symphony Filipinas in the Philippines, utilizing folk materials.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1928,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2483,
+				"url": "2483",
+				"article_id": 2483,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1928 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2484,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Alexander Lippay composes a number of symphonic variations based on local materials.</p>",
+				"text_description": "<p>Alexander Lippay composes a number of symphonic variations based on local materials.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1928,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2484,
+				"url": "2484",
+				"article_id": 2484,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1928 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2488,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>A Choral Art Association is established.</p>",
+				"text_description": "<p>A Choral Art Association is established.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1930,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2488,
+				"url": "2488",
+				"article_id": 2488,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1930 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2491,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Abelardo begins his studies in Chicago Musical College where he is introduced to modernist idioms, composing works such as the Sonata for Violin and Piano, Cinderella (orchestra overture), Sinfonietta (for orchestra).</p>",
+				"text_description": "<p>Abelardo begins his studies in Chicago Musical College where he is introduced to modernist idioms, composing works such as the Sonata for Violin and Piano, Cinderella (orchestra overture), Sinfonietta (for orchestra).</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1931,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2491,
+				"url": "2491",
+				"article_id": 2491,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1931 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2492,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Norberto Romualdez publishes Filipino Musical Instruments and Airs of Long Ago, the earliest compendium of Philippine musical instruments prepared by a Filipino.</p>",
+				"text_description": "<p>Norberto Romualdez publishes Filipino Musical Instruments and Airs of Long Ago, the earliest compendium of Philippine musical instruments prepared by a Filipino.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1932,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2492,
+				"url": "2492",
+				"article_id": 2492,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1932 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2499,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Col Laureano G. Carino founds the AFP General Headquarters Band to popularize original music written by Filipino composers.</p>",
+				"text_description": "<p>Col Laureano G. Carino founds the AFP General Headquarters Band to popularize original music written by Filipino composers.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1937,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2499,
+				"url": "2499",
+				"article_id": 2499,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1937 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2501,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Estella sues Santiago for plagiarism, the first case of legal battle over music as private property; it is later dismissed.</p>",
+				"text_description": "<p>Estella sues Santiago for plagiarism, the first case of legal battle over music as private property; it is later dismissed.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1939,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2501,
+				"url": "2501",
+				"article_id": 2501,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1939 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2503,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Japanese music is performed at the Metropolitan Theater.</p>",
+				"text_description": "<p>Japanese music is performed at the Metropolitan Theater.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1943,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2503,
+				"url": "2503",
+				"article_id": 2503,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1943 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2514,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Protest music of the Hukbalahap circulates among peasants in Central Luzon, including Lino G. Dizon&rsquo;s Pasion ding Talapagobra.</p>",
+				"text_description": "<p>Protest music of the Hukbalahap circulates among peasants in Central Luzon, including Lino G. Dizon&rsquo;s Pasion ding Talapagobra.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1949,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2514,
+				"url": "2514",
+				"article_id": 2514,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1949 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2515,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The record label Villar Records (label of Mabuhay Recording Company, Inc.) is launched by Manuel P. Villar, father of the Philippine recording industry and first president of Record Industry Association of the Philippines (RIAP). In this decade and the next, the company will promote Filipino music, especially the arrangements of Juan Silos Jr.</p>",
+				"text_description": "<p>The record label Villar Records (label of Mabuhay Recording Company, Inc.) is launched by Manuel P. Villar, father of the Philippine recording industry and first president of Record Industry Association of the Philippines (RIAP). In this decade and the next, the company will promote Filipino music, especially the arrangements of Juan Silos Jr.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1950,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2515,
+				"url": "2515",
+				"article_id": 2515,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1950 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2543,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Redentor Romero (1929-2001) founds the National Philharmonic Orchestra (NPO). He also establishes the National Philharmonic Society (NPS) to support the cultural programs of the NPO.</p>",
+				"text_description": "<p>Redentor Romero (1929-2001) founds the National Philharmonic Orchestra (NPO). He also establishes the National Philharmonic Society (NPS) to support the cultural programs of the NPO.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1960,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2543,
+				"url": "2543",
+				"article_id": 2543,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1960 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2524,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The &ldquo;King of Rhumba&rdquo; Xavier Cugat performs in the Philippines, influencing young musicians and the flourishing of cumbanchero, an instrumental group consisting of harmonica, guitar, bongos, maracas, conga drum, and one-stringed bass improvised from an empty army gasoline tank.</p>",
+				"text_description": "<p>The &ldquo;King of Rhumba&rdquo; Xavier Cugat performs in the Philippines, influencing young musicians and the flourishing of cumbanchero, an instrumental group consisting of harmonica, guitar, bongos, maracas, conga drum, and one-stringed bass improvised from an empty army gasoline tank.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1953,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2524,
+				"url": "2524",
+				"article_id": 2524,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1953 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2525,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The National Music Council is organized to answer UNESCO&rsquo;s call for a national music association to better understand world cultures.</p>",
+				"text_description": "<p>The National Music Council is organized to answer UNESCO&rsquo;s call for a national music association to better understand world cultures.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1953,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2525,
+				"url": "2525",
+				"article_id": 2525,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1953 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2539,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Felipe Landa Jocano records a 30-hour version of an inland Panay indigenous epic Hinilawod. E. Arsenio Manuel does the same documentation later for Tulalang and Agyu epics for indigenous groups in Southern Mindanao.</p>",
+				"text_description": "<p>Felipe Landa Jocano records a 30-hour version of an inland Panay indigenous epic Hinilawod. E. Arsenio Manuel does the same documentation later for Tulalang and Agyu epics for indigenous groups in Southern Mindanao.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1956,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2539,
+				"url": "2539",
+				"article_id": 2539,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1956 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2545,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The folk gabbang song &ldquo;Leleng&rdquo; is popularized by the 1960s touring Tausug musician Albani and his Dalling Dalling troop. Max Surban will later compose a text contrafactum to it in Cebuano and releases this as &ldquo;Baleleng&rdquo; in his cassette album of Visayan songs, Madmax Kuno in 1984.</p>",
+				"text_description": "<p>The folk gabbang song &ldquo;Leleng&rdquo; is popularized by the 1960s touring Tausug musician Albani and his Dalling Dalling troop. Max Surban will later compose a text contrafactum to it in Cebuano and releases this as &ldquo;Baleleng&rdquo; in his cassette album of Visayan songs, Madmax Kuno in 1984.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1960,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2545,
+				"url": "2545",
+				"article_id": 2545,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1960 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2546,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Philamlife Auditorium at the United Nations Avenue is built and, existing until 2013, has been notable venue of many classical music events.</p>",
+				"text_description": "<p>Philamlife Auditorium at the United Nations Avenue is built and, existing until 2013, has been notable venue of many classical music events.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1961,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2546,
+				"url": "2546",
+				"article_id": 2546,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1961 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2571,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The Philippine Society for Music Education is founded to advocate the vital role of music education for students.</p>",
+				"text_description": "<p>The Philippine Society for Music Education is founded to advocate the vital role of music education for students.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1971,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2571,
+				"url": "2571",
+				"article_id": 2571,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1971 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2572,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The sarsuwela Ako! by Bayani de Leon (1942-2013) is produced in the Cultural Center of the Philippines.</p>",
+				"text_description": "<p>The sarsuwela Ako! by Bayani de Leon (1942-2013) is produced in the Cultural Center of the Philippines.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1971,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2572,
+				"url": "2572",
+				"article_id": 2572,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1971 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2574,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>To upgrade music education, the Philippine Society for Music Education (PSME) is organized.</p>",
+				"text_description": "<p>To upgrade music education, the Philippine Society for Music Education (PSME) is organized.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1972,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2574,
+				"url": "2574",
+				"article_id": 2574,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1972 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2576,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The Piano Teachers Guild of the Philippines (PTGP) is organized under the auspices of the Philippine Society for Music Education (PSME).</p>",
+				"text_description": "<p>The Piano Teachers Guild of the Philippines (PTGP) is organized under the auspices of the Philippine Society for Music Education (PSME).</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1973,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2576,
+				"url": "2576",
+				"article_id": 2576,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1973 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2580,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Banda Kawayan is established in the Philippine College of Commerce (renamed Polytechnic University of the Philippines) by Siegfredo Calabig with the support of school administrator Gloria Talastas.</p>",
+				"text_description": "<p>Banda Kawayan is established in the Philippine College of Commerce (renamed Polytechnic University of the Philippines) by Siegfredo Calabig with the support of school administrator Gloria Talastas.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1973,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2580,
+				"url": "2580",
+				"article_id": 2580,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1973 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2583,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The Philippine Youth Orchestra (PYO), for young musicians ages 12 to 25, is created by the University of the Philippines (UP) Board of Regents.</p>",
+				"text_description": "<p>The Philippine Youth Orchestra (PYO), for young musicians ages 12 to 25, is created by the University of the Philippines (UP) Board of Regents.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1974,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2583,
+				"url": "2583",
+				"article_id": 2583,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1974 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2585,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The Piano Teachers Guild of the Philippines (PTGP) passes a Code of Ethics for its members, which paves the way for accreditation of piano teachers.</p>",
+				"text_description": "<p>The Piano Teachers Guild of the Philippines (PTGP) passes a Code of Ethics for its members, which paves the way for accreditation of piano teachers.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1975,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2585,
+				"url": "2585",
+				"article_id": 2585,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1975 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2586,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Jovita Fuentes is named National Artist for Music.</p>",
+				"text_description": "<p>Jovita Fuentes is named National Artist for Music.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1976,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2586,
+				"url": "2586",
+				"article_id": 2586,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1976 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2588,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The Popular Music Foundation is organized to promote contemporary compositions and develop Filipino amateur and professional composers and songwriters.</p>",
+				"text_description": "<p>The Popular Music Foundation is organized to promote contemporary compositions and develop Filipino amateur and professional composers and songwriters.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1977,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2588,
+				"url": "2588",
+				"article_id": 2588,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1977 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2590,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Onofre R. Pagsanghan&rsquo;s Sinta wins the FAMAS Best Musical Film in 1977.</p>",
+				"text_description": "<p>Onofre R. Pagsanghan&rsquo;s Sinta wins the FAMAS Best Musical Film in 1977.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1977,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2590,
+				"url": "2590",
+				"article_id": 2590,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1977 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2593,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The San Miguel Corporation initiates &ldquo;Balik Banda,&rdquo; a program to revive and revitalize band music.</p>",
+				"text_description": "<p>The San Miguel Corporation initiates &ldquo;Balik Banda,&rdquo; a program to revive and revitalize band music.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1978,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2593,
+				"url": "2593",
+				"article_id": 2593,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1978 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2594,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The Manila Metropolitan Theater (MET) is reopened with a musical Alamat by Nonong Pedero (?) and Al Santos (b. 1954).</p>",
+				"text_description": "<p>The Manila Metropolitan Theater (MET) is reopened with a musical Alamat by Nonong Pedero (?) and Al Santos (b. 1954).</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1978,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2594,
+				"url": "2594",
+				"article_id": 2594,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1978 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2606,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Music Critics Guild or Samahan ng Mga Manunuri at Manunulat sa Musika ng Pilipinas (SAMMPI) is organized by a group of music writers and reviewers led by Exequiel Molina.</p>",
+				"text_description": "<p>Music Critics Guild or Samahan ng Mga Manunuri at Manunulat sa Musika ng Pilipinas (SAMMPI) is organized by a group of music writers and reviewers led by Exequiel Molina.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1983,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2606,
+				"url": "2606",
+				"article_id": 2606,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1983 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2611,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Manila Chamber Orchestra (MCO), Makati&rsquo;s resident orchestra, holds an inaugural concert at the PCIBank&rsquo;s Francisco Santiago Hall.</p>",
+				"text_description": "<p>Manila Chamber Orchestra (MCO), Makati&rsquo;s resident orchestra, holds an inaugural concert at the PCIBank&rsquo;s Francisco Santiago Hall.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1985,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2611,
+				"url": "2611",
+				"article_id": 2611,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1985 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2612,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Willy Cruz (1947-2017) scores the music of Borlaza&rsquo;s film Bituing Walang Ningning (the Dull Star), which stars Sharon Cuneta. He will compose other pop hits.</p>",
+				"text_description": "<p>Willy Cruz (1947-2017) scores the music of Borlaza&rsquo;s film Bituing Walang Ningning (the Dull Star), which stars Sharon Cuneta. He will compose other pop hits.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1985,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2612,
+				"url": "2612",
+				"article_id": 2612,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1985 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2617,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Schoenberg and Boublil&rsquo;s Miss Saigon in London involves a huge Filipino cast, including Lea Salonga with understudy Monique Wilson, playing the role of Kim. Later, Lea wins the Laurence Olivier Award and the Tony Award in 1991 for &ldquo;best Performance by a Leading Actress in a Musical.&rdquo;</p>",
+				"text_description": "<p>Schoenberg and Boublil&rsquo;s Miss Saigon in London involves a huge Filipino cast, including Lea Salonga with understudy Monique Wilson, playing the role of Kim. Later, Lea wins the Laurence Olivier Award and the Tony Award in 1991 for &ldquo;best Performance by a Leading Actress in a Musical.&rdquo;</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1988,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2617,
+				"url": "2617",
+				"article_id": 2617,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1988 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2622,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The Philippine Association of the Record Industry (PARI) assumes the task of ensuring fair recognition to artists for their album&rsquo;s sales.</p>",
+				"text_description": "<p>The Philippine Association of the Record Industry (PARI) assumes the task of ensuring fair recognition to artists for their album&rsquo;s sales.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1990,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2622,
+				"url": "2622",
+				"article_id": 2622,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1990 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2633,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Community-based Schools of Living Traditions are organized, the first of which is Datu Vic Saway&rsquo;s School of Talaandig Traditions in Bukidnon.</p>",
+				"text_description": "<p>Community-based Schools of Living Traditions are organized, the first of which is Datu Vic Saway&rsquo;s School of Talaandig Traditions in Bukidnon.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1992,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2633,
+				"url": "2633",
+				"article_id": 2633,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1992 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2641,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The first Katha Music Awards ceremony is organized.</p>",
+				"text_description": "<p>The first Katha Music Awards ceremony is organized.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1995,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2641,
+				"url": "2641",
+				"article_id": 2641,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1995 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2644,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Makati Coliseum and Cultural Affairs Office starts annually organizing Kampeon ng Kundiman in Makati city in celebration of the &ldquo;Buwan ng Wika.&rdquo;</p>",
+				"text_description": "<p>Makati Coliseum and Cultural Affairs Office starts annually organizing Kampeon ng Kundiman in Makati city in celebration of the &ldquo;Buwan ng Wika.&rdquo;</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1995,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2644,
+				"url": "2644",
+				"article_id": 2644,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1995 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2651,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Folklorist Damiana Eugenio publishes The Folk Songs volume in her Philippine Folk Literature Series.</p>",
+				"text_description": "<p>Folklorist Damiana Eugenio publishes The Folk Songs volume in her Philippine Folk Literature Series.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1997,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2651,
+				"url": "2651",
+				"article_id": 2651,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1997 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2655,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The second run of Musika Manila, renamed as Asia Song Festival, is held at the AFP Theater within Camp Aguinaldo. The 2nd Prize is awarded to the Philippines&rsquo; Jungee Marcelo&rsquo;s composition, &ldquo;Handle With Care,&rdquo; interpreted by Lani Misalucha, who also receives the Best Interpreter award.</p>",
+				"text_description": "<p>The second run of Musika Manila, renamed as Asia Song Festival, is held at the AFP Theater within Camp Aguinaldo. The 2nd Prize is awarded to the Philippines&rsquo; Jungee Marcelo&rsquo;s composition, &ldquo;Handle With Care,&rdquo; interpreted by Lani Misalucha, who also receives the Best Interpreter award.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1998,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2655,
+				"url": "2655",
+				"article_id": 2655,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1998 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2661,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Benicio Sokkong, Kalinga artist, starts his own school Cordillera Music Tutorial and Research Center in Baguio City.</p>",
+				"text_description": "<p>Benicio Sokkong, Kalinga artist, starts his own school Cordillera Music Tutorial and Research Center in Baguio City.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 1999,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2661,
+				"url": "2661",
+				"article_id": 2661,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 1999 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2663,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>Pinikpikan&rsquo;s album Atas receives a Katha award.</p>",
+				"text_description": "<p>Pinikpikan&rsquo;s album Atas receives a Katha award.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2000,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2663,
+				"url": "2663",
+				"article_id": 2663,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2000 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			},
+			{
+				"timeline_id": 2667,
+				"media_caption": null,
+				"show_caption": "FALSE",
+				"media_credit": null,
+				"show_credit": "FALSE",
+				"text_headline": null,
+				"article_title": "<p>The Jazz Society of the Philippines is launched on March 16.</p>",
+				"text_description": "<p>The Jazz Society of the Philippines is launched on March 16.</p>",
+				"category": "MUSIC",
+				"start_month": 0,
+				"start_day": 0,
+				"start_year": 2003,
+				"end_month": 0,
+				"end_day": 0,
+				"end_year": 0,
+				"media_url": null,
+				"shorten_media": null,
+				"display_name": null,
+				"photo_id": 2667,
+				"url": "2667",
+				"article_id": 2667,
+				"photo_name": null,
+				"dates": [
+					{
+						"type": "start_date",
+						"value": { "month": 0, "day": 0, "year": 2003 }
+					},
+					{
+						"type": "end_date",
+						"value": { "month": 0, "day": 0, "year": null }
+					}
+				]
+			}
+		]
+	}
+]

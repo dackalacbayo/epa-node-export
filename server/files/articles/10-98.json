@@ -1,0 +1,96 @@
+[
+	{
+		"article_id": "25849",
+		"url": "10/98/25849",
+		"article_title": "Digital Team",
+		"publish_year": "",
+		"description": "",
+		"volume_name": "ABOUT",
+		"subsection_name": "Digital Team",
+		"photos": [{ "photo": null, "desc": null }],
+		"vids": [],
+		"text": "<div class=\"position\">Project Director</div>\r\n\r\n<div class=\"staffNames\"><span>Christopher P. Grajo</span></div>\r\n\r\n<div class=\"staffNames\">&nbsp;</div>\r\n\r\n<div class=\"position\">Asst. Project Director</div>\r\n\r\n<div class=\"staffNames\"><span>Christine G. Liquigan</span></div>\r\n\r\n<div class=\"staffNames\">&nbsp;</div>\r\n\r\n<div class=\"position\">Project Coordinator</div>\r\n\r\n<div class=\"staffNames\"><span>Glenn R. Lawas</span></div>\r\n\r\n<div class=\"staffNames\">&nbsp;</div>\r\n\r\n<div class=\"position\">Web Design and Development Engineers</div>\r\n\r\n<div class=\"staffNames\"><span>Joel P. Bermudez</span></div>\r\n\r\n<div class=\"staffNames\"><span>Belman R. Corpuz</span></div>\r\n\r\n<div class=\"staffNames\"><span>Erickson M. Elamparo</span></div>\r\n\r\n<div class=\"staffNames\"><span>Enger S. Dulay</span></div>\r\n\r\n<div class=\"staffNames\">&nbsp;</div>\r\n\r\n<div class=\"position\">Content Consolidators</div>\r\n\r\n<div class=\"staffNames\">Joseph Canisius P. Grajo <i>(Team Leader)</i></div>\r\n\r\n<div class=\"staffNames\"><span>Antuanne Marie P. Ramos</span></div>\r\n\r\n<div class=\"staffNames\"><span>Bonn Jericko P. Ramos</span></div>\r\n\r\n<div class=\"staffNames\"><span>Jasmine Chrism P. Grajo</span></div>\r\n\r\n<div class=\"staffNames\"><span>Jeanne Clarisse P. Grajo</span></div>\r\n\r\n<div class=\"staffNames\">&nbsp;</div>\r\n\r\n<div class=\"staffNames\">Mark Angelo S. Perez <i>(Team Leader)</i></div>\r\n\r\n<div class=\"staffNames\"><span>Robin V. Angoluan</span></div>\r\n\r\n<div class=\"staffNames\"><span>Jancen R. Licup</span></div>\r\n\r\n<div class=\"staffNames\"><span>Reynaldo A. Mellejor</span></div>\r\n\r\n<div class=\"staffNames\"><span>Roland Jay T. Delfin</span></div>\r\n\r\n<div class=\"staffNames\">&nbsp;</div>\r\n\r\n<div class=\"staffNames\">Dante M. Bolos <i>(Team Leader)</i></div>\r\n\r\n<div class=\"staffNames\"><span>Arcelie V. Pablo</span></div>\r\n\r\n<div class=\"staffNames\"><span>Lora Lee L. Bittner</span></div>\r\n\r\n<div class=\"staffNames\"><span>Ronald Bryan O. Tominez</span></div>\r\n\r\n<div class=\"staffNames\"><span>Carla L. Sumalinog</span></div>\r\n\r\n<div class=\"staffNames\">&nbsp;</div>\r\n\r\n<div class=\"position\">Technical Advisers</div>\r\n\r\n<div class=\"staffNames\"><span>Alejo J. Espinosa</span></div>\r\n\r\n<div class=\"staffNames\"><span>Jeanette P. Grajo</span></div>\r\n\r\n<div class=\"staffNames\"><span>Joshua M. Ruizo</span></div>\r\n",
+		"category": 11,
+		"article": [
+			{ "type": "paragraph", "value": "Project Director" },
+			{
+				"type": "paragraph",
+				"value": "<span>Christopher P. Grajo</span>"
+			},
+			{ "type": "paragraph", "value": "Asst. Project Director" },
+			{
+				"type": "paragraph",
+				"value": "<span>Christine G. Liquigan</span>"
+			},
+			{ "type": "paragraph", "value": "Project Coordinator" },
+			{ "type": "paragraph", "value": "<span>Glenn R. Lawas</span>" },
+			{
+				"type": "paragraph",
+				"value": "Web Design and Development Engineers"
+			},
+			{ "type": "paragraph", "value": "<span>Joel P. Bermudez</span>" },
+			{ "type": "paragraph", "value": "<span>Belman R. Corpuz</span>" },
+			{
+				"type": "paragraph",
+				"value": "<span>Erickson M. Elamparo</span>"
+			},
+			{ "type": "paragraph", "value": "<span>Enger S. Dulay</span>" },
+			{ "type": "paragraph", "value": "Content Consolidators" },
+			{
+				"type": "paragraph",
+				"value": "Joseph Canisius P. Grajo <i>(Team Leader)</i>"
+			},
+			{
+				"type": "paragraph",
+				"value": "<span>Antuanne Marie P. Ramos</span>"
+			},
+			{
+				"type": "paragraph",
+				"value": "<span>Bonn Jericko P. Ramos</span>"
+			},
+			{
+				"type": "paragraph",
+				"value": "<span>Jasmine Chrism P. Grajo</span>"
+			},
+			{
+				"type": "paragraph",
+				"value": "<span>Jeanne Clarisse P. Grajo</span>"
+			},
+			{
+				"type": "paragraph",
+				"value": "Mark Angelo S. Perez <i>(Team Leader)</i>"
+			},
+			{ "type": "paragraph", "value": "<span>Robin V. Angoluan</span>" },
+			{ "type": "paragraph", "value": "<span>Jancen R. Licup</span>" },
+			{
+				"type": "paragraph",
+				"value": "<span>Reynaldo A. Mellejor</span>"
+			},
+			{
+				"type": "paragraph",
+				"value": "<span>Roland Jay T. Delfin</span>"
+			},
+			{
+				"type": "paragraph",
+				"value": "Dante M. Bolos <i>(Team Leader)</i>"
+			},
+			{ "type": "paragraph", "value": "<span>Arcelie V. Pablo</span>" },
+			{
+				"type": "paragraph",
+				"value": "<span>Lora Lee L. Bittner</span>"
+			},
+			{
+				"type": "paragraph",
+				"value": "<span>Ronald Bryan O. Tominez</span>"
+			},
+			{ "type": "paragraph", "value": "<span>Carla L. Sumalinog</span>" },
+			{ "type": "paragraph", "value": "Technical Advisers" },
+			{ "type": "paragraph", "value": "<span>Alejo J. Espinosa</span>" },
+			{ "type": "paragraph", "value": "<span>Jeanette P. Grajo</span>" },
+			{ "type": "paragraph", "value": "<span>Joshua M. Ruizo</span>" },
+			{ "type": "author", "value": null },
+			{ "type": "see_also", "value": [] },
+			{ "type": "sources", "value": [] }
+		]
+	}
+]
